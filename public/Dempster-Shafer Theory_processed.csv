@@ -1,0 +1,43 @@
+ID,Author,Title,Year
+PEAPRI,Judea Pearl,Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference,1988
+SHAAMT,Glenn Shafer,A Mathematical Theory of Evidence,1976
+HALRAU,Joseph Y. Halpern,Reasoning About Uncertainty,2003
+HUBFRO,Franz Huber,Formal Representations of Belief,2008
+KYBBAN,Henry E. Kyburg,Bayesian and Non-Bayesian Evidential Updating,1987
+ZARLAV,Elia Zardini,Luminosity and Vagueness,2012
+BENBFA,Salem Benferhat and Alessandro Saffiotti and Philippe Smets,Belief Functions and Default Reasoning,2000
+KYBSB,H. Kyburg and M. Pittarelli,Set-Based Bayesianism,1996
+HARMPR,Stephan Hartmann and Rolf Haenni,Modeling Partially Reliable Information Sources: A General Approach Based on Dempster-Shafer Theory,2006
+SMIREB,Nicholas J. J. Smith,Respecting Evidence: Belief Functions Not Imprecise Probabilities,2022
+DUBKVD,Didier Dubois and Petr H\'{a}jek and Henri Prade,Knowledge-Driven Versus Data-Driven Logics,2000
+ROMCAI,Jan{-}Willem Romeijn,Conditioning and Interpretation Shifts,2012
+PEARWB,Judea Pearl,Reasoning with Belief Functions: An Analysis of Compatibility,1990
+SMIAOB-3,Nicholas J. J. Smith,Acting on Belief Functions,2023
+LIUATD,Weiru Liu,Analyzing the Degree of Conflict Among Belief Functions,2006
+KYBGFW,Henry E. Kyburg,Getting Fancy with Probability,1992
+CHAIDT-2,Jeremy R. Chapman and John L. Crassidis and James Llinas and Barry Smith and David Kasmier,Implementing Dempster-Shafer Theory for Property Similarity in Conceptual Spaces Modeling,2022
+WEIDT,Jonathan Weisberg,Dempster-Shafer Theory,2010
+SHAABI,Glenn Shafer,A Betting Interpretation for Probabilities and Dempster-Shafer Degrees of Belief,2010
+SHEOSR,Prakash P. Shenoy,On Spohn?s Rule for Revision of Beliefs,1991
+PISTMC,Carlotta Piscopo and Mauro Birattari,The Metaphysical Character of the Criticisms Raised Against the Use of Probability for Dealing with Uncertainty in Artificial Intelligence,2008
+FITDFA,Branden Fitelson,Dempster-Shafer Functions as Metalinguistic Probability Functions,manuscript
+HALCAR-2,Joseph Y. Halpern and Riccardo Pucella,Characterizing and Reasoning About Probabilistic and Non-Probabilistic Expectation,2007
+AICCDB,Mikel Aickin,Connecting Dempster?Shafer Belief Functions with Likelihood-Based Inference,2000
+KOMTAR,Jan Komorowski and Lech Polkowski and Andrzej Skowron,Towards a Rough Mereology-Based Logic for Approximate Solution Synthesis. Part,1997
+TSIETI,Elena Tsiporkova and Bernard De Baets and Veselka Boeva,Evidence Theory in Multivalued Models of Modal Logic,2000
+SMETNR,Philippe Smets,The Normative Representation of Quantified Beliefs by Belief Functions,1997
+PEARTC,Judea Pearl,Rejoinder to Comments on ??Reasoning with Belief Functions: An Analysis of Compatibility,1992
+WASCOS,Larry Wasserman,Comments on Shafer's??Perspectives on the Theory and Practice of Belief Functions'',1992
+YAGAIT,R. Yager and M. Fedrizzi and J. Kacprzyk,Advances in the Dempster- Shafer Theory of Evidence,1994
+JAFDMW,J. Y. Jaffray,Decision Making with Belief Functions,1994
+DUBBSP,Didier Dubois,"Belief Structures, Possibility Theory and Decomposable Confidence Measures on Finite Sets",1986
+SMEBFT,Phillippe Smets,Belief Functions: The Disjunctive Rule of Combination and the Generalized Bayesian Theorem,1993
+YAGOTD,Ronald R. Yager,On the Dempster-Shafer Framework and New Combination Rules,1987
+TSIDTF,Elena Tsiporkova and Vesilka Boeva and Bernard De Baets,Dempster-Shafer Theory Framed in Modal Logic,1999
+HARMLI,David Harmanec and George Klir and Zhenyuan Wang,Modal Logic Interpretation of Dempster-Shafer Theory: An Infinite Case,1996
+YAGBFI,Boutheina Ben Yaghlane and Phillippe Smets and Khaled Mellouli,Belief Function Independence: Ii. The Conditional Case,2002
+YAGCAR,Ronald R. Yager,Comparing Approximate Reasoning and Probabilistic Reasoning Using the Dempster-Shafer Framework,2009
+DEMTDC,Arthur Dempster,The Dempster-Shafer Calculus for Statisticians,2008
+DENCAD,Thierry Denoeux,Conjunctive and Disjunctive Combination of Belief Functions Induced by Nondistinct Bodies of Evidence,2008
+SMERMA,Phillippe Smets,Resolving Misunderstandings About Belief Functions,1992
+YAGBFI-2,Boutheina Ben Yaghlane and Phillippe Smets and Khaled Mellouli,Belief Function Independence: I. The Marginal Case,2002

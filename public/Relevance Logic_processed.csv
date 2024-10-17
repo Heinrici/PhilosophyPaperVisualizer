@@ -1,0 +1,661 @@
+ID,Author,Title,Year
+ROUVT,Richard Routley and Val Plumwood and Robert K. Meyer and Ross T. Brady,Relevant Logics and Their Rivals,1982
+ANDETL-2,Alan Ross Anderson and Nuel D. Belnap,"Entailment: The Logic of Relevance and Neccessity, Vol. I",1975
+BERNOT-10,Francesco Berto and Greg Restall,Negation on the Australian Plan,2019
+LEWLFE,David K. Lewis,Logic for Equivocators,1982
+REARLA-3,Stephen Read,Relevant Logic: A Philosophical Examination of Inference,1988
+MARRLA-8,Edwin Mares,Relevant Logic: A Philosophical Interpretation,2004
+JAGTSF,Mark Jago,Truthmaker Semantics for Relevant Logic,2020
+LOGDRA,Shay Allen Logan,Depth Relevance and Hyperformalism,2022
+LOGSDR-2,Shay Allen Logan,Strong Depth Relevance,2021
+DUNRL,Michael Dunn and Greg Restall,Relevance Logic,1983
+STAVAR,Shawn Standefer,Variable-Sharing as Relevance,forthcoming
+BARMEB-2,Sam Baron,Mathematical Explanation by Law,2019
+ANDETL-3,Alan Ross Anderson and Nuel D. Belnap and J. Michael Dunn,"Entailment: The Logic of Relevance and Necessity, Vol. Ii",1992
+FERTTA-7,Thomas Macaulay Ferguson and Shay Allen Logan,Topic Transparency and Variable Sharing in Weak Relevant Logics,forthcoming
+ROUTSO-7,Richard Routley and Robert K. Meyer,The Semantics of Entailment,1973
+BEAOTT-3,Jc Beall and Ross T. Brady and J. Michael Dunn and A. P. Hazen and Edwin D. Mares and Robert K. Meyer and Graham Priest and Greg Restall and David Ripley and John Slaney and Richard Sylvan,On the Ternary Relation and Conditionality,2012
+WALRIA-4,Douglas N. Walton,Relevance in Argumentation,2004
+ROUTSO-3,Richard Routley and Valerie Routley,The Semantics of First Degree Entailment,1972
+CIULBO,Roberto Ciuni and Thomas Macaulay Ferguson and Damian Szmuc,Logics Based on Linear Orders of Contaminating Values,2019
+URQSFR,Alasdair Urquhart,Semantics for Relevant Logics,1972
+LOGDFL,Shay Allen Logan,Deep Fried Logic,2020
+BERPLT,Francesco Berto and Edwin Mares and Koji Tanaka and Francesco Paoli,Paraconsistency: Logic and Applications,2013
+ROUTSO,Richard Routley and Robert K. Meyer,The Semantics of Entailment -- Iii,1972
+ROUTSO-2,Richard Routley and Robert K. Meyer,The Semantics of Entailment Ii,1972
+LOGNOS,Shay Allen Logan,Notes on Stratified Semantics,2019
+SCHRD-2,Gerhard Schurz,Relevant Deduction,1991
+CIURLO,Roberto Ciuni and Damian Szmuc and Thomas Macaulay Ferguson,Relevant Logics Obeying Component Homogeneity,2018
+TANACP-3,Koji Tanaka and Patrick Girard,Against Classical Paraconsistent Metatheory,2023
+LOGRLW,Shay Allen Logan,Relevance Logic,2024
+RESNIR,Greg Restall,Negation in Relevant Logics (How I Stopped Worrying and Learned to Love the Routley Star),1999
+STAAIF-4,Shawn Standefer,Actual Issues for Relevant Logics,2020
+BOBSS,Susanne Bobzien,Stoic Syllogistic,1996
+STATRW,Shawn Standefer,Tracking Reasons with Extensions of Relevant Logics,2019
+FERACI-4,Thomas Macaulay Ferguson,A Computational Interpretation of Conceptivism,2014
+RESIFA,Greg Restall,Information Flow and Relevant Logics,1996
+TANLIW-2,Koji Tanaka,Logically Impossible Worlds,2018
+BEARRQ-2,J. C. Beall and Ross T. Brady and A. P. Hazen and Graham Priest and Greg Restall,Relevant Restricted Quantification,2006
+MARRL,Edwin Mares,Relevance Logic,2008
+FERQMR,Nicholas Ferenz,Quantified Modal Relevant Logics,2023
+ROUTSO-5,Richard Routley and Robert K. Meyer,The Semantics of Entailment,1977
+STAWRJ,Shawn Standefer,Weak Relevant Justification Logics,2023
+GIRPD-2,Patrick Girard and Koji Tanaka,Paraconsistent Dynamics,2016
+BOBSSL,Susanne Bobzien,Stoic Sequent Logic and Proof Theory,2019
+ANDTE,Alan Ross Anderson and Nuel D. Belnap,Tautological Entailments,1962
+GAAPTT,Tore Fjetland \O{}gaard,Paths to Triviality,2016
+STAAIT-16,Shawn Standefer,An Incompleteness Theorem for Modal Relevant Logics,2021
+OMOGFC,Hitoshi Omori and Katsuhiko Sano,Generalizing Functional Completeness in Belnap-Dunn Logic,2015
+TEDNSF,Andrew Tedder and Nicholas Ferenz,Neighbourhood Semantics for Quantified Relevant Logics,2022
+EDWAAS-2,Edwin D. Mares and Robert Goldblatt,An Alternative Semantics for Quantified Relevant Logic,2006
+FERFBC,Thomas Macaulay Ferguson,Faulty Belnap Computers and Subsystems of Fde,2016
+ZACAHB,Richard Zach,Epimorphism Between Fine and Ferguson?s Matrices for Angell?s Ac,2023
+RESSSF,Greg Restall,Simplified Semantics for Relevant Logics (and Some of Their Rivals),1993
+MEYCRL-2,Robert K. Meyer and Richard Routley,Classical Relevant Logics Ii,1974
+STAIIM,Shawn Standefer,Identity in Mares-Goldblatt Models for Quantified Relevant Logic,2021
+SZMASL,Damian E. Szmuc,A Simple Logical Matrix and Sequent Calculus for Parry?s Logic of Analytic Implication,2021
+COPOWA,B. J. Copeland,On When a Semantics is Not a Semantics: Some Reasons for Disliking the Routley-Meyer Semantics for Relevance Logic,1979
+PRISSF,Graham Priest and Richard Sylvan,Simplified Semantics for Basic Relevant Logics,1992
+URQTUO,Alasdair Urquhart,The Undecidability of Entailment and Relevant Implication,1984
+BRANDS,Ross T. Brady,Natural Deduction Systems for Some Quantified Relevant Logics,1984
+AVRACA,Arnon Avron,A Constructive Analysis of Rm,1987
+NUEEAR,Nuel D. Belnap,Entailment and Relevance,1960
+BRASCR-2,Ross T. Brady,Some Concerns Regarding Ternary-Relation Semantics and Truth-Theoretic Semantics in General,2017
+RESFSF,Greg Restall,Four-Valued Semantics for Relevant Logics (and Some of Their Rivals),1995
+MARRL-3,Edwin D. Mares and Robert K. Meyer,Relevant Logics,2001
+FINSFQ,Kit Fine,Semantics for Quantified Relevance Logic,1988
+PAOPVI,Francesco Paoli and Michele Pra Baldi and Damian Szmuc,Pure Variable Inclusion Logics,forthcoming
+MEYCRL-3,R. K. Meyer and Richard Routley,Classical Relevant Logics. I,1973
+JOHRMF,John K. Slaney,Reduced Models for Relevant Logics Without \$\{\texttt{\char92}rm Wi\}\$,1987
+ABETPO,Andrew Aberdein and Stephen Read,The Philosophy of Alternative Logics,2009
+MARRLA,Edwin Mares,Relevant Logic and the Theory of Information,1996
+GAANCR-4,Tore Fjetland \O{}gaard,Non-Boolean Classical Relevant Logics Ii: Classicality Through Truth-Constants,2021
+STEIS,Stephen Schiffer,Intention-Based Semantics,1982
+ALLKMF,Gerard Allwein and J. Michael Dunn,Kripke Models for Linear Logic,1993
+GAABNA,Tore Fjetland \O{}gaard,Boolean Negation and Non-Conservativity Iii: The Ackermann Constant,2021
+SMIRRA,Barry Smith,"Relevance, Relatedness and Restricted Set Theory",1991
+WEIANO-16,Yale Weiss,A Note on the Relevance of Semilattice Relevance Logic,2019
+SEDSEL,Igor Sedl\'{a}r,Substructural Epistemic Logics,2015
+MARGII-3,Edwin D. Mares,General Information in Relevant Logic,2009
+RESRAS,Greg Restall,Relevant and Substructural Logics,manuscript
+JAGRWI,Mark Jago,Recent Work in Relevant Logic,2013
+ANDEV,Alan Ross Anderson and Nuel D. Belnap,Entailment. Vol. 1,1977
+CHUTWT,Alonzo Church,The Weak Theory of Implication,1951
+ROBCOR-2,Robert K. Meyer and J. Michael Dunn and Hugues Leblanc,Completeness of Relevant Quantification Theories,1974
+MEYIMF,Robert Meyer and Chris Mortensen,Inconsistent Models for Relevant Arithmetics,1984
+AVRWIR,Arnon Avron,What is Relevance Logic?,2014
+DEMFFA-2,Fabio De Martin Polo,"Fusion, Fission, and Ackermann?s Truth Constant in Relevant Logics: A Proof-Theoretic Investigation",forthcoming
+MARART-2,Edwin D. Mares and Andr\'e Fuhrmann,A Relevant Theory of Conditionals,1995
+BRADRO,Ross T. Brady,Depth Relevance of Some Paraconsistent Logics,1984
+YANRAR,Eunsuk Yang,R and Relevance Principle Revisited,2013
+FUHMFR,Andr\'e Fuhrmann,Models for Relevant Modal Logics,1990
+GIRBW,Patrick Girard and Zach Weber,Bad Worlds,2015
+DOETFA,Kosta Do\v{s}en,The First Axiomatization of Relevant Logic,1992
+ARNOAI,Arnon Avron,On an Implication Connective of Rm,1986
+ROUTAP,Richard Routley,"The American Plan Completed: Alternative Classical-Style Semantics, Without Stars, for Relevant and Paraconsistent Logics",1984
+SMITRR,Barry Smith,Truthmaker Realism: Response to Gregory,2002
+GAABNA-2,Tore Fjetland \O{}gaard,Boolean Negation and Non-Conservativity I: Relevant Modal Logics,2021
+DUNAKS,J. Michael Dunn,A Kripke-Style Semantics for R-Mingle Using a Binary Accessibility Relation,1976
+THIATI,Paul B. Thistlewaite and Michael A. McRobbie and Robert K. Meyer,Automated Theorem-Proving in Non-Classical Logics,1988
+ELOCTQ,David Elohim,"Correction to ""Correction: Grounding, Conceivability, and the Mind-Body Problem""",manuscript
+LOGFMB,Shay Logan and Francesca Boccuni,Frege Meets Belnap: Basic Law V in a Relevant Logic,forthcoming
+GAABNA-3,Tore Fjetland \O{}gaard,Boolean Negation and Non-Conservativity Ii: The Variable-Sharing Property,2021
+TANMSO-4,Koji Tanaka,"Making Sense of Paraconsistent Logic: The Nature of Logic, Classical Logic and Paraconsistent Logic",2013
+CORSFA,Fabrice Correia,Semantics for Analytic Containment,2004
+MEYCEI,Robert K. Meyer,Conservative Extension in Relevant Implication,1973
+BRATGA,Ross T. Brady,The Gentzenization and Decidability of Rw,1990
+MARSFR,Edwin D. Mares,Semantics for Relevance Logic with Identity,1992
+LOGSFS,Shay Logan,Semantics for Second Order Relevant Logics,forthcoming
+LOGPTS,Shay Allen Logan,Putting the Stars in Their Places,2020
+FRIWRA,Harvey Friedman and Robert K. Meyer,Whither Relevant Arithmetic?,1992
+MEYMAR,Robert K. Meyer and Michael A. McRobbie,Multisets and Relevant Implication I,1982
+ANDCTF,Alan Ross Anderson,Completeness Theorems for the Systems e of Entailment and Eq of Entailment with Quantification,1960
+KRIAPO,Saul A. Kripke,A Proof of Gamma,2022
+LOGHAT,Shay Logan,Hyperdoctrines and the Ontology of Stratified Semantics,2020
+Krouse2024-LEALIT-4,Graham Leach{-}Krouse and Shay Allen Logan and Blane Worley,Logic in the Deep End,2024
+KREQOP-2,Philip Kremer,Quantifying Over Propositions in Relevance Logic: Nonaxiomatisability of Primary Interpretations of $\forall$ \emph{{P}_ and $\exists$ }{P}_,1993
+BRARIA,Ross T. Brady,Relevant Implication and the Case for a Weaker Logic,1996
+SEKAST,Takahiro Seki,A Sahlqvist Theorem for Relevant Modal Logics,2003
+MARTNO-13,Edwin Mares,The Nature of Information: A Relevant Approach,2010
+WORPIT-2,Blane Worley,Proof Invariance,forthcoming
+AVRWRL,Arnon Avron,Whither Relevance Logic?,1992
+REAWIW,Stephen Read,What is Wrong with Disjunctive Syllogism?,1980
+SYLRLA,Richard Sylvan and Ross Brady,Relevant Logics and Their Rivals,1982
+NORDIR-2,J. Norman and R. Sylvan,Directions in Relevant Logic,1989
+GAASFI,Tore Fjetland \O{}gaard,Skolem Functions in Non-Classical Logics,2017
+BRAGAD,Ross T. Brady,Gentzenization and Decidability of Some Contraction-Less Relevant Logics,1991
+MEYWGF,Robert K. Meyer and Steve Giambrone and Ross T. Brady,Where Gamma Fails,1984
+MEYNAF,Robert K. Meyer,"New Axiomatics for Relevant Logics, I",1974
+ANDCTF-2,Alan Ross Anderson,Completeness Theorems for the Systems e of Entailment and Eq of Entailment with Quantification,1960
+NOLROR-3,Daniel Nolan,Reflections on Routley's Ultralogic Program,2018
+AVRREA,Arnon Avron,Relevant Entailment--Semantics and Formal Systems,1984
+FINIFQ,Kit Fine,Incompleteness for Quantified Relevance Logics,1989
+MEYEAR,Robert K. Meyer,Entailment and Relevant Implication,1968
+BRARFT-2,Ethan Brauer,Relevance for the Classical Logician,2020
+BURNRO,John P. Burgess,No Requirement of Relevance,2005
+KRERI,Philip Kremer,Relevant Identity,1999
+FRERWB,James B. Freeman,"Relevance, Warrants, Backing, Inductive Support",1992
+GRDOTL,"Peter G\""{a}rdenfors",On the Logic of Relevance,1978
+MAKPRT-4,David Makinson,Propositional Relevance Through Letter-Sharing,2009
+EDTRL,Edwin Mares and Shawn Standefer,The Relevant Logic e and Some Close Neighbours: A Reinterpretation,2017
+URQFOI,Alasdair Urquhart,Failure of Interpolation in Relevant Logics,1993
+GRDOTL-2,"Peter G\""{a}rdenfors",On the Logic of Relevance,1993
+ROBGTD,Gemma Robles and Jos\'e M. M\'{e}ndez,Generalizing the Depth Relevance Condition: Deep Relevant Logics Not Included in R-Mingle,2014
+STATFE,Shawn Standefer,Trees for E,2018
+MARASS,Edwin D. Mares,A Star-Free Semantics for R,1995
+TENNDA,Neil Tennant,Natural Deduction and Sequent Calculus for Intuitionistic Relevant Logic,1987
+BASNDF,David Basin and Se\'{a}n Matthews and Luca Vigan\`o,Natural Deduction for Non-Classical Logics,1998
+DUNATI,J. Michael Dunn,"A Theorem in 3-Valued Model Theory with Connections to Number Theory, Type Theory, and Relevant Logic",1979
+MARCCM,Edwin D. Mares,Classically Complete Modal Relevant Logics,1993
+TAKGFF,Takahiro Seki,General Frames for Relevant Modal Logics,2003
+PORLFM,Daniele Porello,Logics for Modelling Collective Attitudes,2018
+LOGONS,Shay Logan and Leach{-}Krouse Graham,On Not Saying What We Shouldn't Have to Say,2021
+ROSNND,Ross T. Brady,Normalized Natural Deduction Systems for Some Relevant Logics I: The Logic Dw,2006
+COPTTA,B. J. Copeland,The Trouble Anderson and Belnap Have with Relevance,1980
+CHAAAV,G. Charlwood,An Axiomatic Version of Positive Semilattice Relevance Logic,1981
+MEYMAR-2,Robert K. Meyer and Michael A. McRobbie,Multisets and Relevant Implication Ii,1982
+BRAM-10,Ross T. Brady,Metavaluations,2017
+KOURPP,Teresa Kouri,Restall?s Proof-Theoretic Pluralism and Relevance Logic,2016
+ROBART-9,Gemma Robles and Jos\'e M. M\'{e}ndez,A Routley-Meyer Type Semantics for Relevant Logics Including B R Plus the Disjunctive Syllogism,2010
+BRAFS,Ross Thomas Brady,Free Semantics,2010
+BRENAS,Andrew Brennan,Necessary and Sufficient Conditions,2008
+LOGNAN,Shay Logan,Nondeterministic and Nonconcurrent Computational Semantics for Bb+ and Related Logics,forthcoming
+THOAGO,Morgan Thomas,A Generalization of the Routley-Meyer Semantic Framework,2015
+CALSRU,Michael Calasso and Shay Allen Logan,Stratified Restricted Universals,2023
+GIACAC,Steve Giambrone and Robert K. Meyer,Completeness and Conservative Extension Results for Some Boolean Relevant Logics,1989
+BRAACS-2,Ross T. Brady,A Content Semantics for Quantified Relevant Logics. Ii,1989
+MCRRAT,Michael A. McRobbie and Nuel D. Belnap,Relevant Analytic Tableaux,1979
+ROBARS-3,Gemma Robles,"A Routley?Meyer Semantics for G\""{o}del 3-Valued Logic and its Paraconsistent Counterpart",2013
+JAGDP,Mark Jago,Disjunctive Parts,forthcoming
+SEKTAO,Takahiro Seki,The \ensuremath{\Gamma}-Admissibility of Relevant Modal Logics Ii -- the Method Using Metavaluations,2011
+GAAFHP,Tore Fjetland \O{}gaard,From Hilbert Proofs to Consecutions and Back,2021
+WEIARF-2,Yale Weiss,A Relevant Framework for Barriers to Entailment,forthcoming
+SYLRLA-3,Richard Sylvan and Ross Brady,"Relevant Logics and Their Rivals, Volume Ii",2005
+MARTSC-9,Edwin Mares,The Semantic Completeness of Rk,1992
+BOBLTS-2,Susanne Bobzien,Logic: The Stoics (Part Two),1999
+BATADC,Diderik Batens,A Dynamic Characterization of the Pure Logic of Relevant Implication,2001
+ROBTND,Gemma Robles and Jos\'e M. M\'{e}ndez,The Non-Relevant de Morgan Minimal Logic in Routley-Meyer Semantics with No Designated Points,2014
+MNDTCO,Jos\'e M. M\'{e}ndez,The Compatibility of Relevance and Mingle,1988
+GOLAAS-8,Robert Goldblatt and Michael Kane,An Admissible Semantics for Propositionally Quantified Relevant Logics,2010
+GAAFTS,Tore Fjetland \O{}gaard,Farewell to Suppression-Freedom,2020
+BRANIM,Ross Brady,Negation in Metacomplete Relevant Logics,2008
+ROUNAC,Richard Routley Val Routley and Richard Sylvan and Richard Routley,Negation and Contradiction,1985
+SEKSMR,Takahiro Seki,Some Metacomplete Relevant Modal Logics,2013
+LVYOAS,Azriel L\'{e}vy,On Ackermann's Set Theory,1959
+CHRTVO,Chris Mortensen,The Validity of Disjunctive Syllogism is Not so Easily Proved,1983
+GABETC,Dov M. Gabbay and Ruy J. G. B. de Queiroz,"Extending the Curry-Howard Interpretation to Linear, Relevant and Other Resource Logics",1992
+JOHASC,John K. Slaney and Robert K. Meyer,A Structurally Complete Fragment of Relevant Logic,1992
+BRAACS,Ross T. Brady,A Content Semantics for Quantified Relevant Logics. I,1988
+MEYSOE,Robert K. Meyer and Edwin D. Mares,Semantics of Entailment,1993
+WATRLB,C. Kenneth Waters,Relevance Logic Brings Hope to Hypothetico-Deductivism,1987
+RESOPI,Greg Restall and Tony Roy,On Permutation in Simplified Semantics,2009
+MARFSF,Edwin D. Mares,?Four-Valued? Semantics for the Relevant Logic R,2004
+GAACE,Tore Fjetland \O{}gaard,Confused Entailment,2021
+AVRRAP,Arnon Avron,Relevance and Paraconsistency--a New Approach,1990
+DUNRRA,J. Michael Dunn,Relevant Robinson's Arithmetic,1979
+ORLRPS,Ewa Orlowska,Relational Proof System for Relevant Logics,1992
+BLOFOR-2,W. J. Blok and J. G. Raftery,Fragments of R-Mingle,2004
+BRARIR-2,Ross T. Brady,Rules in Relevant Logic -- Ii: Formula Representation,1993
+KREDRP,Philip Kremer,"Dunn?s Relevant Predication, Real Properties and Identity",1997
+BRAHSF,Ross T. Brady,Hierarchical Semantics for Relevant Logics,1992
+PORACV-2,Daniele Porello and Claudio Masolo,A Cognitive View of Relevant Implication,2015
+Gonzalez2021-ESTVSI,Luis Estrada{-}Gonz\'{a}lez and Claudia Luc\'{i}a Tan\'{u}s{-}Pimentel,Variable Sharing in Connexive Logic,2021
+BEAATR,Jc Beall,Adding to Relevant Restricted Quantification,2011
+BADTRF-2,Guillermo Badia,The Relevant Fragment of First Order Logic,2016
+MADRLA,Roger D. Maddux,Relevance Logic and the Calculus of Relations,2010
+RICOIT,Richard Sylvan,On Interpreting Truth Tables and Relevant Truth Table Logic,1992
+CHORSN,Samir Chopra and Konstantinos Georgatos and Rohit Parikh,Relevance Sensitive Non-Monotonic Inference on Belief Sequences,2001
+LANTCO-26,Mark Lance,Two Concepts of Entailment,1995
+ROURLA-3,Richard Routley and Robert K. Meyer and Val Plumwood and Ross T. Brady,Relevant Logics and Their Rivals: Part 1. The Basic Philosophical and Semantical Theory,1988
+SEKHCF,Takahiro Seki,Halld\'{e}n Completeness for Relevant Modal Logics,2015
+DIATIT,M. Richard Diaz,Topics in the Logic of Relevance,1981
+ROBARS,Gemma Robles and Jos\'e M. M\'{e}ndez,A Routley-Meyer Semantics for Relevant Logics Including Twr Plus the Disjunctive Syllogism,2011
+MENAAB-2,J. Mendez and F. Salto and G. Robles,Anderson and Belnap's Minimal Positive Logic with Minimal Negation,2002
+BORLOF,Stefano Borgo and Daniele Porello and Nicolas Troquard,Logical Operators for Ontological Modeling,2014
+SEKTAO-3,Takahiro Seki,The \ensuremath{\Gamma}-Admissibility of Relevant Modal Logics I -- the Method of Normal Models,2011
+WEIACF-4,Yale Weiss,A Characteristic Frame for Positive Intuitionistic and Relevance Logic,2020
+GOBNFE,Lou Goble,Neighborhoods for Entailment,2003
+HARPAB-3,W. D. Hart,Prior and Belnap,1982
+MARWWN,Edwin D. Mares,Why We Need a Relevant Theory of Conditionals,1994
+BENFS,Ermanno Bencivenga,Free Semantics,1981
+MACLAP,John Mackie,Logic and Professor Anderson,1951
+TENFCA,Neil Tennant,Frege's Content-Principle and Relevant Deducibility,2003
+SLATOF,John Slaney and Edward Walker,The One-Variable Fragment of T$\rightarrow$,2014
+MEYTRA,Robert K. Meyer,Ternary Relations and Relevant Semantics,2004
+BRAARA-9,Ross T. Brady,A Routley-Meyer Affixing Style Semantics for Logics Containing Aristotle's Thesis,1989
+ANDAII,Alan Ross Anderson,An Intensional Interpretation of Truth-Values,1972
+BELACC,Nuel D. Belnap and Anil Gupta and J. Michael Dunn,A Consecutive Calculus for Positive Relevant Implication with Necessity,1980
+LEWSE,C. Lewy and J. Watling and P. T. Geach,Symposium: Entailment,1958
+CLAMIA-3,Claro R. Ceniza,Material Implication and Entailment,1988
+ABELFD,Andrew Aberdein,Logic for Dogs,2008
+MAKRVD,David Makinson,Relevance Via Decomposition,2017
+ROBAOA-2,Gemma Robles,Admissibility of Ackermann's Rule \ensuremath{\Delta} in Relevant Logics,2013
+BIMRLA,Katalin Bimb\'o and J. Michael Dunn and Roger D. Maddux,Relevance Logics and Relation Algebras,2009
+GOLCOH,Robert Goldblatt,Conservativity of Heyting Implication Over Relevant Quantification,2009
+MARBCE-3,Edwin D. Mares and Koji Tanaka,Boolean Conservative Extension Results for Some Modal Relevant Logics,2011
+BRATRO-21,R. B. Braithwaite and Bertrade Russell and Friedrich Waismann,The Relevance of Psychology to Logic,1938
+MNDARS,Jos\'e M. M\'{e}ndez,A Routley-Meyer Semantics for Converse Ackermann Property,1987
+KASSIL,Ryo Kashima and Norihiro Kamide,Substructural Implicational Logics Including the Relevant Logic E,1999
+WOOOAA,John Woods,On Arguing About Entailment,1965
+BRASDP,Ross Brady,Semantic Decision Procedures for Some Relevant Logics,2003
+ONIUNI,Takuro Onishi,Understanding Negation Implicationally in the Relevant Logic R,2016
+BRAGOR,Ross T. Brady,Gentzenizations of Relevant Logics Without Distribution. I,1996
+WOOAR-4,John Woods,Apocalyptic Relevance,1992
+GEOOAR,G. N. Georgacarakos,Orthomodularity and Relevance,1979
+JOHCDA,John Woods and Douglas Walton,Circular Demonstration and von Wright-Geach Entailment,1979
+SEKAAP,Takahiro Seki,An Algebraic Proof of the Admissibility of \ensuremath{\Gamma} in Relevant Modal Logics,2012
+MEYAFT-3,Robert K. Meyer,A Farewell to Entailment,1985
+KROGFO,Aleksandar Kron,Gentzen Formulations of Two Positive Relevance Logics,1980
+ILIACP,Mirjana Ili\'c,A Cut-Elimination Proof in Positive Relevant Logic with Necessity,2020
+BRAGOR-2,Ross T. Brady,Gentzenizations of Relevant Logics Without Distribution. Ii,1996
+SWITEA,Kazimierz Swirydowicz,There Exists an Uncountable Set of Pretabular Extensions of the Relevant Logic R and Each Logic of This Set is Generated by a Variety of Finite Height,2008
+MEYSA,Robert K. Meyer and Greg Restall,?Strenge? Arithmetics,manuscript
+PORMCA,Daniele Porello and Ulle Endriss,Modelling Combinatorial Auctions in Linear Logic,2010
+PORMMN,Daniele Porello and Ulle Endriss,Modelling Multilateral Negotiation in Linear Logic,2010
+REALCA,Stephen Read,Logical Consequence as Truth-Preservation,2003
+STEBOR,Stephen Read,Burgess on Relevance: A Fallacy Indeed,1983
+WEIRLO-2,Yale Weiss,The Relevance Logic of Boolean Groups,2023
+FRABRL-2,Nissim Francez,Bilateral Relevant Logic,2014
+DELAFA,James P. Delgrande and Francis Jeffry Pelletier,A Formal Analysis of Relevance,1998
+AVRIFA,A. Avron,Implicational F-Structures and Implicational Relevance Logics,2000
+BARRLC,John A. Barker,"Relevance Logic, Classical Logic, and Disjunctive Syllogism",1975
+CLEAAO-2,John P. Cleave,An Account of Entailment Based on Classical Semantics,1974
+KREDRI,Philip Kremer,Defining Relevant Implication in a Propositionally Quantified S,1997
+JOHOTS-2,John K. Slaney,On the Structure of de Morgan Monoids with Corollaries on Relevant Logic and Theories,1988
+AVRTCC,Arnon Avron,The Classical Constraint on Relevance,2014
+STERDL,Werner Stelzner,Relevant Deontic Logic,1992
+KROGFO-2,Aleksandar Kron,Gentzen Formulations of Two Positive Relevance Logics,1981
+WILFEA-2,William H. Hanson,First-Degree Entailments and Information,1980
+BRAGOR-3,Ross T. Brady,Gentzenizations of Relevant Logics with Distribution,1996
+SWITEE,Kazimierz Swirydowicz,There Exist Exactly Two Maximal Strictly Relevant Extensions of the Relevant Logic R,1999
+MEYEAS-3,Robert K. Meyer,E and S4,1970
+DOEARO,Kosta Do\v{s}en,A Reduction of Classical Propositional Logic to the Conjunction-Negation Fragment of an Intuitionistic Relevant Logic,1981
+GAASIR-2,Tore Fjetland \O{}gaard,Substitution in Relevant Logics,2019
+CURLAE,E. M. Curley,Lewis and Entailment,1972
+DIETBA,Eric Dietrich,The Bishop and Priest: Toward a Point-of-View Based Epistemology of True Contradictions.,2008
+MNDARS-2,Jos\'e M. M\'{e}ndez,A Routley-Meyer Semantics for Ackermann's Logics of ?Strenge Implication?,2009
+GOLMNK-2,Rea Golan and Ulf Hlobil,Minimally Nonstandard K3 and Fde,2022
+TEDSPA,Andrew Tedder,"Situations, Propositions, and Information States (1st edition)",2022
+WEIRCM,Yale Weiss,Revisiting Constructive Mingle: Algebraic and Operational Semantics,2022
+BLURAV,Ben Blumson,Relevance and Verification,2021
+PORNMI,D. Porello and N. Troquard,Non-Normal Modalities in Variants of Linear Logic,2015
+KRERPR,Philip Kremer,"Real Properties, Relevance Logic, and Identity",1994
+GAASSF,Tore Fjetland \O{}gaard,Simplified Semantics for Further Relevant Logics I: Unreduced Semantics for e and \ensuremath{\Pi}?,forthcoming
+MEYIMR,Robert K. Meyer,"In Memoriam: Richard (Routley) Sylvan, 1935-1996",1998
+GALAPC,Lisa Galminas and John G. Mersch,A Pretabular Classical Relevance Logic,2012
+BORRIS,AnneMarie Borg and Christian Stra\s{s}er,Relevance in Structured Argumentation,2018
+ROBMNI-2,Gemma Robles and Jos\'e M. M\'{e}ndez and Francisco Salto,Minimal Negation in the Ternary Relational Semantics,2005
+ALLTUT,Shay Allen Logan,The Universal Theory Building Toolkit is Substructural,2021
+VASPIC,Vladimir L. Vasyukov,Paraconsistency in Categories: Case of Relevance Logic,2011
+SHIANM-3,Shuhei Shimamura,A Nonmonotonic Modal Relevant Sequent Calculus,2017
+ALLSFS,Allen Hazen,Semantics for \$S4.2\$,1972
+MAROTL-6,Mark Lance,On the Logic of Contingent Relevant Implication: A Conceptual Incoherence in the Intuitive Interpretation of \$\{\texttt{\char92}rm R\}\$,1988
+RESAAR-3,Nicholas Rescher,"Anderson Alan Ross and Belnap Nuel D. Jr., Enthymemes. The Journal of Philosophy, Vol. 58 , Pp. 713?723",1962
+WOLARL,Robert G. Wolf,Are Relevant Logics Deviant?,1978
+ROBADL,Robert P. McArthur,Anderson's Deontic Logic and Relevant Implication,1981
+SCHRDI-2,Gerhard Schurz,Relevant Deductive Inference: Criteria and Logics,1991
+GIAACS,Steve Giambrone and Robert K. Meyer and Alasdair Urquhart,A Contractionless Semilattice Semantics,1987
+KASOSR,Ryo Kashima,On Semilattice Relevant Logics,2003
+SYLAGJ,Richard Sylvan,A Generous Jainist Interpretation of Core Relevant Logics,1987
+ORLIOR,E. Orlowska,Interpretation of Relevant Logics in a Logic of Ternary Relations,1990
+VONANO,G. H. von Wright,A Note on Entailment,1959
+KRNVE,"S. K\""{o}rner",Viii.--On Entailment,1947
+PETRAD,Peter Lavers,Relevance and Disjunctive Syllogism,1987
+MITTER-2,Mitchell Ginsberg,The Entailment-Presupposition Relationship,1972
+ARNOPR,Arnon Avron,On Purely Relevant Logics,1986
+ROUASF,Richard Routley,Alternative Semantics for Quantified First Degree Relevant Logic,1979
+MCRATS,Michael A. McRobbie,A Tableau System for Positive Relevant Implication,1977
+JJASFR,J. Jay Zeman,Semantics for \$\{\texttt{\char92}rm S\}4.3.2\$,1972
+ARNRAP-2,Arnon Avron,Relevance and Paraconsistency---A New Approach. Ii. The Formal Systems,1990
+STERRM,Steve Giambrone,Real Reduced Models for Relevant Logics Without \$\{\texttt{\char92}rm Wi\}\$,1992
+STOTPR,Thomas Storer,"The Philosophical Relevance of a ""Behavioristic Semiotic""",1948
+GNGSFS,G. N. Georgacarakos,"Semantics for \$S4.04\$, \$S4.4\$, and \$S4.3.2\$",1976
+GAASSF-2,Tore Fjetland \O{}gaard,Simplified Semantics for Further Relevant Logics Ii: Propositional Constants,forthcoming
+BERNWA,Francesco Berto,Non-Normal Worlds and Representation,2011
+HUMTRE,Lloyd Humberstone and Robert Meyer,The Relevant Equivalence Property,2007
+WEIARO-8,Yale Weiss,A Reinterpretation of the Semilattice Semantics with Applications,2021
+WEINFF,Yale Weiss,New(Ish) Foundations for Theories of Entailment,2024
+BALANA-2,Inge De Bal and Peter Verd\'{e}e,A New Approach to Classical Relevance,2015
+MENANN,Jos\'e M. Mendez and Francisco Salto,A Natural Negation Completion of Urquhart's Many-Valued Logic C,1998
+HAROIA-3,Dirk Hartmann,On Inferring. An Enquiry Into Relevance and Validity.,2003
+VANGWR,Bas C. Van Fraassen,Gentlemen's Wagers: Relevant Logic and Probability,1983
+TABSNO,Selcuk Kaan Tabakci,Subminimal Negation on the Australian Plan,2022
+KANAAC,Stig Kanger and David Makinson,An Alternative Characterization of First-Degree Entailment,1971
+MIRARM-2,Seyed Ahmad Mirsanei,A Reasoning Method Based on Spatio-Temporal,2016
+PTRSL,A. P\'{e}try,Stratified Languages,1992
+MORDIR-7,Raymundo Morado,Deducibility Implies Relevance? A Cautious Answer,1983
+MEYEIA-3,Robert K. Meyer,$\supset$E is Admissible in ?True? Relevant Arithmetic,1998
+GOBAIR,Lou Goble,An Incomplete Relevant Modal Logic,2000
+SEDICA-3,Igor Sedl\'{a}r,Inter-Model Connectives and Substructural Logics,2014
+MILIRL,Peter Milne,Intuitionistic Relevant Logic and Perfect Validity,1994
+MEYCEI-3,Robert K. Meyer and Igor Urbas,Conservative Extension in Relevant Arithmetic,1986
+STEENA,G. H. Stephenson,"Entailment, Negation and Disjunctive Syllogism",1975
+WOJERA,Piotr Wojtylak,Entailment Relations and Matrices I,1979
+DEUANO,Harry Deutsch,A Note on the Decidability of a Strong Relevant Logic,1985
+POTANC,Garrel Pottinger,A New Classical Relevance Logic,1979
+BRAVA,Ross Brady and Contributions by Martin Bunder [,"V. 2. A Continuation of the Work of Richard Sylvan, Robert Meyer, Val Plumwood, and Ross Brady",1982
+ROSEOS-2,Alan Rose,Extensions of Some Theorems of Anderson and Belnap,1962
+BRARIA-6,Ross T. Brady,Relevant Implication and the Case for a Weaker Logic: Dedicated to Robert K. Meyer on the Occasion of His 60Th Birthday,1996
+WOOOHN,John Woods,On How Not to Invalidate Disjunctive Syllogism,1965
+COLEBL,M. Coltheart,"Edited by Lewandowsky, S., Dunn, Jc, \& Kirsner, K",1989
+DUNRAB,J. Michael Dunn,R-Mingle and Beneath. Extensions of the Routley-Meyer Semantics for R,1979
+POTOAR,Garrel Pottinger,On Analysing Relevance Constructively,1979
+ROURLA-2,Richard Routley and Val Plumwood and Robert K. Meyer and Ross T. Brady,Relevant Logics and Their Rivals. Part I. The Basic Philosophical and Semantical Theory,1989
+JAMMAR,James Garson,Modularity and Relevant Logic,1989
+CARRTA-9,Nancy Cartwright,Reply to Anderson,2001
+ROUHDS,Richard Routley,How Disjunctive Syllogism Can Be Seen as a Fallacy of Relevance,1981
+BRICSA-2,Larry Briskman,Classical Semantics and Entailment,1975
+MIRRAV,Seyed Ahmad Mirsanei,Relevance and Vagueness: A Proof Theoretic Approach to Fuzzy Relevance Logics,2021
+RENSFR,M. K. Rennie,Semantics for Rk1T,1971
+WEICAG,Yale Weiss,Cut and Gamma I: Propositional and Constant Domain R,2020
+URQBDT,Alasdair Urquhart,Beth's Definability Theorem in Relevant Logics,1999
+CARODE-2,Massimiliano Carrara and Enrico Martino and Vittorio Morato,On Dialetheic Entailment,2011
+ROBBQE,Gemma Robles and Jos\'e M. M\'{e}ndez,Basic Quasi-Boolean Expansions of Relevance Logics,2021
+FALTPL,Asadollah Fallahi,Two Pretabular Linear Extensions of Relevance Logic R,2021
+MARRLA-6,Edwin Mares,Relevant Logic and the Philosophy of Mathematics,2012
+HARCOS,Kenneth Harris and Branden Fitelson,Comments on Some Completeness Theorems of Urquhart and M\'{e}ndez \& Salto,2001
+BATRDA,Diderik Batens and Jean Paul Van Bendegem,Relevant Derivability and Classical Derivability in Fitch-Style and Axiomatic Formulations of Relevant Logics,1985
+ROBASP-3,Gemma Robles,A Semantical Proof of the Admissibility of the Rule Assertion in Some Relevant and Modal Logics,2012
+FUHOS,Andr\'e Fuhrmann and Edwin D. Mares,On S,1994
+MAKRLA,David C. Makinson,Relevance Logic as a Conservative Extension of Classical Logic,2014
+MAKAPL,David Makinson,"Arthur Pap. Logic and the Concept of Entailment. The Journal of Philosophy, Vol. 47 , Pp. 378?387",1975
+MAKARA-3,David Makinson,"Alan Ross Anderson and Nuel D. Belnapjr., Tautological Entailments. Philosophical Studies , Vol. 13 , Pp. 9?24",1969
+SIMLOC,Peter M. Simons,Lewy on C. I. Lewis and Entailment,1978
+VASFTT,Vladimir L. Vasyukov,From Ternary to Tetrary?,1994
+VASTBS,V. L. Vasyukov,The Bibinary Semantics for R and L$\aleph$0,1986
+VANE-10,Frank Van Dun,Entailment,1973
+WARCDM,Larry Ward,Caution: A Doctorate May Be Fatal to Your Writing Style,1988
+LEOARI,Leo Simons,A Reduction in the Number of Independent Axiom Schemata for \$S4\$,1962
+KANARA-3,Stig Kanger,"Anderson A. R. And Belnap N. D. Jr., First Degree Entailments. Mathematische Annalen, Vol. 149 , Pp. 302?319",1971
+PEAEA,Colin Pearce,Elsie Anderson - a Tribute,2013
+BIMRLA-2,Katalin Bimb\'o,Relevance Logics and Other Tools for Reasoning: Essays in Honor of J. Michael Dunn,2022
+VANTLO-15,Seth Vannatta,The Logic of Relevance in Independent School Education: A Pragmatic Critique,2013
+DEJTCO,Jan Dejno\v{z}ka,The Concept of Relevance and the Logic Diagram Tradition,2010
+KUSDRI-3,Db Kuspit,"Dialectical Reasoning in Schapiro, Meyer",1978
+HAREGS,Dirk Hartmann,Eine Gebrauchstheoretische Semantik Formal Relevanten Schlussfolgerns.,2009
+BATRIA,Diderik Batens,Relevant Implication and the Weak Deduction Theorem,1987
+CHIOTN,John Chidgey,On the Non-Availability of Dawson-Modeling Into Certain Relevance Alethic Modal Logics,1979
+RODSWT,Jos\'e Manuel M\'{e}ndez Rodr\'{i}guez,Systems with the Converse Ackermann Property,1985
+TOMFAE,E. Toms,Fact and Entailment,1940
+Hillel1966-BARMAS-5,Y. Bar{-}Hillel and Paul Henle,Mysticism and Semantics,1966
+SALAKM,Constantin Salavastru,"Ang\`{e}le Kremer-Marietti, Michel Meyer Et la Probl\'{e}matologie",2010
+BACEAT-2,John Bacon,Entailment and the Modal Fallacy,1965
+CARTIO-77,Colin R. Caret,The Interpretation of Partitioned Frame Semantics,2009
+MNDESB-2,Jos\'e M. M\'{e}ndez and Francisco Salto and Gemma Robles,El Sistema Bp+ : Una L\'{o}gica Positiva M\'{i}nima Para la Negaci\'{o}n M\'{i}nima (the System Bp+: A Minimal Positive Logic for Minimal Negation),2007
+SZASMR-2,Miros\l{}aw Szatkowski,Some Model-Theoretic Results for the Relevant Logic with Quantification,1986
+PORAIS,Jean Porte,Antitheses in Systems of Relevant Implication,1983
+ATRIOA,A. Trew,Incompleteness of a Logic of Routley's,1968
+HENODN,Dennis Henry and Michael Byrd,On Defining Necessity in Terms of Entailment,1979
+KAHEDM,Reinhard Kahle,"Edwin D. Mares, Relevant Logic--a Philosophical Interpretation",2007
+BHSRFO,B. H. Slater,Routley?s Formulation of Transparency,1992
+DALSMA-2,A. J. Dale,Smiley's Matrices and Dunn's Semantics for Tautological Entailment',1980
+PUTKA,Daniel Putman,Kent Anderson 1943 - 1984,1984
+BAGTJF-3,Maria Baghramian,The Justification for Relevance Logic,1988
+DUNGCA,J. Michael Dunn and Robert K. Meyer,Gentzen's Cut and Ackermann's Gamma,1989
+MORMIH,Chris Mortensen,Merge: In Honour of Robert K. Meyer,2011
+GEAOE,P. T. Geach,On Entailment,1975
+LEWETL,H. A. Lewis,Entailment: The Logic of Relevance and Necessity (Volume I),1978
+FEMDA,A. Feminist,David Anderson,1994
+ROURLA,R. Routley and R. K. Meyer,Relevant Logics and Their Semantics Remain Viable and Undamaged by Lewis's Equivocation Charge,1983
+LACNSA-3,A. R. Lacey,Necessary Statements and Entailment,1962
+LOPQEA,P. J. Loptson,"Q, Entailment and the Parry Property",1980
+STELBO,Teodor Stepien,Logic Based on Atomic Entailment,1985
+ROBEAS-5,Gemma Robles and Francisco Salto and Jos\'e M. M\'{e}ndez,Exhaustively Axiomatizing s3?$\rightarrow$ and S4?$\rightarrow$,2008
+SALEAR-3,Francisco Salto and Gemma Robles and Jos\'e M. M\'{e}ndez,Exhaustively Axiomatizing Rmo$\rightarrow$ with a Select List of Representative Theses Including Restricted Mingle Principles,1999
+PRUMOP,Alexander Pruss,Meyer's (or Putnam's) Proof of the Existence of God,manuscript
+BADALT,Guillermo Badia,"A Lindstr\""{o}m-Style Theorem for Finitary Propositional Weak Entailment Languages with Absurdity",2016
+DOLSFR,Dolph Ulrich,Semantics for \$\{\texttt{\char92}rm S\}4.1.2\$,1978
+CAURAS,Robert L. Causey,"Robert Ackermann. Some Remarks on Kyburg's Modest Proposal. The Philosophical Review, Vol. 71 , Pp. 236?240",1972
+KEESRR,G. B. Keene,"Stephen Read, ""Relevant Logic""",1990
+MEYAUR-3,Robert K. Meyer and Richard Routley,An Undecidable Relevant Logic,1973
+VOWSA,Icelandic Vowels,Sr Anderson,1969
+LAWOMC,Wies law Dziobiak,On Matrices Characteristic of Relevant Logics,1981
+SMIEWN,Peter Smith,"Entailment, with Nods to Lewy and Smiley",manuscript
+BULRRM,R. Bull,"Routley, R. Meyer, R. K., Plumwood, V. And Brady, R. T.: ""Relevant Logics and Their Rivals 1""",1986
+SUPUCT,Frederick Suppe,Using Computers to Make Logic Relevant,2012
+KAMADP,Norihiro Kamide,A Decidable Paraconsistent Relevant Logic: Gentzen System and Routley-Meyer Semantics,2016
+PARARA-3,William T. Parry,"Alan Ross Anderson and N\""{u}el D. Belnapjr., a Simple Treatment of Truth Functions. The Journal of Symbolic Logic, Vol. 24 No. 4 , Pp. 301?302",1963
+BIMEMA,Katalin Bimbo and J. Michael Dunn,"Entailment, Mingle and Binary Accessibility",2024
+MCRANO-2,Michael A. McRobbie and Robert K. Meyer,A Note on the Admissibility of Cut in Relevant Tableau Systems,1979
+DASOAT,Dasharath Singh,On Ackermann's Theory of Sets,1977
+BRASTR-3,R. B. Braithwaite and Bertrand Russell and Friedrich Waismann,Symposium: The Relevance of Psychology to Logic,1938
+HANIMW,Hans Hermes,In Memoriam: Wilhelm Ackermann (1896-1962),1967
+JFPBTF,J. {-}F. Pabion,Beth's Tableaux for Relevant Logic,1979
+BERMCC-2,George D. W. Berry,"Morris Charles. Comments on Mr. Storer's Paper. Philosophy of Science, Vol. 15 , Pp. 330?332",1950
+THOSAS-3,Thomas W. Scharle,Single Axiom Schemata for \${D}$ and \${S}$,1966
+SEDIAT,Igor Sedlar,Implication and Three Types of Meaning Connection,2009
+RALCOT,Ralph H. Moon,Correction of the Semantics for \$\{\texttt{\char92}rm S\}4.03\$ and a Note on Literal Disjunctive Symmetry,1983
+MEYPDU,R. K. Meyer,Pure Denumerable \L{}ukasiewiczian Implication,1966
+WHEEBP,Jon Wheatley,"""Entailment"" Between Performances",1969
+MORRKM,Chris Mortensen,Robert K. Meyer,2009
+ROYMSO,Tony Roy,Making Sense of Relevant Semantics (Draft),unknown
+MEYDL,Peter Meyer,2.8 Dimension: Language (Peter Meyer),2010
+BAYBND,A. Bayart,"Belnap Nuel D. Jr., Entailment and Relevance",1969
+MENARS,Jose A. Mendez,A Routley-Meyer Semantics for Converse Ackermann Property,1987
+URQJMD,Alasdair Urquhart,"J. Michael Dunn. Relevant Predication I: The Formal Theory, Journal of Philosophical Logic, Vol. 16 , Pp. 347?381",1989
+SHRRP,Yaroslav Shramko,Relevant Properties,1994
+MNDEAR,Jos\'e M. M\'{e}ndez,Exhaustively Axiomatizing Rmo with an Appropiate Extension of Anderson and Belnap's ?Strong and Natural List of Valid Entailments?,1990
+CHRTSO-6,T. Craig Christy,The Semantics of Reduplication,1985
+OSHRCA,Daniel N. Osherson and Scott Weinstein,Relevant Consequence and Empirical Inquiry,1993
+GOLMTO,James L. Golden and David L. Jamison,Meyer's Theory of Problematology in le Questionnement,1990
+TEROAS,D. B. Terrell,On a Supposed Synthetic Entailment,1951
+BADMDI,Guillermo Badia,Model Definability in Relevant Logic,2017
+DOWE,Peter Downing,Entailment,1966
+ROBANO-8,Gemma Robles,A Note on the Non-Involutive Routley Star,2008
+MNDSWT-2,Jos\'e M. M\'{e}ndez,Systems with the Converse Ackermann Property,1985
+KLELME,W. Klever,Lodewijk Meyer's Ethics,1991
+GABCAA-2,Dov Gabbay and Rolf Nossum and John Woods,Context-Dependent Abduction and Relevance,2006
+DEURAF,H. Deutsch,Relevance and First-Degree Entailments,1985
+SMIGHV-2,Timothy Smiley,"Von Wright G. H.. A Note on Entailment. The Philosophical Quarterly, Vol. 9 , Pp. 363?365",1970
+WOOTPO-48,John Woods,The Paradoxes of Necessitation and Ionic-Entailment,1970
+BIMOTO,Katalin Bimbo,On the Origins of Gaggle Theory,2022
+ULRASA,Dolph Ulrich,A Single Axiom for Relevant Implication,2012
+DAVMS,David Harrah,Message Semantics,1986
+SHASRT-2,Ram Murti Sharma,Sarikaracarya's Relevance to the Present Age,1997
+MNDAEA,Jos\'e M. M\'{e}ndez,Axiomatizing e$\rightarrow$ and R$\rightarrow$ with Anderson and Belnap's 'Strong and Natural'list of Valid Entailments,1987
+BATPLE,Diderik Batens,Propositional Logic Extended with a Pedagogically Useful Relevant Implication,2014
+CHAKAA-2,Charles F. Kielkopf,"\$K1\$ as a Dawson Modeling of A. R. Anderson's Sense of ""Ought""",1974
+ROBTNR-2,Gemma Robles,The Non-Involutive Routley Star: Relevant Logics Without Weak Double Negation,2010
+ACKLAO,W. Ackermann,L\'{e}vy Azriel. On Ackermann's Set Theory,1960
+GODDON-2,Roman Godlewski,Definition of Necessity with Entailment,2013
+RAVTGO-4,K. Ravi Srinas,The Greening of Ethics by Richard Sylvan and David Bennett,1996
+MEYRIC-2,Robert K. Meyer and Steve Giambrone,R+ is Contained in T,1980
+BARAJ,H. Barth and M. H. Bornstein and J. I. D. Campbell and B. Geurts and P. C. Gordon and R. Gunter and R. Hendrick and C. W. Hue and S. Laurence and E. Margolis,"Anderson, Jr, 123 Arterberry, Me, 1 Aslin, Rn, B33 au, Tk-F., B53",2003
+INTSRA,in Semantic Interpretation,Stephen R. Anderson,1971
+MWBAMR,M. W. Bunder,A More Relevant Relevance Logic,1979
+RUZTVO,Imre Ruzsa,Two Variants of the System of Entailment,1975
+VANTAM-6,Johan van Benthem and Alice ter Meulen and Heinrich Wansing,"Thomas Andreas Meyer, Willem Adrian Labuschagne, and Johannes Heidema/Refined Espistemic Entrenchment 237-259",1992
+DIOTLO-3,Joseph A. Diorio,The Logic of ?Relevance? and ?Educational Relevance?,1977
+YONAAR-2,Naoto Yonemitsu,Anderson Alan Ross. Independent Axiom Schemata for S5,1957
+SYLTAA,R. Sylvan and R. Meyer and R. Brady and C. Mortensen and V. Plumwood,The Algebraic Analysis of Relevant Affixing Systems,2003
+POPOAC,Vladimir M. Popov,On a Closure of a Set of Classically Essential Formulas and on Relevant Implication,1989
+MERSFO-2,W. A. Merrylees,Some Features of Professor Anderson's Logic,1929
+DEMTIT-4,Fabio De Martin Polo,Topics in the Proof Theory of Non-Classical Logics. Philosophy and Applications,2023
+BRIACO-3,Chris Brink,A Comment on Relevant Truth Table Logic,1992
+MNDEAR-2,Jos\'e M. M\'{e}ndez,Exhaustively Axiomatizing Rmo with an Appropiate Extension of Anderson and Belnap?s ?Strong and Natural List of Valid Entailments?,1990
+WOOMMF,John Woods,"Michel Meyer, From Logic to Rhetoric Reviewed By",1988
+ECKSJV,Maureen Eckert,Sylvan's Jungle Volume 1: Exploring Meinong's Jungle and Beyond,2018
+JOHTNO-6,John Lake,Two Notes on Ackermann's Set Theory,1976
+MASARA,Gerald J. Massey,Alan Ross Anderson 1925-1973,1973
+CULAAT,Jonathan Culler,Anderson and the Novel,1999
+BRARLA,R. Brady and Nicholas Griffin,"Reviews-Relevant Logics and Their Rivals, Volume Ii",2005
+JAMMMP,David L. Jamison,Michel Meyer's Philosophy of Problematology: Toward a New Theory of Argument,1991
+OLLDLA,Carlos A. Oller,Deontic Logic as Based on a System of Analytic Implication (Abstract),1993
+GNGSFR,G. N. Georgacarakos,Semantics for \$\{\texttt{\char92}rm S\}4.03\$,1977
+BADOEO,Guillermo Badia and Andrew Tedder,On Elimination of Quantifiers in Some Non-Classical Mathematical Theories,2018
+KLELPQ,E. Klein,"La Physique Quantique,(Michel Meyer)",forthcoming
+AVRMCA,A. Avron,Multiplicative Conjunction and an Algebraic Meaning of Contraction and Weakening,1998
+URQAAB,Alasdair Urquhart,Anderson and Belnap?s Invitation to Sin,2010
+ANDSRS,Hall Anderson,"Still Rainin', Still Dreamin': Hall Anderson's Ketchikan",2010
+KUSDRI-2,Donald Kuspit,Dialectical Reasoning in Meyer Schapiro,1978
+BRATRO-20,R. B. Braithwaite and Bertrand Russell and Friedrich Waismann,The Relevance of Psychology to Logic: A Symposium,1940
+MNDANO,Jos\'e M. M\'{e}ndez,"A Note on ""Recent Work in Relevant Logic""",manuscript
+RODEAR,Jos\'e Manuel M\'{e}ndez Rodr\'{i}guez,"Exhaustively Axiomatizing Rmo with an Appropiate Extensi\'{o}n of Anderson and Belnap's ""Strong and Natural List of Valid Entailments""",1990
+FREASR,James B. Freeman and Charles B. Daniels,A Second-Order Relevance Logic with Modality,1979
+BARLP-2,Tom\'{a}s Barrero,"L\'{o}gica Positiva : Plenitude, Potencialidade e Problemas (Do Pensar Sem Nega\c{c}~{a}o)",2004
+WILOSR,Neil L. Wilson,On Semantically Relevant Whatsits: A Semantics for Philosophy of Science,1973
+RZANAT,R. Zane Parks and John R. Chidgey,Necessity and Ticket Entailment,1972
+SZASMR,Miros\l{}aw Szatkowski,Some Model-Theoretic Results for the Relevant Logic with Quantification,1986
+ASHXAM,R. W. Ashby,Xi--Entailment and Modality,1963
+VIGAOL,Luca Vigan\`o,An o-Space Decision Procedure for the Relevance Logic B+,2000
+LAPSFA,Nicholas Lapara,Semantics for a Natural Notion of Entailment,1976
+SLAESL,John K. Slaney,'Entailment' Survives Lewy's Paradoxes,1981
+HAVDA,Vaclav Havel,Denise Ackermann,1996
+MNDESB,Jos\'e M. M\'{e}ndez and Francisco Salto and Gemma Robles,El Sistema Bp+ : Una L\'{o}gica Positiva M\'{i}nima Para la Negaci\'{o}n M\'{i}nima (the System Bp+: A Minimal Positive Logic for Minimal Negation),2007
+CHUKSE,Alonzo Church,"K\""{o}rner S.. Entailment and the Meaning of Words. Analysis , Vol. 10 No. 4 , Pp. 88?92",1950
+JONPAS-3,Jonathan Bennett,"Psychology and Semantics: Comments on Schiffer's ""Intention-Based Semantics""",1982
+ROSRKM,A. Rose,"R. K. Meyer. Pure Denumerable \L{}ukasiewiczian Implication. The Journal of Symbolic Logic, Vol. 31 , Pp. 575?580",1968
+PANTAM,G. Pandit,Towards a More Relevant Philosophy,1979
+BHASRT,Drnr Bhatt,Sarikaracarya's Relevance to the Present Age,1997
+RENSFR-2,M. K. Rennie,Semantics for \$Rk\^{ }1\_{T}$,1971
+JANSRT-2,Ss Janaki,Sahkara's Relevance to the Present Age,1997
+ROBORD,Robert K. Meyer,On Relevantly Derivable Disjunctions,1972
+SCHROC-2,Peter Schotch,Remarks on 'Copenhagen Semantics',manuscript
+WEIRLA-2,Alan Weir,Relevant Logic: A Philosophical Examination of Inference,1990
+URQTSO,Alasdair Ian Fenton Urquhart,The Semantics of Entailment,1973
+DUNRP,J. Michael Dunn,Relevant Predication 1: The Formal Theory,1987
+JANTLO,Jane Heal,"The Logic of Questions and Answers by Nuel D. Belnap Jr and Thomas B. Steel Jr Yale University Press, 1976, Viii + 209 Pp., \pounds9.00",1978
+SEKCOR,Takahiro Seki,Completness of Relevant Modal Logics with Disjunctive Rules,2009
+DEUAFO,Harry Seton Deutsch,A Family of Conforming Relevant Logics,1981
+POLMLC,Fabio De Martin Polo,Modular Labelled Calculi for Relevant Logics,2023
+STRRAI-23,Jan Strassheim,Relevance and Irrelevance,2018
+TOKEIM,Marek Tokarz,Essays in Matrix Semantics of Relevant Logics,1981
+Rojas2022-SOLTTA-4,Alejandro Solares{-}Rojas and Marcello D?Agostino,Towards Tractable Approximations to Many-Valued Logics: The Case of First Degree Entailment,2022
+CLAETL,Michael Clark,Entailment. The Logic of Relevance and Necessity. Volume I,1978
+NEWMPT,X. Y. Newberry,"Meaning, Presuppositions, Truth-Relevance, G\""{o}del's Sentence and the Liar Paradox",manuscript
+SHATUT-3,Logan Shay,The Universal Theory Tool Building Toolkit is Substructural,2021
+PACMSB,Yang Immanuel Pachankis,"Mass Surveillance, Behavioural Control, and Psychological Coercion the Moral Ethical Risks in Commercial Devices",2022
+SHERAL,J. C. Shepherdson,"Review: Azriel Levy, Axiom Schemata of Strong Infinity in Axiomatic Set Theory",1962
+LANTLS-2,Mark Lance and Philip Kremer,The Logical Structure of Linguistic Commitment Ii: Systems of Relevant Commitment Entailment,1996
+KRERPG,Philip Kremer,Relevant Predication: Grammatical Characterisations,1989
+VANRBJ,Johan van Benthem,"Review: B. J. Copeland, on When a Semantics is Not a Semantics: Some Reasons for Disliking the Routley-Meyer Semantics for Relevance Logic",1984
+MEYAFT-2,H. Daniel,"Review of Meyer's ""a Farewell to Entailment""",1990
+ORADIR-3,Ra\'{u}l Orayen,Deducibility Implies Relevance? A Negative Answer,1983
+ORADIR-4,Ra\'{u}l Orayen,?Deducibility Implies Revelance? A Negative Answer (I) (on the Philosophical Status of Relevant Logic),1983
+DIATIT-2,Manuel Richard Diaz,Topics in the Logic of Relevance: Towards a Theory of Entailment,1979
+YANRSF-2,Eun{-}Suk Yang,"Routley-Meyer Semantics for e-R, Ee-R, Eec-R",2003
+DZIOMC,Wieslaw Dziobiak,On Matrices Characteristic of Relevant Logics,1981
+HENTIT-4,Dennis Robert Henry,Topics in the Logic of Entailment,1978
+EASTLO-2,Lucius Root Eastman,The Logic of Entailment,1969
+BUNQRL,M. W. Bunder,Quantified Relevance Logic and Generalised Restricted Generality,1980
+FREASF-2,James Beaumont Freeman,Algebraic Semantics for Modal and Relevant Predicate Logics,1973
+CHAROS-5,Gerald William Charlwood,Representations of Semilattice Relevance Logic,1978
+ORLALW,Ewa Orlowska,A Logic with Relevant Inplication,1987
+TOKEIM-2,Marek Tokarz,Essays in Matrix Semantics of Relevant Logics,1980
+MNDETT,Jos\'e M. M\'{e}ndez,Erratum To: The Compatibility of Relevance and Mingle,2010
+HARRND-2,David Harrah,"Review: Nuel D. Belnap, an Analysis of Questions: Preliminary Report",1963
+RESRAR,Nicholas Rescher,"Review: Alan Ross Anderson, Nuel D. Belnap, Enthymemes",1962
+BEAELT-2,Jc Beall,"Eco-Logical Lives: The Philosophical Lives of Richard Routley/Sylvan and Val Routley/Plumwood, by Dominic Hyde: Cambridge: The White Horse Press, 2014, Viii + 265, \pounds60.00",2015
+PRIRAR,A. N. Prior,"Review: Alan Ross Anderson, Omar Khayyam Moore, the Formal Analysis of Normative Concepts; Alan Ross Anderson, a Reduction of Deontic Logic to Alethic Modal Logic; Alan Ross Anderson, the Logic of Norms",1959
+REAJNA,S. Read,"J. Norman and R. Sylvan ""Directions in Relevant Logic""",1991
+CARSOT-2,Colin Caret and David Ripley,"Spandrels of Truth, by Jc Beall",2011
+CONACF-6,Willem Conradie and Valentin Goranko,Algorithmic Correspondence for Relevance Logics I. The Algorithm Pearl\texttt{\char92}documentclass[12Pt]\{Minimal\} \texttt{\char92}usepackage\{Amsmath\} \texttt{\char92}usepackage\{Wasysym\} \texttt{\char92}usepackage\{Amsfonts\} \texttt{\char92}usepackage\{Amssymb\} \texttt{\char92}usepackage\{Amsbsy\} \texttt{\char92}usepackage\{Mathrsfs\} \texttt{\char92}usepackage\{Upgreek\} \texttt{\char92}setlength\{\texttt{\char92}oddsidemargin\}\{-69Pt\} \texttt{\char92}begin\{Document\}\$\$\texttt{\char92}mathsf \{Pearl\}\$\$\texttt{\char92}end\{Document\},2021
+COHRRW-2,Daniel H. Cohen,"Richard Routley with Val Plumwood, Robert K. Meyer, and Ross T. Brady. Relevant Logics and Their Rivals. Part I. The Basic Philosophical and Semantical Theory. Ridgeview Publishing Company, Atascadero, Calif., 1982, Xv + 460 Pp",1989
+COHRKM,Daniel H. Cohen,"Robert K. Meyer. A Farewell to Entailment. Foundations of Logic and Linguistics, Problems and Their Solutions, Edited by Georg Dorn and P. Weingartner, Plenum Press, New York and London1985, Pp. 577? 636",1990
+COHRRK,Daniel H. Cohen,"Review: Robert K. Meyer, Georg Dorn, P. Weingartner, a Farewell to Entailment",1990
+COHRRR,Daniel H. Cohen,"Review: Richard Routley, Val Plumwood, Robert K. Meyer, Ross T. Brady, Relevant Logics and Their Rivals. Part I. The Basic Philosophical and Semantical Theory",1989
+MAKARE,David Makinson,"Alan Rose. Extensions of Some Theorems of Anderson and Belnap. The Journal of Symbolic Logic, Vol. 27 No. 4 , Pp. 423?425",1975
+MAKRAP-2,David Makinson,"Review: Arthur Pap, Logic and the Concept of Entailment",1975
+MAKRRK,David Makinson,"Review: Robert K. Meyer, J. Michael Dunn, e, R and \$Gamma\$",1971
+MAKRAR-2,David Makinson,"Review: Alan Ross Anderson, Nuel D. Belnap, Tautological Entailments",1968
+HOORMA-2,Philip K. Hooper,"Review: Michael Anderson, Note on the Mortality Problem for Shift State Trees",1971
+BAYRSN,Charles A. Baylis,"Review: S. N. Hampshire, Mr. Strawson on Necessary Propositions and Entailment-Statements",1949
+BURRSR,John P. Burgess,"Read, Stephen, ""Relevant Logic: A Philosophical Examination of Inference""",1990
+FELRUI-3,E. M. Fels,"Review: U. I. Anov, on Matrix Schemata",1967
+CHURPT,Alonzo Church,"Review: Paul Turan, on the Work of Alan Baker; Alan Baker, Effective Methods in the Theory of Numbers",1972
+FITRND,Melvin Fitting,"Review: Nuel D. Belnap, Dorothy L. Grover, Quantifying in and Out Of' Quotes; Dorothy L. Grover, Propositional Quantification and Quotation Contexts",1977
+BAYRCL,Charles A. Baylis,"Review: C. Lewy, Entailment and Necessary Propositions",1951
+YONRAR-3,Naoto Yonemitsu,"Review: Alan Ross Anderson, Independent Axiom Schemata for S5",1957
+LAVFLE,Ren\'e Lavendhomme and Thierry Lucas and Sequent Calculi,"Fran\c{c}ois Lepage, Elias Thijsse, Heinrich Wansing/in-Troduction 1 J. Michael Dunn/Partiality and its Dual 5 Jan van Eijck/Making Things Happen 41 William M. Farmer, Joshua D. Guttman/a Set Theory",2000
+BULRAB,R. A. Bull,"Review: Aldo Bressan, a General Interpreted Modal Calculus; Nuel D. Belnap, Foreword",1974
+CHURAR-5,Alonzo Church,"Review: Anatol Rapoport, What is Semantics?",1952
+ROSRRK,A. Rose,"Review: R. K. Meyer, Pure Denumerable Lukasiewiczian Implication",1968
+MATRAR-2,Gordon Matthews,"Review: Alan Ross Anderson, Nuel D. Belnap., Entailment. The Logic of Relevance and Necessity. Volume I",1977
+ULLRAR,Joseph S. Ullian,"Review: Alan Ross Anderson, What Do Symbols Symbolize?: Platonism; A. R. Anderson, B. Baumrin, W. Busse, T. Bynum, R. D. Gray, W. Mccormack, W. Reese, Discussion",1971
+GRIRLA-6,Nicholas Griffin,"Relevant Logics and Their Rivals, Volume Ii, a Continuation of the Work of Richard Sylvan, Robert Meyer, Val Plumwood and Ross Brady, Edited by Ross Brady, with Contributions by Martin Bunder, Andr\'e Fuhrmann, Andr\'{e}a Lopari\'c, Edwin Mares, Chris Mortensen and Alasdair Urquhart. Western Philosophy Series, Vol. 59. Aldershot, Ashgate, 2003, Xiv + 425 Pp",2005
+CHABRL-2,Charles F. Kielkopf,"Book Review:The Logic of Questions and Answers Nuel D. Belnap, Jr., Thomas B. Steel, Jr",1978
+ROBRAR-2,A. Robinson,"Review: Alf Ross, Definition in Legal Language",1960
+BENRTJ-2,Jonathan Bennett,"Review: T. J. Smiley, Entailment and Deducibility; Alan Ross Anderson, Nuel D. Belnap, the Pure Calculus of Entailment",1965
+FITRRR,Melvin Fitting,"Review: Richard Routley, Robert K. Meyer, the Semantics of Entailment",1977
+THOAJL,James Thomson,"Austin J. L.. How to Do Things with Words. The William James Lectures Delivered at Harvard University in 1955. The Clarendon Press, Oxford 1962, Vii + 166 Pp., and Harvard University Press, Cambridge, Mass., 1962, Ix + 167 Pp.Wheatley Jon. Austin on Implication and Entailment. Philosophical Studies , Vol. 15 , Pp. 46?48.Mathews Bill Jr., Austin on Implication and Entailment: A Reply to Mr. Wheatley. Philosophical Studies , Vol. 15 , Pp. 88?89",1971
+SCHRRR-2,G. F. Schumm,"Review: R. Routley, Decision Procedures and Semantics for C1, e1 and \$S0.5\^{ }0\$",1973
+BAYRVG,Charles A. Baylis,"Review: Virgil G. Hinshaw, the Epistemological Relevance of Mannheim's Sociology of Knowledge",1943
+COCLGA,Nino B. Cocchiarella,"Leonard Goddard and Richard Routley. The Logic of Significance and Context. Volume 1. Scottish Academic Press, Edinburgh and London1973, and Halsted Press, New York 1974, Xi + 641 Pp",1984
+BAYARA-3,A. Bayart,"Alan Ross Anderson and Nuel D. Belnapjr., Modalities in Ackermann's ?Rigorous Implication.?The Journal of Symbolic Logic, Vol. 24 No. 2 , Pp. 107?111",1969
+CHURS-2,Alonzo Church,"Review: , Semantics, General Semantics, Semiotic. New Acceptations of Old Terms",1950
+KANRAR-2,Stig Kanger,"Review: A. R. Anderson, N. D. Belnap Jr., First Degree Entailments",1971
+BLARFV,Christopher Blake,"Review: Francis V. Raab, a Criterion of Necessity",1954
+BERRRM-3,George D. W. Berry,"Review: R. M. Martin, on Non-Translational Semantics",1956
+TRERHL,A. Trew,"Review: Hugues Leblanc, a Simplified Account of Validity and Implication for Quantificational Logic",1970
+BECRPC,Jiri Becvar,"Review: Patrick C. Fischer, Albert R. Meyer, Arnold L. Rosenberg, Time-Restricted Sequence Generation",1975
+FITRND-2,Melvin Fitting,"Review: Nuel D. Belnap, Restricted Quantification and Conditional Assertion",1977
+MARRHM,Norman M. Martin,"Review: H. Meyer, Ideology and Science; E. J. E. Huffer, B. H. Kazemier, Ch. Van Os, J. C. Opstelten, H. Rumke, H. Meyer, Discussion of the Paper of H. Meyer",1952
+BAYRND,A. Bayart,"Review: Nuel D. Belnap, Entailment and Relevance",1969
+YONRLS,Naoto Yonemitsu,"Review: Leo Simons, a Reduction in the Number of Independent Axiom Schemata for S4",1967
+FEYMAJ,Robert Feys,"Meyer-Abich Adolf. Joachim Jungius--Ein Philosoph Vor Leibniz. Beitr\""{a}ge Zur Leibniz-Forschung, Monographien Zur Philosophischen Forschung Herausgegeben von Dr. Georgi Schischkoff Vol. 1, Gryphius-Verlag, Reutlingen 1947, Pp. 138?152",1949
+DEUJMD,Harry Deutsch,"J. Michael Dunn. Relevance Logic and Entailment. Handbook of Philosophical Logic, Volume Iii, Alternatives to Classical Logic, Edited by D. Gabbay and F. Guenthner, Synthese Library, Vol. 166, D. Reidel Publishing Company, Dordrecht Etc. 1986, Pp. 117?224",1992
+CHURIT-5,Alonzo Church,"Review: Ivo Thomas, the Rule of Excision in Positive Implication",1975
+ROUAAR-2,Richard Routley,"Anderson, A. R. \& Belnap, N. D., ""Entailment: The Logic of Relevance and Necessity""",1980
+ULLRHP,Joseph S. Ullian,"Review: Hilary Putnam, Alan Ross Anderson, Sidney Hook, Minds and Machines",1971
+CHABRO-4,Charles Sellers,"Book Review:Autiobiography of Dr. Robert Meyer Robert Meyer, Emil Novak",1952
+ACKAWT,C. J. Acker and G. Baker and J. C. Beall and B. van Fraassen and K. Benson and P. Rehbock and F. Bevilacqua and E. Giannetto and M. Matthews and M. Boon,"Anderson, W. The Cultivation of Whiteness (Anderson, Crotty, Garton, and Turnbull) 153 Abir-Am, P. And Elliott, C.(Eds) Commemorative Practices in Sciences Osiris Vol. 14 (Notice-Nr) 139",2003
+FITRET,Frederic B. Fitch,"Review: E. Toms, Fact and Entailment",1940
+COCRLG,Nino Cocchiarella,"Review: Leonard Goddard, Richard Routley, the Logic of Significance and Context",1984
+GEARAC-2,P. T. Geach,"Review: A. C. Ewing, a New Formula for the Syllogism in Terms of the Ordinary Sense of ?Implication.'",1957
+SNYARA,Donald Paul Snyder,"Alan Ross Anderson, Nuel D. Belnapjr., and John R. Wallace. Independent Axiom Schemata for the Pure Theory of Entailment. Zeitschrift F\""{u}r Mathemutische Logik Und Grundlagen der Mathematik, Vol. 6 , Pp. 93?95",1973
+YONAAR,Naoto Yonemitsu,Anderson Alan Ross. Improved Decision Procedures for Lewis's Calculus s4 and von Wright's Calculus M,1955
+CHURSI,Alonzo Church,"Review: S. I. Hayakawa, Semantics: 10 Eventful Years",1950
+KANRAR-3,Stig Kanger,"Review: Alan Ross Anderson, Completeness Theorems for the Systems e of Entailment and Eq of Entailment with Quantification",1971
+LUCBRP-2,John Luccdea,"Book Review:Philosophic Problems Maurice Mandelbaum, Francis W. Gramlich, Alan Ross Anderson",1958
+BERRTS-4,George D. W. Berry,"Review: Thomas Storer, the Philosophical Relevance of a ""Behavioristic Semiotic.""",1950
+TURRSM,Atwell R. Turquette,"Review: Storrs Mccall, R. K. Meyer, Pure Three-Valued Lukasiewiczian Implication",1968
+CRERSB,M. J. Cresswell,"Review: Sylvain Bromberger, Questions; David Harrah, Question Generators; Nuel D. Belnap, Questions, Answers, and Presuppositions",1968
+Hillel1962-BARRAP-3,Yehoshua Bar{-}Hillel,"Review: Alan Pasch, Experience and the Analytic. A Reconsideration of Empiricism",1962
+FITRNM,Frederic B. Fitch,"Review: Norman Malcolm, the Nature of Entailment",1940
+PTGETL,P. T. Geach,"Entailment: The Logic of Relevance and Necessity, Vol. I by Alan Ross Anderson and Nuel D. Belnap Jr Princeton University Press, 1976, Xxxii + 542 Pp., \pounds13.70",1977
+CE-2,F. K. C.,Entailment,1976
+HEYLHA,A. Heyting,"Leblanc Hugues and Belnap Nuel D. Jr., Intuitionism Reconsidered. Notre Dame Journal of Formal Logic, Vol. 3 , Pp. 79?82",1963
+BAYRPF-2,Charles A. Baylis,"Review: P. F. Strawson, Necessary Propositions and Entailment-Statements",1949
+FEYMHK,Robert Feys,"Meyer Herman. Kennis En Realiteit . Philosophische Bibliotheek, Ed. By Clay J.. Uitgeversmaatschappij W. De Haan, Utrecht 1949, 307 Pp",1950
+CLAGLA-4,M. Clark,"Goddard, L. And Routley, R. ""The Logic of Significance and Context, Volume I""",1976
+WALLAL-5,Gerald G. Walsh,Larz Anderson,1941
+MAKARA-2,Larisa Maksimova,"Alan Ross Anderson, Nuel D. Belnapjr., and J. Michael Dunn. Entailment. The Logic of Relevance and Necessity. Volume Ii. Princeton University Press, Princeton and Oxford1992, Xxvii + 749 Pp",1996
+CHURJJ-6,Alonzo Church,"Review: Joachim Jungius, Rudolf W. Meyer, Logica Hamburgensis",1968
+PARRAR-2,William T. Parry,"Review: Alan Ross Anderson, Nuel D. Belnap, a Simple Treatment of Truth Functions",1963
+HANRAR,William H. Hanson,"Review: Alan R. White, Modal Thinking",1977
+MARRRB-2,John N. Martin,"Rob R. Brady. The Logicworks. Student Manual. Philosophy Documentation Center, Bowling Green1987, I + 21 Pp. + 2 Disks. - Rob R. Brady. The Logicworks. Guide for Instructors. Philosophy Documentation Center, Bowling Green1987, I + 23 Pp. + Disk",1990
+FITRHM-2,Frederic B. Fitch,"Review: Herman Meyer, la Negation Et la Logique",1957
+COHRJG,L. Jonathan Cohen,"Review: John G. Kemeny, a New Approach to Semantics; Stephen Ullmann, the Principles of Semantics; Jens Erik Fenstad, Notes on Synonymy",1970
+PRIAAR-3,A. N. Prior,"Anderson Alan Ross and Moore Omar Khayyam. The Formal Analysis of Normative Concepts. American Sociological Review, Vol. 22 , Pp. 9?17.Anderson Alan Ross. A Reduction of Deontic Logic to Alethic Modal Logic. Mind, N.S. Vol. 67 , Pp. 100?103.Anderson Alan Ross. The Logic of Norms. Logique Et Analyse , N.S. Vol. 1 , Pp. 84?91",1959
+SNYRAR,Donald Paul Snyder,"Review: Alan Ross Anderson, Nuel D. Belnap, John R. Wallace, Independent Axiom Schemata for the Pure Theory of Entailment",1973
+BAYRAH,Charles A. Baylis,"Review: Alan H. Gardiner, the Theory of Proper Names. A Controversial Essay",1958
+KANRND,Stig Kanger,"Review: Nuel D. Belnap, Eq and the First Order Functional Calculus",1971
+ROSRAR-6,Gene F. Rose,"Review: Alan Rose, le Degre de Saturation du Calcul Propositionnel Implicatif a Trois Valeurs de Sobocinski",1954
+BETRHM,Evert W. Beth,"Review: H. Meyer, Resemblance and Identity",1947
+ULLARA,Joseph S. Ullian,"Anderson Alan Ross. What Do Symbols Symbolize?: Platonism. Philosophy of Science, the Delaware Seminar, Volume 1, 1961?1962, Edited by Baumrin Bernard, Interscience Publishers, New York and London 1963, Pp. 137?151.Anderson A. R., Baumrin B., Busse W., Bynum T., Gray R. D., Mccormack W., Reese W.. Discussion. Philosophy of Science, the Delaware Seminar, Volume 1, 1961?1962, Edited by Baumrin Bernard, Interscience Publishers, New York and London 1963, Pp. 151?158",1971
+CETL,F. K. C.,Entailment: The Logic of Relevance and Necessity,1976
+FITRRA-3,Melvin Fitting,"Richard Routley and Robert K. Meyer. The Semantics of Entailment. Truth, Syntax and Modality, Proceedings of the Temple University Conference on Alternative Semantics, Edited by Hugues Leblanc, Studies in Logic and the Foundations of Mathematics, Vol. 68, North-Holland Publishing Company, Amsterdam and London1973, Pp. 199?243",1977
+HOLLCS,D. Holdcroft,"C. Lewy. Symposium: Entailment. I. Aristotelian Society Supplementary. Volume Xxxii, London1958, Pp. 123?142. - John Watling. Symposium: Entailment. Ii. Aristotelian Society Supplementary. Volume Xxxii, London1958, Pp. 143?156. - P. T. Geach. Symposium: Entailment. Iii. Aristotelian Society Supplementary, Volume Xxxii, London1958, Pp. 157?172. - Jonathan Bennett. On a Recent Account of Entailment. Mind, N.S. Vol. 68 , Pp. 393?395",1960
+BAYRSK,Charles A. Baylis,"Review: S. Korner, on Entailment",1949
+FEYRHM,Robert Feys,"Review: Herman Meyer, Knowledge and Reality",1950
+VANCBJ,Johan van Benthem,"Copeland B. J.. On When a Semantics is Not a Semantics: Some Reasons for Disliking the Routley?Semantics for Relevance Logic. Journal of Philosophical Logic, Vol. 8 , Pp. 399?413",1984
+DEURJM,Harry Deutsch,"Review: J. Michael Dunn, Relevance Logic and Entailment",1992
+LEMRNC,E. J. Lemmon,"Rescher Nicholas. Conditional Permission in Deontic Logic. Philosophical Studies , Vol. 13 , Pp. 1?6.Anderson Alan Ross. Reply to Mr. Rescher. Philosophical Studies , Vol. 13 , Pp. 6?8",1962
+SMIRGH-2,Timothy Smiley,"Review: G. H. Von Wright, a Note on Entailment",1970
+CHURMG-3,Alonzo Church,"Review: M. Gorman, Semantics",1975
+KANAAR,Stig Kanger,"Anderson Alan Ross. Completeness Theorems for the Systems e of Entailment and Eq of Entailment with Quantification. Zeitschrift F\""{u}r Mathematische Logik Und Grundlagen der Mathematik, Vol. 6 , Pp. 201?216",1971
+PAWRBA,Zdzislaw Pawlak,"Review: B. A. Trahtenbrot, the Synthesis of Schemata Without Repetitions",1956
+DAWRWA,Edward E. Dawson,"R. W. Ashby. Entailment and Modality. Proceedings of the Aristotelian Society, N.S. Vol. 63 , Pp. 203?216. - John O. Nelson. A Question of Entailment. The Review of Metaphysics, Vol. 18 , Pp. 364?377. - John Bacon. Entailment and the Modal Fallacy. The Review of Metaphysics, Vol. 18 , Pp. 566?571",1973
+FITRJM,Melvin Fitting,"Review: J. Michael Dunn, a Truth Value Semantics for Modal Logic",1977
+BAYRAR,Charles A. Baylis,"A. C. Lloyd. On Arguments for Real Universals. Analysis , Vol. 11 , Pp. 102?107",1953
+YONAAR-3,Naoto Yonemitsu,Anderson Alan Ross. Independent Axiom Schemata for von Wright's M,1958
+MAKRAR-4,Larisa Maksimova,"Review: Alan Ross Anderson, Entailment. The Logic of Relevance and Necessity",1996
+URQRJM,Alasdair Urquhart,"Review: J. Michael Dunn, Relevant Predication 1: The Formal Theory",1989
+RICMLP,Lee C. Rice,"Meyer: ""La Philosophie Interpr\`{e}te de l'Ecriture Sainte""",1988
+WOOMMF-2,John Woods,"Michel Meyer, From Logic to Rhetoric",1988
+MATARA-8,Gordon Matthews,"Alan Ross Anderson and Nuel D. Belnap Jr. Entailment. The Logic of Relevance and Necessity. Volume I. Princeton University Press, Princeton and London1976 , Xxxii + 542 Pp",1977
+ULLHPM,Joseph S. Ullian,"Hilary Putnam. Minds and Machines. Minds and Machines, Edited by Alan Ross Anderson, Prentice-Hall, Inc., Englewood Cliffs, New Jersey, 1964, Pp. 72?97",1971
+Hillel1952-BARRRM-2,Y. Bar{-}Hillel,"Review: R. M. Martin, J. H. Woodger, Toward an Inscriptional Semantics",1952
+BENRHM,Albert A. Bennett,"Review: H. Meyer, the Concept of Truth in a Formalized Semantics",1947
+FITRRK,Melvin Fitting,"Review: Robert K. Meyer, Intuitionism, Entailment, Negation",1977
+URQMDT,A. Urquhart,"M.R. Diaz ""Topics in the Logic of Relevance""",1983

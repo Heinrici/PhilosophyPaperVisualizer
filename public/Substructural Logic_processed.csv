@@ -1,0 +1,263 @@
+ID,Author,Title,Year
+RESAIT-4,Greg Restall,An Introduction to Substructural Logics,1999
+BARAHO-17,Eduardo Alejandro Barrio and Federico Pailos and Damian Szmuc,A Hierarchy of Classical and Paraconsistent Logics,2020
+GALRLA,Nikolaos Galatos and Peter Jipsen and Tomasz Kowalski and Hiroakira Ono,Residuated Lattices: An Algebraic Glimpse at Substructural Logics,2007
+LOGDRA,Shay Allen Logan,Depth Relevance and Hyperformalism,2022
+LOGSDR-2,Shay Allen Logan,Strong Depth Relevance,2021
+HLOFFN,Ulf Hlobil,Faithfulness for Naive Validity,2019
+COBA-4,Pablo Cobreros and Elio La Rosa and Luca Tranchini,(I Can?T Get No) Antisatisfaction,2020
+STAVAR,Shawn Standefer,Variable-Sharing as Relevance,forthcoming
+SZMWIA,Damian Szmuc and Federico Pailos and Eduardo Barrio,What is a Paraconsistent Logic?,2018
+BARTLO-27,Eduardo Barrio and Lucas Rosenblatt and Diego Tajer,The Logics of Strict-Tolerant Logic,2015
+MARLCA-4,Edwin Mares and Francesco Paoli,Logical Consequence and the Paradoxes,2014
+BARARO-15,Eduardo Alejandro Barrio and Federico Pailos and Damian Szmuc,A Recovery Operator for Nontransitive Approaches,2020
+PAOSLA,Francesco Paoli,Substructural Logics: A Primer,2002
+BARILO-2,Eduardo Alejandro Barrio and Federico Pailos and Damian Szmuc,(Meta)Inferential Levels of Entailment Beyond the Tarskian Paradigm,2019
+DARMD,Bruno Da R\'e and Federico Pailos and Damian Szmuc and Paula Teijeiro,Metainferential Duality,2020
+RESCFF-2,Greg Restall and Shawn Standefer,Collection Frames for Distributive Substructural Logics,2023
+FIEDAP,Hartry Field,Disarming a Paradox of Validity,2017
+SHADLC,Lionel Shapiro,Deflating Logical Consequence,2011
+LOGNOS,Shay Allen Logan,Notes on Stratified Semantics,2019
+TANACP-3,Koji Tanaka and Patrick Girard,Against Classical Paraconsistent Metatheory,2023
+BARSLP-6,Eduardo Alejandro Barrio and Federico Pailos and Damian Szmuc,"Substructural Logics, Pluralism and Collapse",2018
+HLOATS,Ulf Hlobil,A Truth-Maker Semantics for St: Refusing to Climb the Strict/Tolerant Hierarchy,2022
+HLOTCA,Ulf Hlobil,The Cut-Free Approach and the Admissibility-Curry,2018
+BIMGGL,Katalin Bimb\'o and J. Michael Dunn,Generalized Galois Logics: Relational Semantics of Nonclassical Logical Calculi,2008
+AVRTSA,Arnon Avron,The Semantics and Proof Theory of Linear Logic,1988
+GOLQPA,Robert Goldblatt,"Quantifiers, Propositions and Identity: Admissible Semantics for Quantified Modal and Substructural Logics",2011
+STAWRJ,Shawn Standefer,Weak Relevant Justification Logics,2023
+BOBSSL,Susanne Bobzien,Stoic Sequent Logic and Proof Theory,2019
+HLOANS,Ulf Hlobil,A Nonmonotonic Sequent Calculus for Inferentialist Expressivists,2016
+RESHTB,Greg Restall,How to Be R Eally Contraction-Free,1993
+GAAPTT,Tore Fjetland \O{}gaard,Paths to Triviality,2016
+STAAIT-16,Shawn Standefer,An Incompleteness Theorem for Modal Relevant Logics,2021
+Heister1993-SCHSL-5,Peter Joseph Schroeder{-}Heister and Kosta Do\v{s}en,Substructural Logics,1993
+MURNV,Julien Murzi and Lorenzo Rossi,"Na\""{i}ve Validity",2017
+BACCPA-3,Andrew Bacon,Curry?s Paradox and ? -Inconsistency,2013
+FRECON,Rohan French and David Ripley,Contractions of Noncontractive Consequence Relations,2015
+CARKVS-2,Sam Carter,Keeping Vague Score,forthcoming
+RESAIT-5,Kosta Do\v{s}en,An Introduction to Substructural Logics (Review),2001
+WEIARN,Alan Weir,A Robust Non-Transitive Logic,2015
+FIEPFA-2,Hartry Field and Harvey Lederman and Tore Fjetland \O{}gaard,Prospects for a Naive Theory of Classes,2017
+SHANSC,Lionel Shapiro,"Naive Structure, Contraction and Paradox",2015
+MURVAT-3,Lionel Shapiro and Julien Murzi,Validity and Truth-Preservation,2015
+SAMGAF,Abramsky Samson and Jagadeesan Radha,Games and Full Completeness for Multiplicative Linear Logic,1994
+CIAAPT,Agata Ciabattoni and Nikolaos Galatos and Kazushige Terui,Algebraic Proof Theory for Substructural Logics: Cut-Elimination and Completions,2012
+ROFTMI-2,Ariel Jonathan Roff\'e and Federico Pailos,Translating Metainferences Into Formulae: Satisfaction Operators and Sequent Calculi,2021
+CARANO-14,Colin R. Caret and Zach Weber,A Note on Contraction-Free Logic for Validity,2015
+GALAPL-2,Nikolaos Galatos and Hiroakira Ono,"Algebraization, Parametrized Local Deduction Theorem and Interpolation for Substructural Logics Over Fl",2006
+SLAAMT,John K. Slaney,A Metacompleteness Theorem for Contraction-Free Relevant Logics,1984
+FITAFO,Melvin Fitting,A Family of Strict/Tolerant Logics,2020
+OLSSCI,J. S. Olson and J. G. Raftery and C. J. Van Alten,Structural Completeness in Substructural Logics,2008
+CZELDT,Janusz Czelakowski,Local Deductions Theorems,1986
+DUNCAS-3,J. Dunn and R. Meyer,Combinators and Structurally Free Logic,1997
+ALLKMF,Gerard Allwein and J. Michael Dunn,Kripke Models for Linear Logic,1993
+CARLCI-2,Colin R. Caret and Ole T. Hjortland,"Logical Consequence: Its Nature, Structure, and Application",2015
+RIPCAC,David Ripley,Contraction and Closure,2015
+SEDSEL,Igor Sedl\'{a}r,Substructural Epistemic Logics,2015
+CINIMC,Petr Cintula and Francesco Paoli,Is Multiset Consequence Trivial?,2016
+ZARCAC-2,Elia Zardini,Context and Consequence. An Intercontextual Substructural Logic,2014
+THOAUB,Paul D. Thorn and Gerhard Schurz,A Utility Based Evaluation of Logico-Probabilistic Systems,2014
+RESRAS,Greg Restall,Relevant and Substructural Logics,manuscript
+SZMTGF,Damian E. Szmuc,The (Greatest) Fragment of Classical Logic That Respects the Variable-Sharing Principle (in the Fmla-Fmla Framework),2021
+RESDAD,Greg Restall,Displaying and Deciding Substructural Logics 1: Logics with Contraposition,1998
+HJOHAT,Ole T. Hjortland,Harmony and the Context of Deducibility,2012
+SHATVI-3,Lionel Shapiro,The Very Idea of a Substructural Approach to Paradox,2016
+GALAIT,Nikolaos Galatos and James G. Raftery,Adding Involution to Residuated Structures,2004
+ABRPSA,V. Michele Abrusci,Phase Semantics and Sequent Calculus for Pure Noncommutative Classical Linear Propositional Logic,1991
+BACANC,Andrew Bacon,A New Conditional for Naive Truth Theory,2013
+GEHGKF-2,Mai Gehrke,Generalized Kripke Frames,2006
+MURNAR,Julien Murzi and Lorenzo Rossi,Non-Contractability and Revenge,2020
+SPICLW-3,Matthew Spinks and Robert Veroff,Constructive Logic with Strong Negation is a Substructural Logic. I,2008
+HJOTSO-2,Ole T. Hjortland,The Structure of Logical Consequence : Proof-Theoretic Conceptions,2010
+JMICEA,J. Michael Dunn and Mai Gehrke and Alessandra Palmigiano,Canonical Extensions and Relational Completeness of Some Substructural Logics,2005
+LIOLKA,Lionel Shapiro,"Lp, K3, and Fde as Substructural Logics",2017
+LOGFMB,Shay Logan and Francesca Boccuni,Frege Meets Belnap: Basic Law V in a Relevant Logic,forthcoming
+STACAR-4,Shawn Standefer,Contraction and Revision,2016
+FAZCII,Davide Fazio and Gavin St John,Connexive Implications in Substructural Logics,forthcoming
+LOGSFS,Shay Logan,Semantics for Second Order Relevant Logics,forthcoming
+LOGPTS,Shay Allen Logan,Putting the Stars in Their Places,2020
+MORVOD,T. Moraschini and J. G. Raftery and J. J. Wannenburg,Varieties of de Morgan Monoids: Covers of Atoms,2020
+LOGHAT,Shay Logan,Hyperdoctrines and the Ontology of Stratified Semantics,2020
+SCHRVR-5,Gerhard Schurz and Paul D. Thorn,Reward Versus Risk in Uncertain Inference: Theorems and Simulations,2012
+NIKGTF,Nikolaos Galatos and Hiroakira Ono,Glivenko Theorems for Substructural Logics Over Fl,2006
+ZARRBN,Elia Zardini,Restriction by Noncontraction,2016
+VANAUO-2,Jaap van der Does and Willem Groeneveld and Frank Veltman,"An Update on ""Might'""",1997
+ONOLWT-2,Hiroakira Ono,Logics Without the Contraction Rule and Residuated Lattices,2011
+THOQPI-4,Paul D. Thorn and Gerhard Schurz,Qualitative Probabilistic Inference Under Varied Entropy Levels,2016
+FONOTI,Josep Maria Font and \`{A}ngel J. Gil and Antoni Torrens and Ventura Verd\'u,On the Infinite-Valued \L{}ukasiewicz Logic That Preserves Degrees of Truth,2006
+GALEBF,Nikolaos Galatos,Equational Bases for Joins of Residuated-Lattice Varieties,2004
+MAJTSF-2,Ondrej Majer and V\'{i}t Pun\v{c}och\'{a}vr and Igor Sedl\'{a}r,Truth-Maker Semantics for Some Substructural Logics,2023
+SUZAST,Tomoyuki Suzuki,A Sahlqvist Theorem for Substructural Logic,2013
+GOVLOV-2,Guido Governatori and Antonino Rotolo,Logic of Violations: A Gentzen System for Reasoning with Contrary-to-Duty Obligations,2006
+WANIIO,Heinrich Wansing,Informational Interpretation of Substructural Propositional Logics,1993
+SUZCRO,Tomoyuki Suzuki,Canonicity Results of Substructural and Lattice-Based Logics,2011
+DARNNP,Bruno Da R\'e and Damian Szmuc and Mar\'{i}a In\'{e}s Corbal\'{a}n,Non-Reflexive Nonsense: Proof-Theory for Paracomplete Weak Kleene Logic,forthcoming
+SPICLW-4,M. Spinks and R. Veroff,Constructive Logic with Strong Negation is a Substructural Logic. Ii,2008
+ROBTBC,Gemma Robles and Jos\'e M. M\'{e}ndez,The Basic Constructive Logic for a Weak Sense of Consistency,2008
+BARTAT-33,Zach Barnett,Tolerance and the Distributed Sorites,2019
+BONALT,Giovanni Boniolo and Marcello D?Agostino and Mario Piazza and Gabriele Pulcini,Adding Logic to the Toolbox of Molecular Biology,2015
+DOEMTI,Kosta Do\v{s}en,Modal Translations in Substructural Logics,1992
+TANGPO-2,Can Ba\c{s}kent and Thomas Macaulay Ferguson,Graham Priest on Dialetheism and Paraconsistency,2019
+ONOGTR,Hiroakira Ono,Glivenko Theorems Revisited,2010
+RESAUS,Greg Restall,A Useful Substructural Logic,1994
+CINNSL-2,Petr Cintula and Rostislav Hor\v{c}'{i}k and Carles Noguera,Nonassociative Substructural Logics and Their Semilinear Extensions: Axiomatization and Completeness Properties: Nonassociative Substructural Logics,2013
+PAOTAO-2,Francesco Paoli,The Ambiguity of Quantifiers,2005
+LOGONS,Shay Logan and Leach{-}Krouse Graham,On Not Saying What We Shouldn't Have to Say,2021
+KOWSEA,Tomasz Kowalski,"Semisimplicity, Edpc and Discriminator Varieties of Residuated Lattices",2004
+ROGNCA,Susan Rogerson and Sam Butchart,"Na\""{i}ve Comprehension and Contracting Implications",2002
+SHACP-7,Lionel Shapiro and Jc Beall,Curry's Paradox,2017
+KRBSH,Nils Kurbis,Stable Harmony,2008
+BLUDAD-4,Ben Blumson,Dialetheism and Distributed Sorites,2023
+ONOCOA,Hiroakira Ono,Closure Operators and Complete Embeddings of Residuated Lattices,2003
+PORAPV,Daniele Porello,A Proof-Theoretical View of Collective Rationality,2013
+GAAFHP,Tore Fjetland \O{}gaard,From Hilbert Proofs to Consecutions and Back,2021
+BACNTT,Andrew Bacon,Paradoxes of Logical Equivalence and Identity,2013
+FJEICR,Andreas Fjellstad,Infinitary Contraction-Free Revenge,2018
+PORJAI,Daniele Porello,Judgement Aggregation in Non-Classical Logics,2017
+HLOEVT,Ulf Hlobil,Expressing Validity: Towards a Self-Sufficient Inferentialism,2020
+MUSCGA-2,Reinhard Muskens,Categorial Grammar and Lexical-Functional Grammar,2001
+RESMFS,Greg Restall,Models for Substructural Arithmetics,2010
+BUSTFM,Wojciech Buszkowski,The Finite Model Property for Bci and Related Systems,1996
+KAMACM,N. Kamide,A Canonical Model Construction for Substructural Logics with Strong Negation,2002
+MEYSOE,Robert K. Meyer and Edwin D. Mares,Semantics of Entailment,1993
+FARGTA,Hadi Farahani and Hiroakira Ono,Glivenko Theorems and Negative Translations in Substructural Predicate Logics,2012
+MARCIF-2,Enrico Marchioni and George Metcalfe,Craig Interpolation for Semilinear Substructural Logics,2012
+FONOSL,Josep Maria Font,On Substructural Logics Preserving Degrees of Truth,2007
+GAACE,Tore Fjetland \O{}gaard,Confused Entailment,2021
+KAMKSF,Norihiro Kamide,Kripke Semantics for Modal Substructural Logics,2002
+BADTRF-2,Guillermo Badia,The Relevant Fragment of First Order Logic,2016
+JEBANO-3,Emil Je\v{r}'{a}bek,A Note on the Substructural Hierarchy,2016
+PORISF,Daniele Porello,Incompatibility Semantics From Agreement,2012
+HSICII,Ai{-}ni Hsieh and James G. Raftery,Conserving Involution in Residuated Structures,2007
+PETCIS,Zoran Petri\'c,Coherence in Substructural Categories,2002
+KAMSLW,Norihiro Kamide,Substructural Logics with Mingle,2002
+DAGGMO,Marcello D'agostino and Dov M. Gabbay and Alessandra Russo,Grafting Modalities Onto Substructural Implication Systems,1997
+DUBRAA,Jacques Dubucs and Mathieu Marion,Radical Anti-Realism and Substructural Logics,2003
+SERAGA-3,A. Sernadas and C. Sernadas and J. Rasga and Marcelo E. Coniglio,A Graph-Theoretic Account of Logics,2009
+RESSL,Greg Restall,Substructural Logics,forthcoming
+PORARL,Daniele Porello and Nicolas Troquard,A Resource-Sensitive Logic of Agency,2014
+MENAAB-2,J. Mendez and F. Salto and G. Robles,Anderson and Belnap's Minimal Positive Logic with Minimal Negation,2002
+NOGOTN,Carles Noguera and Francesc Esteva and Joan Gispert,On Triangular Norm Based Axiomatic Extensions of the Weak Nilpotent Minimum Logic,2008
+BORLOF,Stefano Borgo and Daniele Porello and Nicolas Troquard,Logical Operators for Ontological Modeling,2014
+BUSFMO,Wojciech Buszkowski,Finite Models of Some Substructural Logics,2002
+DAIAAA,Daisuke Souma,An Algebraic Approach to the Disjunction Property of Substructural Logics,2007
+HLOCYN,Ulf Hlobil,Choosing Your Nonmonotonic Logic: A Shopper?s Guide,2018
+TOMANO-2,Tomasz Kowalski and Sam Butchart,A Note on Monothetic Bci,2006
+MARFLH-2,Yoshihiro Maruyama,Full Lambek Hyperdoctrine: Categorical Semantics for First-Order Substructural Logics,2013
+ASMRA-2,C. M. Asmus,Restricted Arrow,2009
+SERGFO,A. Sernadas and C. Sernadas and J. Rasga and M. Coniglio,on Graph-Theoretic Fibring of Logics,2009
+WEBOCA,Zach Weber,On Closure and Truth in Substructural Theories of Truth,2016
+BIMIIC,Katalin Bimb\'o,Investigation Into Combinatory Systems with Dual Combinators,2000
+CHVNOD,Karel Chvalovsk\'y and Petr Cintula,Note on Deduction Theorems in Contraction-Free Logics,2012
+KASSIL,Ryo Kashima and Norihiro Kamide,Substructural Implicational Logics Including the Relevant Logic E,1999
+PETACB,Clayton Peterson,A Comparison Between Monoidal and Substructural Logics,2016
+DOEMLA,Kosta Do\v{s}en,Modal Logic as Metalogic,1992
+ROBTBC-2,Gemma Robles,The Basic Constructive Logic for Negation-Consistency,2008
+PORMCA,Daniele Porello and Ulle Endriss,Modelling Combinatorial Auctions in Linear Logic,2010
+PORMMN,Daniele Porello and Ulle Endriss,Modelling Multilateral Negotiation in Linear Logic,2010
+MNDRLP,Jos\'e M. M\'{e}ndez and Gemma Robles,"Relevance Logics, Paradoxes of Consistency and the K Rule Ii. A Non-Constructive Negation",2007
+HUMIIA,Lloyd Humberstone,Investigations Into a Left-Structural Right-Substructural Sequent Calculus,2007
+REALCA,Stephen Read,Logical Consequence as Truth-Preservation,2003
+RAFCDT,J. G. Raftery,Contextual Deduction Theorems,2011
+HLOWSP,Ulf Hlobil,When Structural Principles Hold Merely Locally,2017
+ADIOAC,Rom\`a J. Adillon and Ventura Verd\'u,On a Contraction-Less Intuitionistic Propositional Logic with Conjunction and Fusion,2000
+VENMSI,Yde Venema,Meeting Strength in Substructural Logics,1995
+ALEGQA-2,Natasha Alechina and Michiel Van Lambalgen,Generalized Quantification as Substructural Logic,1996
+ALIUII,Majid Alizadeh and Farzaneh Derakhshan and Hiroakira Ono,Uniform Interpolation in Substructural Logics,2014
+GABAGT,Dov M. Gabbay,A General Theory of Structured Consequence Relations,1995
+NICSFN,Carlo Nicolai and Lorenzo Rossi,Systems for Non-Reflexive Consequence,manuscript
+MAJWOI,Zoran Majki\'c,Weakening of Intuitionistic Negation for Many-Valued Paraconsistent da Costa System,2008
+KENPSF-2,Sato Kentaro,"Proper Semantics for Substructural Logics, From a Stalker Theoretic Point of View",2008
+MUSCGA,Reinhard Muskens,Categorial Grammar and Discourse Representation Theory,1994
+ALLNVM,Patrick Allo,Noisy Vs. Merely Equivocal Logics,2013
+PORNMI,D. Porello and N. Troquard,Non-Normal Modalities in Variants of Linear Logic,2015
+ONOCCO,Hiroakira Ono,Crawley Completions of Residuated Lattices and Algebraic Completeness of Substructural Predicate Logics,2012
+ROYDCF-2,Olivier Roy and Ole Thomassen Hjortland,Dynamic Consequence for Soft Information,forthcoming
+ROBMNI-2,Gemma Robles and Jos\'e M. M\'{e}ndez and Francisco Salto,Minimal Negation in the Ternary Relational Semantics,2005
+MIKORO,Szabolcs Mikul\'{a}s,On Representable Ordered Residuated Semigroups,2011
+NICCEF-2,Carlo Nicolai,Cut Elimination for Systems of Transparent Truth with Restricted Initial Sequents,manuscript
+KAMNMS,Norihiro Kamide,Normal Modal Substructural Logics with Strong Negation,2003
+METASC,George Metcalfe,A Sequent Calculus for Constructive Logic with Strong Negation as a Substructural Logic,2009
+SEDAFF,Igor Sedl\'{a}r,Action Frames for Weak Relevant Logics,2015
+KAMNDS-2,Norihiro Kamide and Motohiko Mouri,Natural Deduction Systems for Some Non-Commutative Logics,2007
+KAMSSL-2,Norihiro Kamide,Synthesized Substructural Logics,2007
+FINFOC,Kit Fine,"?Forms of Conditionality?: Response to ?Truth-Maker Semantics for Some Substructural Logics? by Ondrej Majer, V\'{i}t Pun\v{c}och\'{a}vr and Igor Sedl\'{a}r",2023
+THOAIU,Paul D. Thorn and Gerhard Schurz,Ampliative Inference Under Varied Entropy Levels,2013
+WEINFF,Yale Weiss,New(Ish) Foundations for Theories of Entailment,2024
+YANSFL,Eunsuk Yang,Substructural Fuzzy-Relevance Logic,2015
+BOUOTF,F\'{e}lix Bou and \`{A}ngel Garc\'{i}a{-}Cerda\~{n}a and Ventura Verd\'u,On Two Fragments with Negation and Without Implication of the Logic of Residuated Lattices,2006
+BIMCTI,Katalin Bimb\'o,Current Trends in Substructural Logics,2015
+MENANN,Jos\'e M. Mendez and Francisco Salto,A Natural Negation Completion of Urquhart's Many-Valued Logic C,1998
+RESTRT,Greg Restall,Technical Report Tr-Arp-11-94,manuscript
+MIRARM-2,Seyed Ahmad Mirsanei,A Reasoning Method Based on Spatio-Temporal,2016
+SEICPI,Akama Seiki,Curry's Paradox in Contractionless Constructive Logic,1996
+PAUOAC-2,Paul Vincent Spade,On a Conservative Attitude Toward Some Naive Semantic Principles,1975
+ALEGQA,Natasha Alechina and Michiel van Lambalgen,Generalized Quantification as Substructural Logic,1996
+SEDICA-3,Igor Sedl\'{a}r,Inter-Model Connectives and Substructural Logics,2014
+BIMTCP,Katalin Bimb\'o,The Church-Rosser Property in Dual Combinatory Logic,2003
+MNDIPL,J. M. M\'{e}ndez and F. Salto,Intuitionistic Propositional Logic Without 'Contraction' but with 'Reductio',2000
+GIOTPL,Giorgi Japaridze,The Propositional Logic of Elementary Tasks,2000
+HNAASA,H. Naruse and Bayu Surarso and H. Ono,A Syntactic Approach to Maksimova's Principle of Variable Separation for Some Substructural Logics,1998
+FJEIAL,Andreas Fjellstad and Jan{-}Fredrik Olsen,Ikt\ensuremath{\omega} and Lukasiewicz-Models,2021
+SEDIAA,Igor Sedl\'{a}r,"Information, Awareness and Substructural Logics",2013
+SEDAOO,Igor Sedlar,An Outline of a Substructural Model of Bta Belief,2013
+HARDIL,Kenneth Harris and Branden Fitelson,Distributivity in L$\aleph$0 and Other Sentential Logics,unknown
+BONWLF,"Denis Bonnay and Mika\""{e}l Cozic",Which Logic for the Radical Anti-Realist ?,2012
+LAMLAG,Joachim Lambek,Logic and Grammar,2012
+FUHOS,Andr\'e Fuhrmann and Edwin D. Mares,On S,1994
+PAYRRA,Gillman Payette,Reflecting Rules: A Note on Generalizing the Deduction Theorem,2015
+MOUSNO,Motohiko Mouri and Norihiro Kamide,Strong Normalizability of Typed Lambda-Calculi for Substructural Logics,2008
+SALTEO-23,Francisco Salto and Jos\'e M. M\'{e}ndez,Two Extensions of Lewis? s3 with Peirce?s Law,1999
+ALLIAL,Patrick Allo,Information and Logical Discrimination,2012
+ROBEAS-5,Gemma Robles and Francisco Salto and Jos\'e M. M\'{e}ndez,Exhaustively Axiomatizing s3?$\rightarrow$ and S4?$\rightarrow$,2008
+NATGQA,Michiel Lambalgen Natasha Alechinvana,Generalized Quantification as Substructural Logic,1996
+BADOEO,Guillermo Badia and Andrew Tedder,On Elimination of Quantifiers in Some Non-Classical Mathematical Theories,2018
+TURPIT-3,Giacomo Turbanti,Perspectives in the Interpretation of Defeasible Reasoning,2014
+MNDESB-2,Jos\'e M. M\'{e}ndez and Francisco Salto and Gemma Robles,El Sistema Bp+ : Una L\'{o}gica Positiva M\'{i}nima Para la Negaci\'{o}n M\'{i}nima (the System Bp+: A Minimal Positive Logic for Minimal Negation),2007
+ELBCEF,Birgit Elbl,Cut Elimination for a Calculus with Context-Dependent Rules,2001
+ADIOAS,R. Adillon and Ventura Verd\'u,"On a Substructural Gentzen System, its Equivalent Variety Semantics and its External Deductive System",2002
+WANSL,Heinrich Wansing,Substructural Logics,1996
+KIKRBB,Kentaro Kikuchi,Relationships Between Basic Propositional Calculus and Substructural Logics,2001
+CHOSDD-2,O. K. Chopra and C. V. B. Gowda,Substructural Development During Strain Cycling of Alpha-Iron,1974
+SALTEO-3,Francisco Salto and Jos\'e M. M\'{e}ndez,Two Extensions of Lewis' s3 with Peirce's Law,1999
+FUJOPT,Ken{-}Etsu Fujita,On Proof Terms and Embeddings of Classical Substructural Logics,1998
+MAJKII,Ondrej Majer and Michal Pelis,Knowledge Interpretation in Substructural Frames,2013
+ARPOAS,Roberto Arpaia,On a Substructural Logic with Minimal Negation,2004
+SEKMOS,Takahiro Seki,Metacompleteness of Substructural Logics,2012
+WANTFM,San{-}Min Wang,The Finite Model Property for Semilinear Substructural Logics,2013
+MIKLSR-2,Szabolcs Mikul\'{a}s,Lower Semilattice-Ordered Residuated Semigroups and Substructural Logics,2015
+ALLLIA,Patrick Allo,Local Information and Adaptive Consequence,2006
+PACLOI,Eric Pacuit,Logics of Informational Attitudes and Informative Actions,2010
+BIMOTO,Katalin Bimbo,On the Origins of Gaggle Theory,2022
+KAMTGA,Norihiro Kamide,"Temporal G\""{o}del-Gentzen and Girard Translations",2013
+BOCSDL,Alexander Bochman and Dov M. Gabbay,Sequential Dynamic Logic,2012
+FAZAPO,Davide Fazio and Antonio Ledda and Francesco Paoli,Algebraic Perspectives on Substructural Logics,2020
+GOBCLA-2,Lou Goble,Combinatory Logic and the Semantics of Substructural Logics,2007
+PAOAPA,Francesco Paoli,A Paraconsistent and Substructural Conditional Logic,2013
+BUECTF,"Frank A. B\""{a}uerle and David Albrecht and John N. Crossley and John S. Jeavons",Curry-Howard Terms for Linear Logic,1998
+HERTOL-3,Heinrich Herre,Theory of Linear Order in Extended Logics,1995
+BIMSLC,Katalin Bimbo,"Substructural Logics, Combinatory Logic, and Lambda-Calculus",1999
+COZEML,"Mika\""{e}l Cozic","Epistemic Models, Logical Monotony and Substructural Logics",2006
+AVRMCA,A. Avron,Multiplicative Conjunction and an Algebraic Meaning of Contraction and Weakening,1998
+ROBEAS-4,Gemma Robles and Francisco Salto and Jose M. Mendez,Exhaustively Axiomatizing s3 (-\&Gt;) Degrees and s4 (-\&Gt;) Degrees,2008
+BADALT,Guillermo Badia,"A Lindstr\""{o}m-Style Theorem for Finitary Propositional Weak Entailment Languages with Absurdity",2016
+TORAAT,Antoni Torrens,An Approach to Glivenko?s Theorem in Algebraizable Logics,2008
+AMINCL,Amer Amikhteh and Seyed Ahmad Mirsanei,Non-Classical Comparative Logic I: Standard Categorical Logic?From Sle to Ifle,2021
+BURTLS-2,B. Burton,The Low Stress Creep of Aluminium Near to the Melting Point: The Influence of Oxidation and Substructural Changes,1972
+ROBTBC-3,Gemma Robles and Jos\'e M. M\'{e}ndez,The Basic Constructive Logic for Weak Consistency and the Reductio Axioms,2009
+GORGGA-2,R. Gore,"Gaggles, Gentzen and Galois: How to Display Your Favourite Substructural Logic",1998
+ZIMSLI,Ernst Zimmermann,Substructural Logics in Natural Deduction,2007
+SURCEI,Bayu Surarso and Hiroakira Ono,Cut Elimination in Noncommutative Substructural Logics,1996
+ANDLCA,Hajnal Andr\'{e}ka and Szabolcs Mikul\'{a}s,Lambek Calculus and its Relational Semantics: Completeness and Incompleteness,1994
+MACRPS-2,W. Maccaull,Relational Proof System for Linear and Other Substructural Logics,1997
+YAT,Larysa Yatchenko,\CYRR\cyri\cyrt\cyru\cyra\cyrl\cyrsftsn\cyrn\cyro-\CYRM\cyrii\cyrf\cyro\cyrl\cyro\cyrg\cyrii\cyrch\cyrn\cyri\cyrishrt \CYRS\cyru\cyrb\cyrs\cyrt\cyrr\cyra\cyrt \CYRU \CYRR\cyro\cyrm\cyra\cyrn\cyrii \CYRGUP. \CYRM\cyra\cyrishrt\cyrr\cyrii\cyrn\cyrk\cyra ?\CYRGUP\cyro\cyrl\cyre\cyrm?,2018
+NISOSA,Francez Nissim,On Semi-Fusions and Semi-Negations,2016
+RETPL,Christian Retor\'e,Pomset Logic: The Other Approach to Non Commutativity in Logic,2021
+WANICR-2,Yiheng Wang and Hao Zhan and Yu Peng and Zhe Lin,Involutive Commutative Residuated Lattice Without Unit: Logics and Decidability,manuscript
+WOJOTC,Buszkowski Wojciech,On the Complexity of Some Substructural Logics,2008
+COLTOA-7,Almudena Colacito and Nikolaos Galatos and George Metcalfe,Theorems of Alternatives for Substructural Logics,2021
+JONRGQ,R. Jones,"Robert Goldblatt. Quantifiers, Propositions and Identity: Admissible Semantics for Quantified Modal and Substructural Logics. Lecture Notes in Logic; 38. Cambridge: Cambridge University Press, 2011. Isbn 978-1-107-01052-9. Pp. Xiii + 282",2013
+DOERGA,Kosta Do\v{s}en,"Restall Greg. An Introduction to Substructural Logics. Routledge, London and New York 2000, Xiv+ 381 Pp",2001
+ROSRHB-3,Barkley Rosser,"Review: Haskell B. Curry, a Revision of the Fundamental Rules of Combinatory Logic; Haskell B. Curry, Consistency and Completeness of the Theory of Combinators",1941
+WATNTF,O. Watari and K. Nakatogawa and T. Ueno,"Normalization Theorems for Substructural Logics in Gentzen-Style Natural Deduction, Abstract of the Talk at 2000 Annual Meeting of the Association for Symbolic Logic, University of Illinois at Urbana-Champaign, June 3-7, 2000",2000

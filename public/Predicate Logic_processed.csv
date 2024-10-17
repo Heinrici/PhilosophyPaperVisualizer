@@ -1,0 +1,238 @@
+ID,Author,Title,Year
+REIEOS,Hans Reichenbach,Elements of Symbolic Logic,1966
+SMUFL,Raymond Merrill Smullyan,First-Order Logic,1968
+LEWSL,Clarence Irving Lewis,Symbolic Logic,1951
+PRIFL-4,Arthur N. Prior and Norman Prior,Formal Logic,1955
+FITSL,Frederic Brenton Fitch,Symbolic Logic,1952
+SOMTLO,Fred Sommers,The Logic of Natural Language,1982
+RAYNTD,Agustin Rayo and Stephen Yablo,Nominalism Through de-Nominalization,2001
+LEWASO,Clarence Irving Lewis,A Survey of Symbolic Logic,1960
+HENTCO-2,Leon Henkin,The Completeness of the First-Order Functional Calculus,1949
+GUSESL,William Gustason,Elementary Symbolic Logic,1973
+BOBSLA,Susanne Bobzien and Simon Shogry,Stoic Logic and Multiple Generality,2020
+SMILTL,Nicholas J. J. Smith,Logic: The Laws of Truth,2012
+HOLPS-4,Wesley H. Holliday,Possibility Semantics,2021
+KRIGTA-3,Saul A. Kripke,"G\""{o}del?s Theorem and Direct Self-Reference",2023
+MANEOF,Mari?a Manzano,Extensions of First Order Logic,1996
+SCHDAI-30,Thomas Schindler and Lavinia Picollo,Disquotation and Infinite Conjunctions,2017
+AVITEC-2,Jeremy Avigad and Richard Zach,The Epsilon Calculus,2014
+BAAETI,Matthias Baaz and Richard Zach,Epsilon Theorems in Intermediate Logics,2022
+WEHTPT,Kai F. Wehmeier,The Proper Treatment of Variables in Predicate Logic,2018
+HUNMAI,Geoffrey Hunter,Metalogic: An Introduction to the Metatheory of Standard First Order Logic,1971
+Yami2020-BENTBF-5,Hanoch Ben{-}Yami,The Barcan Formulas and Necessary Existence: The View From Quarc,2020
+CHATCT-3,Saloua Chatti and Fabien Schang,"The Cube, the Square and the Problem of Existential Import",2013
+ZACLIM-2,Richard Zach,Logic in Mathematics and Computer Science,forthcoming
+GRDOTD,"Erich Gr\""{a}del and Phokion G. Kolaitis and Moshe Y. Vardi",On the Decision Problem for Two-Variable First-Order Logic,1997
+TEROTC,Terence Parsons,On the Consistency of the First-Order Portion of Frege's Logical System,1987
+HARWSL,J. H. Harris,What's so Logical About the ?Logical? Axioms?,1982
+KRBNAS,"Nils K\""{u}rbis",Normalisation and Subformula Property for a System of Classical Logic with Tarski?s Rule,2021
+BAUAF,Michael Baumgartner and Timm Lampert,Adequate Formalization,2008
+CHASLA-2,Chin{-}Liang Chang,Symbolic Logic and Mechanical Theorem Proving,1973
+KOCOTC,Alexander W. Kocurek,On the Concept of a Notational Variant,2017
+OREEAT,Alex Orenstein,Existence and the Particular Quantifier,1978
+CONAAA-7,Marcelo E. Coniglio and Luiz H. Da Cruz Silvestrini,An Alternative Approach for Quasi-Truth,2014
+STLNTF,Gunnar St\a{a}lmarck,Normalization Theorems for Full First Order Classical Natural Deduction,1991
+PERCFL,Jaroslav Peregrin and Vladim\'{i}r Svoboda,Criteria for Logical Formalization,2013
+THOSL,Richmond H. Thomason,Symbolic Logic,1969
+KOSFCA,Sergiy Koshkin,Functional Completeness and Primitive Positive Decomposition of Relations on Finite Domains,2024
+Skardowska2018-WYBCOF,Urszula Wybraniec{-}Skardowska,Categories of First-Order Quantifiers,2018
+RESLAI-2,Greg Restall,Logic: An Introduction,2006
+LEMESI,Jens Lemanski,Extended Syllogistics in Calculus Cl,2020
+COPSL-2,Irving Marmer Copi,Symbolic Logic,1954
+GIEBQV,Nina Gierasimczuk and Jakub Szymanik,Branching Quantification V. Two-Way Quantification,2009
+EKLOHL,Matti Eklund,On How Logic Became First-Order,1996
+BARMIA,Stephen Barker,Material Implication and General Indicative Conditionals,1997
+COREIT,John Corcoran and Hassan Masoud,"Existential Import Today: New Metatheorems; Historical, Philosophical, and Pedagogical Misconceptions",2015
+SCHAAO-34,Fabien Schang,An Arithmetization of Logical Oppositions,2016
+KAICAI,Kai F. Wehmeier,Classical and Intuitionistic Models of Arithmetic,1996
+ZACSAP,Richard Zach,Semantics and Proof Theory of the Epsilon Calculus,2017
+SCHAFC-2,Edith Watson Schipper,A First Course in Modern Logic,1959
+LANAIT-3,Susanne Katherina Knauth Langer,An Introduction to Symbolic Logic,1937
+WESASA,Dag Westerst\a{a}hl,Aristotelian Syllogisms and Generalized Quantifiers,1989
+MOSOTR,Andrzej Mostowski,On the Rules of Proof in the Pure Functional Calculus of the First Order,1951
+HAZTAO-5,Tristan Gr\o{}tvedt Haze,The Accident of Logical Constants,2020
+CHARAF-2,Lucas Champollion and Justin Bledin and Haoze Li,Rigid and Flexible Quantification in Plural Predicate Logic,forthcoming
+JOHAFA-2,Ingvar Johansson,Against Fantology Again,2016
+KANEIX,Yusuke Kaneko,Existential Import : An Extensional Approach (1st edition),2023
+EDGECB,Edgar Jos\'e Andrade and Edward Samuel Becerra,Establishing Connections Between Aristotle's Natural Deduction and First-Order Logic,2008
+GORCAT-5,Valentin Goranko and Ruaan Kellerman,Classes and Theories of Trees Associated with a Class of Linear Orders,2011
+KUSAPS-2,H. Kushida and M. Okada,A Proof-Theoretic Study of the Correspondence of Classical Logic and Modal Logic,2003
+POLITS,John L. Pollock,Introduction to Symbolic Logic,1969
+SIENND,Wilfried Sieg and John Byrnes,Normal Natural Deduction Proofs (in Classical Logic),1998
+Laird2002-JOHPLD,P. N. Johnson{-}Laird,"Peirce, Logic Diagrams, and the Elementary Operations of Reasoning",2002
+SMITBO-14,Barry Smith,The Benefits of Realism: A Realist Logic with Applications,2008
+WEHORS,Kai Wehmeier,On Ramsey's 'Silly Delusion' Regarding Tractatus 5.53,2009
+AVIEDA,Jeremy Avigad,Eliminating Definitions and Skolem Functions in First-Order Logic,manuscript
+AMBFOS,Alice Ambrose,Fundamentals of Symbolic Logic,1962
+Smith1985-NEWLAI-2,W. Newton{-}Smith,Logic: An Introductory Course,1985
+MASUSL,Gerald J. Massey,Understanding Symbolic Logic,1970
+CLADL,David S. Clarke,Deductive Logic,1973
+PAGPLW,Peter Pagin and Dag Westerst\a{a}hl,Predicate Logic with Flexibly Binding Operators and Natural Language Semantics,1993
+JULANT,Juliusz Reichbach,"A Note to My Paper: ""On Characterizations of the First-Order Functional Calculus""",1961
+Pilarek2007-GOLTAD-2,Joanna Goli\'{n}ska{-}Pilarek and Ewa Or\l{}owska,Tableaux and Dual Tableaux: Transformation of Proofs,2007
+MCNFOF,George F. McNulty,"Fragments of First Order Logic, I: Universal Horn Logic",1977
+KRBCTQ,"Nils K\""{u}rbis",Correction Regarding 'Normalisation and Subformula Property for a System of Classical Logic with Tarski's Rule',manuscript
+CORIRP,John Corcoran,Information Recovery Problems,1995
+DEZANO,Gustavo Fern\'{a}ndez D\'{i}ez,A Note on Plural Logic,2010
+KRBABQ-2,"Nils K\""{u}rbis",A Binary Quantifier for Definite Descriptions for Cut Free Free Logics,2021
+BIMSOF-2,Katalin Bimb\'o,"Sch\""{o}nfinkel-Type Operators for Classical Logic",2010
+AJBCLR,A. J. Baker,Classical Logical Relations,1977
+MACSLA,Hugh MacColl,Symbolic Logic (a Reply),1907
+BARRLC,John A. Barker,"Relevance Logic, Classical Logic, and Disjunctive Syllogism",1975
+BIMCL,Katalin Bimb\'o,Combinatory Logic,2009
+OTTTVF,Martin Otto,Two Variable First-Order Logic Over Ordered Domains,2001
+REICOT,J. Reichbach,Completeness of the Functional Calculus of First Order,1955
+WALITM,Micha? Walicki,Introduction to Mathematical Logic,2012
+YamiManuscript-BENTAP-8,Hanoch Ben{-}Yami,Truth and Proof Without Models: A Development and Justification of the Truth-Valuational Approach (2nd edition),manuscript
+GABCVN,Dov M. Gabbay,Classical Vs Non-Classical Logics: The Universality of Classical Logic,1993
+RENLTA,M. K. Rennie,Logic: Theory and Practice,1973
+ANGTCA,R. B. Angell,Truth-Functional Conditionals and Modern Vs. Traditional Syllogistic,1986
+CORAML,J. Corcoran,Aristotle's Many-Sorted Logic,2008
+PICOAS,Gustavo Picazo,Oliver and Smiley on the Collective?Distributive Opposition,2022
+HINWML,Jaakko Hintikka,Which Mathematical Logic is the Logic of Mathematics?,2012
+FULAFL-4,Joseph S. Fulda,Abstracts From Logic Form: An Experimental Study of the Nexus Between Language and Logic I,2006
+FITTTF,Jesse Fitts and David Beisecker,"Two-Sided Trees for Sentential Logic, Predicate Logic, and Sentential Modal Logic",2019
+PICIDO-3,Gustavo Picazo,In Defence of Discrete Plural Logic (or How to Avoid Logical Overmedication When Dealing with Internally Singularized Pluralities),2022
+MARAJL,Russell Marcus,A Jigsaw Lesson for Symbolic Logic,2024
+VNNATO,"Jouko V\""{a}""{a}n\""{a}nen",A Taste of Set Theory for Philosophers,2011
+ARDATO,Mohammad Ardeshir,A Translation of Intuitionistic Predicate Logic Into Basic Predicate Logic,1999
+JULANA,Juliusz Reichbach,A Note About Connection of the First-Order Functional Calculus with Many-Valued Propositional Calculi,1964
+GRASRR,Friedrich Wilhelm Grafe,"Starting Rational Reconstruction of Spinoza's Metaphysics by ""a Formal Analogy to Elements of 'de Deo' (e1)""",2020
+GRATFS-4,Friedrich Wilhelm Grafe,Truthmakers for 1St Order Sentences - a Proposal,2020
+CORASA,Moritz Cordes and Friedrich Reinmuth,A Speech Act Calculus. A Pragmatised Natural Deduction Calculus and its Meta-Theory,manuscript
+FARTED,Gheorghe{-}Ilie Farte,Traits Essentiels d'Une Formalisation Ad\'{e}quate,2020
+CORERE,Moritz Cordes and Friedrich Reinmuth,"Ein Redehandlungskalk\""{u}l. Ein Pragmatisierter Kalk\""{u}l des Nat\""{u}rlichen Schlie\s{s}ens Nebst Metatheorie",manuscript
+MCLFLA,Stephen K. McLeod,First-Order Logic and Some Existential Sentences,2011
+CRATRT,William Craig,The Road to Two Theorems of Logic,2008
+PLUCOB,Gilbert Plumer,"Commentary On: Jesse Bohl's ""What Are We to Do About Traditional Logic?""",2000
+CORTAC-4,John Corcoran,"?Truth-Preserving and Consequence-Preserving Deduction Rules?,",2014
+CORRI,John Corcoran,"1983 Review in Mathematical Reviews 83E:03005 Of: Cocchiarella, Nino ?the Development of the Theory of Logical Types and the Notion of a Logical Subject in Russell's Early Philosophy: Bertrand Russell's Early Philosophy, Part I?. Synthese 45 (1980), No. 1, 71-115",1983
+OREDBT,Mart\'{i}n Orensanz,Difference Between the Existential Quantifier and the Existence Predicate According to Mario Bunge,2024
+FULAFL-5,Joseph S. Fulda,Abstracts From Logical Form: An Experimental Study of the Nexus Between Language and Logic Ii,2006
+BARATF-8,Steven James Bartlett,A Technique for Determing Closure in Semantic Tableaux,1983
+CORCEI,John Corcoran,Complete Enumerative Inductions,2006
+ASPWD-2,Axel Arturo Barcel\'o Aspeitia,What Does '\&' Mean?,2007
+BARVAL,Steven James Bartlett,Validity: A Learning Game Approach to Mathematical Logic,1973
+CORMLA,Rene? Cori,Mathematical Logic: A Course with Exercises,2000
+CAUFLA,Leigh S. Cauman,First-Order Logic: An Introduction,1998
+PEZIAL-2,Andr\'{e}s P\'{a}ez,"Introducci\'{o}n a la L\'{o}gica Moderna, 2a Edici\'{o}n",2010
+YOSOTL,Hajime Yoshino,On the Logical Foundations of Compound Predicate Formulae for Legal Knowledge Representation,1997
+CHAASA-2,Charles C. Pinter,A Simple Algebra of First Order Logic,1973
+RICPDO,Richard Beatty,Peirce's Development of Quantifiers and of Predicate Logic,1969
+CLHAFF,C. L. Hamblin,A Felicitous Fragment of the Predicate Calculus,1973
+BORSOT,Ludwik Borkowski,Systems of the Propositional and of the Functional Calculus Based on One Primitive Term,1957
+FULTLO-10,Joseph S. Fulda,The Logic of Expert Judging Systems and the Rights of the Accused,1988
+ELELCO,L. Eley,Life-World Constitution of Propositional Logic and Elementary Predicate Logic,1972
+HAMFMI,Andreas Hamfelt,Formalizing Multiple Interpretation of Legal Knowledge,1995
+ANATSO-5,Bhupinder Singh Anand,"The Significance of Evidence-Based Reasoning in Mathematics, Mathematics Education, Philosophy, and the Natural Sciences (2nd edition)",2024
+CORERF,Moritz Cordes and Friedrich Reinmuth,"Ein Redehandlungskalk\""{u}l: Folgern in Einer Sprache",2011
+TURFAC-3,Derek D. Turner,Form and Content: An Introduction to Formal Logic,2020
+EAGFA,Antony Eagle and Tim Button and P. D. Magnus,Forallx Adelaide,manuscript
+PLITNO,Valery Plisko,The Nonarithmeticity of the Predicate Logic of Strictly Primitive Recursive Realizability,forthcoming
+VNNIMP,"Jouko V\""{a}""{a}n\""{a}nen and Dag Westerst\a{a}hl","In Memoriam: Per Lindstr\""{o}m",2010
+MAGFXI,P. D. Magnus,Forall X: An Introduction to Formal Logic,2005
+SMILTD-3,Nicholas J. J. Smith and John Cusbert,Logic: The Drill,2012
+SWADIF,J. W. Swanson,Denial in First Order Logic,1967
+MOSHST,Jesus Mosterin,How Set Theory Impinges on Logic,2004
+LINFL,"Per Lindstr\""{o}m",First-Order Logic,2009
+FULMI,Joseph S. Fulda,Material Implications,1992
+JACOBN,Jacek Pasniczek,On Bracketing Names and Quantifiers in First-Order Logic,1999
+HENCLI,Henry Africk,"Classical Logic, Intuitionistic Logic, and the Peirce Rule",1992
+SMISLM,Henry Bradford Smith,"Symbolic Logic, Method and Development",1927
+ALFSLA,Alfred W. Benn,Symbolic Logic (a Reply),1907
+OROMTP,Ewa Or\l{}owska,Mechanical Theorem Proving in a Certain Class of Formulae of the Predicate Calculus,1969
+BYRPFL,John Byrnes,Peirce's First-Order Logic of 1885,1998
+KEEFFC,Geoffrey Bourton Keene,First-Order Functional Calculus,1963
+FULTLO-6,Joseph S. Fulda,The Logic of Failures of the Cinematic Imagination: Two Case Studies ? and a Logical Puzzle and Solution in Just One,2013
+LEESL,Harold Newton Lee,Symbolic Logic,1961
+RASLAP,Erich Rast,Logic: A Primer,manuscript
+HUBADS,Hubert H. Schneider,A Deduction System for the Full First-Order Predicate Logic,1976
+PEZIAL,Andr\'{e}s P\'{a}ez,Introducci\'{o}n a la L\'{o}gica Moderna,2007
+CAVITS,Anthony Pike Cavendish,Introduction to Symbolic Logic,1953
+KOVLTH,Sre\'{c}ko Kova\vc,Logika,2016
+BORADA,L. Borkowski,A Didactical Approach to the Zero-One Decision Procedure of the Expressions of the First Order Monadic Predicate Calculus,1961
+KANWIL,Yusuke Kaneko,What is Lk? Vol.1. Sequent (Textbook Series in Symbolic Logic) (1st edition),2023
+WISLAL,J. Wisdom,Lewis and Langford's Symbolic Logic,1934
+LUCCAW,J. R. Lucas,Chapter 9a What is Logic?,manuscript
+FULPMA,Joseph S. Fulda,"Pragmatics, Montague, and ?Abstracts From Logical Form?",2008
+JAKOTI-2,Stanis\l{}aw Ja\'{s}kowski,On the Interpretations of Aristotelian Categorical Propositions in the Predicate Calculus,1969
+HENFLR,Vincent F. Hendricks,First-Order Logic Revisited,2004
+CAFAFF,Ricardo Caferra and St\'{e}phane Demri and Michel Herment,"A Framework for the Transfer of Proofs, Lemmas and Strategies From Classical to Non Classical Logics",1993
+SIMEOS-2,R. L. Simpson,Essentials of Symbolic Logic,1988
+KIMTTO-2,Beomin Kim,The Translation of First Order Logic Into Modal Predicate Logic,2008
+ROBAPL,Robert A. Alps and Robert C. Neveln,A Predicate Logic Based on Indefinite Description and Two Notions of Identity,1981
+JULANO,Juliusz Reichbach,A Note on Theses of the First-Order Functional Calculus,1968
+FULCR-2,Joseph Fulda,Counterfactuals Revisited,1996
+STRRAT-3,"Claes Stranneg\a{a}rd and Fredrik Engstr\""{o}m and Abdul Rahim Nizamani and Lance Rips",Reasoning About Truth in First-Order Logic,2013
+CHAAFL,Charles B. Daniels,A First-Order Logic with No Logical Constants,1987
+SMIOCS,Henry Bradford Smith,On Certain Supposed Fallacies of the Classical Logic,1921
+KOVPUQ,Sre\'{c}ko Kova\vc,"Priru\v{c}nik Uz ""Logiku"" (Manual for the Textbook ""Logic"")",2004
+KANWIL-2,Yusuke Kaneko,What is Lk? Vol.2. Structural Inference-Figures (Textbook Series in Symbolic Logic) (1st edition),2024
+WOJTPC,Olgierd Adrian Wojtasiewicz,The Predicate Calculus with Extra-Logical Constants as an Instrument of Semantic Description,1978
+BELFIP,David Bell,Fallacies in Predicate Logic?,1971
+CHATFA,Charles G. Morgan,"Truth, Falsehood, and Contingency in First-Order Predicate Calculus",1973
+DICSLA,James Dickoff,Symbolic Logic and Language,1965
+AMEFOL,Mohamed A. Amer,First Order Logic with Empty Structures,1989
+CALRVA,H. G. Callaway,Reference Variables and the Empty Universe,1979
+GALANO-4,Henri Galinon,A Note on Generalized Functional Completeness in the Realm of Elementrary Logic,2009
+ROSCDA,Alan Rose,"Conditioned Disjunction as a Primitive Connective for the Erweiterter Aussagenkalk\""{u}l",1953
+FULDCA,Joseph Fulda,Denied Conditionals Are Not Negated Conditionals,1995
+IACLLN,Andrea Iacona,"Logic: Lecture Notes for Philosophy, Mathematics, and Computer Science",2021
+HAUSL,Bernard A. Hausman,Symbolic Logic,1937
+SMISLA,Gerard Smith,Symbolic Logic Again,1937
+BRNCEI-2,"Kai Br\""{u}nnler",Cut Elimination Inside a Deep Inference System for Classical Predicate Logic,2006
+SCHTPO-16,F. C. S. Schiller,The Principles of Symbolic Logic,1932
+KANWIL-3,Yusuke Kaneko,What is Lk? Vol.3. Operational Inference-Figures for Propositional Logic (Textbook Series in Symbolic Logic) (1st edition),2024
+FULTLO-13,Joseph S. Fulda,The Logic of ?Double Talk?: A Case Study in Diplomatic Deception,1991
+RICITV-2,Lee C. Rice,"""Introduction to Value Theory,"" by Nicholas Rescher",1970
+VANSFL,Arnold Vander Nat,Simple Formal Logic: With Common-Sense Symbolic Techniques,2010
+FULAAO,Joseph S. Fulda,An Application of Resolution to Expert Systems: Overcoming Schoenmakers' Paradigm,1994
+POLNPF,Guy Politzer,No Problem for Aristotle's Subject and Predicate,2003
+DOUCDA,Douglas Cenzer and Jeffrey B. Remmel,"Complexity, Decidability and Completeness",2006
+PAMCTO,A. Pampapathy Rao,Classical Theory of First Order Logic,1970
+CARITS,James Donald Carney,Introduction to Symbolic Logic,1970
+SMIITS,Karl J. Smith,Introduction to Symbolic Logic,1974
+BOCSCF,V. A. Bocharov,Subject-Predicate Calculus Free From Existential Import,1983
+SANSAO,Gabriel Sandu,Some Aspects of Negation in English,1994
+FULESC,Joseph S. Fulda,Estimating Semantic Content: An a Priori Approach,1988
+IBECTC,Ortrun Ibens,Connection Tableau Calculi with Disjunctive Constraints,2002
+SMISLC,Henry Bradford Smith,"Symbolic Logic. Clarence Irving Lewis, Cooper Harold Landford",1934
+ALETFS,Samuel Alexander,The First-Order Syntax of Variadic Functions,2013
+BUTAED,C. Butz and I. Moerdijk,An Elementary Definability Theorem for First Order Logic,1999
+SETTVA,Setsuo Saito,Truth Value Assignment in Predicate Calculus of First Order,1963
+MATAIT,Robert Mattison,An Introduction to the Model Theory of First-Order Predicate Logic and a Related Temporal Logic,1968
+FULTLO-15,Joseph S. Fulda,The Logic of Skolem Functions: A Subtle Construction and a Subtle Error,1988
+BACFLB,John Bacon,First-Order Logic Based on Inclusion and Abstraction,1982
+STANMI,Gerald B. Standley,New Methods in Symbolic Logic,1971
+LAPIFL,Shalom Lappin,Intensional First-Order Logic with Types,
+KOVLOL,Sre\'{c}ko Kova\vc,Logi\v{c}ko-Filozofijski Ogledi [Logical-Philosophical Essays],2005
+ANATTA-2,Bhupinder Singh Anand,The Truth Assignments That Differentiate Human Reasoning From Mechanistic Reasoning: The Evidence-Based Argument for Lucas' Goedelian Thesis,2016
+DASAAA,Gesiel B. Da Silva,An Axiomatic Approach to Theodicy Via Formal Applied Systems,2020
+SLUAVO-2,J. Slupecki,A Variant of the Proof of Completeness of First Order Functional Calculus,1961
+HAMEPO,Julius Hamilton,Enumerating Properties of Categories,manuscript
+DANGSR-2,Jo\~{a}o Daniel Dantas,"G\""{o}del's Slingshot Revisited: Does Russell's Theory of Descriptions Really Evade the Slingshot",2016
+AKMBR-4,Varol Akman,"Vladimir Lifschitz, Ed., \emph{Formalizing Common Sense: Papers by John Mccarthy}",1995
+AKMBR-3,Varol Akman,"Colin Allen \& Michael Hand, \emph{Logic Primer}",1995
+COREMD-3,Moritz Cordes,Edgar Morscher: Die Wissenschaftliche Definition,2018
+AKMBR-2,Varol Akman,"Hans Kamp \& Uwe Reyle, \emph{From Discourse to Logic: Introduction to Modeltheoretic Semantics of Natural Language, Formal Logic and Discourse Representation Theory}",1995
+TINBR,Erkan Tin and Varol Akman,"Anil Nerode \& Richard A. Shore, \emph{Logic for Applications}, Springer-Verlag, 1993",1995
+GLAUSL,Ronald Glass,Understanding Symbolic Logic,1984
+BOHSL,Ivan Boh,Symbolic Logic,1962
+MCGFL,James W. McGray,First-Order Logic,2000
+RITS-3,P. R.,Introduction to Symbolic Logic and its Applications,1959
+BALFOT,Brian Ball,"Forms of Thought, by E. J. Lowe",2014
+HANFL,Barbara Hannan,First-Order Logic,1995
+YOUISL,Thomas Young,Introductory Symbolic Logic Without Formal Proofs,1992
+RAUAFC,Nils Ch Rauhut,A First Course in Logic,2004
+COFRHE,Brian Coffey,Elements of Symbolic Logic,1948
+EEII,T. E.,Exercises in Introductory Symbolic Logic,1956
+GOOEAS-2,William K. Goosens,Elementary Applied Symbolic Logic,1977
+JFOS,D. J.,Fundamentals of Symbolic Logic,1963
+ASL-2,E. J. A.,Symbolic Logic,1966
+CWCBRL,W. C. C.,"Book Review:Symbolic Logic C. I. Lewis, C. H. Langford",1952
+WSLA,R. J. W.,Symbolic Logic and Language,1966
+BACESL,John Bacon,Elementary Symbolic Logic,1975
+ADLFLV,Jonathan E. Adler,First-Order Logic,2000
+MILISL,Andrew P. Mills,Introducing Symbolic Logic,2006
+CLCS,F. K. C.,Lewis Carroll?s Symbolic Logic,1978
+KASIQO,Arman Kashef,In Quest of Universal Logic: A Brief Overview of Formal Logic's Evolution (1st edition),2023

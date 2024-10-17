@@ -1,0 +1,1001 @@
+ID,Author,Title,Year
+CHATSA,David J. Chalmers,The Singularity: A Philosophical Analysis,2010
+HAGTEO-9,Thilo Hagendorff,The Ethics of Ai Ethics: An Evaluation of Guidelines,2020
+FLOAEF,Luciano Floridi and Josh Cowls and Monica Beltrametti and Raja Chatila and Patrice Chazerand and Virginia Dignum and Christoph Luetge and Robert Madelin and Ugo Pagallo and Francesca Rossi and Burkhard Schafer and Peggy Valcke and Effy Vayena,"Ai4People--an Ethical Framework for a Good Ai Society: Opportunities, Risks, Principles, and Recommendations",2018
+KRUCWT,Joel Krueger and Lucy Osler,"Communing with the Dead Online: Chatbots, Grief, and Continuing Bonds",2022
+VALTAT-8,Shannon Vallor,Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting,2016
+HOTASM,Manh{-}Tung Ho and Quan{-}Hoang Vuong,Toward a Social Theory of Human-Ai Co-Creation: Bringing Techno-Social Reproduction and Situated Cognition Together with the Following Seven Premises,manuscript
+FLOAUF,Luciano Floridi and Josh Cowls,A United Framework of Five Principles for Ai in Society,2019
+MORFWT-5,Jessica Morley and Luciano Floridi and Libby Kinsey and Anat Elhalal,"From What to How: An Initial Review of Publicly Available Ai Ethics Tools, Methods and Research to Translate Principles Into Practices",2020
+TSATEO-5,Andreas Tsamados and Nikita Aggarwal and Josh Cowls and Jessica Morley and Huw Roberts and Mariarosaria Taddeo and Luciano Floridi,The Ethics of Algorithms: Key Problems and Solutions,2021
+FLOAIA,Corinne Cath and Sandra Wachter and Brent Mittelstadt and Mariarosaria Taddeo and Luciano Floridi,"Artificial Intelligence and the ?Good Society?: The Us, Eu, and Uk Approach",2018
+VLIMZW,Carissa V\'{e}liz,Moral Zombies: Why Algorithms Are Not Moral Agents,2021
+UMBMVS,Steven Umbrello and Ibo van de Poel,Mapping Value Sensitive Design Onto Ai for Social Good Principles,2021
+FLOHTD,Luciano Floridi and Josh Cowls and Thomas C. King and Mariarosaria Taddeo,How to Design Ai for Social Good: Seven Essential Factors,2020
+LISGAA-2,Christian List,Group Agency and Artificial Intelligence,2021
+SPASTU,Robert Sparrow and Joshua Hatherley and Justin Oakley and Chris Bain,Should the Use of Adaptive Machine Learning Systems in Medicine Be Classified as Research?,2024
+GROOTE-4,Thomas Grote and Philipp Berens,On the Ethics of Algorithmic Decision-Making in Healthcare,2020
+GABAIV,Iason Gabriel,"Artificial Intelligence, Values, and Alignment",2020
+MLLFPI,"Vincent C. M\""{u}ller and Nick Bostrom",Future Progress in Artificial Intelligence: A Survey of Expert Opinion,2016
+MILRSA-3,Silvia Milano and Mariarosaria Taddeo and Luciano Floridi,Recommender Systems and Their Ethical Challenges,2020
+NYHAAT,Sven Nyholm,Attributing Agency to Automated Systems: Reflections on Human?Robot Collaborations and Responsibility-Loci,2018
+VLIPIP,Carissa V\'{e}liz,Privacy is Power,2020
+GOEAAI-2,Trystan S. Goetze,"Ai Art is Theft: Labour, Extraction, and Exploitation, or, on the Dangers of Stochastic Pollocks",2024
+ROBTCA-17,Huw Roberts and Josh Cowls and Jessica Morley and Mariarosaria Taddeo and Vincent Wang and Luciano Floridi,"The Chinese Approach to Artificial Intelligence: An Analysis of Policy, Ethics, and Regulation",2021
+RYAIAW,Mark Ryan,"In Ai We Trust: Ethics, Artificial Intelligence, and Reliability",2020
+COEAIR,Mark Coeckelbergh,"Artificial Intelligence, Responsibility Attribution, and a Relational Justification of Explainability",2020
+WONDAF,Pak{-}Hang Wong,Democratizing Algorithmic Fairness,2020
+ZEDSTB,Carlos Zednik,Solving the Black Box Problem: A Normative Framework for Explainable Artificial Intelligence,2019
+ZERTIA-2,John Zerilli and Alistair Knott and James Maclaurin and Colin Gavaghan,Transparency in Algorithmic and Human Decision-Making: Is There a Double Standard?,2018
+FLEUIA,Will Fleisher,"Understanding, Idealization, and Explainable Ai",2022
+AUGITA,Joshua August Skorburg and Josephine Yam,Is There an App for That?: Ethical Issues in the Digital Mental Health Response to Covid-19,2022
+DUNUAA,Leonard Dung,Understanding Artificial Agency,forthcoming
+MOREAA-18,"Jessica Morley and Anat Elhalal and Francesca Garcia and Libby Kinsey and Jakob M\""{o}kander and Luciano Floridi",Ethics as a Service: A Pragmatic Operationalisation of Ai Ethics,2021
+VANEVI-4,Ibo van de Poel,Embedding Values in Artificial Intelligence (Ai) Systems,2020
+KNIAIA,"Peter K\""{o}nigs",Artificial Intelligence and Responsibility Gaps: What is the Problem?,2022
+LANWDW,"Markus Langer and Daniel Oster and Timo Speith and Lena K\""{a}stner and Kevin Baum and Holger Hermanns and Eva Schmidt and Andreas Sesing",What Do We Want From Explainable Artificial Intelligence (Xai)? ? a Stakeholder Perspective on Xai and a Conceptual Model Guiding Interdisciplinary Xai Research,2021
+NOVTAR-2,Claudio Novelli and Casolari Federico and Antonino Rotolo and Mariarosaria Taddeo and Luciano Floridi,Taking Ai Risks Seriously: A New Assessment Model for the Ai Act,2023
+DANTRO-15,John Danaher,The Rise of the Robots and the Crisis of Moral Patiency,2019
+HARWII-7,Jacqueline Harding and Nathaniel Sharadin,What is It for a Machine Learning Model to Have a Capability?,forthcoming
+JOHABO-5,Gabbrielle Johnson,Algorithmic Bias: On the Implicit Biases of Social Technology,2020
+MACTEA-13,James Maclaurin and Toby Walsh and Neil Levy and Genevieve Bell and Fiona Wood and Anthony Elliott and Iven Mareels,The Effective and Ethical Development of Artificial Intelligence: An Opportunity to Improve Our Wellbeing,2019
+DANWLB,John Danaher,Will Life Be Worth Living in a World Without Work? Technological Unemployment and the Meaning of Life,2017
+MAITPP,Jakob Thrane Mainz,The Patient Preference Predictor and the Objection From Higher-Order Preferences,2023
+BANTEI,Sarah Bankins and Paul Formosa,The Ethical Implications of Artificial Intelligence (Ai) for Meaningful Work,2023
+GUNMTG,David J. Gunkel,Mind the Gap: Responsible Robotics and the Problem of Responsibility,2020
+MKAEAT,"Jakob M\""{o}kander and Luciano Floridi",Ethics-Based Auditing to Develop Trustworthy Ai,2021
+UMBDAF-2,Steven Umbrello and Roman Yampolskiy,Designing Ai for Explainability and Verifiability: A Value Sensitive Design Approach to Avoid Artificial Stupidity in Autonomous Vehicles,2022
+SHEATH-4,Henry Shevlin,All Too Human? Identifying and Mitigating Ethical Risks of Social Ai,manuscript
+URSLOE,Frank Ursin and Felix Lindner and Timo Ropinski and Sabine Salloch and Cristian Timmermann,Levels of Explicability for Medical Artificial Intelligence: What Do We Normatively Need and What Can We Technically Reach?,2023
+DANTAE-2,John Danaher,Toward an Ethics of Ai Assistants: An Initial Framework,2018
+ETZIEI,Amitai Etzioni and Oren Etzioni,Incorporating Ethics Into Artificial Intelligence,2017
+FLOETR,Luciano Floridi,Establishing the Rules for Building Trustworthy Ai,2019
+DANTPC-3,John Danaher,The Philosophical Case for Robot Friendship,forthcoming
+DALLLM,William D?Alessandro and Harry R. Lloyd and Nathaniel Sharadin,Large Language Models and Biorisk,2023
+BAUFRT-2,Kevin Baum and Susanne Mantel and Timo Speith and Eva Schmidt,From Responsibility to Reason-Giving Explainable Artificial Intelligence,2022
+MOHDAD,Shakir Mohamed and Marie{-}Therese Png and William Isaac,Decolonial Ai: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence,2020
+MCDCKB,Rosalind J. McDougall,Computer Knows Best? The Need for Value-Flexibility in Medical Ai,2019
+VANCTR-5,Aimee van Wynsberghe and Scott Robbins,Critiquing the Reasons for Making Artificial Moral Agents,2019
+HICCIB,Michael Townsen Hicks and James Humphries and Joe Slater,Chatgpt is Bullshit,2024
+SHUHMS,Carl Shulman and Elliott Thornley,How Much Should Governments Pay to Prevent Catastrophes? Longtermism's Limited Role,forthcoming
+MKAEAT-2,"Jakob M\""{o}kander and Luciano Floridi",Ethics-Based Auditing to Develop Trustworthy Ai,2021
+VLICSU,Carissa V\'{e}liz,Chatbots Shouldn?T Use Emojis,2023
+BURAAO-11,Christopher Burr and Nello Cristianini and James Ladyman,An Analysis of the Interaction Between Intelligent Software Agents and Human Users,2018
+URSEOA-3,Frank Ursin and Cristian Timmermann and Florian Steger,Explicability of Artificial Intelligence in Radiology: Is a Fifth Bioethical Principle Conceptually Necessary?,2022
+PETAPB,Uwe Peters,Algorithmic Political Bias in Artificial Intelligence Systems,2022
+LECTCO-8,Theodore Lechterman,The Concept of Accountability in Ai Ethics and Governance,2023
+LAAAIS,Sebastian Laacke and Regina Mueller and Georg Schomerus and Sabine Salloch,"Artificial Intelligence, Social Media and Depression. A New Concept of Health-Related Digital Autonomy",2021
+DUNTAF-3,Leonard Dung,The Argument for Near-Term Human Disempowerment Through Ai,2024
+CHABAM-5,Berman Chan,Black-Box Assisted Medical Decisions: Ai Power Vs. Ethical Physician Care,2023
+RAHSPT,Iyad Rahwan,Society-in-the-Loop: Programming the Algorithmic Social Contract,2018
+COERRT,Mark Coeckelbergh,Robot Rights? Towards a Social-Relational Justification of Moral Consideration,2010
+Martel2023-MORMLI-2,Alexis Morin{-}Martel,Machine Learning in Bail Decisions and Judges? Trustworthiness,2023
+BRAPOA-6,Matthias Braun and Patrik Hummel and Susanne Beck and Peter Dabrock,Primer on an Ethics of Ai-Based Decision Support Systems in the Clinic,2021
+ANDABD-2,Adam J. Andreotta and Nin Kirkham and Marco Rizzi,"Ai, Big Data, and the Future of Consent",2022
+HIMNMT,Johannes Himmelreich,Never Mind the Trolley: The Ethics of Autonomous Vehicles in Mundane Situations,2018
+HILTPO-38,Elisabeth Hildt,The Prospects of Artificial Consciousness: Ethical Dimensions and Concerns,2023
+DAVTAA-21,Jovana Davidovic and Shea Brown and Ali Hasan,The Algorithm Audit: Scoring the Algorithms That Score Us,2021
+BRYPIN,Joanna J. Bryson,Patiency is Not a Virtue: The Design of Intelligent Systems and Systems of Ethics,2018
+BOSAWL,By Nick Bostrom,Are We Living in a Computer Simulation?,2003
+DANAWA,John Danaher and Sven Nyholm,"Automation, Work and the Achievement Gap",2021
+Taylor2024-CAVDAS,Dan Cavedon{-}Taylor,Deepfakes: A Survey and Introduction to the Topical Collection,2024
+RINDDH,Regina Rini and Leah Cohen,"Deepfakes, Deep Harms",2022
+MOSOTM-3,Kestutis Mosakas,On the Moral Status of Social Robots: Considering the Consciousness Criterion,2021
+MILAPA-8,Silvia Milano and Carina Prunkl,Algorithmic Profiling as a Source of Hermeneutical Injustice,forthcoming
+CRETAL-3,Kathleen Creel and Deborah Hellman,"The Algorithmic Leviathan: Arbitrariness, Fairness, and Opportunity in Algorithmic Decision-Making Systems",2022
+VUOECA,Quan{-}Hoang Vuong and Manh{-}Tung Ho,Escape Climate Apathy by Harnessing the Power of Generative Ai,2024
+MUNTVO-2,Lauritz Munch and Jakob Mainz and Jens Christian Bjerring,The Value of Responsibility Gaps in Algorithmic Decision-Making,2023
+UMBBAC,Steven Umbrello,Beneficial Artificial Intelligence Coordination by Means of a Value Sensitive Design Approach,2019
+HAKMRO,"Raul Hakli and Pekka M\""{a}kel\""a",Moral Responsibility of Robots and Hybrid Agents,2019
+VALMDA-3,Shannon Vallor,Moral Deskilling and Upskilling in a New Machine Age: Reflections on the Ambiguous Future of Character,2015
+PRUHAI,C. Prunkl,Human Autonomy in the Age of Artificial Intelligence (1st edition),2022
+ACHAPO-2,Hans Achterhuis,American Philosophy of Technology: The Empirical Turn,2001
+LINRET-4,Patrick Lin and Keith Abney and George A. Bekey,Robot Ethics: The Ethical and Social Implications of Robotics,2011
+ROBAMP-2,Scott Robbins,A Misdirected Principle with a Catch: Explicability for Ai,2019
+VANCTR-4,Aimee van Wynsberghe and Scott Robbins,Critiquing the Reasons for Making Artificial Moral Agents,2018
+ANDVOT-4,Gloria Andrada and Robert William Clowes and Paul Smart,Varieties of Transparency: Exploring Agency Within Ai Systems,2023
+KLEOMS,Michael Klenk,"(Online) Manipulation: Sometimes Hidden, Always Careless",forthcoming
+UMBAVD,Steven Umbrello and Angelo Frank De Bellis,A Value-Sensitive Design Approach to Intelligent Agents,2018
+PETEAL-3,Uwe Peters,Explainable Ai Lacks Regulative Reasons: Why Ai and Human Decision?Making Are Not Equally Opaque,forthcoming
+KNEBG,Markus Kneer and Michael T. Stuart,Playing the Blame Game with Robots,2021
+HUNEOA-3,Anna Lena Hunkenschroer and Christoph Luetge,Ethics of Ai-Enabled Recruiting and Selection: A Review and Research Agenda,2022
+MORRMM,Hans P. Moravec,Robot: Mere Machine to Transcendent Mind,1998
+BURTEO-64,Christopher Burr and Mariarosaria Taddeo and Luciano Floridi,The Ethics of Digital Well-Being: A Thematic Review,2019
+FLATKI,Tobias Flattery,The Kant-Inspired Indirect Argument for Non-Sentient Robot Rights,2023
+ERLASW,Alexandre Erler,Ai Successors Worth Creating? Commentary on Lavazza \& Vila\c{c}a,2024
+FACAAA,Marco Facchin and Giacomo Zanotti,Affective Artificial Agents as Sui Generis Affective Artifacts,2024
+STATRR-3,Keith E. Stanovich,The Robot's Rebellion: Finding Meaning in the Age of Darwin,2004
+BURCMR,Christopher Burr and Nello Cristianini,Can Machines Read Our Minds?,2019
+RYAAIE,Mark Ryan and Bernd Carsten Stahl,Artificial Intelligence Ethics Guidelines for Developers and Users: Clarifying Their Content and Normative Implications,2021
+NICTIM-4,Philip J. Nickel,Trust in Medical Artificial Intelligence: A Discretionary Account,2022
+GIUTAM,Alberto Giubilini and Julian Savulescu,The Artificial Moral Advisor. The ?Ideal Observer? Meets Artificial Intelligence,2018
+DORQMW,John Dorsch and Ophelia Deroy,Quasi-Metacognitive Machines: Why We Don?T Need Morally Trustworthy Ai and Communicating Reliability is Enough,2024
+SULIRU,Emily Sullivan,"Inductive Risk, Understanding, and Opaque Machine Learning Models",2022
+MADRVA-3,Michael Madary and Thomas Metzinger,Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of Vr-Technology,2016
+CHAHPR-2,David J. Chalmers and Robert M. French and Douglas R. Hofstadter,"High-Level Perception, Representation, and Analogy:A Critique of Artificial Intelligence Methodology",1992
+PURAMM,Duncan Purves and Ryan Jenkins and Bradley J. Strawser,"Autonomous Machines, Moral Judgment, and Acting for the Right Reasons",2015
+GORWDW-2,John{-}Stewart Gordon,What Do We Owe to Intelligent Robots?,2020
+WATCAO-2,David S. Watson and Jenny Krutzinna and Ian N. Bruce and Christopher E. M. Griffiths and Iain B. McInnes and Michael R. Barnes and Luciano Floridi,Clinical Applications of Machine Learning Algorithms: Beyond the Black Box,2019
+BAUSCE,Seth D. Baum,Social Choice Ethics in Artificial Intelligence,2020
+JECBED,Nancy S. Jecker and Eisuke Nakazawa,Bridging East-West Differences in Ethics Guidance for Ai and Robots,2022
+WARAIA-6,C. S. Wareham,Artificial Intelligence and African Conceptions of Personhood,2021
+LARAIA-5,Francisco Lara and Jan Deckers,Artificial Intelligence as a Socratic Assistant for Moral Enhancement,2019
+SCHADO-9,Eric Schwitzgebel and Mara Garza,A Defense of the Rights of Artificial Intelligences,2015
+NOVHTE,Claudio Novelli and Federico Casolari and Antonino Rotolo and Mariarosaria Taddeo and Luciano Floridi,"Ai Risk Assessment: A Scenario-Based, Proportional Methodology for the Ai Act",2024
+ZIMPWC,Annette Zimmermann and Chad Lee{-}Stronach,Proceed with Caution,2021
+ONEEIW,Elizabeth O'Neill and Michal Klincewicz and Michiel Kemmer,Ethical Issues with Artificial Ethics Assistants,2023
+SUSPPA,Daniel Susser,Predictive Policing and the Ethics of Preemption,2021
+OUCAIT,Leila Ouchchy and Allen Coin and Veljko Dubljevi\'c,Ai in the Headlines: The Portrayal of the Ethical Issues of Artificial Intelligence in the Media,2020
+CALSHA-2,Rafael Calvo and Dorian Peters and Karina Vold and Richard M. Ryan,Supporting Human Autonomy in Ai Systems,2020
+YAMFHR,Josephine Yam and Joshua August Skorburg,From Human Resources to Human Rights: Impact Assessments for Hiring Algorithms,2021
+BRAAOA-6,Bram Vaassen,"Ai, Opacity, and Personal Autonomy",2022
+WATTRA-10,David Watson,The Rhetoric and Reality of Anthropomorphism in Artificial Intelligence,2019
+LINAII-2,Ting{-}An Lin and Po{-}Hsuan Cameron Chen,Artificial Intelligence in a Structurally Unjust Society,2022
+BRYOFA,Joanna J. Bryson and Mihailis E. Diamantis and Thomas D. Grant,"Of, for, and by the People: The Legal Lacuna of Synthetic Persons",2017
+LEBARA,Derek Leben,A Rawlsian Algorithm for Autonomous Vehicles,2017
+WAEWAE,Rosalie Waelen,Why Ai Ethics is a Critical Theory,2022
+MECMHC,Giulio Mecacci and Filippo Santoni de Sio,Meaningful Human Control as Reason-Responsiveness: The Case of Dual-Mode Vehicles,2020
+LINREE,Patrick Lin and Keith Abney and Ryan Jenkins,Robot Ethics 2.0: From Autonomous Cars to Artificial Intelligence,2017
+RUBALA-2,Alan Rubel and Clinton Castro and Adam Pham,Agency Laundering and Information Technologies,2019
+LOIFEO,Michele Loi and Anders Herlitz and Hoda Heidari,Fair Equality of Chances for Prediction-Based Decisions,forthcoming
+GROTCA-4,J. P. Grodniewicz and Mateusz Hohol,Therapeutic Conversational Artificial Intelligence and the Acquisition of Self-Understanding,2023
+CASJM,Clinton Castro,Just Machines,2022
+FERIAW,Andrea Ferrario and Michele Loi and Eleonora Vigan\`o,In Ai We Trust Incrementally: A Multi-Layer Model of Trust to Analyze Human-Artificial Intelligence Interactions,2020
+BOSEII,Nick Bostrom,Ethical Issues in Advanced Artificial Intelligence,manuscript
+DINSWB,Ezio Di Nucci,Should We Be Afraid of Medical Ai?,2019
+KLEDWA,Michael Klenk,Digital Well-Being and Manipulation Online,2020
+FAZAFF,Sina Fazelpour and Zachary C. Lipton,Algorithmic Fairness From a Non-Ideal Perspective,2020
+CHRNAP,Tim Christiaens,Nationalize Ai!,forthcoming
+SHAAWS,Amanda Sharkey,"Autonomous Weapons Systems, Killer Robots and Human Dignity",2019
+HATTVO-3,Joshua Hatherley and Robert Sparrow and Mark Howard,The Virtues of Interpretable Medical Ai,2024
+KINAIC-2,Thomas C. King and Nikita Aggarwal and Mariarosaria Taddeo and Luciano Floridi,Artificial Intelligence Crime: An Interdisciplinary Analysis of Foreseeable Threats and Solutions,2019
+MUNADT-2,Lauritz Munch and Jens Christian Bjerring and Jakob Mainz,Algorithmic Decision-Making: The Right to Explanation and the Significance of Stakes,forthcoming
+GIBAIF,Jennifer Gibson and Vincci Lui and Nakul Malhotra and Jia Ce Cai and Neha Malhotra and Donald J. Willison and Ross Upshur and Erica Di Ruggiero and Kathleen Murphy,Artificial Intelligence for Good Health: A Scoping Review of the Ethics Literature,2021
+BODTPO-4,Margaret A. Boden,The Philosophy of Artificial Intelligence,1990
+FRIBTB,Julian Friedland and Kristian Myrseth and David Balkin,Beyond the Brave New Nudge: Activating Ethical Reflection Over Behavioral Reaction,2023
+CONTEK,Giuseppe Contissa and Francesca Lagioia and Giovanni Sartor,The Ethical Knob: Ethically-Customisable Automated Vehicles and the Law,2017
+COWTAG-2,Josh Cowls and Andreas Tsamados and Mariarosaria Taddeo and Luciano Floridi,"The Ai Gambit: Leveraging Artificial Intelligence to Combat Climate Change--Opportunities, Challenges, and Recommendations",2021
+LUCOPI,Luciano Floridi,Open Problems in the Philosophy of Information,2004
+STRTET-8,Henrik Skaug S\a{e}tra and John Danaher,To Each Technology its Own Ethics: The Problem of Ethical Proliferation,2022
+BORSCA-6,Jason Borenstein and Joseph R. Herkert and Keith W. Miller,Self-Driving Cars and Engineering Ethics: The Need for a System Level Analysis,2019
+BAUVVU-3,William A. Bauer,Virtuous Vs. Utilitarian Artificial Moral Agents,2020
+BRAALO-4,Matthias Braun and Hannah Bleher and Patrik Hummel,A Leap of Faith: Is There a Formula for ?Trustworthy? Ai?,2021
+FERTDN,Andrea Ferrario and Michele Loi and Eleonora Vigan\`o,Trust Does Not Need to Be Human: It is Possible to Trust Medical Ai,2021
+VOITIA-2,Cristina Voinea and Constantin Vic\ua and Emilian Mihailov and Julian Savulescu,The Internet as Cognitive Enhancement,2020
+HIMADA,Johannes Himmelreich,Against ?Democratizing Ai?,2023
+JOERFA,Krueger Joel and Tom Roberts,Real Feeling and Fictional Time in Human-Ai Interactions,2024
+ONYAAA,Justin Nnaemeka Onyeukaziri,Action and Agency in Artificial Intelligence: A Philosophical Critique,2023
+HEEAPA,Richard Heersmink and Barend de Rooij and Mar\'{i}a Jimena Clavel V\'{a}zquez and Matteo Colombo,"A Phenomenology and Epistemology of Large Language Models: Transparency, Trust, and Trustworthiness",2024
+DAMAIH,Luisa Damiano and Paul Dumouchel,Anthropomorphism in Human?Robot Co-Evolution,2018
+Larrieux2019-TAMTYC,Aurelia Tam\`o{-}Larrieux and Christoph Lutz and Eduard Fosch Villaronga and Heike Felzmann,Transparency You Can Trust: Transparency Requirements for Artificial Intelligence Between Legal Norms and Contextual Concerns,2019
+SKOLLM,Joshua August Skorburg and Kristina L. Kupferschmidt and Graham W. Taylor,?Large Language Models? Do Much More Than Just Language: Some Bioethical Implications of Multi-Modal Ai,2023
+BIRCDU,Jonathan Birch and Kathleen A. Creel and Abhinav K. Jha and Anya Plutynski,Clinical Decisions Using Ai Must Consider Patient Values,2022
+KINSPI-4,Owen C. King and Mayli Mertens,Self-Fulfilling Prophecy in Practical and Automated Prediction,2023
+TASFST,John Tasioulas,First Steps Towards an Ethics of Robots and Artificial Intelligence,2019
+NATTPO-17,Rajakishore Nath and Vineet Sahu,The Problem of Machine Ethics in Artificial Intelligence,2020
+SHECMA-6,Henry Shevlin,"Consciousness, Machines, and Moral Status",manuscript
+SUSIIA-2,Daniel Susser,Invisible Influence: Artificial Intelligence and the Ethics of Adaptive Choice Architectures,2019
+GROWFA,J. P. Grodniewicz and Mateusz Hohol,Waiting for a Digital Therapist: Three Challenges on the Path to Psychotherapy Delivered by Artificial Intelligence,2023
+LEBEFR,Derek Leben,Ethics for Robots: How to Design a Moral Algorithm,2018
+DIGEIA,Virginia Dignum,Ethics in Artificial Intelligence: Introduction to the Special Issue,2018
+BEZWDI,Louise Bezuidenhout and Emanuele Ratti,What Does It Mean to Embed Ethics in Data Science? An Integrative Approach Based on the Microethics and Virtues,2021
+ROSAAT-29,Amber Ross,Ai and the Expert; a Blueprint for the Ethical Use of Opaque Ai,forthcoming
+RUBAAA-3,Alan Rubel and Clinton Castro and Adam Pham,"Algorithms, Agency, and Respect for Persons",2020
+BUREOE-8,Christopher Burr and Jessica Morley,Empowerment or Engagement? Digital Health Technologies for Mental Healthcare,2020
+KAUWSB,Antti Kauppinen,Who Should Bear the Risk When Self-Driving Vehicles Crash?,2020
+STEAPS-5,Heather Stewart and Emily Cichocki and Carolyn McLeod,A Perfect Storm for Epistemic Injustice,2022
+DUBOHO,Markus Dirk Dubber and Frank Pasquale and Sunit Das,The Oxford Handbook of Ethics of Ai,2020
+CASWWW,Clinton Castro,What's Wrong with Machine Bias,2019
+VANSRC-3,A. van Wynsberghe,"Service Robots, Care Ethics, and Design",2016
+ZAJACW,Maciek Zaj\k{a}c,Aws Compliance with the Ethical Principle of Proportionality: Three Possible Solutions,2023
+MUNTEI-2,Ivy Munoko and Helen L. Brown{-}Liburd and Miklos Vasarhelyi,The Ethical Implications of Using Artificial Intelligence in Auditing,2020
+STAAIE-2,Christopher Starke and Birte Keller and Kimon Kieslich,Artificial Intelligence Ethics by Design. Evaluating Public Perception on the Importance of Ethical Design Principles of Artificial Intelligence,2022
+VANDFV-6,Herman Veluwenkamp and Jeroen van den Hoven,Design for Values and Conceptual Engineering,2023
+FELTTB,Heike Felzmann and Eduard Fosch{-}Villaronga and Christoph Lutz and Aurelia Tam\`o{-}Larrieux,Towards Transparency by Design for Artificial Intelligence,2020
+VELWMB,Carissa Veliz and Milo Phillips{-}Brown and Carina Prunkl and Ted Lechterman,We Might Be Afraid of Black-Box Algorithms,2021
+POZAOR,Giorgia Pozzi,Automated Opioid Risk Scores: A Case for Machine Learning-Induced Epistemic Injustice in Healthcare,2023
+COWTAG,Josh Cowls and Andreas Tsamados and Mariarosaria Taddeo and Luciano Floridi,"The Ai Gambit -- Leveraging Artificial Intelligence to Combat Climate Change: Opportunities, Challenges, and Recommendations",2021
+LANEET-3,Benjamin Lange and Geoff Keeling and Amanda McCroskery and Ben Zevenbergen and Sandra Blascovich and Kyle Pedersen and Alison Lentz and Blaise Aguera Y. Arcas,Engaging Engineering Teams Through Moral Imagination: A Bottom-Up Approach for Responsible Innovation and Ethical Culture Change in Technology Companies,2023
+RUBDOA-3,Alan Rubel and Clinton Castro and Adam Pham,"Democratic Obligations and Technological Threats to Legitimacy: Predpol, Cambridge Analytica, and Internet Research Agency",2021
+KHLIR,"Sebastian K\""{o}hler",Instrumental Robots,2020
+LUCHAD,Morgan Luck,Has Ali Dissolved the Gamer?s Dilemma?,2018
+SHAPAP-28,Nathaniel Sharadin,Predicting and Preferring,forthcoming
+BURTEO-62,Christopher Burr and Luciano Floridi,The Ethics of Digital Well-Being: A Multidisciplinary Perspective,2020
+PETICS,"Peter G\""{a}rdenfors","Induction, Conceptual Spaces and Ai",1990
+BERWSG-2,Andrea Berber and Sanja Sre\'{c}kovi\'c,When Something Goes Wrong: Who is Responsible for Errors in Ml Decision-Making?,2023
+TUBERA-4,Ariela Tubert and Justin Tiehen,Existentialist Risk and Value Misalignment,forthcoming
+BOZBIA-2,Engin Bozdag,Bias in Algorithmic Filtering and Personalization,2013
+STIAPF-2,Charlotte Stix,Actionable Principles for Artificial Intelligence Policy: Three Pathways,2021
+ROBNST-2,Michael Robillard,No Such Thing as Killer Robots,2017
+ERLPWA,Alexandre Erler,Publish with Autogen or Perish? Some Pitfalls to Avoid in the Pursuit of Academic Enhancement Via Personalized Large Language Models,2023
+HIGOBT,Se\'{a}n S. \'{O}h\'{E}igeartaigh and Jess Whittlestone and Yang Liu and Yi Zeng and Zhe Liu,Overcoming Barriers to Cross-Cultural Cooperation in Ai Ethics and Governance,2020
+SHEEAT-12,Henry Shevlin,Ethics at the Frontier of Human-Ai Relationships,manuscript
+DANAMV,Peter Danielson,Artificial Morality: Virtuous Robots for Virtual Games,1992
+FLOOGA-2,Luciano Floridi,"On Good and Evil, the Mistaken Idea That Technology is Ever Neutral, and the Importance of the Double-Charge Thesis",2023
+ADADEA-2,Jonathan Adams,Defending Explicability as a Principle for the Ethics of Artificial Intelligence in Medicine,2023
+TADMTI,Mariarosaria Taddeo,"Modelling Trust in Artificial Agents, a First Step Toward the Analysis of e-Trust",2010
+BANWAM,Sarah Bankins and Paul Formosa,When Ai Meets Pc: Exploring the Implications of Workplace Social Robots and a Human-Robot Psychological Contract,2019
+JECTSF,Nancy S. Jecker and Caesar A. Atuire and Martin Ajei,Two Steps Forward: An African Relational Account of Moral Standing,2022
+HULDDL,Gordon Hull,Dirty Data Labeled Dirt Cheap: Epistemic Injustice in Machine Learning Systems,2023
+COPAIA-4,Jack Copeland,Artificial Intelligence: A Philosophical Introduction,1993
+ERMTGG,Eva Erman and Markus Furendal,The Global Governance of Artificial Intelligence: Some Normative Concerns,2022
+DAVLTD-3,Benjamin Davies and Thomas Douglas,Learning to Discriminate: The Perfect Proxy Problem in Artificially Intelligent Criminal Sentencing,2022
+COWTAG-3,Josh Cowls and Andreas Tsamados and Mariarosaria Taddeo and Luciano Floridi,"The Ai Gambit: Leveraging Artificial Intelligence to Combat Climate Change--Opportunities, Challenges, and Recommendations",2023
+TIRWOM,Simona Tiribelli and Benedetta Giovanola,Weapons of Moral Construction? On the Value of Fairness in Algorithmic Decision-Making,2022
+MLLNDI,"Vincent C. M\""{u}ller",New Developments in the Philosophy of Ai,2016
+LUETGE,Christoph Luetge,The German Ethics Code for Automated and Connected Driving,2017
+FUCUSO,Thomas Fuchs,Understanding Sophia? On Human Interaction with Artificial Agents,2024
+ALTTPO-14,Hannah Altehenger and Leonhard Menges,The Point of Blaming Ai Systems,2024
+FLOAEA,Luciano Floridi and J. W. Sanders,Artificial Evil and the Foundation of Computer Ethics,2001
+WALWTE,Douglas N. Walton,"Witness Testimony Evidence: Argumentation, Artificial Intelligence, and Law",2008
+UMBMHC-2,Steven Umbrello,Meaningful Human Control Over Smart Home Systems: A Value Sensitive Design Approach,2020
+GIOBBA,Benedetta Giovanola and Simona Tiribelli,Beyond Bias and Discrimination: Redefining the Ai Ethics Principle of Fairness in Healthcare Machine-Learning Algorithms,2023
+MITTEO-19,Brent Mittelstadt,The Ethics of Biomedical ?Big Data? Analytics,2019
+BIROTS,Jonathan Birch,On the 'Simulation Argument' and Selective Scepticism,2013
+Orallo2019-HERAET,Jose Hernandez{-}Orallo and Karina Vold,Ai Extenders: The Ethical and Societal Implications of Humans Cognitively Extended by Ai,2019
+SCHANT-10,Christian Schmauder and Jurgis Karpus and Maximilian Moll and Bahador Bahrami and Ophelia Deroy,Algorithmic Nudging: The Need for an Interdisciplinary Oversight,2023
+RATCMA,Emanuele Ratti and Mark Graves,Cultivating Moral Attention: A Virtue-Oriented Approach to Responsible Data Science in Healthcare,2021
+ETZAAE,Amitai Etzioni and Oren Etzioni,Ai Assisted Ethics,2016
+BAUAAA-3,William A. Bauer and Veljko Dubljevi\'c,Ai Assistants and the Paradox of Internal Automaticity,2019
+GORASR-2,John{-}Stewart Gordon,Are Superintelligent Robots Entitled to Human Rights?,2022
+ELDCFB,Alexis Elder,Conversation From Beyond the Grave? A Neo-Confucian Ethics of Chatbots of the Dead,2020
+VLISAP,Carissa V\'{e}liz,Self-Presentation and Privacy Online,2022
+BAROEA-8,Michael Randall Barnes,"Online Extremism, Ai, and (Human) Content Moderation",2022
+TIECDT,Matthew Tieu and Alison L. Kitson,Care Depersonalized: The Risk of Infocratic ?Personalised? Care and a Posthuman Dystopia (1st edition),2023
+ROBAAT-14,Scott Robbins,Ai and the Path to Envelopment: Knowledge as a First Step Towards the Responsible Regulation and Use of Ai-Powered Machines,2020
+KLEEOG,Michael Klenk,Ethics of Generative Ai and Manipulation: A Design-Oriented Research Agenda,2024
+PETRAT-13,Dorian Peters and Karina Vold and Diana Robinson and Rafael Calvo,Responsible Ai: Two Frameworks for Ethical Design and Practice,2020
+SINAET,Peter Singer,Ai Ethics: The Case for Including Animals,2022
+FRIARA,Megan Fritts and Frank Cabrera,Ai Recruitment Algorithms and the Dehumanization Problem,2021
+PETCBI,Uwe Peters and Mary Carman,Cultural Bias in Explainable Ai Research,forthcoming
+MAIWAS,Jakob Mainz and Lauritz Munch and Jens Christian Bjerring and Sissel Godtfredsen,Why Algorithmic Speed Can Be More Important Than Algorithmic Accuracy,2023
+WONCDA-2,Pak{-}Hang Wong,Cultural Differences as Excuses? Human Rights and Cultural Values in Global Ethics and Governance of Ai,2020
+ARAADA,Ognjen Arandjelovi\'c,"Ai \& Democracy, and the Importance of Asking the Right Questions",2021
+YUMLAA,Inchul Yum,Language Agents and Malevolent Design,2024
+WONMOB,David Wong and Luciano Floridi,Meta?s Oversight Board: A Review and Critical Assessment,2023
+LANMGM,Benjamin H. Lang and Sven Nyholm and Jennifer Blumenthal{-}Barby,Responsibility Gaps and Black Box Healthcare Ai: Shared Responsibilization as a Solution,2023
+ONECIA-2,Elizabeth O?Neill,Contextual Integrity as a General Conceptual Tool for Evaluating Technological Change,2022
+HATDAS,Joshua Hatherley and Robert Sparrow,Diachronic and Synchronic Variation in the Performance of Adaptive Machine Learning Systems: The Ethical Challenges,2023
+VLIPM,Carissa V\'{e}liz,"Data, Privacy, and the Individual",2020
+KOPTEO-2,Matthew Kopec and Meica Magnani and Vance Ricks and Roben Torosyan and John Basl and Nicholas Miklaucic and Felix Muzny and Ronald Sandler and Christo Wilson and Adam Wisniewski{-}Jensen and Cora Lundgren and Kevin Mills and Mark Wells,The Effectiveness of Embedded Values Analysis Modules in Computer Science Education: An Empirical Study,2023
+NOVARG,Claudio Novelli and Philipp Hacker and Jessica Morley and Jarle Trondal and Luciano Floridi,"A Robust Governance for the Ai Act: Ai Office, Ai Board, Scientific Panel, and National Authorities",2024
+COEHCC-2,Mark Coeckelbergh,"Health Care, Capabilities, and Ai Assistive Technologies",2010
+PIRRCE,Alberto Pirni and Maurizio Balistreri and Steven Umbrello and Marianna Capasso and Federica Merenda,Robot Care Ethics Between Autonomy and Vulnerability: Coupling Principles and Practices in Autonomous Systems for Care,2021
+FRIMAW-2,Alexis Fritz and Wiebke Brandt and Henner Gimpel and Sarah Bayer,Moral Agency Without Responsibility? Analysis of Three Ethical Models of Human-Computer Interaction in Times of Artificial Intelligence (Ai),2020
+HIMEOT,Johannes Himmelreich,Ethics of Technology Needs More Political Philosophy,2020
+UMBMHC-3,Steven Umbrello,Meaningful Human Control Over Smart Home Systems,2020
+ASAHJC,Peter Asaro,How Just Could a Robot War Be?,2008
+DAVPTI-3,Duncan Purves and Jeremy Davis,"Public Trust, Institutional Legitimacy, and the Use of Algorithms in Criminal Justice",2022
+LLOACO-6,Joan Llorca Albareda,Anthropological Crisis or Crisis in Moral Status: A Philosophy of Technology Approach to the Moral Consideration of Artificial Intelligence,2024
+BothaForthcoming-DEVAII,Tanya de Villiers{-}Botha,Artificial Intelligence in Higher Education in South Africa: Some Ethical Considerations (14th edition),forthcoming
+SHAPPP-4,Nathaniel Paul Sharadin,Patient Preference Predictors and the Problem of Naked Statistical Evidence,2018
+EPTAVA,Shane Epting,Automated Vehicles and Transportation Justice,2019
+FLOAEA-4,L. Floridi and J. Sanders,Artificial Evil and the Foundation of Computer Ethics,2000
+SPAHHF,Robert Sparrow and Joshua Hatherley,"High Hopes for ?Deep Medicine?? Ai, Economics, and the Future of Care",2020
+TELTIO-4,Jake B. Telkamp and Marc H. Anderson,The Implications of Diverse Human Moral Foundations for Assessing the Ethicality of Artificial Intelligence,2022
+CHATRO-56,Berman Chan,The Rise of Artificial Intelligence and the Crisis of Moral Passivity,2020
+KOPDIO,Julian J. Koplin,Dual-Use Implications of Ai Text Generation,2023
+FELCTT-2,Ryan Marshall Felder,Coming to Terms with the Black Box Problem: How to Justify Ai Systems in Health Care,2021
+Alcazar2020-RODDAV-2,Javier Rodr\'{i}guez{-}Alc\'{a}zar and Lilian Bermejo{-}Luque and Alberto Molina{-}P\'{e}rez,Do Automated Vehicles Face Moral Dilemmas? A Plea for a Political Approach,2020
+LUNSRV,"Bj\""{o}rn Lundgren",Safety Requirements Vs. Crashing Ethically: What Matters Most for Policies on Autonomous Vehicles,forthcoming
+LEVWSB-3,Alex Leveringhaus,What's so Bad About Killer Robots?,2018
+HOWTUT,Ayanna Howard and Jason Borenstein,The Ugly Truth About Ourselves and Our Robot Creations: The Problem of Bias and Social Inequity,2018
+MILEAO-10,Silvia Milano and Mariarosaria Taddeo and Luciano Floridi,Ethical Aspects of Multi-Stakeholder Recommendation Systems,2021
+TOTFAA,Wolfhart Totschnig,Fully Autonomous Ai,2020
+PARMWA,W. Jared Parmer,Meaningful Work and Achievement in Increasingly Automated Workplaces,2024
+FLADAD,Tobias Flattery and Christian B. Miller,Deepfakes and Dishonesty,2024
+BLAIUT-3,Russell Blackford and Damien Broderick,Intelligence Unbound: The Future of Uploaded and Machine Minds,2014
+Guskar2021-WEBHTF,Eva Weber{-}Guskar,"How to Feel About Emotionalized Artificial Intelligence? When Robot Pets, Holograms, and Chatbots Become Affective Partners",2021
+WENACA,Wendell Wallach and Stan Franklin and Colin Allen,A Conceptual and Computational Model of Moral Decision Making in Human and Artificial Agents,2010
+ARNTOA,Mark Henderson Arnold,Teasing Out Artificial Intelligence in Medicine: An Ethical Critique of Artificial Intelligence and Machine Learning in Medicine,2021
+MYKAMA,Dmytro Mykhailov,A Moral Analysis of Intelligent Decision-Support Systems in Diagnostics Through the Lens of Luciano Floridi?s Information Ethics,2021
+SHATCS-6,Noel Sharkey and Amanda Sharkey,The Crying Shame of Robot Nannies,2010
+MURPAA-15,Blake Murdoch,Privacy and Artificial Intelligence: Challenges for Protecting Health Information in a New Era,2021
+ZAJPR,Maciek Zaj\k{a}c,Punishing Robots ? Way Out of Sparrow?s Responsibility Attribution Problem,2020
+SEGCET-2,Samuel T. Segun,Critically Engaging the Ethics of Ai for a Global Audience,2021
+WANECW,Tenzin Wangmo and Mirjam Lipps and Reto W. Kressig and Marcello Ienca,Ethical Concerns with the Use of Intelligent Assistive Technology: Findings From a Qualitative Study with Professional Stakeholders,2019
+DUBTIT,Veljko Dubljevi\'c,Toward Implementing the Adc Model of Moral Judgment in Autonomous Vehicles,2020
+NGCAID,Yew{-}Kwang Ng,Could Artificial Intelligence Have Consciousness? Some Perspectives From Neurology and Parapsychology,2023
+WHECIC,Michael Wheeler,"Cognition in Context: Phenomenology, Situated Robotics and the Frame Problem",2008
+KARAIA-5,Brett Karlan,Authenticity in Algorithm-Aided Decision-Making,2024
+GIEICS,Ronald N. Giere,Is Computer Simulation Changing the Face of Experimentation?,2009
+LIUFRR,Hin{-}Yan Liu and Karolina Zawieska,From Responsible Robotics Towards a Human Rights Regime Oriented to the Challenges of Robotics and Artificial Intelligence,2020
+ARMTIT,Stuart Armstrong and Anders Sandberg and Nick Bostrom,Thinking Inside the Box: Controlling and Using an Oracle Ai,2012
+TOLRGA,Fabio Tollon,Responsibility Gaps and the Reactive Attitudes,2022
+SHACAE-6,Joseph Donia and James A. Shaw,Co-Design and Ethical Artificial Intelligence for Health: An Agenda for Critical Research and Practice,2021
+DANS-10,John Danaher,Sexuality,2020
+WHIARK,Jeffrey White,"Autonomous Reboot: Kant, the Categorical Imperative, and Contemporary Challenges for Machine Ethicists",2022
+HINAIW-2,Emmie Hine and Luciano Floridi,Artificial Intelligence with American Values and Chinese Characteristics: A Comparative Analysis of American and Chinese Governmental Ai Policies,2024
+MCSEAS,Andrew McStay,"Emotional Ai, Soft Biometrics and the Surveillance of Emotional Life: An Unusual Consensus on Privacy",2020
+BASTEO-11,John Basl,The Ethics of Creating Artificial Consciousness,2013
+SPATTT,Robert Sparrow,The Turing Triage Test,2004
+COEAAG,Mark Coeckelbergh,"Artificial Agents, Good Care, and Modernity",2015
+VELOHO,Carissa V\'{e}liz,The Oxford Handbook of Digital Ethics,2023
+COPAIA,B. Jack Copeland,Artificial Intelligence: A Philosophical Introduction,1993
+DOBESA,Ned Dobos,"Ethics, Security, and the War Machine: The True Cost of the Military",2020
+BOYWFA,Robert James M. Boyles and Jeremiah Joven Joaquin,Why Friendly Ais Won?T Be That Friendly: A Friendly Reply to Muehlhauser and Bostrom,2020
+ARNTBR,Thomas Arnold and Matthias Scheutz,The ?Big Red Button? is Too Late: An Alternative Model for the Ethical Evaluation of Ai Systems,2018
+HANWDW-4,Hyemin Han,Why Do We Need to Employ Exemplars in Moral Education? Insights From Recent Advances in Research on Artificial Intelligence,forthcoming
+BERHAI-9,Nicolas Berberich and Toyoaki Nishida and Shoko Suzuki,Harmonizing Artificial Intelligence for Social Good,2020
+NOVGAI,Claudio Novelli and Federico Casolari and Philipp Hacker and Giorgio Spedicato and Luciano Floridi,"Generative Ai in Eu Law: Liability, Privacy, Intellectual Property, and Cybersecurity",manuscript
+HEDERI,Maria Hedlund and Erik Persson,Expert Responsibility in Ai Development,2022
+BERUMR,Andrea Berber and Jelena Miji\'c,Understanding Moral Responsibility in Automated Decision-Making: Responsibility Gaps and Strategies to Address Them,2024
+MAOOPD-2,Yishu Mao and Kristin Shi{-}Kupfer,"Online Public Discourse on Artificial Intelligence and Ethics in China: Context, Content, and Implications",2023
+KELEOA-12,John D. Kelleher and Marguerite Barry and Aphra Kerr,Expectations of Artificial Intelligence and the Performativity of Ethics: Implications for Communication Governance,2020
+PREVIT,John Mark Bishop and John Preston,Views Into the Chinese Room: New Essays on Searle and Artificial Intelligence,2002
+LEGCAR,Katharine Legun and Karly Ann Burch and Laurens Klerkx,Can a Robot Be an Expert? The Social Meaning of Skill and its Expression Through the Prospect of Autonomous Agtech,2022
+SPATPA-7,Robert Sparrow and Joshua James Hatherley,The Promise and Perils of Ai in Medicine,2019
+GERAAV,Robert Geraci,"Apocalyptic Ai: Visions of Heaven in Robotics, Artificial Intelligence, and Virtual Reality",2010
+YOU-4,Ammar Younas,\CYRO\cyrt\cyrv\cyre\cyrt\cyrs\cyrt\cyrv\cyre\cyrn\cyrn\cyrery\cyrishrt \CYRI\cyrs\cyrk\cyru\cyrs\cyrs\cyrt\cyrv\cyre\cyrn\cyrn\cyrery\cyrishrt \CYRI\cyrn\cyrt\cyre\cyrl\cyrl\cyre\cyrk\cyrt: \CYRV\cyrv\cyre\cyrd\cyre\cyrn\cyri\cyre ?\CYRK\cyro\cyrch\cyre\cyrv\cyrery\cyre \CYRP\cyrr\cyri\cyrn\cyrc\cyri\cyrp\cyrery \CYRI\cyrs\cyrk\cyru\cyrs\cyrs\cyrt\cyrv\cyre\cyrn\cyrn\cyro\cyrg\cyro \CYRI\cyrn\cyrt\cyre\cyrl\cyrl\cyre\cyrk\cyrt\cyra? \CYRD\cyrl\cyrya \CYRC\cyre\cyrn\cyrt\cyrr\cyra\cyrl\cyrsftsn\cyrn\cyro\cyrishrt \CYRA\cyrz\cyri\cyri,manuscript
+CRISTA-3,Nello Cristianini,Shortcuts to Artificial Intelligence,2021
+ULGKEI,Ozlem Ulgen,Kantian Ethics in the Age of Artificial Intelligence and Robotics,2017
+VAMHAI,Peter Vamplew and Richard Dazeley and Cameron Foale and Sally Firmin and Jane Mummery,Human-Aligned Artificial Intelligence is a Multiobjective Problem,2018
+POSTIO-10,Franziska Poszler and Benjamin Lange,The Impact of Intelligent Decision-Support Systems on Humans? Ethical Decision-Making: A Systematic Literature Review and an Integrated Framework,forthcoming
+COENRA,Mark Coeckelbergh,Narrative Responsibility and Artificial Intelligence,2021
+WOLWHT-2,Andreas Wolkenstein,What has the Trolley Dilemma Ever Done for Us (and What Will It Do in the Future)? On Some Recent Debates About the Ethics of Self-Driving Cars,2018
+METARW,Thaddeus Metz,African Reasons Why Artificial Intelligence Should Not Maximize Utility,2021
+BUIEOA,Stefan Buijsman and Michael Klenk and Jeroen van den Hoven,Ethics of Artificial Intelligence,forthcoming
+SCHQSE,"Eva Schmidt and Maximilian K\""{o}hl and Andreas Sesing{-}Wagenpfeil",Bare Statistical Evidence and the Legitimacy of Software-Based Judicial Decisions,2023
+FRITHO-11,Julian Friedland and B. David Balkin and Kristian Myrseth,The Hazards of Putting Ethics on Autopilot,2024
+MANUEP,Walter Maner,Unique Ethical Problems in Information Technology,1996
+ASHAIA-2,Hutan Ashrafian,Artificial Intelligence and Robot Responsibilities: Innovating Beyond Rights,2015
+YLIASA,Petri Ylikoski,Agent-Based Simulation and Sociological Understanding,2014
+CARAAP-9,Mary Carman and Benjamin Rosman,Applying a Principle of Explicability to Ai Research in Africa: Should We Do It?,2020
+MABAMA,Bongani Andy Mabaso,Artificial Moral Agents Within an Ethos of Ai4Sg,2020
+VICTEI,Constantin Vica and Cristina Voinea and Radu Uszkai,The Emperor is Naked: Moral Diplomacies and the Ethics of Ai,2021
+Williams2021-CLAIEI,Robyn Clay{-}Williams and Elizabeth Austin and Magali Goirand,Implementing Ethics in Healthcare Ai-Based Applications: A Scoping Review,2021
+FLOOTB-2,Luciano Floridi,On the Brussels-Washington Consensus About the Legal Definition of Artificial Intelligence,2023
+LARWAV,Francisco Lara,Why a Virtual Assistant for Moral Enhancement When We Could Have a Socrates?,2021
+LONEII,Alex John London,Ethical Issues in Near-Future Socially Supportive Smart Assistants for Older Adults,forthcoming
+STARAP-5,Bernd Stahl and Kevin Macnish and Tilimbe Jiya and Laurence Brooks and Josephina Antoniou and Mark Ryan,Research and Practice of Ai Ethics: A Case Study Approach Juxtaposing Academic Discourse with Organisational Reality,2021
+TORACA-2,Steve Torrance,Artificial Consciousness and Artificial Ethics: Between Realism and Social Relationism,2014
+CASANU,Simone Casiraghi,Anything New Under the Sun? Insights From a History of Institutionalized Ai Ethics,2023
+YEULWA,Lorraine K. C. Yeung and Cecilia S. Y. Tam and Sam S. S. Lau and Mandy M. Ko,Living with Ai Personal Assistant: An Ethical Appraisal,forthcoming
+SUTCOA,Margit Sutrop,Challenges of Aligning Artificial Intelligence with Human Values,2020
+HONGPW,Frank Hong,Group Prioritarianism: Why Ai Should Not Replace Humanity,2024
+KAMCMA,Yuko Kamishima and Bart Gremmen and Hikari Akizawa,Can Merging a Capability Approach with Effectual Processes Help Us Define a Permissible Action Range for Ai Robotics Entrepreneurship?,2018
+HOFDEI-2,Christian Hugo Hoffmann and Benjamin Hahn,Decentered Ethics in the Machine Era and Guidance for Ai Regulation,2020
+COGEOU,Simon Coghlan and Thomas Quinn,Ethics of Using Artificial Intelligence (Ai) in Veterinary Medicine,2023
+GROTMA-4,Thomas Grote,Trustworthy Medical Ai Systems Need to Know When They Don?T Know,forthcoming
+DANTEO-24,John Danaher,The Ethics of Algorithmic Outsourcing in Everyday Life,2019
+BOWAAA-11,Joseph Bowen and John Basl,Ai as a Moral Right-Holder,2020
+TOTTPO,Wolfhart Totschnig,"The Problem of Superintelligence: Political, Not Technological",2019
+SKEAWS-2,Michael Skerker and Duncan Purves and Ryan Jenkins,Autonomous Weapons Systems and the Moral Equality of Combatants,2020
+HICCCI,Michael Townsen Hicks and James Humphries and Joe Slater,Correction: Chatgpt is Bullshit,2024
+KINPAA-8,Owen C. King,"Presumptuous Aim Attribution, Conformity, and the Ethics of Artificial Social Cognition",2020
+KAMTFF,Moto Kamiura,The Four Fundamental Components for Intelligibility and Interpretability in Ai Ethics,forthcoming
+NISTAA,Helen Nissenbaum,Toward an Approach to Privacy in Public: Challenges of Information Technology,1997
+COETTO-3,Mark Coeckelbergh,"The Tragedy of the Master: Automation, Vulnerability, and Distance",2015
+DAMCTA,Kristian D?Amato,Chatgpt: Towards Ai Subjectivity,2024
+PFLEAI,Michael Pflanzer and Veljko Dubljevi\'c and William A. Bauer and Darby Orcutt and George List and Munindar P. Singh,"Embedding Ai in Society: Ethics, Policy, Governance, and Impacts",2023
+LIUIIA-2,Hin{-}Yan Liu,"Irresponsibilities, Inequalities and Injustice for Autonomous Vehicles",2017
+NOVIAO,Peter Novitzky and Michael J. Bernstein and Vincent Blok and Robert Braun and Tung Tung Chan and Wout Lamers and Anne Loeber and Ingeborg Meijer and Ralf Lindner and Erich Griessler,Improve Alignment of Research Policy and Societal Values,2020
+DELTDP-3,Paul B. de Laat,The Disciplinary Power of Predictive Algorithms: A Foucauldian Perspective,2019
+GROTEO-18,Frances S. Grodzinsky and Keith W. Miller and Marty J. Wolf,The Ethics of Designing Artificial Agents,2008
+MUNWTN,Lauritz Munch,Why the Nsa Didn?T Diminish Your Privacy but Might Have Violated Your Right to Privacy,forthcoming
+SULMJI,Yulia W. Sullivan and Samuel Fosso Wamba,Moral Judgments in the Age of Artificial Intelligence,2022
+MUNTBO-2,Lauritz Munch and Jakob Mainz,"To Believe, or Not to Believe ? That is Not the (Only) Question: The Hybrid View of Privacy",2023
+BAKFIO,D. A. Baker,Four Ironies of Self-Quantification: Wearable Technologies and the Quantified Self,2020
+SPARHA,Robert Sparrow,Robotics has a Race Problem,2020
+POWOTM,Thomas M. Powers,On the Moral Agency of Computers,2013
+HUNOTP-3,Tzu{-}Wei Hung and Chun{-}Ping Yen,On the Person-Based Predictive Policing of Ai,2020
+SKOPOD,Joshua August Skorburg and Kieran O'Doherty and Phoebe Friesen,"Persons or Datapoints?: Ethics, Artificial Intelligence, and the Participatory Turn in Mental Health Research",2024
+Peris2023-VALCIT-6,N\'{u}ria Vall\`{e}s{-}Peris and Miquel Dom\`{e}nech,Caring in the in-Between: A Proposal to Introduce Responsible Ai and Robotics to Healthcare,2023
+KGEUBI,"Johannes K\""{o}gel and Jennifer R. Schmid and Ralf J. Jox and Orsolya Friedrich",Using Brain-Computer Interfaces: A Scoping Review of Studies Employing Social Research Methods,2019
+RAICTB,Stephen Rainey and Yasemin J. Erden,"Correcting the Brain? The Convergence of Neuroscience, Neurotechnology, Psychiatry, and Artificial Intelligence",2020
+MALAIT-5,Bertram F. Malle and Stuti Thapa Magar and Matthias Scheutz,Ai in the Sky: How People Morally Evaluate Human and Machine Decisions in a Lethal Strike Dilemma,2019
+PAREAI,Pradeep Paraman and Sanmugam Anamalah,"Ethical Artificial Intelligence Framework for a Good Ai Society: Principles, Opportunities and Perils",2023
+WILCEW,Yorick Wilks,"Close Engagements with Artificial Companions: Key Social, Psychological, Ethical and Design Issues",2010
+GREERO,Brian Patrick Green,Ethical Reflections on Artificial Intelligence,2018
+SINHAC-3,Walter Sinnott Armstrong and Joshua August Skorburg,How Ai Can Aid Bioethics,forthcoming
+MORTDO-58,Jessica Morley and Caio C. V. Machado and Christopher Burr and Josh Cowls and Indra Joshi and Mariarosaria Taddeo and Luciano Floridi,The Debate on the Ethics of Ai in Health Care: A Reconstruction and Critical Review,manuscript
+TIMSIU,Aylsworth Timothy and Clinton Castro,Should I Use Chatgpt to Write My Papers?,2024
+SOLSHL,Sadjad Soltanzadeh,Strictly Human: Limitations of Autonomous Systems,2022
+FLEWFA,Will Fleisher,What's Fair About Individual Fairness?,2021
+BISSSS,Piercosma Bisconti and Andrew McIntyre and Federica Russo,Synthetic Socio-Technical Systems: Poi\^{e}sis as Meaning Making,2024
+HARTIM-4,John Harris,The Immoral Machine,2020
+AUTEOA,John{-}Stewart Gordon and and and Sven Nyholm,Ethics of Artificial Intelligence,2021
+MANKMA,Riya Manna and Rajakishore Nath,Kantian Moral Agency and the Ethics of Artificial Intelligence,2021
+Fernandez2024-MOYMAI,Cristian Moyano{-}Fern\'{a}ndez and Jon Rueda and Janet Delgado and Txetxu Aus\'{i}n,May Artificial Intelligence Take Health and Sustainability on a Honeymoon? Towards Green Technologies for Multidimensional Health and Environmental Justice,2024
+DANTEC-2,John Danaher,Why Ai Doomsayers Are Like Sceptical Theists and Why It Matters,2015
+SMISRA-13,Smith Nicholas and Darby Vickers,Statistically Responsible Artificial Intelligences,2021
+ONDYZV,Orhan Onder,Yapay Zeka Ve Piyasa: Saglikta Dijitallesme Ve Etik Sorunlar Ozelinde Bir De\u{g}erlendirme,2022
+BOLIIT-3,Dimitris Bolis and Leonhard Schilbach,?I Interact Therefore I Am?: The Self as a Historical Product of Dialectical Attunement,2018
+WHIAIA-11,Dylan J. White,Automated Influence and Value Collapse: Resisting the Control Argument,forthcoming
+GUNEAA-2,Torbj\o{}rn Gundersen and Kristine B\a{e}r\o{}e,Ethical Algorithmic Advice: Some Reasons to Pause and Think Twice,2022
+PUZWTD,Anna Puzio,When the Digital Continues After Death Ethical Perspectives on Death Tech and the Digital Afterlife.,2023
+STERFY,Etye Steinberg,Run for Your Life: The Ethics of Behavioral Tracking in Insurance,2022
+HUNTLO-8,Luke William Hunt,The Limits of Reallocative and Algorithmic Policing,2022
+TSAAWA,Cheng{-}Hung Tsai,Artificial Wisdom: A Philosophical Framework,2020
+MACACG,James Maclaurin and John Danaher and John Zerilli and Colin Gavaghan and Alistair Knott and Joy Liddicoat and Merel Noorman,\emph{A Citizen's Guide to Artificial Intelligence},2021
+LIPWF,Oliver Li,Problems with ?Friendly Ai?,2021
+PRIRBD-2,Kostina Prifti and Jessica Morley and Claudio Novelli and Luciano Floridi,"Regulation by Design: Features, Practices, Limitations, and Governance Implications",2024
+STOAIA-5,Felicia Stokes and Amitabha Palmer,Artificial Intelligence and Robotics in Nursing: Ethics of Caring as a Guide to Dividing Tasks Between Ai and Humans,2020
+KEYAKO,Os Keyes and Kathleen Creel,Artificial Knowing Otherwise,2022
+JOTKTH,Fabrice Jotterand and Clara Bosco,Keeping the ?Human in the Loop? in the Age of Artificial Intelligence,2020
+SANAEA-13,J. W. Sanders and Luciano Floridi,Artificial Evil and the Foundation of Computer Ethics,2001
+BROOTL-4,Bartosz Bro\.{z}ek and Marek Jakubiec,On the Legal Responsibility of Autonomous Machines,2017
+CHREIO-2,Markus Christen and Mark Alfano and Endre Bangerter and Daniel Lapsley,Ethical Issues of 'Morality Mining': When the Moral Identity of Individuals Becomes a Focus of Data-Mining,2013
+FLOKEC-2,Luciano Floridi and Christoph Luetge and Ugo Pagallo and Burkhard Schafer and Peggy Valcke and Effy Vayena and Janet Addison and Nigel Hughes and Nathan Lea and Caroline Sage and Bart Vannieuwenhuyse and Dipak Kalra,Key Ethical Challenges in the European Medical Information Framework,2019
+THOIEM-2,Frej Thomsen,Iudicium Ex Machinae ? the Ethical Challenges of Automated Decision-Making in Criminal Sentencing,2022
+ALTHAS-3,Hannah Altehenger and Leonhard Menges and Peter Schulte,How Ai Systems Can Be Blameworthy,2024
+VOLAEA,Karina Vold and Jose Hernandez{-}Orallo,Ai Extenders and the Ethics of Mental Health,forthcoming
+HUBSAA,Ryan Hubbard and Jake Greenblum,Surrogates and Artificial Intelligence: Why Ai Trumps Family,2020
+FRAUAA-4,Lily E. Frank and Michal Klincewicz,Uses and Abuses of Ai Ethics (1st edition),forthcoming
+BECACA-9,Sander Beckers and Hana Chockler and Joseph Y. Halpern,A Causal Analysis of Harm,2024
+KAREWF,Brett Karlan and Colin Allen,Engineered Wisdom for Learning Machines,2024
+MLLHOD,"Vincent C. M\""{u}ller",The History of Digital Ethics,2023
+MADTIO-21,Michael Madary,The Illusion of Agency in Human?Computer Interaction,2022
+AUGEII,Joshua Skorburg and Phoebe Friesen,Ethical Issues in Text Mining for Mental Health,forthcoming
+THORIB-2,Johanna Thoma,Risk Imposition by Artificial Agents: The Moral Proxy Problem,2022
+FARTEC-2,Michele Farisco and Kathinka Evers and Arleen Salles,Towards Establishing Criteria for the Ethical Analysis of Artificial Intelligence,2020
+KAHRPI,Peter H. Kahn and Batya Friedman and Deanne R. P\'{e}rez{-}Granados and Nathan G. Freier,Robotic Pets in the Lives of Preschool Children,2006
+CAWAEF,Dylan Cawthorne and Aimee Robbins{-}van Wynsberghe,"An Ethical Framework for the Design, Development, Implementation, and Assessment of Drones Used in Public Healthcare",2020
+FORAPS-3,Paul Formosa,A Principlist-Based Study of the Ethical Design and Acceptability of Artificial Social Agents,2023
+BERWIA-9,Juan Pablo Berm\'{u}dez and Rune Nyrup and Sebastian Deterding and Celine Mougenot and Laura Moradbakhti and Fangzhou You and Rafael A. Calvo,What is a Subliminal Technique? An Ethical Perspective on Ai-Driven Influence,2023
+DRFDES,"Viktor D\""{o}rfler and Giles Cuthbert",Dubito Ergo Sum: Exploring Ai Ethics,2024
+ERLTEO,"Alexandre Erler and Vincent C. M\""{u}ller","The Ethics of Biomedical Military Research: Therapy, Prevention, Enhancement, and Risk",2021
+MCKTRB,Michael McKenna,The Relationship Between Autonomous and Morally Responsible Agency,2005
+SIMABA-5,Judith Simon and Pak{-}Hang Wong and Gernot Rieder,Algorithmic Bias and the Value Sensitive Design Approach,2020
+LONAII,Alex John London,Artificial Intelligence in Medicine: Overcoming or Recapitulating Structural Challenges to Improving Patient Care?,2022
+KRADSW,Steven R. Kraaijeveld,"Deepfakes, Simone Weil, and the Concept of Reading",forthcoming
+ROBDSD-10,Huw Roberts and Emmie Hine and Luciano Floridi,"Digital Sovereignty, Digital Expansionism, and the Prospects for Global Ai Governance",2023
+AFRTIA,Saleh Afroogh and Ali Akbari and Evan Malone and Mohammadali Kargar and Hananeh Alambeigi,"Trust in Ai: Progress, Challenges, and Future Directions",forthcoming
+WELEIF,Michael P. Wellman and Uday Rajan,Ethical Issues for Autonomous Trading Agents,2017
+WHISSA-5,Jeffrey White,"Simulation, Self-Extinction, and Philosophy in the Service of Human Civilization",2016
+WUAVT,Stephen S. Wu,"Autonomous Vehicles, Trolley Problems, and the Law",2020
+LINRE-3,Patrick Lin and Keith Abney and Ryan Jenkins,"Robot Ethics 2. 0: New Challenges in Philosophy, Law, and Society",2017
+BECAAA-2,Sander Beckers,Aaai: An Argument Against Artificial Intelligence,2017
+MARWSD,Dominic Martin,Who Should Decide How Machines Make Morally Laden Decisions?,2017
+BIRMAI,Jonathan Birch,"Medical Ai, Inductive Risk, and the Communication of Uncertainty: The Case of Disorders of Consciousness",forthcoming
+DURRTO,Juan Manuel Dur\'{a}n and Karin Rolanda Jongsma,Response to Our Reviewers,2021
+MILEFP-4,Silvia Milano and Brent Mittelstadt and Sandra Wachter and Christopher Russell,Epistemic Fragmentation Poses a Threat to the Governance of Online Targeting,2021
+FRIACH-5,Julian Friedland,Ai Can Help Us Live More Deliberately,2019
+MLLEOA-5,"Vincent C. M\""{u}ller",Ethics of Artificial Intelligence,2021
+CHOTAE-3,Hyesun Choung and Prabu David and Arun Ross,Trust and Ethics in Ai,2023
+TADTEC,Mariarosaria Taddeo,Three Ethical Challenges of Applications of Artificial Intelligence in Cybersecurity,2019
+PARMAM-8,Joel Parthemore and Blay Whitby,"Moral Agency, Moral Responsibility, and Artifacts: What Existing Artifacts Fail to Achieve , and Why They, Nevertheless, Can Make Moral Claims Upon Us",2014
+BREDWH,Philip Brey,Do We Have Moral Duties Towards Information Objects?,2008
+FRDFA,"Barbro Fr\""{o}ding and Martin Peterson",Friendly Ai,2020
+HARAIE-3,Tilman Hartwig and Yuko Ikkatai and Naohiro Takanashi and Hiromi M. Yokoyama,Artificial Intelligence Elsi Score for Science and Technology: A Comparison Between Japan and the Us,2023
+WHICAA-6,Jeffrey B. White,Consilience and Ai as Technological Prostheses,2024
+KARHAA-2,Brett Karlan,Human Achievement and Artificial Intelligence,2023
+BEGBTE,Keith Begley,Beta-Testing the Ethics Plugin,2023
+HOGITM,Katharyn Hogan,Is the Machine Question the Same Question as the Animal Question?,2017
+OKODMI,Amos Okomayin and Tosin Ige and Abosede Kolade,"Data Mining in the Context of Legality, Privacy, and Ethics",2023
+WACRLM,Ipke Wachsmuth,Robots Like Me: Challenges and Ethical Issues in Aged Care,2018
+WRIHAT-5,Jacob Sparks and Ava Wright,Human-Centered Ai: The Aristotelian Approach,2023
+CEBAET,Andreas Cebulla and Zygmunt Szpak and Catherine Howell and Genevieve Knight and Sazzad Hussain,Applying Ethics to Ai in the Workplace: The Design of a Scorecard for Australian Workplace Health and Safety,2023
+RADAAA,Lubomira Radoilska,An Aristotelian Approach to Cognitive Enhancement,2010
+SCHAMS-10,Nick Schuster and Seth Lazar,"Attention, Moral Skill, and Algorithmic Recommendation",forthcoming
+KAHWIA-3,Peter H. Kahn and Hiroshi Ishiguro and Batya Friedman and Takayuki Kanda and Nathan G. Freier and Rachel L. Severson and Jessica Miller,What is a Human?: Toward Psychological Benchmarks in the Field of Human?Robot Interaction,2007
+CASDPS,Clinton Castro and Alan Rubel and Lindsey Schwartz,Does Predictive Sentencing Make Sense?,forthcoming
+AROBTA,Bernard Arogyaswamy,Big Tech and Societal Sustainability: An Ethical Framework,2020
+CHETAT-8,Melvin Chen,Trust and Trust-Engineering in Artificial Intelligence Research: Theory and Praxis,2021
+BOYACF-2,Robert James M. Boyles,A Case for Machine Ethics in Modeling Human-Level Intelligent Agents,2018
+LIAEOA-2,S. Matthew Liao,Ethics of Artificial Intelligence,2020
+BOGIOM,Kyle Bogosian,Implementation of Moral Uncertainty in Intelligent Machines,2017
+LUNAAP,"Bj\""{o}rn Lundgren",Against Ai-Improved Personal Memory,2020
+DEVIPA,Katja de Vries,"Identity, Profiling Algorithms and a World of Ambient Intelligence",2010
+STRAHR,Andrew Stranieri and John Zeleznikow and Mark Gawler and Bryn Lewis,A Hybrid Rule ? Neural Approach for the Automation of Legal Reasoning in the Discretionary Domain of Family Law in Australia,1999
+BARMTP,Balbir S. Barn,Mapping the Public Debate on Ethical Concerns: Algorithms in Mainstream Media,2019
+CHATMO-36,Marc Champagne,The Mandatory Ontology of Robot Responsibility,2021
+KHODTC,Donal Khosrowi and Finola Finn and Elinor Clark,Diffusing the Creator: Attributing Credit for Generative Ai Outputs,2023
+HACESO,Ben Hachey and Claire Grover,Extractive Summarisation of Legal Texts,2006
+GORSTA-4,John{-}Stewart Gordon,Smart Technologies and Fundamental Rights,2020
+HATTFD-2,Joshua Hatherley and Anne Kinderlerer and Jens Christian Bjerring and Lauritz Munch and Lynsey Threlfall,The Fhj Debate: Will Artificial Intelligence Replace Clinical Decision-Making Within Our Lifetimes?,2024
+DANWWS-2,John Danaher,Why We Should Create Artificial Offspring: Meaning and the Collective Afterlife,2018
+CHOLAA-7,Bartek Chomanski,Legitimacy and Automated Decisions: The Moral Limits of Algocracy,2022
+HUNAEW,Chun{-}Ping Yen and Tzu{-}Wei Hung,Achieving Equity with Predictive Policing Algorithms: A Social Safety Net Perspective,2021
+FISEEC,"Amelia Fiske and Daniel Tigard and Ruth M\""{u}ller and Sami Haddadin and Alena Buyx and Stuart McLennan",Embedded Ethics Could Help Implement the Pipeline Model Framework for Machine Learning Healthcare Applications,2020
+CHEIGA-2,Marc Cheong and Ehsan Abedin and Marinus Ferreira and Ritsaart Willem Reimann and Shalom Chalson and Pamela Robinson and Joanne Byrne and Leah Ruppanner and Mark Alfano and Colin Klein,Investigating Gender and Racial Biases in Dall-e Mini Images,forthcoming
+VRSWIC,"Pascal V\""{o}r\""{o}s and Serhiy Kandul and Thomas Burri and Markus Christen",Who is Controlling Whom? Reframing ?Meaningful Human Control? of Ai Systems in Security,2023
+GONMCA-2,Raul Gonzalez Fabre and Javier Camacho Ib\'{a}~{n}ez and Pedro Tejedor Escobar,Moral Control and Ownership in Ai Systems,2021
+CECAAI-2,Dario Cecchini and Michael Pflanzer and Veljko Dubljevic,Aligning Artificial Intelligence with Moral Intuitions: An Intuitionist Approach to the Alignment Problem,2024
+AGGITT-2,Nikita Aggarwal,Introduction to the Special Issue on Intercultural Digital Ethics,2020
+BUTTHS,Matthew A. Butkus,The Human Side of Artificial Intelligence,2020
+ZHUBMR,Qin Zhu and Tom Williams and Blake Jackson and Ruchen Wen,Blame-Laden Moral Rebukes and the Morally Competent Robot: A Confucian Ethical Perspective,2020
+MANUEP-2,Professor Walter Maner,Unique Ethical Problems in Information Technology,1996
+SWATPO-8,Danielle Swanepoel,The Possibility of Deliberate Norm-Adherence in Ai,2020
+NYHSRA,Sven Nyholm and Cindy Friedman and Michael T. Dale and Anna Puzio and Dina Babushkina and Guido Lohr and Bart Kamphorst and Arthur Gwagwa and Wijnand IJsselsteijn,Social Robots and Society,2023
+Peris2021-VALCIT-5,N\'{u}ria Vall\`{e}s{-}Peris and Miquel Dom\`{e}nech,Caring in the in-Between: A Proposal to Introduce Responsible Ai and Robotics to Healthcare,2021
+MUNAMM,Ioan Muntean and Don Howard,A Minimalist Model of the Artificial Autonomous Moral Agent (Aama),2016
+DRAEVA,Heather Draper and Tom Sorell,Ethical Values and Social Care Robots for Older People: An International Qualitative Study,2017
+CHOWWW,Bartek Chomanski,What?s Wrong with Designing People to Serve?,2019
+NIEABI,Katharina Nieswandt,"Automation, Basic Income and Merit",2021
+TORAAA,Steve Torrance,Artificial Agents and the Expanding Ethical Circle,2013
+ERLAAI,"Alexandre Erler and Vincent C. M\""{u}ller",Ai as Ia: The Use and Abuse of Artificial Intelligence (Ai) for Human Enhancement Through Intellectual Augmentation (Ia),2023
+NYHRAT,Sven Nyholm,Robotic Animism: The Ethics of Attributing Minds and Personality to Robots with Artificial Intelligence,2022
+DANAIA-6,John Danaher and Hin{-}Yan Liu and Matthijs Maas and Luisa Scarcella and Michaela Lexer and Leonard Van Rompaey,Artificial Intelligence and Legal Disruption: A New Model for Analysis,forthcoming
+RINATC,Regina Rini,A Talking Cure for Autonomy Traps : How to Share Our Social World with Chatbots,manuscript
+MILHLL-2,Ryan Miller,Holding Large Language Models to Account,2023
+STETIP-2,Rush T. Stewart,The Ideals Program in Algorithmic Fairness,forthcoming
+ETZTEO-2,Amitai Etzioni and Oren Etzioni,The Ethics of Robotic Caregivers,2017
+BECAAA-3,Sander Beckers,Aaai: An Argument Against Artificial Intelligence,2017
+THOTMI-5,David Thorstad,Mistakes in the Moral Mathematics of Existential Risk,2024
+UMBLAW,Steven Umbrello,Lethal Autonomous Weapons: Designing War Machines with Values,2019
+Capon1997-BENAIA,Trevor Bench{-}Capon,Argument in Artificial Intelligence and Law,1997
+DAIFML,Jessica Dai and Sina Fazelpour and Zachary Lipton,Fair Machine Learning Under Partial Compliance,2021
+GOMEAA-2,Norberto Nuno Gomes de Andrade and Dave Pawson and Dan Muriello and Lizzy Donahue and Jennifer Guadagno,Ethics and Artificial Intelligence: Suicide Prevention on Facebook,2018
+CATAOI-3,Corinne Cath and Michael Zimmer and Stine Lomborg and Ben Zevenbergen,Association of Internet Researchers (Aoir) Roundtable Summary: Artificial Intelligence and the Good Society Workshop Proceedings,2018
+URSEIO,Frank Ursin and Cristian Timmermann and Florian Steger,Ethical Implications of Alzheimer?s Disease Prediction in Asymptomatic Individuals Through Artificial Intelligence,2021
+ANACAC,Marianna Anagnostou and Olga Karvounidou and Chrysovalantou Katritzidaki and Christina Kechagia and Kyriaki Melidou and Eleni Mpeza and Ioannis Konstantinidis and Eleni Kapantai and Christos Berberidis and Ioannis Magnisalis and Vassilios Peristeras,Characteristics and Challenges in the Industries Towards Responsible Ai: A Systematic Literature Review,2022
+TOLOAB,Fabio Tollon and Kiasha Naidoo,On and Beyond Artifacts in Moral Relations: Accounting for Power and Violence in Coeckelbergh?s Social Relationism,2023
+WONTAE-2,Pak{-}Hang Wong and Judith Simon,Thinking About ?Ethics? in the Ethics of Ai,2020
+CLAPOT-16,Graham Clay and Caleb Ontiveros,"Philosophers Ought to Develop, Theorize About, and Use Philosophically Relevant Ai",2023
+YDIMME,Saikou Y. Diallo and F. LeRon Shults and Wesley J. Wildman,Minding Morality: Ethical Artificial Societies for Public Policy Modeling,2021
+HINETP,Christine Hine,Evaluating the Prospects for University-Based Ethical Governance in Artificial Intelligence and Data-Driven Innovation,2021
+CAPTAC,Rafael Capurro,Toward a Comparative Theory of Agents,2012
+WALFRA,Wendell Wallach and Colin Allen,Framing Robot Arms Control,2013
+DANFIA,John Danaher,Freedom in an Age of Algocracy,2020
+Rehm2023-BEREAE-6,Caterina Berbenni{-}Rehm,"Evidence-Based Ai, Ethics and the Circular Economy of Knowledge",2023
+TOMPAC-2,Thomas M. Powers,"Philosophy and Computing: Essays in Epistemology, Philosophy of Mind, Logic, and Ethics",2017
+KAHWIA-4,Peter H. Kahn and Hiroshi Ishiguro and Batya Friedman and Takayuki Kanda and Nathan G. Freier and Rachel L. Severson and Jessica Miller,What is a Human?,2007
+GILAIA-10,Amandeep Singh Gill,Artificial Intelligence and International Security: The Long View,2019
+GERTPA,Robert M. Geraci,The Popular Appeal of Apocalyptic Ai,2010
+VRIIPA,Katja Vries,"Identity, Profiling Algorithms and a World of Ambient Intelligence",2010
+RAJAIA-2,Sarah Rajtmajer and Daniel Susser,Automated Influence and the Challenge of Cognitive Security,forthcoming
+ALFNYS,Mark Alfano and Ehsan Abedin and Ritsaart Reimann and Marinus Ferreira and Marc Cheong,"Now You See Me, Now You Don?T: An Exploration of Religious Exnomination in Dall-E",2024
+STIAFF-2,Catherine Stinson and Sofie Vlaad,"A Feeling for the Algorithm: Diversity, Expertise and Artificial Intelligence",2024
+WALIMD,Wendell Wallach,Implementing Moral Decision Making Faculties in Computers and Robots,2008
+RUBWWI-2,Alan Rubel and Clinton Castro and Adam Pham,What We Informationally Owe Each Other,2021
+FRIWRE-2,Francisco Javier Lopez Frias and Jos\'e Luis P\'{e}rez Trivi\~{n}o,Will Robots Ever Play Sports?,2016
+POWCAS,Deborah G. Johnson and Thomas M. Powers,Computers as Surrogate Agents,2008
+SUSMAI,Daniel Susser and Vincent Grimaldi,Measuring Automated Influence: Between Empirical Evidence and Ethical Values,forthcoming
+CONSCF-4,Vincent Conitzer and Rachel Freedman and Jobst Heitzig and Wesley H. Holliday and Bob M. Jacobs and Nathan Lambert and Milan Mosse and Eric Pacuit and Stuart Russell and Hailey Schoelkopf and Emanuel Tewolde and William S. Zwicker,Social Choice Should Guide Ai Alignment in Dealing with Diverse Human Feedback,forthcoming
+GUACNM,Marcello Guarini,Computational Neural Modeling and the Philosophy of Ethics: Reflections on the Particularism-Generalism Debate,2011
+GOENWT,Ben Goertzel and Joel Pitt,Nine Ways to Bias Open-Source Agi Toward Friendliness,2011
+RAPPFA,William J. Rapaport,"Predication, Fiction, and Artificial Intelligence",1991
+SCHUA-3,Susanne Schmetkamp,Understanding A.I. -- Can and Should We Empathize with Robots?,2020
+IENDCT,Marcello Ienca,Democratizing Cognitive Technology: A Proactive Approach,2019
+COESCW,Mark Coeckelbergh,Skillful Coping with and Through Technologies,2019
+CRUBAN-2,Eduardo R. Cruz,"Bodily Alienation, Natality and Transhumanism",2023
+HARWOM-4,John Harris,Who Owns My Autonomous Vehicle? Ethics and Responsibility in Artificial and Human Intelligence,2018
+SULITA,John Sullins,Information Technology and Moral Values,forthcoming
+BRUAHI,James Brusseau,Ai Human Impact: Toward a Model for Ethical Investing in Ai-Intensive Companies,manuscript
+VERCRB,Laszlo Versenyi,Can Robots Be Moral?,1974
+KEEALR,Geoff Keeling,Against Leben?s Rawlsian Collision Algorithm for Autonomous Vehicles,2017
+MATTRG,Andreas Matthias,The Responsibility Gap: Ascribing Responsibility for the Actions of Learning Automata,2004
+SARER-3,Nicholas Sars,Engineering Responsibility,2022
+MLLERO,"Vincent C. M\""{u}ller",Editorial: Risks of General Artificial Intelligence,2014
+BELOHT,Paul Bello and Selmer Bringsjord,On How to Build a Moral Machine,2013
+JIMAAF,Mar\'{i}a Carolina Jim\'{e}nez and Emanuela Ceva,Automating Anticorruption?,2022
+KOSMAI,"Eleni Kosta and Olli Pitk\""{a}nen and Marketta Niemel\""a and Eija Kaasinen",Mobile-Centric Ambient Intelligence in Health- and Homecare--Anticipating Ethical and Legal Challenges,2010
+ASGBDA,Haleh Asgarinia,Big Data as Tracking Technology and Problems of the Group and its Members,2023
+STUTDM-2,Alec Stubbs and James J. Hughes and Nir Eisikovits and Jake Burley,"The Democratic Metaverse: Building an Extended Reality Safe for Citizens, Workers and Consumers",2023
+MAITRF,Jakob Mainz and Jens Christian Bjerring and Lauritz Munch,Two Reasons for Subjecting Medical Ai Systems to Lower Standards Than Humans,2023
+RIEMTS,Gernot Rieder and Judith Simon and Pak{-}Hang Wong,"Mapping the Stony Road Toward Trustworthy Ai: Expectations, Problems, Conundrums",2021
+SULIOQ,John P. Sullins,Introduction: Open Questions in Roboethics,2011
+COMDMH,Gary Comstock,Do Machines Have Prima Facie Duties?,2015
+MLLPAT-4,"Vincent C. M\""{u}ller",Philosophy and Theory of Artificial Intelligence 2017,2017
+TUOSRS,Maj Tuomela and Solveig Hofmann,"Simulating Rational Social Normative Trust, Predictive Trust, and Predictive Reliance Between Agents",2003
+VILDEY,David Villena,"Deepfakes, Enga\~{n}o y Desconfianza",2023
+SORCCA-4,Tom Sorell,"Cobots, ?Co-Operation? and the Replacement of Human Skill",2022
+FLOECI,Lidia Flores and Sean D. Young,Ethical Considerations in the Application of Artificial Intelligence to Monitor Social Media for Covid-19 Data,2022
+ANSCAI-2,Muhammad Anshari and Mahani Hamdan and Norainie Ahmad and Emil Ali and Hamizah Haidi,"Covid-19, Artificial Intelligence, Ethical Challenges and Policy Implications",2023
+WAROTM-3,Christopher Wareham,On the Moral Equality of Artificial Agents,2011
+DEBCAR,Amy Michelle DeBaets,Can a Robot Pursue the Good? Exploring Artificial Moral Agency,2014
+FUEFAE,"David Fuenmayor and Christoph Benzm\""{u}ller",Formalisation and Evaluation of Alan Gewirth's Proof for the Principle of Generic Consistency in Isabelle/Hol,2018
+LIVTFI,Steven Livingston and Mathias Risse,The Future Impact of Artificial Intelligence on Humans and Human Rights,2019
+BURACP-2,Banu Buruk and Perihan Elif Ekmekci and Berna Arda,A Critical Perspective on Guidelines for Responsible and Trustworthy Artificial Intelligence,2020
+NYHOMO,Sven Nyholm,"Other Minds, Other Intelligences: The Problem of Attributing Agency to Machines",2019
+DEVTOA-2,S. Kate Devitt,Trustworthiness of Autonomous Systems,2018
+FOSLGN,Fabio Fossa,L'ia Generativa Nelle Aule Universitarie: Note Per Un'evoluzione Felice,2023
+NAGFTP,Peter Nagy and Ruth Wylie and Joey Eschrich and Ed Finn,Facing the Pariah of Science: The Frankenstein Myth as a Social and Ethical Reference for Scientists,2020
+SRACAD,Johnny Hartz S\o{}raker,"Continuities and Discontinuities Between Humans, Intelligent Machines, and Other Entities",2014
+LEWWBM,Anna C. F. Lewis,Where Bioethics Meets Machine Ethics,2020
+MORHTT,Kevin Morin and Marius Senneville and Jonathan Roberge,How to Translate Artificial Intelligence? Myths and Justifications in Public Discourse,2020
+LUCEMO,Federica Lucivero and Guglielmo Tamburrini,Ethical Monitoring of Brain-Machine Interfaces,2008
+VANEAS-14,Aad van Moorsel and Karen Elliott and Kovila Coopamootoo and Peter Carmichael and Ehsan Toreini and Mhairi Aitken,Establishing a Social Licence for Financial Technology: Reflections on the Role of the Private Sector in Pursuing Ethical Data Practices,2020
+DENDHC,Daniel C. Dennett,Did Hal Committ Murder?,1997
+HENTAR-6,Adam Henschke,Trust and Resilient Autonomous Driving Systems,2020
+FINKTP,Jess Findley and Andrew Woods and Christopher Robertson and Marv Slepian,Keeping the Patient at the Center of Machine Learning in Healthcare,2020
+TABCNI,Jerick Tabudlo and Letty Kuan and Paul Froilan Garma,Can Nurses in Clinical Practice Ascribe Responsibility to Intelligent Robots?,2022
+WAETSF,Rosalie Waelen,The Struggle for Recognition in the Age of Facial Recognition Technology,2022
+GORTPG-2,Thomas F. Gordon,The Pleadings Games: An Artificial Intelligence Model of Procedural Justice,1995
+MILBBM-3,Daniel J. Miller,"Bci-Mediated Behavior, Moral Luck, and Punishment",2020
+FISNBA-2,Simon W. S. Fischer and Bas de Boer,Negotiating Becoming: A Nietzschean Critique of Large Language Models,2024
+AHAATA,Eyal Aharoni and Sharlene Fernandes and Daniel Brady and Caelan Alexander and Michael Criner and Kara Queen and Javier Rando and Eddy Nahmias and Victor Crespo,Attributions Toward Artificial Agents in a Modified Moral Turing Test,2024
+WHIWCA-3,Dylan J. White and Joshua August Skorburg,Why Canada?s Artificial Intelligence and Data Act Needs ?Mental Data?,2023
+MAIMAI-2,Jakob Thrane Mainz,Medical Ai: Is Trust Really the Issue?,2024
+ARAAOQ,Ognjen Arandjelovi\'c,"Apropos of ""Speciesist Bias in Ai: How Ai Applications Perpetuate Discrimination and Unfair Outcomes Against Animals""",2023
+HERMTB-4,Jonathan Herington and Bruce Glymour,Measuring the Biases That Matter: The Ethical and Causal Foundations for Measures of Fairness in Algorithms,2019
+WEITMO-31,Dan Weijers,The Morality of Experience Machines for Palliative and End of Life Care,2017
+TORSAT-6,Phil Torres,Superintelligence and the Future of Governance: On Prioritizing the Control Problem at the End of History,2018
+BEVEAD,John Beverley and Amanda Hicks,Evaluation and Design of Generalist Systems (Edges),2023
+HASWYA-2,Ali Hasan,Why You Are (Probably) Anthropomorphizing Ai,manuscript
+MCLEDP,Bruce M. McLaren,Extensionally Defining Principles and Cases in Ethics: An Ai Model,2003
+CIBMAA,Beba Cibralic and James Mattingly,Machine Agency and Representation,2024
+RICTHR,Kathleen Richardson,The Human Relationship in the Ethics of Robotics: A Call to Martin Buber?s I and Thou,2019
+FOSQDT,Fabio Fossa,"""I Don't Trust You, You Faker!"" on Trust, Reliance, and Artificial Agency",2019
+CHOSTS-3,Bartek Chomanski,Should the State Prohibit the Production of Artificial Persons?,2023
+DANSWT,John Danaher,"Sex Work, Technological Unemployment and the Basic Income Guarantee",2014
+BUITFA,Stefan Buijsman,Transparency for Ai Systems: A Value-Based Approach,2024
+TAJAEA,Payman Tajalli,Ai Ethics and the Banality of Evil,2021
+WEICAE-3,Kelly Weirich,Chatgpt and Emotional Outsourcing,2023
+HODEL-3,Anita Ho,Deep Ethical Learning: Taking the Interplay of Human and Artificial Intelligence Seriously,2019
+MLLOTI,"Matthias M\""{o}ller and Cornelis Vuik",On the Impact of Quantum Computing Technology on Future Developments in High-Performance Scientific Computing,2017
+SEIFIA,Johanna Seibt and Raul Hakli and Marco Norskov,Sociable Robots and the Future of Social Relations: Proceedings of Robo-Philosophy,2014
+HAGFPT,Thilo Hagendorff,From Privacy to Anti-Discrimination in Times of Machine Learning,2019
+STODPA-4,Daniel Story and Ryan Jenkins,Deepfake Pornography and the Ethics of Non-Veridical Representations,2023
+BOSWMO,Nick Bostrom,When Machines Outsmart Humans,manuscript
+TONTCA,Ryan Tonkens,The Case Against Robotic Warfare: A Response to Arkin,2012
+RATCTP,William Ratoff,Can the Predictive Processing Model of the Mind Ameliorate the Value-Alignment Problem?,2021
+MLLROA-2,"Vincent C. M\""{u}ller",Risks of Artificial General Intelligence,2014
+CURCSQ,Alba Curry and Amanda Cercas Curry,"Computer Says ""No"": The Case Against Empathetic Conversational Ai",2023
+MIEAIA,Martin Miernicki and Irene Ng,Artificial Intelligence and Moral Rights,2021
+GANMER,Jean{-}Gabriel Ganascia,Modelling Ethical Rules of Lying with Answer Set Programming,2007
+UMBNCS,Steven Umbrello and Stefan Lorenz Sorgner,Nonconscious Cognitive Suffering: Considering Suffering Risks of Embodied Artificial Intelligence,2019
+MARCSI-6,Andreia Martinho and Maarten Kroesen and Caspar Chorus,Computer Says I Don?T Know: An Empirical Approach to Capture Moral Uncertainty in Artificial Intelligence,2021
+FRIGAH-2,Phoebe Friesen and Rachel Douglas{-}Jones and Mason Marks and Robin Pierce and Katherine Fletcher and Abhishek Mishra and Jessica Lorimer and Carissa V\'{e}liz and Nina Hallowell and Mackenzie Graham and Mei Sum Chan and Huw Davies and Taj Sallamuddin,Governing Ai-Driven Health Research: Are Irbs Up to the Task?,2021
+LECTPP,Theodore M. Lechterman,The Perfect Politician,2024
+STOLPI-3,Jake Iain Stone and Brent Mittelstadt,"Legitimate Power, Illegitimate Automation: The Problem of Ignoring Legitimacy in Automated Decision Systems",forthcoming
+HERSTA-5,Marion Hersh,"Science, Technology and Values: Promoting Ethics and Social Responsibility",2014
+CHUDDA-2,Christopher A. Chung and Michael Alfred,"Design, Development, and Evaluation of an Interactive Simulator for Engineering Ethics Education (Seee)",2009
+ROGISE,Simon Rogerson and Keith W. Miller and Jenifer Sunrise Winter and David Larson,Information Systems Ethics ? Challenges and Opportunities,2019
+CLAATE-2,Karin Clark and Matt Duckham and Marilys Guillemin and Assunta Hunter and Jodie McVernon and Christine O?Keefe and Cathy Pitkin and Steven Prawer and Richard Sinnott and Deborah Warr and Jenny Waycott,Advancing the Ethical Use of Digital Data in Human Research: Challenges and Strategies to Promote Ethical Practice,2019
+KLIMMW-2,Michal Klincewicz and Lily E. Frank,Making Metaethics Work for Ai: Realism and Anti-Realism,2018
+SEGFME,Samuel T. Segun,From Machine Ethics to Computational Ethics,2021
+DENIEE-2,Christophe Denis and Franck Varenne,"Interpr\'{e}tabilit\'e Et Explicabilit\'e Pour L?Apprentissage Machine : Entre Mod\`{e}les Descriptifs, Mod\`{e}les Pr\'{e}dictifs Et Mod\`{e}les Causaux. Une N\'{e}cessaire Clarification \'{E}pist\'{e}mologique",2019
+DOYLTA,Casey Doyle,Listening to Algorithms: The Case of Self-Knowledge,forthcoming
+MUNTPD-2,Lauritz Aastrup Munch and Jakob Thrane Mainz,The Privacy Dependency Thesis and Self-Defense,2024
+MICMIC,Michal Klincewicz and Lily Frank,Metaethics in Context of Engineering Ethical and Moral Systems,2016
+CHOIRA,Bartek Chomanski,"If Robots Are People, Can They Be Made for Profit? Commercial Implications of Robot Personhood",forthcoming
+BENCAT-7,Oliver Bendel,Considerations About the Relationship Between Animal and Machine Ethics,2016
+BLACMA,Blay Whitby,Computing Machinery and Morality,2008
+WHIUAA-2,Jeffrey White,Understanding and Augmenting Human Morality: An Introduction to the Actwith Model of Conscience,2010
+WHITRO-40,Jeffrey White,The Role of Robotics and Ai in Technologically Mediated Human Evolution: A Constructive Proposal,2020
+AUGAMI,Joshua August Skorburg and Walter Sinnott{-}Armstrong and Vincent Conitzer,Ai Methods in Bioethics,2020
+COOFJT,Mike Cooley,From Judgment to Calculation,2007
+BLATRR,Sabrina Blank and Celeste Mason and Frank Steinicke and Christian Herzog,Tailoring Responsible Research and Innovation to the Translational Context: The Case of Ai-Supported Exergaming,2024
+SCHTIO-146,"Paul Sch\""{u}tze",The Impacts of Ai Futurism: An Unfiltered Look at Ai's True Effects on the Climate Crisis,2024
+METARW-3,Thaddeus Metz,African Reasons Why Artificial Intelligence Should Not Maximize Utility (Repr.),2023
+MIJJUO,Jelena Miji\'c,Jaz U Odgovornosti U Informati\v{c}koj Eri (1st edition),2023
+MONNHO,Ant\'{o}nio Moniz,New Horizons on Robotics: Ethics Challenges,2019
+ALVPAA,Jose M. Alvarez and Alejandra Bringas Colmenarejo and Alaa Elobaid and Simone Fabbrizzi and Miriam Fahimi and Antonio Ferrara and Siamak Ghodsi and Carlos Mougan and Ioanna Papageorgiou and Paula Reyero and Mayra Russo and Kristen M. Scott and Laura State and Xuan Zhao and Salvatore Ruggieri,Policy Advice and Best Practices on Bias and Fairness in Ai,2024
+FRIOTS-8,James Fritz,On the Scope of the Right to Explanation,forthcoming
+DEMDAS-4,Gabriel De Marco and T. Douglas,Do Ai Systems Allow Online Advertisers to Control Others?,2024
+MEICRT-2,Lukas J. Meier,Chatgpt?s Responses to Dilemmas in Medical Ethics: The Devil is in the Details,2023
+PORDBA,Lisa Portmess and Sara Tower,"Data Barns, Ambient Intelligence and Cloud Computing: The Tacit Epistemology and Linguistic Representation of Big Data",2015
+TAYCDA-2,Devendra Kumar Tayal and Arti Jain and Surbhi Arora and Surbhi Agarwal and Tushar Gupta and Nikhil Tyagi,Crime Detection and Criminal Identification in India Using Data Mining Techniques,2015
+TOMTPE,Marcus Tomalin and Bill Byrne and Shauna Concannon and Danielle Saunders and Stefanie Ullmann,The Practical Ethics of Bias Reduction in Machine Translation: Why Domain Adaptation is Better Than Data Debiasing,2021
+MAHHAI,S. Mahomed,"Healthcare, Artificial Intelligence and the Fourth Industrial Revolution: Ethical, Social and Legal Considerations",2018
+BESEKO,Michael Bess,Eight Kinds of Critters: A Moral Taxonomy for the Twenty-Second Century,2018
+FLOTHT,Luciano Floridi,"The Hardware Turn in the Digital Discourse: An Analysis, Explanation, and Potential Risk",2024
+WAYTMI,Adam Waytz and Joy Heafner and Nicholas Epley,The Mind in the Machine: Anthropomorphism Increases Trust in an Autonomous Vehicle,2014
+HEIAMF-2,Hoda Heidari,A Moral Framework for Understanding of Fair Ml Through Economic Models of Equality of Opportunity,2019
+JENADF,Ryan Jenkins and Duncan Purves,A Dilemma for Moral Deliberation in Ai,2016
+TOLMEO,Fabio Tollon,Moral Encounters of the Artificial Kind: Towards a Non-Anthropocentric Account of Machine Moral Agency,2019
+HENCTA-8,Adam Henschke and Shannon Ford,"Cybersecurity, Trustworthiness and Resilient Systems: Guiding Values for Policy",2017
+GLIRFA,Nada Gligorov and Pierce Randall,Respect for Autonomy Requires a Mental Model,2024
+CARIOA-2,Peter J. Carew and Larry Stapleton and Gabriel J. Byrne,Implications of an Ethic of Privacy for Human-Centred Systems Engineering,2008
+GOMSFA,Elana Gomel,Science (Fiction) and Posthuman Ethics: Redefining the Human,2011
+MARCEU-2,Menno T. Maris and Ayca Ko\c{c}ar and Dick L. Willems and Jeannette Pols and Hanno L. Tan and Georg L. Lindinger and Marieke A. R. Bak,Correction: Ethical Use of Artificial Intelligence to Prevent Sudden Cardiac Death: An Interview Study of Patient Perspectives,2024
+THOOTC-7,Jolly Thomas,On the Criteria of the Imitation for the Artificial Intelligent Systems in the Moral Imitation Game,2023
+HALAGP-2,Judith Halberstam,Automating Gender: Postmodern Feminism in the Age of the Intelligent Machine,1991
+CHACHR-3,Sanjit Chakraborty,Can Humanoid Robots Be Moral?,2018
+BODMAM-5,Paula Boddington and Peter Millican and Michael Wooldridge,Minds and Machines Special Issue: Ethics and Artificial Intelligence,2017
+LIMBSA,Daniel Lim,Brain Simulation and Personhood: A Concern with the Human Brain Project,2014
+FLOTI,Luciano Floridi,Technology?s in-Betweeness,2013
+WINSIU,Jenifer Sunrise Winter,Surveillance in Ubiquitous Network Societies: Normative Conflicts Related to the Consumer in-Store Supermarket Experience in the Context of the Internet of Things,2014
+GLYTAO-2,Clark Glymour,The Automation of Discovery,2004
+FLETAN-2,Malene Flensborg Damholdt and Christina Vestergaard and Marco N\o{}rskov and Raul Hakli and Stefan Larsen and Johanna Seibt,Towards a New Scale for Assessing Attitudes Towards Social Robots,2020
+KERAIG,Alison Duncan Kerr,"Artificial Intelligence, Gender, and Oppression",2020
+HERMFI-2,Jonathan Herington,Measuring Fairness in an Unfair World,2020
+NAGAMA,Michael Nagenborg,Artificial Moral Agents: An Intercultural Perspective,2007
+KNERGA,Markus Kneer and Markus Christen,"Responsibility Gaps and Retributive Dispositions: Evidence From the Us, Japan and Germany",manuscript
+SOTSAA,Kaj Sotala and Lukas Gloor,Superintelligence as a Cause or Cure for Risks of Astronomical Suffering,2017
+ARNTTE-5,Thomas Arnold and Matthias Scheutz,The Tactile Ethics of Soft Robotics: Designing Wisely for Human?Robot Interaction,2017
+COMAFC,Tina Comes,Ai for Crisis Decisions,2024
+SHIIDO,Derek Shiller,In Defense of Artificial Replacement,2017
+PARADA-8,Peter Park and Simon Goldstein and Aidan O'Gara and Michael Chen and Dan Hendrycks,"Ai Deception: A Survey of Examples, Risks, and Potential Solutions",manuscript
+CHOSMM-3,Bartek Chomanski,Should Moral Machines Be Banned? A Commentary on van Wynsberghe and Robbins ?Critiquing the Reasons for Making Artificial Moral Agents?,2020
+FEANAC,Laura Fearnley,Norms and Causation in Artificial Morality,forthcoming
+PALDCF,Otello Palmini and Federico Cugurullo,Design Culture for Sustainable Urban Artificial Intelligence: Bruno Latour and the Search for a Different Ai Urbanism,2024
+BECSRA-3,Barbara Becker,Social Robots-Emotional Agents: Some Remarks on Naturalizing Man-Machine Interaction,2006
+CHATAO-40,Mohammad Yaqub Chaudhary,The Artificialization of Mind and World,2020
+BOYBEA,Kenneth Boyd,Black-Box Expertise and Ai Discourse,2023
+PRUITA-3,C. Prunkl,Is There a Trade-Off Between Human Autonomy and the ?Autonomy? of Ai Systems?,2022
+GOLEOS-3,Jan Goldman,Ethics of Spying: A Reader for the Intelligence Professional,2005
+MCLAEI,Stuart McLennan and Meredith M. Lee and Amelia Fiske and Leo Anthony Celi,Ai Ethics is Not a Panacea,2020
+RUBALA,Alan Rubel and Adam Pham and Clinton Castro,Agency Laundering and Algorithmic Decision Systems,2019
+MUEFIO,Vincent C. Mu?ller,Fundamental Issues of Artificial Intelligence,2016
+FRASAM-10,Marlena R. Fraune and Selma \v{S}abanovi\'c and Eliot R. Smith,Some Are More Equal Than Others,2020
+ORATEO-2,Jo Ann Oravec,The Emergence of ?Truth Machines??: Artificial Intelligence Approaches to Lie Detection,2022
+ALEHTT,Andrea Aler Tubella and Mar\c{c}al Mora{-}Cantallops and Juan Carlos Nieves,How to Teach Responsible Ai in Higher Education: Challenges and Opportunities,2023
+DALOTC,Matteo Vincenzo D'Alfonso and Don Berkich,"On the Cognitive, Ethical, and Scientific Dimensions of Artificial Intelligence",2019
+BREMLI,Kristine B\a{e}r\o{}e and Maarten Jansen and Angeliki Kerasidou,Machine Learning in Healthcare: Exceptional Technologies Require Exceptional Ethics,2020
+GILSOI,Satinder P. Gill,Socio-Ethics of Interaction with Intelligent Interactive Technologies,2008
+MATDAD-3,Andreas Matthias,Dignity and Dissent in Humans and Non-Humans,2020
+RIEAII-3,Travis N. Rieder and Brian Hutler and Debra J. H. Mathews,Artificial Intelligence in Service of Human Needs: Pragmatic First Steps Toward an Ethics for Semi-Autonomous Agents,2020
+HILESE,Elisabeth Hildt and Kelly Laas and Monika Sziron,Editorial: Shaping Ethical Futures in Brain-Based and Artificial Intelligence Research,2020
+MOWTAE,Abbe Mowshowitz,Technology as Excuse for Questionable Ethics,2008
+SEKOAD,Kaira Sekiguchi and Koichi Hori,Organic and Dynamic Tool for Use with Knowledge Base of Ai Ethics for Promoting Engineers? Practice of Ethical Ai Design,2020
+BRIICP,Selmer Bringsjord,"In Computation, Parallel is Nothing, Physical Everything",2001
+LEHCIA,Jos Lehmann and Joost Breuker and Bob Brouwer,Causation in Ai and Law,2004
+HARIIT-4,Michaela Hardt and Marshall H. Chin,It is Time for Bioethicists to Enter the Arena of Machine Learning Ethics,2020
+DACOCB,Giuseppe D?Acquisto,On Conflicts Between Ethical and Logical Principles in Artificial Intelligence,2020
+DENCGV,Louise A. Dennis,"Computational Goals, Values and Decision-Making",2020
+KERLPO,"Tanel Kerikm\""{a}e and Peeter M\""{u}""{u}rsepp and Henri Mart Pihl and Ondrej Ondrej Hamu\v{l}'{a}k and Hovsep Kocharyan",Legal Person- or Agenthood of Artificial Intelligence Technologies,2020
+TREFFT-2,Simon C. Tremblay and Safae Essafi Tremblay and Pierre Poirier,From Filters to Fillers: An Active Inference Approach to Body Image Distortion in the Selfie Era,2020
+MLLOHO,"Vincent C. M\""{u}ller",Oxford Handbook of the Philosophy of Artificial Intelligence (Forthcoming),manuscript
+HUSTMS-4,Mubarak Hussain,The Moral Status of Agi-Enabled Robots: A Functionality-Based Analysis (1st edition),2023
+CHOMTU,Bartek Chomanski,Massive Technological Unemployment Without Redistribution: A Case for Cautious Optimism,2019
+LONBIA,Alex John London and Hoda Heidari,"Beneficent Intelligence: A Capability Approach to Modeling Benefit, Assistance, and Associated Moral Failures Through Ai Systems",manuscript
+ARVVOA,Marcus Arvan,Varieties of Artificial Moral Agency and the New Control Problem,2022
+Seifer2007-FEIBFE,David Feil{-}Seifer and Kristine Skinner and Maja J. Matari\'c,Benchmarks for Evaluating Socially Assistive Robotics,2007
+HIMAAC,Kenneth Einar Himma,"Artificial Agency, Consciousness, and the Criteria for Moral Agency: What Properties Must an Artificial Agent Have to Be a Moral Agent?",2009
+KAUORM,Antti Kauppinen,Osaammeko Rakentaa Moraalisia Toimijoita?,2021
+LEUTPO-13,King{-}Ho Leung,The Picture of Artificial Intelligence and the Secularization of Thought,2019
+MLLIPA,"Vincent C. M\""{u}ller",Introduction: Philosophy and Theory of Artificial Intelligence,2012
+ORAGRB,Jo Ann Oravec,"Good Robot, Bad Robot: Dark and Creepy Sides of Robotics, Automated Vehicles, and Ai",2022
+CORIMA,Roberto Cordeschi and Guglielmo Tamburrini,Intelligent Machines and Warfare: Historical Debates and Epistemologically Motivated Concerns,2005
+GREAIA-6,Brian Patrick Green and Matthew J. Gaudet and Levi Checketts and Brian Cutter and Noreen Herzfeld and Cory Andrew Labrecque and Anselm Ramelow and Paul Scherz and Marga Vega and Andrea Vicini and Jordan Joseph Wales,Artificial Intelligence and Moral Theology: A Conversation,2022
+WIESF,V. Wiegel,Sopholab: Experimental Computational Philosophy,2007
+WHIOUA-2,Blay Whitby,"Oversold, Unregulated, and Unethical: Why We Need to Respond to Robot Nannies",2010
+ASHEA,Kevin D. Ashley and Will Bridewell,Emerging Ai \& Law Approaches to Automating Analysis and Retrieval of Electronically Stored Information in Discovery Proceedings,2010
+WINTCO-22,Christoph Winter,The Challenges of Artificial Judicial Decision-Making for Liberal Democracy,2022
+ONYAIA,Justin Nnaemeka Onyeukaziri,Artificial Intelligence and an Anthropological Ethics of Work: Implications on the Social Teaching of the Church (1st edition),2024
+ORAAIA,Jo Ann Oravec,"Artificial Intelligence, Automation, and Social Welfare: Some Ethical and Historical Perspectives on Technological Overstatement and Hyperbole",2019
+YAMOCO,Roman Yampolskiy,On Controllability of Artificial Intelligence,2016
+MARTCF-11,Gibert Martin,The Case for Virtuous Robots,2023
+VANMAA-17,Sjoukje van der Meulen and Max Bruinsma,Man as ?Aggregate of Data?,2019
+YUEAR,Lin Yu and Shejiao Ding,Ethics and Risks Between Human and Robotic Interaction,2019
+FROOTR,Tom Froese,On the Role of Ai in the Ongoing Paradigm Shift Within the Cognitive Sciences,2007
+VLIPAD-2,Carissa V\'{e}liz,Privacy and Digital Ethics After the Pandemic,2021
+CRUSMF,Joe Cruz,Shared Moral Foundations of Embodied Artificial Intelligence,2019
+ASAHFT,Atsuchi Asai and Taketoshi Okita and Aya Enzo and Motoki Ohnishi and Seiji Bito,Hope for the Best and Prepare for the Worst: Ethical Concerns Related to the Introduction of Healthcare Artificial Intelligence,2019
+ROFAIP,Heather M. Roff,Artificial Intelligence: Power to the People,2019
+DAVFEC,Jeremy Davis and Duncan Purves and Juan Gilbert and Schuyler Sturm,Five Ethical Challenges for Data-Driven Policing,2022
+PEEOOC,Anco Peeters,Out of Control: Flourishing with Carebots Through Embodied Design,2018
+MORTAA-23,Michael Morelli,The Athenian Altar and the Amazonian Chatbot: A Pauline Reading of Artificial Intelligence and Apocalyptic Ends,2019
+DAVAII-2,Sara E. Davies,Artificial Intelligence in Global Health,2019
+ENNSUA,Richard Ennals,Socially Useful Artificial Intelligence,1987
+MELBBR-2,Gail F. Melson,Building Better Robots: Lessons From Observing Relationships Between Living Beings,2014
+LAUAIE,Lode Lauwaert,"Artifici\""{e}le Intelligentie En Normatieve Ethiek",2019
+KELTSA-14,David J. Kelley,The Sapient and Sentient Intelligence Value Argument and Effects on Regulating Autonomous Artificial Intelligence,2019
+MCFAAC,David McFarland,Animals as Cost-Based Robots,1992
+PEACCF,Yvette Pearson and Jason Borenstein,Creating ?Companions? for Children: The Ethics of Designing Esthetic Features for Robots,2014
+CHOSAV,Bartek Chomanski,Sims and Vulnerability: On the Ethics of Creating Emulated Minds,forthcoming
+CORMDA-8,Nicholas Kluge Corr\^{e}a and Nythamar De Oliveira,Modelos Din\^{a}micos Aplicados \`A Aprendizagem de Valores Em Intelig\^{e}ncia Artificial,2020
+CHOPPA-4,Bartek Chomanski,"Pauses, Parrots, and Poor Arguments: Real-World Constraints Undermine Recent Calls for Ai Regulation",2023
+Lefebvre2023-COSAFP-2,Hugo Cossette{-}Lefebvre and Jocelyn Maclure,Ai?s Fairness Problem: Understanding Wrongful Discrimination in the Context of Automated Decision-Making,2023
+LANCDW-2,Benjamin Lange and Ted Lechterman,Combating Disinformation with Ai: Epistemic and Ethical Challenges,2021
+MCCAMQ-2,Emma McClure and Benjamin Wald,Algorithmic Microaggressions,2022
+SULHVS-2,Emily Sullivan,How Values Shape the Machine Learning Opacity Problem,2022
+BAREVE-2,Orhan Onder,Epistemolojik Ve Etik Acidan Klinik Karar Destek Sistemleri,2022
+KASTEG,Atoosa Kasirzadeh and Colin Klein,The Ethical Gravity Thesis: Marrian Levels and the Persistence of Bias in Automated Decision-Making Systems,2021
+DALACD,Ken Daley,A Conditional Defense of the Use of Algorithms in Criminal Sentencing,2023
+MLLWYM,"Vincent C. M\""{u}ller",Would You Mind Being Watched by Machines? Privacy Concerns in Data Mining,2009
+PERSMA-2,Pericle Salvini and Edoardo Datteri and Cecilia Laschi and Paolo Dario,Scientific Models and Ethical Issues in Hybrid Bionic Systems Research,2008
+WOOTIA-5,Philip Woodward,Technological Innovation and Natural Law,2020
+KASAFA,Atoosa Kasirzadeh,Algorithmic Fairness and Structural Injustice: Insights From Feminist Political Philosophy,2022
+LEUTPI-2,Muriel Leuenberger,"Technology, Personal Information, and Identity",2024
+COEPRA,Mark Coeckelbergh,"Personal Robots, Appearance, and Human Good",2009
+MLLBII-4,"Vincent C. M\""{u}ller",Basic Issues in Ai Policy,2022
+SMIHGL,James Smith and Tanya de Villiers{-}Botha,"Hey, Google, Leave Those Kids Alone: Against Hypernudging Children in the Age of Big Data",2021
+FURTFO-9,Markus Furendal and Karim Jebari,The Future of Work: Augmentation or Stunting?,2023
+PERTFO-10,Erik Persson and Maria Hedlund,The Future of Ai in Our Hands? - to What Extent Are We as Individuals Morally Responsible for Guiding the Development of Ai in a Desirable Direction?,2022
+DORHEA-2,John Dorsch,Hijacking Epistemic Agency - How Emerging Technologies Threaten Our Wellbeing as Knowers,2022
+MLLFPD-2,"Vincent C. M\""{u}ller",From Public Data to Private Information: The Case of the Supermarket,2009
+GOEBIB,Trystan S. Goetze and Darren Abramson,Bigger Isn?T Better: The Ethical and Scientific Vices of Extra-Large Datasets in Language Models,2021
+WAHAOL,Peter Wahlgren,Automation of Legal Reasoning: A Study on Artificial Intelligence and Law,1992
+SHETBO-6,James J. Sheehan and Morton Sosna,"The Boundaries of Humanity: Humans, Animals, Machines",1991
+MARIAE-16,D\'{e}sir\'{e}e Martin and Michael W. Schmidt and Rafaela Hillerbrand,Implementing Ai Ethics in the Design of Ai-Assisted Rescue Robots,2023
+SOTFMH,Kaj Sotala,From Mostly Harmless to Civilization-Threatening: Pathways to Dangerous Artificial Intelligences,2010
+HEWPAC,Patrick Chisan Hew,Preserving a Combat Commander?s Moral Agency: The Vincennes Incident as a Chinese Room,2016
+MORNAL-5,Jessica Morley and Luciano Floridi,Nhs Ai Lab: Why We Need to Be Ethically Mindful About Ai for Healthcare,2020
+WHIMMA-3,Jeffrey White,Manufacturing Morality a General Theory of Moral Agency Grounding Computational Implementations: The Actwith Model,2013
+BELKRA,Vaishak Belle,Knowledge Representation and Acquisition for Ethical Ai: Challenges and Opportunities,2023
+PRIFSA-2,Michael Prinzing,Friendly Superintelligent Ai: All You Need is Love,2012
+VICTWI,Constantin Vica,"The World is a Big Network. Pandemic, the Internet and Institutions",2020
+BRUITD-2,James Brusseau,Introduction to Data Ethics,2018
+KRITGA-2,"Alexander Kriebitz and Raphael Max and Christoph L\""{u}tge",The German Act on Autonomous Driving: Why Ethics Still Matters,2022
+KAMWOG,Bart Kamphorst and Annemarie Kalis,Why Option Generation Matters for the Design of Autonomous e-Coaching Systems,2015
+DENIEE-3,Christophe Denis and Franck Varenne,Interpr\'{e}tabilit\'e Et Explicabilit\'e de Ph\'{e}nom\`{e}nes Pr\'{e}dits Par de L?Apprentissage Machine,2022
+HAWALA,Ronnie Hawkins,"Anthropocentrism, Logocentrism, and Neural Networks: Victoria Davion Prefigures Some Important Lessons From Nature",2018
+CHIACF,Chuanfei Chin,Artificial Consciousness: From Impossibility to Multiplicity,2017
+BRUFTG,James Brusseau,From the Ground Truth Up: Doing Ai Ethics From Practice to Principles,2022
+HINTBF,Emmie Hine and Luciano Floridi,"The Blueprint for an Ai Bill of Rights: In Search of Enaction, at Risk of Inaction",2023
+SPARBA,Athmeya Jayaram and Jacob Sparks,Rule by Automation: How Automated Decision Systems Promote Freedom and Equality,2022
+FOSRMC,Fabio Fossa,Robot Morali? Considerazioni Filosofiche Sulla \emph{Machine Ethics},2020
+VICAIR,Constantin Vica and Cristina Voinea,"Artificial Intelligence, Robots and the Ethics of the Future",2019
+RUBTTO-5,Alan Rubel and Kyle M. L. Jones,The Temptation of Data-Enabled Surveillance: Are Universities the Next Cautionary Tale?,2020
+UMBBLA,Steven Umbrello,Bernard Lonergan and a Nouvelle Th\'{e}ologie for Artificial Intelligence,forthcoming
+UMBIFD,Steven Umbrello,Il Futuro Della Tecnologia. Progettazione Etica e Innovazione,forthcoming
+LANEOA-4,Giovanni Landi,Ethics of Artificial Intelligence Vs Ethical Artificial Intelligence,2020
+KARQOW,Colin Allen and Brett Karlan,Quantum of Wisdom,2022
+ARKREA-2,Ronald Arkin and Jason Borenstein,"Robots, Ethics, and Intimacy: The Need for Scientific Research",2019
+BECTCA-4,Sander Beckers,Moral Responsibility for Ai Systems,forthcoming
+MACBDL,Maciej Zaj\k{a}c,Beyond Deadlock: Low Hanging Fruit and Strict yet Available Options in Aws Regulation,2022
+MAIBDA,Jakob Mainz and Rasmus Uhrenfeldt and Jorn Sonderholm,Big Data Analytics and How to Buy an Election,2021
+FOSLFA,Fabio Fossa,Legal Fictions and the Essence of Robots: Thoughts on Essentialism and Pragmatism in the Regulation of Robotics,2018
+IZZWVE,Ahmed Izzidien,Word Vector Embeddings Hold Social Ontological Relations Capable of Reflecting Meaningful Fairness Assessments,2021
+ORRSDF,Elisa Orr\`u,Small Data for Sustainability: Ai Ethics and the Environment,2023
+NAVTLH-2,Mateja Kovacic and Mar\'{i}a G. Navarro,Tecno-Especies: La Humanidad Que Se Hace a S\'i Misma y Los Desechables,2021
+MCDEIF,"John McDermid and Vincent C. M\""{u}ller and Tony Pipe and Zoe Porter and Alan Winfield",Ethical Issues for Robotics and Autonomous Systems,2019
+BATFQA,Fiorella Battaglia,Foundational Questions About Values in Information Technology,2023
+FRIAGW-2,Julian Friedland and David Balkin and Ramiro Montealegre,A Ghost Workers' Bill of Rights: How to Establish a Fair and Safe Gig Work Platform,2020
+LEETIO,Mark Lee and Nicholas J. Lacey,The Influence of Epistemology on the Design of Artificial Agents,2003
+NATFPT-2,Rajakishore Nath and Riya Manna,From Posthumanism to Ethics of Artificial Intelligence,2023
+SUSECF,Daniel Susser,Ethical Considerations for Digitally Targeted Public Health Interventions,2020
+YOUHLA-3,Ammar Younas and Tegizbekova Zhyldyz Chynarbekovna,"Harmonizing Law and Innovations in Nanomedicine, Artificial Intelligence (Ai) and Biomedical Robotics: A Central Asian Perspective",manuscript
+TIEOAR,Christine Tiefensee and Johannes Marx,"Of Animals, Robots and Men",2015
+KLICTE,Michal Klincewicz,Challenges to Engineering Moral Reasoners : Time and Context,2017
+MRZTPS,Adrian Mr\'{o}z,The Pharmacological Significance of Mechanical Intelligence and Artificial Stupidity,2019
+PREAA,Beth Preston,"Anthropocentrism, and the Evolution of 'Intelligence'",1991
+WHIART-6,Jeffrey White,Autonomous Reboot: The Challenges of Artificial Moral Agency and the Ends of Machine Ethics,manuscript
+SHEEAN-2,Brendan Shea,Evolution and Neuroethics in the Hyperion Cantos,2015
+KOUFMP,Tianqi Kou,From Model Performance to Claim: How a Change of Focus in Machine Learning Replicability Can Help Bridge the Responsibility Gap,manuscript
+KLICOU,Michal Klincewicz and Lily Frank,Consequences of Unexplainable Machine Learning for the Notions of a Trusted Doctor and Patient Autonomy,2020
+NYETDA,Howard Nye,Technological Displacement and the Duty to Increase Living Standards: From Left to Right,2020
+FJECWN,Ragnar Fjelland,"Computers Will Not Acquire General Intelligence, but May Still Rule the World",2024
+SCHREF,Egbert Schuurman,Responsible Ethics for Global Technology,2010
+HOGAOL,Christopher Hogan and Robert S. Bauer and Dan Brassil,Automation of Legal Sensemaking in e-Discovery,2010
+DIJPPA,Niels Dijk,"Property, Privacy and Personhood in a World of Ambient Intelligence",2010
+GILPE,Karamjit S. Gill,Performing Ethics,2017
+Marquez2019-BRESLA-2,Kiel Brennan{-}Marquez and Karen Levy and Daniel Susser,Strange Loops: Apparent Versus Actual Human Involvement in Automated Decision-Making,2019
+ADAHRA-2,Bryan Adams and Cynthia Breazeal and Rodney Brooks and Brian Scassellati,Humanoid Robots: A New Kind of Tool,2000
+YOUSOA-2,Ammar Younas and Rehan Younas,Sustainability of Artificial Intelligence: Reconciling Human Rights with Legal Rights of Robots,forthcoming
+MIRCIL,Martin Miragoli,"Conformism, Ignorance \& Injustice: Ai as a Tool of Epistemic Oppression",2024
+TURMAA-6,Alexey Turchin and Denkenberger David,Military Ai as a Convergent Goal of Self-Improving Ai,2018
+BRUUEC,James Brusseau,Using Edge Cases to Disentangle Fairness and Solidarity in Ai Ethics,2021
+MOLDAA-4,Warmhold Jan Thomas Mollema,Decolonial Ai as Disenclosure,2024
+VANACA-18,Ibo van de Poel,"Ai, Control and Unintended Consequences: The Need for Meta-Values",2023
+VANPMM,Simon van Rysewyk and Janneke van Leeuwen,"Picturing Mind Machines, an Adaptation by Janneke van Leeuwen",2014
+VONFTE,Ren\'e von Schomberg,From the Ethics of Technology Towards an Ethics of Knowledge Policy,2007
+CHAAER-10,Louis Chartrand,Agenc\'{e}it\'e Et Responsabilit\'e des Agents Artificiels,2017
+WALMM-6,Jordan Joseph Wales,"Metaphysics , Meaning, and Morality: A Theological Reflection on A.I.",2022
+DELPVI,Paul B. de Laat,Profiling Vandalism in Wikipedia: A Schauerian Approach to Justification,2016
+FREMSO,Ori Freiman,Making Sense of the Conceptual Nonsense 'Trustworthy Ai',2022
+LAMSAI-3,Camillo Lamanna,Should Artificial Intelligence Augment Medical Decision Making? The Case for an Autonomy Algorithm,2018
+RAMIMM,Rajitha Ramanayake and Philipp Wicke and Vivek Nallur,Immune Moral Models? Pro-Social Rule Breaking as a Moral Enhancement Approach for Ethical Ai,2023
+DINPFE,Jesse David Dinneen,Planning for Ethical Agent-Agent Interaction,2019
+BAUFAF,Seth D. Baum and Andrea Owe,From Ai for People to Ai for the World and the Universe,2023
+BYRMAW,Edmund Byrne,Microelectronics and Workers' Rights,1986
+ROVTEO-5,Robert J. Rovetto,"The Ethics of Conceptual, Ontological, Semantic and Knowledge Modeling",2023
+CAPEAR-2,Raphael Capurro and Michael Nagenborg,Ethics and Robotics,2009
+VERFVA,Bart Verheij,Formalizing Value-Guided Argumentation for Ethical Systems Design,2016
+TORMCE,Steve Torrance and Ron Chrisley,Modelling Consciousness-Dependent Expertise in Machine Medical Moral Agents,2015
+SCHTCF-9,"Kevin Baum and Eva Schmidt and A. K\""{o}hl Maximilian",Two Challenges for Ci Trustworthiness and How to Address Them,2017
+DIEASC,Eric Dietrich,"Ai, Situatedness, Creativity, and Intelligence; or the Evolution of the Little Hearing Bones",1996
+MCRTMO,Kenneth McRitchie,The Marriage of Astrology and Ai: A Model of Alignment with Human Values and Intentions,2024
+BOS-5,Nick Bostrom,Existential Risks,manuscript
+DODEAO,Vira Dodonova and Roman Dodonov and Kateryna Gorbenko,Ethical Aspects of Artificial Intelligence Functioning in the Xxist Century,2023
+RODEAS-3,Raffaele Rodogno,Ethics and Social Robotics,2016
+LAWAI-3,David R. Lawrence and C\'{e}sar Palacios{-}gonz\'{a}lez and John Harris,Artificial Intelligence,2016
+TEP-53,??? and ??? and ???,The Ethical Principles for the Development of Artificial Moral Agent - Focusing on the Top - Down Approach -,2016
+MLLHOD-2,"Vincent C. M\""{u}ller",History of Digital Ethics,2023
+BAL-23,Valentin Balanovskiy,\CYRP\cyrr\cyra\cyrv\cyra \CYRI \CYRS\cyrv\cyro\cyrb\cyro\cyrd\cyrery \CYRCH\cyre\cyrl\cyro\cyrv\cyre\cyrk\cyra \CYRI \CYRG\cyrr\cyra\cyrzh\cyrd\cyra\cyrn\cyri\cyrn\cyra \CYRV \CYRK\cyro\cyrn\cyrt\cyre\cyrk\cyrs\cyrt\cyre \CYRR\cyra\cyrz\cyrv\cyri\cyrt\cyri\cyrya \CYRI \CYRV\cyrn\cyre\cyrd\cyrr\cyre\cyrn\cyri\cyrya \CYRS\cyri\cyrs\cyrt\cyre\cyrm \CYRI\cyrs\cyrk\cyru\cyrs\cyrs\cyrt\cyrv\cyre\cyrn\cyrn\cyro\cyrg\cyro \CYRI\cyrn\cyrt\cyre\cyrl\cyrl\cyre\cyrk\cyrt\cyra,2007
+FANEHA,Rosanna Fanni and Valerie Eveline Steinkogler and Giulia Zampedri and Jo Pierson,Enhancing Human Agency Through Redress in Artificial Intelligence Systems,2023
+RAFJAI,Lucia M. Rafanelli,Justice and Injustice,manuscript
+STRLAE,Marta Stroppa,Legal and Ethical Implications of Autonomous Cyber Capabilities: A Call for Retaining Human Control in Cyberspace,2023
+BOVBND-2,Luc Bovens,"Book Note: Danielson, P. Artificial Morality: Virtuous Robots for Virtual Games",1993
+WHIUAA,Jeffrey White,Understanding and Augmenting Human Morality: The Actwith Model of Conscience,2009
+PORDTF,Zoe Porter and Annette Zimmermann and Phillip Morgan and John McDermid and Tom Lawton and Ibrahim Habli,Distinguishing Two Features of Accountability for Ai Technologies,2022
+MILCHC-2,Michael Miller,Catholic Health Care and Ai Ethics: Algorithms for Human Flourishing,2022
+CHETIO-13,Thomas Chesney and Shaun Lawson,The Illusion of Love: Does a Virtual Pet Provide the Same Companionship as a Real One?,2007
+Ilan2007-BARMSE-2,Judit Bar{-}Ilan,Manipulating Search Engine Algorithms: The Case of Google,2007
+ERLTEO-2,"Alexandre Erler and Vincent C. M\""{u}ller","The Ethics of Biomedical Military Research: Therapy, Prevention, Enhancement, and Risk",2021
+WONAFS,Pak{-}Hang Wong,"Ai for Social Good, Ai for Datong",2021
+QUIEAT-4,Christopher Quintana,Ethics at the Intersection: Human-Centered Ai \& User Experience Design,forthcoming
+LACTTO-7,Travis LaCroix and Aydin Mohseni,The Tragedy of the Ai Commons,2022
+SCHMGA-9,Joshua Schulz,Machine Grading and Moral Learning,2014
+DANAIA-8,David Danks and Daniel Trusilo,Artificial Intelligence and Humanitarian Obligations,2023
+BUREAA-7,Christopher Burr and David Leslie,"Ethical Assurance: A Practical Approach to the Responsible Design, Development, and Deployment of Data-Driven Technologies",forthcoming
+COPATA,B. Jack Copeland,Alan Turing's Automatic Computing Engine: The Master Codebreaker's Struggle to Build the Modern Computer,2005
+DALTAA-14,Ken Daley,Two Arguments Against Human-Friendly Ai,2021
+BYRUWW,Edmund Byrne,"Utopia Without Work? Myth, Machines and Public Policy",1985
+GERIII,Anne Gerdes,It-Ethical Issues in Sci-Fi Film Within the Timeline of the Ethicomp Conference Series,2015
+SCHAFL-4,Burkhard Schafer and David Komuves and Jesus Manuel Niebla Zatarain and Laurence Diver,A Fourth Law of Robotics? Copyright and the Law and Ethics of Machine Co-Production,2015
+VESAEA,Marina Micheli and Caroline M. Gevaert and Mary Carman and Max Craglia and Emily Daemen and Rania E. Ibrahim and Alexander Kotsev and Zaffar Mohamed{-}Ghouse and Sven Schade and Ingrid Schneider and Lea A. Shanley and Alessio Tartaro and Michele Vespe,Ai Ethics and Data Governance in the Geospatial Domain of Digital Earth,2022
+Ahuerma2023-MORVPD-2,Fabio Morand\'{i}n{-}Ahuerma,Veintitr\'{e}s Principios de Asilomar Para la Inteligencia Artificial y El Futuro de la Vida (1st edition),2023
+ARVHAH,Marcus Arvan,Humans and Hosts in Westworld: What's the Difference?,2018
+Bow2023-RODKRA,Ashley Roden{-}Bow,Killer Robots and Inauthenticity: A Heideggerian Response to the Ethical Challenge Posed by Lethal Autonomous Weapons Systems,2023
+RUBBII,Alan Rubel and Clinton Castro and Adam Pham,"Bias in Information, Algorithms, and Systems",2018
+MENTTC-2,Christophe Menant,"Turing Test, Chinese Room Argument, Symbol Grounding Problem. Meanings in Artificial Agents (Apa 2013)",2013
+GRAWIA-9,Mark Graves and Emanuele Ratti,Who is a Good Data Scientist? A Reply to Curzer and Epstein,2022
+BERAVB,Brian Berkey,"Autonomous Vehicles, Business Ethics, and Risk Distribution in Hybrid Traffic",2022
+LYOEEA-4,Michael J. Lyons,Excavating ?Excavating Ai?: The Elephant in the Gallery,2020
+KARPPF-2,Maksim Karliuk,Proportionality Principle for the Ethics of Artificial Intelligence,2023
+VERAIA-5,Bart Verheij,Artificial Intelligence as Law,2020
+WENMMB,Wendell Wallach and Colin Allen and Iva Smit,Machine Morality: Bottom-Up and Top-Down Approaches for Modelling Human Moral Faculties,2008
+BOUPM,Andrew Boucher,Parallel Machines,1997
+Ahuerma2023-MORDRD-2,Fabio Morand\'{i}n{-}Ahuerma,Diez Recomendaciones de la Unesco Sobre \'{E}tica de la Inteligencia Artificial (1st edition),2023
+CHOAAT-7,Bartek Chomanski,Anti-Natalism and the Creation of Artificial Minds,forthcoming
+BURTEV-2,Thomas F. Burns,Epistemic Virtues of Harnessing Rigorous Machine Learning Systems in Ethically Sensitive Domains,2023
+CORDMA-11,Nicholas Kluge Corr\^{e}a and Nythamar De Oliveira,Dynamic Models Applied to Value Learning in Artificial Intelligence,2020
+ALTRA,Richard Alterman,Rethinking Autonomy,2000
+LANAOA,Jaron Lanier,Agents of Alienation,1995
+NEGTPO,Massimo Negrotti,The Piping of Thought and the Need for a Permanent Monitoring of the Cultural Effects of Artificial Intelligence,1987
+PARHDM,Derek Partridge,Human Decision Making \& the Symbolic Search Space Paradigm in Ai,1987
+JURTAT-2,Annett Juras and Janine Brockmeier and Vera Niedergesaess and Dietrich Brandt,Trust and Team Development to Fight Chaos: Three Student Reports,2014
+DROMDO,Adam Drozdek,Moral Dimension of Man and Artificial Intelligence,1992
+LEITAO-5,Philip Leith,The Application of Ai to Law,1988
+VERARR,Paul F. M. J. Verschure and Philipp Althaus,A Real-World Rational Agent: Unifying Old and New Ai,2003
+TUBEM,Ariela Tubert,Ethical Machines?,2018
+WAETEO-2,Rosalie Waelen,The Ethics of Computer Vision: An Overview in Terms of Power,2023
+PURFIA,Duncan Purves,Fairness in Algorithmic Policing,2022
+SULAKG,John Sullins,Artificial Knowing: Gender and the Thinking Machine,1999
+ROEJQG,??????,Research on Ethical Issues of Artificial Intelligence in the Future--Based on the Perspective of Robot and Metaverse,2023
+KANFEA-3,Nesibe Kantar and Terrell Ward Bynum,Flourishing Ethics and Identifying Ethical Values to Instill Into Artificially Intelligent Agents,2022
+VEROSN-2,Shourya Verma,Organoid Sentience,manuscript
+HAIITU,Bernard Haisch,"Is the Universe a Vast, Consciousness-Created Virtual Reality Simulation?",2014
+ASAAPM,Minoru Asada,"Artificial Pain May Induce Empathy, Morality, and Ethics in the Conscious Mind of Robots",2019
+MLLDAI-4,"Luise M\""{u}ller",Domesticating Artificial Intelligence,2022
+SCHSVG,Elke Schwarz,Silicon Valley Goes to War,2021
+TURCOT-6,Alexey Turchin,Global Solutions Vs. Local Solutions for the Ai Safety Problem,2019
+DAVOMH-2,Jovana Davidovic,On Meaningful Human Control of Ai,manuscript
+BRUAEH-2,Fr\'{e}d\'{e}rick Bruneault and Andr\'{e}ane Sabourin Laflamme,Ai Ethics: How Can Information Ethics Provide a Framework to Avoid Usual Conceptual Pitfalls? An Overview,forthcoming
+Crncovic2013-DODCN-2,Gordana Dodig{-}Crncovic and Raffaela Giovagnoli,Computing Nature,2013
+Ahuerma2023-MORRDC-2,Fabio Morand\'{i}n{-}Ahuerma,Recomendaci\'{o}n Del Consejo Sobre Inteligencia Artificial de la Ocde: Desigualdad e Inclusi\'{o}n (1st edition),2023
+LIURAB,David Liu and Zohair Shafi and Will Fleisher and Tina Eliassi{-}Rad and Scott Alfeld,Rawlsnet: Altering Bayesian Networks to Encode Rawlsian Fair Equality of Opportunity,2021
+EDETAA-2,Elizabeth Edenberg and Meg Leta Jones,Troubleshooting Ai and Consent,2020
+JOHEAT-8,Deborah G. Johnson and Thomas M. Powers,Ethics and Technology: A Program for Future Research,2009
+CAVRAA-3,Stephen Cave and Kanta Dihal,Race and Ai: The Diversity Dilemma,2021
+JOAATA,Kristi Joamets and Archil Chochia,Access to Artificial Intelligence for Persons with Disabilities: Legal and Ethical Questions Concerning the Application of Trustworthy Ai,2021
+Crnkovic2013-DODCRV,Gordana Dodig{-}Crnkovic,"Cognitive Revolution, Virtuality and Good Life",2013
+BERTEO-60,Kati Tusinski Berg,"The Ethics of Artificial Intelligence: Superintelligence, Life 3.0 and Robot Rights",2018
+THOMLE,Steven John Thompson,"Machine Law, Ethics, and Morality in the Age of Artificial Intelligence",2020
+TONOOC,Ryan Tonkens,Out of Character: On the Creation of Virtuous Machines,2012
+KNIITT,"Peter K\""{o}nigs",Introduction to the Special Issue on the Ethics of State Mass Surveillance,2020
+VVEEPO,Elena V. Vvedenskaya,Ethical Problems of Digitization and Robotization in Medicine,2020
+THOHSA-2,Johanna Thoma,How Should Artificial Agents Make Risky Choices on Our Behalf?,2021
+INGAAE-2,Katrina Ingram,Ai and Ethics: Shedding Light on the Black Box,2020
+Villaronga2023-FOSTSO-8,E. Fosch{-}Villaronga and S. van der Hof and C. Lutz and A. Tam\`o{-}Larrieux,Toy Story or Children Story? Putting Children and Their Rights at the Forefront of the Artificial Intelligence Revolution,2023
+Ahuerma2023-MOREUC,Fabio Morand\'{i}n{-}Ahuerma,"Estados Unidos, China y Rusia: Propuestas Nacionales Para Una \'{E}tica de la Ia En la Nueva Guerra Fr\'{i}a (1st edition)",2023
+KAMDRD,Inbar Kaminsky,Do Robots Dream of Escaping? Narrativity and Ethics in Alex Garland?s Ex-Machina and Luke Scott?s Morgan,2021
+CHAEES-2,Marc Champagne,Endangered Experiences: Skipping Newfangled Technologies and Sticking to Real Life,manuscript
+DOYKMT,Tony Doyle,"Kevin Macnish: The Ethics of Surveillance: An Introduction: Routledge, London and New York, 2018, Isbn 978-1138643796, \$45.95",2020
+EGLCWA,Matthew E. Gladden,Cryptocurrency with a Conscience: Using Artificial Intelligence to Develop Money That Advances Human Ethical Values,2015
+BOYSYO,Kenneth Boyd,Should You Outsource Important Life Decisions to Algorithms?,2022
+SAMPFA,Matthew Sample and Eric Racine,Pragmatism for a Digital Society: The (in)Significance of Artificial Intelligence and Neural Technology,2021
+Ahuerma2023-MORTDL-8,Fabio Morand\'{i}n{-}Ahuerma,"\'{E}tica de la Ia Desde Las Empresas Globales: Microsoft, Google, Meta y Apple (1st edition)",2023
+TOLDOM,Fabio Tollon,Do Others Mind? Moral Agents Without Mental States,2021
+CORAEI,Caitlin C. Corrigan and Simon Atuah Asakipaam and Jerry John Kponyo and Christoph Luetge,Ai Ethics in Higher Education: Insights From Africa and Beyond,2023
+WHICTA-4,Jeffrey Benjamin White,Conscience,2008
+SULDIT,John P. Sullins,Drones in the Crosshairs,2013
+DIETGP-2,Eric Dietrich and Chris Fields and John P. Sullins and Van Heuveln Bram and Robin Zebrowski,The Great Philosophical Objections to Ai: The History and Legacy of the Ai Wars,2021
+OTTTHD,Tabea Ott and Peter Dabrock,Transparent Human ? (Non-) Transparent Technology? The Janus-Faced Call for Transparency in Ai-Based Health Care Technologies,2022
+LIEAIN,Jay Liebowitz,Artificial Intelligence: New Jobs From Old,1989
+CROOTA-2,Hans F. M. Crombag,On the Artificiality of Artificial Intelligence,1993
+FULIOA-3,Joseph S. Fulda,Implications of a Logical Paradox for Computer-Dispensed Justice Reconsidered: Some Key Differences Between Minds and Machines,2012
+GALIAE-2,Jai Galliott and Duncan MacIntosh and Jens David Ohlin,Introduction: An Effort to Balance the Lopsided Autonomous Weapons Debate,2021
+Roma2023-CASTUA-4,Joan Casas{-}Roma and Jordi Conesa and Santi Caball\'e,"Technology, Users and Uses: Ethics and Human Interaction Through Technology and Ai (1st edition)",2023
+HAGHCA,Jaap C. Hage and Ronald Leenes and Arno R. Lodder,Hard Cases: A Procedural Approach,1993
+HOGTVV,Manh{-}Tung Ho and T. Hong{-}Kong Nguyen,Gi?i Thi?u V? N\u{a}m Ti?n \DJ? C\h{u}a T??ng T\'{a}c Gi?a Ng??i V\`a M\'{a}y Trong K\hi Nguy\^{e}n Tr\'i Tu? Nh\^{a}n T\d{a}o,manuscript
+LPEAEO-3,Eduardo Alejandro L\'{o}pez Jim\'{e}nez and Tania Ouariachi,An Exploration of the Impact of Artificial Intelligence (Ai) and Automation for Communication Professionals,2021
+BOSFAO-2,Tibor Bosse and Martijn C. Schut and Jan Treur,Formal Analysis of Dynamics Within Philosophy of Mind by Computer Simulation,2009
+HYNOOP,Nik Hynek and Anzhelika Solovyeva,Operations of Power in Autonomous Weapon Systems: Ethical Conditions and Socio-Political Prospects,2021
+COEACE-2,Mark Coeckelbergh,Artificial Companions: Empathy and Vulnerability Mirroring in Human-Robot Relations,2010
+SICEAR,Bruno Siciliano and Guglielmo Tamburrini,Ethics and Robotics in the Fourth Industrial Revolution,2019
+SMIWBA-3,David Harris Smith and Guido Schillaci,Why Build a Robot with Artificial Consciousness? How to Begin? A Cross-Disciplinary Dialogue on the Design and Implementation of a Synthetic Model of Consciousness,2021
+MYEEDI,Michael D. Myers and Leigh Miller,Ethical Dilemmas in the Use of Information Technology: An Aristotelian Perspective,1996
+LOUAOF,Euripidis N. Loukis,"An Ontology for G2G Collaboration in Public Policy Making, Implementation and Evaluation",2007
+REMSAO,D. Remenyi and Brian Williams,Some Aspects of Ethics and Research Into Artificial Intelligence,1995
+THIACF,Inari Thiel and Neil W. Bergmann and William Grey,A Case for Investigating the Ethics of Artificial Life?,2003
+KANACG,Hyo Yoon Kang,"Autonomic Computing, Genomic Data, and Human Agency: The Case for Embodiment",2011
+BALOOA-2,"Christian Balkenius and Lola Ca\~{n}amero and Philip P\""{a}rnamets and Birger Johansson and Martin Butz and Andreas Olsson",Outline of a Sensory-Motor Perspective on Intrinsically Moral Agents,2016
+COOMAM-9,Jennifer Carol Cook,Machine and Metaphor: The Ethics of Language in American Realism,2006
+DOWLII,Willard Downs and Kelley Ann Newton,Legal Implications in Development and Use of Expert Systems in Agriculture,1989
+TAFSMA,Daniela Tafani,Sulla Moralit\`a Artificiale. Le Decisioni Delle Macchine Tra Etica e Diritto,2020
+MAGNES,Athanasia Pouloudi and George D. Magoulas,"Neural Expert Systems in Medical Image Interpretation: Development, Use, and Ethical Issues",2000
+ROSEAI-5,Gilad Rosner and Andrew McStay,"Emotional Artificial Intelligence in Children?s Toys and Devices: Ethics, Governance and Practical Remedies",2021
+STAESL,Ronald Stamper and James Backhouse and Karl Althaus,Expert Systems: Lawyers Beware!,1987
+COHIAD,Jonathan Cohn,In a Different Code: Artificial Intelligence and the Ethics of Care,2020
+SUSPAP,Dr Richard Susskind,Pragmatism and Purism in Artificial Intelligence and Legal Reasoning,1989
+CASBNE,Nuno Castanheira and Nythamar de Oliveira,"Bio\'{e}tica, Neuro\'{e}tica e \'{E}tica de Ia Num Mundo P\'{o}s-Pand\^{e}mico",2022
+ABBLU,Jessica Abbott and Erik Persson,"Liv ? Utomjordiskt, Syntetiskt, Artificiellt",2017
+VANJLC,J. G. L. van der Wees,Juricas: Legal Computer Advice Systems,1992
+IIITAN,Holmes Rolston Iii,Technology and/or Nature: Denatured/Renatured/Engineered/Artifacted Life?,2017
+APP-6,??? and ???,A Philosophical Project of Hybrid Approach to Artificial Moral Agents,2019
+YANACF,Yingjie Yang and David Gillingwater and Chris Hinde,A Conceptual Framework for Society-Oriented Decision Support,2005
+DEMHAI,Jos de Mul and Bibi van den Berg,Human Autonomy in the Age of Computer-Mediated Agency,2011
+SCHTIO-32,Peter Schefe,The Impacts of Expert Systems on Working Life -- an Assessment,1990
+KOWPME,Robert Kowalski,Programming Machine Ethics by Lu\'{i}s Moniz Pereira and Ari Saptawijaya,2017
+MAIKS,Klaus Mainzer,Knowledge-Based Systems,1990
+ETC-10,???,Exploring the Coexistence of Human and Artificial Intelligence:Ethics of Responsibility and Literary Imagination,2019
+DAVTEO-66,Jeremy Davis,The Ethics of Cyber-Sabotage,2021
+GMERDL-4,Germ\'{a}n Massaguer G\'{o}mez,"Rese\~{n}a De: Liao, M. (Ed.), Ethics of Artificial Intelligence, New York: Oxford University Press, 2020",2021
+WEHBDK,Anna Wehofsits,?Big Data? ? Ethische Fragen,2016
+QUIUPE,Stefano Quintarelli and Francesco Corea and Fabio Fossa and Andrea Loreggia and Salvatore Sapienza,"Una Prospettiva Etica Sull'intelligenza Artificiale: Princ\`{i}pi, Diritti e Raccomandazioni",2019

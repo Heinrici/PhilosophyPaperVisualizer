@@ -1,0 +1,11 @@
+.node-label {
+  background-color: rgba(128, 128, 128, 0.8); /* Gray background with some transparency */
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.node-label.hovered {
+  background-color: rgba(100, 100, 100, 0.9); /* Slightly darker when hovered */
+}

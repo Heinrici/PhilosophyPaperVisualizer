@@ -1,0 +1,655 @@
+ID,Author,Title,Year
+PYLCAC-2,Zenon W. Pylyshyn,Computation and Cognition: Toward a Foundation for Cognitive Science,1984
+CHAACF-2,David Chalmers,A Computational Foundation for the Study of Cognition,2011
+HOHTSB-2,Jakob Hohwy,The Self-Evidencing Brain,2014
+FODTMD,Jerry A. Fodor,The Mind Doesn?T Work That Way: The Scope and Limits of Computational Psychology,2000
+FODLT,Jerry A. Fodor,Lot 2: The Language of Thought Revisited,2008
+RUPCSA-2,Robert D. Rupert,Cognitive Systems and the Extended Mind,2009
+PYLCAC,Zenon W. Pylyshyn,Computation and Cognition: Issues in the Foundation of Cognitive Science,1980
+MIKETC,Marcin Mi\l{}kowski,Explaining the Computational Mind,2013
+GIBEAC,Raymond Gibbs,Embodiment and Cognitive Science,2005
+EGAHTT-2,Frances Egan,How to Think About Mental Content,2014
+POSFOC,Michael I. Posner,Foundations of Cognitive Science,1989
+GELWMC,Tim Van Gelder,"What Might Cognition Be, If Not Computation?",1995
+CHATVO-8,David Chalmers,The Varieties of Computation: A Reply,2012
+BODMAM-2,Margaret Ann Boden,Mind as Machine: A History of Cognitive Science,2006
+MANEAM-4,Eric Mandelbaum,Everything and More: The Prospects of Whole Brain Emulation,2022
+COLBCS-4,Matteo Colombo and Stephan Hartmann,"Bayesian Cognitive Science, Monopoly, and Neglected Frameworks",2015
+POLHTB,John L. Pollock,How to Build a Person: A Prolegomenon,1989
+WILWC,Robert A. Wilson,Wide Computationalism,1994
+KAPEAD,David Michael Kaplan,Explanation and Description in Computational Neuroscience,2011
+GALTPB-2,C. R. Gallistel,The Physical Basis of Memory,2021
+ZEREML,John Zerilli,Explaining Machine Learning Decisions,2022
+LIETKL,Antonio Lieto and Christian Lebiere and Alessandro Oltramari,The Knowledge Level in Cognitive Architectures: Current Limitations and Possible Developments,2018
+BLOTMA,Ned Block,The Mind as the Software of the Brain,1990
+GALPAV,C. R. Gallistel and Rochel Gelman,Preverbal and Verbal Counting and Computation,1992
+BODCMO,Margaret A. Boden,Computer Models on Mind: Computational Approaches in Theoretical Psychology,1988
+GOLACF-2,Simon Goldstein and Cameron Domenico Kirk{-}Giannini,A Case for Ai Consciousness: Language Agents and Global Workspace Theory,manuscript
+ANDECA,Michael L. Anderson,Embodied Cognition: A Field Guide,2003
+SEAITB-2,John R. Searle,Is the Brain a Digital Computer?,1990
+PICNCA,Gualtiero Piccinini and Sonya Bahar,Neural Computation and the Computational Theory of Cognition,2013
+PICIPC,Gualtiero Piccinini and Andrea Scarantino,"Information Processing, Computation, and Cognition",2011
+CHASCA-2,David J. Chalmers,Subsymbolic Computation and the Chinese Room,1992
+SALTPT-3,Timothy A. Salthouse,The Processing-Speed Theory of Adult Age Differences in Cognition,1996
+KRIRGI,Nikolaus Kriegeskorte and Rogier A. Kievit,"Representational Geometry: Integrating Cognition, Computation, and the Brain",2013
+WILCPA,Robert Andrew Wilson,Cartesian Psychology and Physical Minds: Individualism and the Sciences of the Mind,1995
+CUMPIT,Robert Cummins,Programs in the Explanation of Behavior,1977
+PYLCAC-4,John Haugeland,Computation and Cognition: Toward a Foundation for Cognitive Science,1987
+SHACCA,Oron Shagrir,"Content, Computation and Externalism",2001
+SHAMOC,Oron Shagrir,Marr on Computational-Level Theories,2010
+MANFEA-2,Stephen Francis Mann and Ross Pain and Michael D. Kirchhoff,Free Energy: A User?s Guide,2022
+PYLCMA,Zenon W. Pylyshyn,Computational Models and Empirical Constraints,1978
+SHAWWV,Oron Shagrir,Why We View the Brain as a Computer,2006
+Jansen1996-HENCOI,Horst Hendriks{-}Jansen,"Catching Ourselves in the Act: Situated Activity, Interactive Emergence, Evolution, and Human Thought",1996
+LIEDPA,Antonio Lieto and Daniele Radicioni and Valentina Rho,Dual Peccs: A Cognitive System for Conceptual Representation and Categorization,2017
+EGACAC,Frances Egan,Computation and Content,1995
+SPRCIA-2,Mark Sprevak,"Computation, Individuation, and the Received View on Representation",2010
+MIKFCM,Marcin Mi\l{}kowski,From Computer Metaphor to Computational Modeling: The Evolution of Computationalism,2018
+HEMTPO-7,Meir Hemmo and Orly Shenker,The Physics of Implementing Logic: Landauer's Principle and the Multiple-Computations Theorem,2019
+HOHTHT,Jakob Hohwy,The Hypothesis Testing Brain: Some Philosophical Applications,2010
+PINSHD,Steven Pinker,So How Does the Mind Work?,2005
+MEYACT-3,David E. Meyer and David E. Kieras,A Computational Theory of Executive Cognitive Processes and Multiple-Task Performance: Part I. Basic Mechanisms,1997
+ZIPSAP,Silvano Zipoli Caiani and Gabriele Ferretti,Semantic and Pragmatic Integration in Vision for Action,2017
+MLLWIM,"Vincent M\""{u}ller and Matej Hoffmann",What is Morphological Computation? On How the Body Contributes to Cognition and Control,2017
+FENAGS,Norman Fenton and Martin Neil and David A. Lagnado,A General Structure for Legal Arguments About Evidence Using Bayesian Networks,2013
+VILEAI-3,Mario Villalobos and Joe Dewhurst,Enactive Autonomy in Computational Systems,2018
+VILMMA-2,David Villena,Massive Modularity: An Ontological Hypothesis or an Adaptationist Discovery Heuristic?,2023
+BODMAM,Margaret A. Boden,Minds and Mechanisms: Philosophical Psychology and Computational Models,1981
+PICTMA-4,Gualtiero Piccinini,"The Mind as Neural Software? Understanding Functionalism, Computationalism, and Computational Functionalism",2010
+SCHIAT-37,Arieh Schwartz and Zoe Drayson,Intellectualism and the Argument From Cognitive Science,2019
+MANATO-8,Eric Mandelbaum,Associationist Theories of Thought,2015
+EFAAFL,Regina E. Fabry and Markus Pantsar,A Fresh Look at Research Strategies in Computational Cognitive Science: The Case of Enculturated Mathematical Problem Solving,2019
+BOTTCA-2,Matthew M. Botvinick,The Computational and Neural Basis of Cognitive Control: Charted Territory and New Frontiers,2014
+DIEDTW,Eric Dietrich and Arthur B. Markman,Discrete Thoughts: Why Cognition Must Use Discrete Representations,2003
+HUTTCB,Daniel D. Hutto and Erik Myin and Anco Peeters and Farid Zahnoun,The Cognitive Basis of Computation: Putting Computation in its Place,2018
+PHIISO-2,William A. Phillips and Wolf Singer,In Search of Common Foundations for Cortical Computation,1997
+VANRAI-9,Iris van Rooij and Johan Kwisthout and Todd Wareham and Cory Wright,"Rational Analysis, Intractability, and the Prospects of ?as If?-Explanations",2018
+PICCVI-2,Gualtiero Piccinini and Andrea Scarantino,Computation Vs. Information Processing: Why Their Difference Matters to Cognitive Science,2010
+SHAMO-2,Oron Shagrir and John D. Norton and Holger Andreas and Jouni{-}Matti Kuukkanen and Aris Spanos and Eckhart Arnold and Elliott Sober and Peter Gildenhuys and Adela Helena Roszkowski,1. Marr on Computational-Level Theories Marr on Computational-Level Theories (Pp. 477-500),2010
+DIEC,Eric Dietrich,Computationalism,1990
+PICFC,Gualtiero Piccinini,"Functionalism, Computationalism, \& Mental States",2004
+PICFCA-2,Gualtiero Piccinini,"Functionalism, Computationalism, and Mental Contents",2004
+MANNA,Eric Mandelbaum,Numerical Architecture,2013
+RESTCR,Michael Rescorla,The Causal Relevance of Content to Computation,2012
+Dorozko2019-ELBICI,Lotem Elber{-}Dorozko and Oron Shagrir,Integrating Computation Into the Mechanistic Hierarchy in the Cognitive and Neural Sciences,2019
+MIKOTC-2,Marcin Mi\l{}kowski,Objections to Computationalism: A Survey,2018
+PYLMAC,Zenon W. Pylyshyn,Meaning and Cognitive Structure: Issues in the Computational Theory of Mind,1986
+GLOMBA,Hans{-}Johann Https://Orcidorg909X Glock,"Minds, Brains, and Capacities: Situated Cognition and Neo-Aristotelianism",2020
+RAPSSC,William J. Rapaport,"Semiotic Systems, Computers, and the Mind: How Cognition Could Be Computing",2012
+FETMAA,James H. Fetzer,Mental Algorithms: Are Minds Computational Systems?,1994
+HORSCA,Steven W. Horst,"Symbols, Computation, and Intentionality: A Critique of the Computational Theory of Mind",1996
+PANCAC-2,Markus Pantsar,Cognitive and Computational Complexity: Considerations From Mathematical Problem Solving,2019
+ROOIAT,Iris van Rooij and Cory Wright and Todd Wareham,Intractability and the Use of Heuristics in Psychological Explanations,2012
+MORWWC,Hans Moravec,When Will Computer Hardware Match the Human Brain?,1998
+BERCA,Francesco Berto and Jacopo Tagliabue,Cellular Automata,2012
+LANIAW,Jobst Landgrebe and Barry Smith,Intelligence. And What Computers Still Can?T Do,2024
+HARCOT,Stevan Harnad,Connecting Object to Symbol in Modeling Cognition,1992
+BLOTCM,Ned Block,The Computer Model of Mind,1990
+PERDLA,Pietro Perconti and Alessio Plebe,Deep Learning and Cognitive Science,2020
+NELMMF,Raymond J. Nelson,Machine Models for Cognitive Science,1987
+MIKROR-2,Marcin Mi\l{}kowski and Witold M. Hensel and Mateusz Hohol,Replicability or Reproducibility? On the Replication Crisis in Computational Neuroscience and Sharing Only Relevant Detail,2018
+ANDDTR,Holger Andreas,Dynamic Tractable Reasoning: A Modular Approach to Belief Revision,2020
+RINTRH,Mark Sprevak and Matteo Colombo,The Routledge Handbook of the Computational Mind,2018
+PICCIT,Gualtiero Piccinini,Computationalism in the Philosophy of Mind,2009
+PICEP,Gualtiero Piccinini,Computational Explanation and Mechanistic Explanation of Mind,2007
+MIKTFD,Marcin Mi\l{}kowski,The False Dichotomy Between Causal Realization and Semantic Computation,2017
+PEACCA,Christopher Peacocke,"Content, Computation, and Externalism",1994
+PYLCAC-3,Zenon W. Pylyshyn,Computing and Cognitive Science,1989
+MOLCPD,Dimitri Coelho Mollo,Content Pragmatism Defended,2017
+FEKSSH,Tomer Fekete and Cees van Leeuwen and Shimon Edelman,"System, Subsystem, Hive: Boundary Problems in Computational Theories of Consciousness",2016
+CAROCC,Peter Carruthers,On Central Cognition,2014
+SIMIIN-2,Jonathan Simon,Is Intelligence Non-Computational Dynamical Coupling?,2024
+RAPLFF,William J. Rapaport,Logical Foundations for Belief Representation,1986
+MIKBFS,Marcin Mi\l{}kowski,Beyond Formal Structure: A Mechanistic Perspective on Computation and Implementation,2011
+ORESPF,Randall C. O'Reilly,Six Principles for Biologically Based Computational Models of Cortical Cognition,1998
+HOLTAM,Keith J. Holyoak and P. Thagard,The Analogical Mind,1997
+EGAMAC-2,Frances Egan,Metaphysics and Computational Cognitive Science: Let's Not Let the Tail Wag the Dog,2012
+SZYQIT,Jakub Szymanik,Quantifiers in Time and Space. Computational Complexity of Generalized Quantifiers in Natural Language,2009
+KERMAC-3,Luke Kersten,Music and Cognitive Extension,2014
+ANDTNT-2,John R. Anderson and Christian Lebiere,The Newell Test for a Theory of Cognition,2003
+HOHEEP,Jakob Hohwy and Augustus Hebblewhite and Tom Drummond,"Events, Event Prediction, and Predictive Processing",2021
+SHAMAM,Stuart C. Shapiro and William J. Rapaport,Models and Minds,1991
+PHIPTA-2,W. A. Phillips and W. Singer,Progress Toward an Understanding of Cortical Computation,1997
+SCHCVC,Matthias Scheutz,Computational Vs. Causal Complexity,2001
+LIEHPE,Antonio Lieto,Heterogeneous Proxytypes Extended: Integrating Theory-Like Representations and Mechanisms with Prototypes and Exemplars,2018
+SHAMRC,Oron Shagrir,"Multiple Realization, Computation and the Taxonomy of Psychological States",1998
+AGUHIW,Mariela Aguilera,Heterogeneous Inferences with Maps,2021
+CUMCCA,Robert C. Cummins and Georg Schwarz,"Connectionism, Computation, and Cognition",1991
+CHAEAA,Louis C. Charland,Emotion as a Natural Kind: Towards a Computational Foundation for Emotion Theory,1995
+KERAMA-9,Luke Kersten,A Mechanistic Account of Wide Computationalism,2017
+SAMCCA,Richard Samuels,Classical Computationalism and the Many Problems of Cognitive Relevance,2010
+SMITFO-16,Brian Cantwell Smith,The Foundations of Computing,2002
+DRATPO-17,Zoe Drayson,The Psychology of Implicit Knowledge,forthcoming
+ELIHWO,Chris Eliasmith,How We Ought to Describe Computation in the Brain,2010
+DRATRA,Zoe Drayson,The Realizers and Vehicles of Mental Representation,2018
+PERAAA-7,C. Percy,Are Algorithms Always Arbitrary? Three Types of Arbitrariness and Ways to Overcome the Computationalist?s Trilemma,manuscript
+BOYWAM,Pascal Boyer,What Are Memories For? Functions of Recall in Cognition and Culture,2009
+RAPHMC-3,William J. Rapaport,How Minds Can Be Computational Systems,1998
+RUSOCE,Anna{-}Mari Rusanen and Otto Lappi,On Computational Explanations,2016
+SHEMTV,Orly Shenker,Modelling Thought Versus Modelling the Brain,2024
+MIKWTT,Marcin Mi\l{}kowski,Why Think That the Brain is Not a Computer?,2016
+SHAACV,Lawrence A. Shapiro,A Clearer Vision,1997
+SCHTSC-19,Henry Ian Schiller,The Swapping Constraint,2018
+LITITB,Abninder Litt and Chris Eliasmith and Frederick W. Kroon and Steven Weinstein and Paul Thagard,Is the Brain a Quantum Computer?,2006
+FEKITI,Tomer Fekete and Sander Van de Cruys and Vebj\o{}rn Ekroll and Cees van Leeuwen,In the Interest of Saving Time: A Critique of Discrete Perception,2018
+SCHCND,Matthias Scheutz,Computationalism: New Directions,2002
+SHATDO,Oron Shagrir,Two Dogmas of Computationalism,1997
+BALJFO,Katalin Balog,Jerry Fodor on Non-Conceptual Content,2009
+BLAIAA-6,Chris Blais and Serje Robidoux and Evan F. Risko and Derek Besner,Item-Specific Adaptation and the Conflict-Monitoring Hypothesis: A Computational Model,2007
+Dunn2023-QUITLH,Jake Quilty{-}Dunn and Nicolas Porot and Eric Mandelbaum,The Language-of-Thought Hypothesis as a Working Hypothesis in Cognitive Science,2023
+HATRAC-2,Gary Hatfield,Representation and Content in Some (Actual) Theories of Perception,1988
+BONIAT,Thomas Bontly,Individualism and the Nature of Syntactic States,1998
+KUGTMB,Peter Kugel,Thinking May Be More Than Computing,1986
+PICCTC-2,Gualtiero Piccinini,"Computationalism, the Church?Turing Thesis, and the Church?Turing Fallacy",2007
+FAVTDR,Luis H. Favela,The Dynamical Renaissance in Neuroscience,2020
+THATSA,Paul Thagard,The Self as a System of Multilevel Interacting Mechanisms,2012
+GIETRO-2,Ronald N. Giere,The Role of Computation in Scientific Cognition,unknown
+CASABA-2,Nicholas L. Cassimatis and Paul Bello and Pat Langley,"Ability, Breadth, and Parsimony in Computational Models of Higher-Order Cognition",2008
+GRNTPM,"Thor Gr\""{u}nbaum",The Perception-Action Model: Counting Computational Mechanisms,2017
+NOWBPT,Przemys\l{}aw Nowakowski,Bodily Processing: The Role of Morphological Computation,2017
+HINWDF,Geoffrey Hinton,Where Do Features Come From?,2014
+KEREMC,Luke Kersten,Extended Music Cognition,2017
+HORTCT,Steven Horst,The Computational Theory of Mind,2005
+KUOMTM,Jesse Kuokkanen and Anna{-}Mari Rusanen,Making Too Many Enemies: Hutto and Myin?s Attack on Computationalism,2018
+Crnkovic2017-DODCAE,Gordana Dodig{-}Crnkovic,Cognition as Embodied Morphological Computation,2017
+TRIMAM-4,R. L. Tripathi,Mind and Machine: A Philosophical Examination of Matt Carter?s ?Minds \& Computers: An Introduction to the Philosophy of Artificial Intelligence?,2024
+SCHCTN,Matthias Scheutz,Computationalism: The Next Generation,2002
+BONWSW,Luca Bonatti,Why Should We Abandon the Mental Logic Hypothesis?,1994
+ARSFSE,Burcu Arslan and Niels A. Taatgen and Rineke Verbrugge,Five-Year-Olds? Systematic Errors in Second-Order False Belief Tasks Are Due to First-Order Theory of Mind Strategy Selection: A Computational Modeling Study,2017
+GRNANC-4,"Thor Gr\""{u}nbaum and Franziska Oren and S\o{}ren Kyllingsb\a{e}k",A New Cognitive Model of Long-Term Memory for Intentions,2021
+ALIACM-2,Afra Alishahi and Suzanne Stevenson,A Computational Model of Early Argument Structure Acquisition,2008
+SCHTLO-2,Susan Schneider,The Language of Thought,2009
+HARCIJ,Stevan Harnad,Computation is Just Interpretable Symbol Manipulation; Cognition Isn't,1994
+SYMHCM,John Symons and Fabio Boschetti,How Computational Models Predict the Behavior of Complex Systems,2013
+SCHTNO-10,Susan Schneider,The Nature of Symbols in the Language of Thought,2009
+FRETER,Nir Fresco,The Explanatory Role of Computation in Cognitive Science,2012
+SLOWSO-2,Aaron Sloman,What Sort of Architecture is Required for a Human-Like Agent?,1996
+SCHCVC-2,Matthias Scheutz,Causal Vs. Computational Complexity?,2001
+MORANO-12,Alex Morgan,Against Neuroclassicism: On the Perils of Armchair Neuroscience,2022
+PICCAC,Gualtiero Piccinini,Computations and Computers in the Sciences of Mind and Brain. Dissertation,2003
+BICTWC,Mark H. Bickhard,Troubles with Computationalism,1996
+COOSAT-2,Richard Cooper and Tim Shallice,Soar and the Case for Unified Theories of Cognition,1995
+GOENAT,Vinod Goel,Notationality and the Information Processing Mind,1991
+COPTTG,Jack Copeland and Jonathan Bowen and Robin Wilson and Mark Sprevak,The Turing Guide,2017
+SYMCMO,John Symons,Computational Models of Emergent Properties,2008
+MLLSGI,"Vincent C. M\""{u}ller",Symbol Grounding in Computational Systems: A Paradox of Intentions,2009
+FIGSEA,Carrie Figdor,Semantic Externalism and the Mechanics of Thought,2009
+HAUAI,John Haugeland,Authentic Intentionality,2002
+KONOAC-2,Piotr Konderak,On a Cognitive Model of Semiosis,2015
+MUNINP,Jennifer Mundale and William Bechtel,"Integrating Neuroscience, Psychology, and Evolutionary Biology Through a Teleological Conception of Function",1996
+SEATFO-3,John R. Searle,The Failures of Computationalism,2001
+BOGTIC-2,Juan Diego Bogot\'a and Zakaria Djebbara,Time-Consciousness in Computational Phenomenology: A Temporal Analysis of Active Inference,2023
+SUNTSO-2,Ron Sun,Theoretical Status of Computational Cognitive Modeling,manuscript
+DIESAT,Eric Dietrich,Semantics and the Computational Paradigm in Computational Psychology,1989
+LUDFCT,Kirk Ludwig and Susan Schneider,Fodor?s Challenge to the Classical Computational Theory of Mind,2008
+SALBET,F. Salto,Brain Electrical Traits of Logical Validity,2021
+HATC-3,Gary Hatfield,Cognition,2014
+BLOBVC,Ned Block,Biology Versus Computation in the Study of Consciousness,1997
+HORCEF,Amir Horowitz,"Computation, External Factors, and Cognitive Explanations",2007
+EVASTD,Jonathan St B. T. Evans,Spot the Difference: Distinguishing Between Two Kinds of Processing,2012
+DIEROT,Eric Dietrich and Chris Fields,Role of the Frame Problem in Fodor's Modularity Thesis,1996
+SUNTIO,Ron Sun,The Importance of Cognitive Architectures: An Analysis Based on Clarion,unknown
+PYLCAC-5,Andy Clark,"Zenon Pylyshyn, ""Computation and Cognition: Toward a Foundation for Cognitive Science"" and Alvin I. Goldman, ""Epistemology and Cognition""",1988
+DENROL,Daniel C. Dennett,Reflections on Language and Mind,1998
+KOSIDI,Stephen M. Kosslyn and Jennifer Brunn and Kyle R. Cave and Roger W. Wallach,Individual Differences in Mental Imagery Ability: A Computational Analysis,1984
+Crnkovic2014-DODICA,G. Dodig{-}Crnkovic,Info-Computational Constructivism and Cognition,2014
+SUNITC,Ron Sun,Introduction to Computational Cognitive Modeling,2008
+FETTAC-2,James Fetzer,Thinking and Computing: Computers as Special Kinds of Signs,2001
+MIKAMA,Marcin Mi\l{}kowski,A Mechanistic Account of Computational Explanation in Cognitive Science and Computational Neuroscience,2016
+AYDCAI,Murat Aydede,Computation and Intentional Psychology,2000
+LIEFHT,Antonio Lieto and Daniele Radicioni,From Human to Artificial Cognition and Back: New Perspectives on Cognitively Inspired Ai Systems,2016
+COLOTI,John M. Collins,On the Input Problem for Massive Modularity,2004
+BAGLAM-3,Giosu\`e Baggio and Michiel van Lambalgen and Peter Hagoort,Logic as Marr's Computational Level: Four Case Studies,2015
+MIKLOC,Marcin Mi\l{}kowski,Limits of Computational Explanation of Cognition,2013
+EGAFEA,Frances Egan,Function-Theoretic Explanation and the Search for Neural Mechanisms,2017
+BUTWAM,Stephen Andrew Butterfill,What Are Modules and What is Their Role in Development?,2007
+MERNCA,Martial Mermillod and Nicolas Vermeulen and Daniel Lundqvist and Paula M. Niedenthal,Neural Computation as a Tool to Differentiate Perceptual From Emotional Processes: The Case of Anger Superiority Effect,2009
+STAACM,Janusz A. Starzyk and Dilip K. Prasad,A Computational Model of Machine Consciousness,2011
+MILCIT,Marcin Mi\l{}kowski,Is Computationalism Trivial?,2007
+BRICIN,Selmer Bringsjord,Cognition is Not Computation: The Argument From Irreversibility,1997
+SHAC-2,Stuart C. Shapiro,Computationalism,1995
+BRICAO,Selmer Bringsjord,"Computation, Among Other Things, is Beneath Us",1994
+AYDSCA,Murat Aydede,Computation and Functionalism: Syntactic Theory of Mind Revisited,2005
+COSCAN,Erica Cosentino and Francesco Ferretti,Communication as Navigation: A New Role for Consciousness in Language,2014
+MIKRIC,Marcin Mi\l{}kowski,Reverse-Engineering in Cognitive-Science,2013
+MIKSAE,Marcin Mi\l{}kowski,Situatedness and Embodiment of Computational Systems,2017
+SCHMTA-2,Susan Schneider,Mindscan: Transcending and Enhancing the Human Brain,2009
+KUCTCO,John{-}Michael Kuczynski,"Two Concepts of ""Form"" and the so-Called Computational Theory of Mind",2006
+HUMCSA-2,Paul Humphreys,Computational Science and its Effects,2011
+PICTRO,Gualtiero Piccinini,The Resilience of Computationalism,2010
+OBRCAA-2,Gerard O'Brien,"Connectionism, Analogicity and Mental Content",1998
+DEMOSF,William Demopoulos,On Some Fundamental Distinctions of Computationalism,1987
+SLOACO,Aaron Sloman,Architecture-Based Conceptions of Mind,2002
+HOFSOC,"Matej Hoffmann and Vincent C. M\""{u}ller",Simple or Complex Bodies? Trade-Offs in Exploiting Body Morphology for Control,2017
+MLLWIA-2,"Vincent C. M\""{u}ller",What is a Digital State?,2013
+Langley2019-DRETQE,Birgitta Dresp{-}Langley,The Quantization Error in a Self-Organizing Map as a Contrast and Color Specific Indicator of Single-Pixel Change in Large Random Patterns,2019
+ELITMO-2,Chris Eliasmith,The Myth of the Turing Machine: The Failings of Functionalism and Related Theses,2002
+BLASW-2,James Blackmon,Searle?s Wall,2013
+MCLROT-10,Brian P. McLaughlin,Review of the Computational Brain by Patricia S. Churchland and Terrence J. Sejnowski,1996
+SCHYID,Susan Schneider,"Yes, It Does: A Diatribe on Jerry Fodor's the Mind Doesn't Work That Way",2007
+SCHLCA,Susan Schneider,"Lot, Ctm, and the Elephant in the Room",2009
+VANTIO-65,Iris van Rooij and Cory Wright,The Incoherence of Heuristically Explaining Coherence,2006
+KAZCAT,Jean R. Kazez,Computationalism and the Causal Role of Content,1994
+SIMCTO-2,Herbert A. Simon,Computational Theories of Cognition,1996
+PROTWA,Diane Proudfoot and Jack Copeland,"Turing, Wittgenstein and the Science of the Mind",1994
+BRITMA,Selmer Bringsjord,The Modal Argument for Hypercomputing Minds,2004
+AYDCAF,Murat Aydede,Computation and Functionalism: Syntactic Theory of Mind Revisited,2005
+MCDMAM,Drew V. McDermott,Mind and Mechanism,2001
+SERTSA-2,Maria Serban,The Scope and Limits of a Mechanistic View of Computational Explanation,2015
+SILCAE,Arnold Silverberg,Chomsky and Egan on Computational Theories of Vision,2006
+MIERMI,Nenad Mi\v{s}v{c}evi\'c and Nenad Smokrovi\'c,"Ra\v{c}unala, Mozak I Ljudski Um",2001
+SUNCCM,Ron Sun,Computational Cognitive Modeling the Source of Power and Other Related Issues,manuscript
+NENTAO,Theodor Nenu,The Algorithmicity of Mathematical Cognition,2024
+FRIDWC,Marcello Frixione and Antonio Lieto,Dealing with Concepts: From Cognitive Psychology to Knowledge Representation,2013
+SHEORF,Nicholas Shea,Organized Representations Forming a Computationally Useful Processing Structure,2023
+ACHTEO-2,Joana Acha and Manuel Perea,The Effect of Neighborhood Frequency in Reading: Evidence with Transposed-Letter Neighbors,2008
+ENDSSA,Ronald P. Endicott,"Searle, Syntax, and Observer Relativity",1996
+FODCAR,Jerry A. Fodor,Computation and Reduction,1978
+WIEJHT,Wanja Wiese,"Jakob Hohwy: The Predictive Mind: Oxford University Press, Oxford, 2013, Ix + 288, \pounds60.00, Isbn: 978-0-19-968273-7",2014
+CHRTC,Ronald L. Chrisley,Transparent Computationalism,unknown
+MARCMO-3,Marsella and S. and Gratch and J. and Petta and P.,Computational Models of Emotion,2010
+Crnkovic2015-DODTAO-3,Gordana Dodig{-}Crnkovic,The Architecture of Mind as a Network of Networks of Natural Computational Processes,2015
+LEEBIA,Joseph Lee,"Brain?Computer Interfaces and Dualism: A Problem of Brain, Mind, and Body",2016
+SCHCAT-2,Whit Schonbein,Cognition and the Power of Continuous Dynamical Systems,2004
+SWICRA,Bartlomiej Swiatczak,Conscious Representations: An Intractable Problem for the Computational Theory of Mind,2011
+BUTCCA-2,Keith Butler,"Content, Computation, and Individuation",1998
+HORSAC-2,Steven Horst,Symbols and Computation a Critique of the Computational Theory of Mind,1999
+HARACH,Stevan Harnad,Against Computational Hermeneutics,1990
+BRIICP,Selmer Bringsjord,"In Computation, Parallel is Nothing, Physical Everything",2001
+DYEIAC,Michael G. Dyer,"Intentionality and Computationalism: Minds, Machines, Searle and Harnad",1990
+JOHHTT-2,Jeffrey Johnson and Philip Picton,How to Train a Neural Network:An Introduction to the New Computational Paradigm,1996
+CHEUAC,Christopher Cherniak,Undebuggability and Cognitive Science,1988
+CRUDEO,James P. Crutchfield,Dynamical Embodiments of Computation in Cognitive Processes,1998
+AUGFTD,Luis M. Augusto and Farshad Badie,Formal Thought Disorder and Logical Form: A Symbolic Computational Model of Terminological Knowledge.,2022
+MILDAI-3,Ryan Miller,Does Artificial Intelligence Use Private Language?,2023
+MALWIG,Fintan Mallory,Why is Generative Grammar Recursive?,2023
+HARGSC,Stevan Harnad,Grounding Symbolic Capacity in Robotic Capacity,unknown
+AIZCIC-2,Kenneth Aizawa,Computation in Cognitive Science: It is Not All About Turing-Equivalent Computation,2010
+Carpintero1996-GARTSV-2,Manuel Garcia{-}Carpintero,Two Spurious Varieties of Compositionality,1996
+KERAMS,Luke Kersten,A Model Solution: On the Compatibility of Predictive Processing and Embodied Cognition,2023
+PICSSA,Gualtiero Piccinini,"Symbols, Strings, and Spikes",2005
+WINCT,Jeannette M. Wing,Computational Thinking,2006
+STEPOE-3,Stephen Schiffer,Peacocke on Explanation in Psychology,1986
+BEEFTD,Randall D. Beer,Framing the Debate Between Computational and Dynamical Approaches to Cognitive Science,1998
+MAZMSA-3,Marco Mazzone,Mental States as Generalizations From Experience: A Neuro-Computational Hypothesis,2014
+HARC,Valerie Gray Hardcastle,Computationalism,1995
+JAMPOE-2,James Higginbotham,Peacocke on Explanation in Psychology,1986
+BURANA,Robert G. Burton,A Neurocomputational Approach to Abduction,1999
+JOHMAF-2,Gregory Johnson,Mechanisms and Functional Brain Areas,2009
+REGCCM,Terry Regier,Constraining Computational Models of Cognition,2003
+GRUCAT,Rick Grush and Patricia S. Churchland,Computation and the Brain,1999
+EGAFEA-3,Frances Egan,Function-Theoretic Explanation and the Search for Neural Mechanisms,2017
+MIKWWK,Marcin Mi\l{}kowski,Wyja\'{s}nianie W Kognitywistyce,2013
+EKRAUD,Kristina \v{S}ekrst,Ai-Completeness: Using Deep Learning to Eliminate the Human Factor,2020
+BARMAM-16,Pavel Baryshnikov,Mind as Machine: The Influence of Mechanism on the Conceptual Foundations of the Computer Metaphor,2022
+AIZITT,Kenneth Aizawa,Introduction to ?the Material Bases of Cognition?,2013
+CORCUA,Roberto Cordeschi and Marcello Frixione,Computationalism Under Attack,2007
+DECTTC-2,Alexandre de Castro,The Thermodynamic Cost of Fast Thought,2013
+KNIPIT,"Peter K\""{o}nig and Niklas Wilming and Kai Kaspar and Saskia K. Nagel and Selim Onat",Predictions in the Light of Your Own Action Repertoire as a General Computational Principle,2013
+CHRC-2,Ronald L. Chrisley,Non-Conceptual Psychological Explanation: Content and Computation,1996
+SLECBA,Peter Slezak,"Computers, Brains and Minds",1989
+MIKSOT-6,Igor Mikhailov,Social Ontology: Time to Compute,2020
+FACTWM,Marco Facchin,Troubles with Mathematical Contents,forthcoming
+AYDLOT-4,Murat Aydede,Language of Thought,2017
+LIESEP,Antonio Lieto,Some Epistemological Problems with the Knowledge Level in Cognitive Architectures,2015
+REYTTT-2,Georges Rey,The Turing Thesis Vs. The Turing Test,2012
+HODPAC-2,Wilfrid Hodges,Proofs as Cognitive or Computational: Ibn S\i?N\=a?s Innovations,2018
+MABTAC,Napoleon M. Mabaquiao,Turing and Computationalism,2014
+SOBCAC,Elliott Sober,Computability and Cognition,1978
+LPEDHA,Mart\'{i}n L\'{o}pez Corredoira,"Del Hombre-M\'{a}quina a la M\'{a}quina-Hombre: Materialismo, Mecanicismo y Transhumanismo",2019
+CASTIO-27,Ram\'{o}n Casares,The Intention of Intention,manuscript
+ROBRRA-3,Paul Robinson and Richard Samuels,"Reasoning, Rules and Representation",2018
+HUTTMO-2,Daniel D. Hutto,The Mindlessness of Computationalism: The Neglected Aspects of Cognition,1995
+FRIWAT,Julian Friedland,Wittgenstein and the Aesthetic Robot's Handicap,2005
+ABESAI,Robert P. Abelson,Searle's Argument is Just a Set of Chinese Symbols,1980
+ROBTRC-7,Sarah Robins and John Symons and Paco Calvo,The Routledge Companion to Philosophy of Psychology,2009
+DEDCCA-3,Don Dedrick and Lana Trick,"Computation, Cognition, and Pylyshyn",2009
+REYWWO,Georges Rey,Why Wittgenstein Ought to Have Been a Computationalist (and What a Computationalist Can Gain From Wittgenstein),2003
+JOREBC,Jordi Fern\'{a}ndez,Explanation by Computer Simulation in Cognitive Science,2003
+TSOCRD,John K. Tsotsos,Computational Resources Do Constrain Behavior,1991
+VANCVP-2,Jfak van Benthem,Computation Versus Play as a Paradigm for Cognition,1990
+BECDVC,William Bechtel,Dynamicists Versus Computationalists: Whither Mechanists?,1998
+SCHSTO,Matthias Scheutz and Markus F. Peschl,Some Thoughts on Computation and Simulation in Cognitive Science,2001
+VANDTD,Tim van Gelder,Defending the Dynamic Hypothesis,1999
+OAKCAB,Mike Oaksford and Mike Malloch,Computational and Biological Constraints in the Psychology of Reasoning,1993
+HOFTIE-2,"Matej Hoffmann and Vincent C. M\""{u}ller",Trade-Offs in Exploiting Body Morphology for Control: From Simple Bodies and Model-Based Control to Complex Ones with Model-Free Distributed Control Schemes,2014
+ORLVST,Nicoletta Orlandi,Visual Switching: The Illusion of Instantaneity and Visual Search,2012
+BRICID,Selmer Bringsjord,Computationalism is Dead; Now What?,unknown
+LIEBRA,Antonio Lieto,Bounded Rationality and Heuristics in Humans and in Artificial Cognitive Systems,2019
+SPRCAC-3,Mark Sprevak,Computation and Cognitive Science: Introduction to Issue,2010
+BRARHC,Pauli Brattico,Recursion Hypothesis Considered as a Research Program for Cognitive Science,2010
+BAUVIA,Bert Baumgaertner,Vagueness Intuitions and the Mobility of Cognitive Sortals,2012
+LUNIAC,Laureano Luna and Christopher Small,Intentionality and Computationalism. A Diagonal Argument.,2009
+MLLYA,"Vincent C. M\""{u}ller",20 Years After the Embodied Mind - Why is Cognitivism Alive and Kicking?,2013
+RELFRO,Matthew J. Rellihan,Fodor?s Riddle of Abduction,2009
+CHARMO,Nick Chater,Rational Models of Conditioning,2009
+RUPEFA,Robert D. Rupert,Embodied Functionalism and Inner Complexity: Simon?s 21St-Century Mind,2016
+DIEASC,Eric Dietrich,"Ai, Situatedness, Creativity, and Intelligence; or the Evolution of the Little Hearing Bones",1996
+MILCTO,Marcin Milkowski,Computational Theory of Mind,2013
+LYNMPD,Albert E. Lyngzeidetson,Massively Parallel Distributed Processing and a Computationalist Foundation for Cognitive Science,1990
+DIESTD,Eric Dietrich,Subvert the Dominant Paradigm!,2002
+BREHAM,Manuel Bremer,How Are Metarepresentations Built and Processed,2012
+DIEACT,Eric Dietrich,A Counterexample T o All Future Dynamic Systems Theories of Cognition,2000
+PAKIIC,Mujdat Pakkan and Varol Akman,Issues in Commonsense Set Theory,1995
+KUCFOA,John{-}Michael Kuczynski,Formal Operations and Simulated Thought,2006
+RUPTFB,Robert D. Rupert,The Functionalist's Body,2014
+RESCPA-3,Ricardo Restrepo,"Computers, Persons, and the Chinese Room. Part 2: Testing Computational Cognitive Science",2012
+MLLSOC,"Vincent M\""{u}ller and Matej Hoffmann",Simple or Complex Bodies? Trade-Offs in Exploiting Body Morphology for Control,2017
+GALP-5,Mary Galbraith and William J. Rapaport,Preface to Where Does I Come From? Special Issue on Subjectivity and the Debate Over Computational Cognitive Science,1995
+MYIETC,Erik Myin and Karim Zahidi,"Explaining the Computational Mind, by Marcin Milkowski",2015
+LASCBT,Charles Lassiter,"Cognition Beyond the Brain: Computation, Interactivity, and Human Artifice",2015
+FREDAN,Danny Frederick,Deduction and Novelty,2011
+PENSAP,Carlo Penco and Daniele Porello,Sense and Proof,2010
+GIUDSA,Marco Giunti,Dal Simulazionismo Al Paradigma Galileiano,2005
+OSHAIT,Daniel N. Osherson and Edward E. Smith,An Invitation to Cognitive Science: Visual Cognition. 2,1990
+DAVVMI,Jim Davies and Nancy J. Nersessian and Ashok K. Goel,Visual Models in Analogical Problem Solving,2005
+BOGWNB,Juan Diego Bogot\'a,"Why Not Both (but Also, Neither)? Markov Blankets and the Idea of Enactive-Extended Cognition",2022
+DIEAIP,Eric Dietrich and Arthur B. Markman,"All Information Processing Entails Computation, or, If R. A. Fisher Had Been a Cognitive Scientist . .",1998
+SCHSTD-3,Jerry DeJohn and Eric Dietrich,Subvert the Dominant Paradigm!,2003
+MELHMO,D. H. Mellor,How Much of the Mind is a Computer,1989
+CHUCAT,Patricia Smith Churchland and Rick Grush and Rob Wilson and Frank Keil,Computation and the Brain,unknown
+CLATMA,J. J. Clarke,Turing Machines and the Mind-Body Problem,1972
+JACOCT-2,Arthur M. Jacobs,"On Computational Theories and Multilevel, Multitask Models of Cognition: The Case of Word Recognition",1994
+BODTCM,Margaret A. Boden,The Computational Metaphor in Psychology,1979
+PAGCMF,Scott E. Page,Computational Models From a to Z,1999
+ANDAAH,John R. Anderson and Christian Lebiere and Marsha Lovett and Lynne Reder,Act-R: A Higher-Level Account of Processing Capacity,1998
+DELTRO-20,Gary S. Dell and Myrna F. Schwartz and Nadine Martin and Eleanor M. Saffran and Deborah A. Gagnon,The Role of Computational Models in Neuropsychological Investigations of Language: Reply to Ruml and Caramazza (2000),2000
+BOYCAA,C. Franklin Boyle,Computation as an Intrinsic Property,1994
+SCOPOE,Scott Soames,Peacocke on Explanation in Psychology,1986
+NORTLA,Donald A. Norman and David E. Rumelhart,The Lnr Approach to Human Information Processing,1981
+RADCAT-2,Mario Radovan,Computation and the Three Worlds,2000
+ROSOFD,A. Rosenberg and N. J. Mackintosh,On Fodor's Distinction Between Strong and Weak Equivalence in Machine Simulation,1973
+PIEETF,Paul M. Pietroski,Experiencing the Facts (Critical Notice of Mcdowell),1996
+WRAEPA,Mark Wrathall and Sean Kelly,Existential Phenomenology and Cognitive Science,1996
+ADEWII,Edward H. Adelson,What is Iconic Storage Good For?,1983
+SATIEC,Antony Satyadas and Asghar Iran{-}Nejad and Hui Chuan Chen and Brad Chissom,Intelligence: Exact Computation or Biofunctional Cognition,1993
+STECFP,Kim Sterelny,Computational Functional Psychology: Problems and Prospects,1989
+BUCCPA,David Buckingham and Thomas R. Shultz,Computational Power and Realistic Cognitive Development,1996
+CHIWTM,Arnold J. Chien,Why the Mind May Not Be Modular,1996
+AGRTPL,Philip E. Agre,The Practical Logic of Computer Work,2002
+ANTFFA,Louise M. Antony,Feeling Fine About the Mind,1997
+OKUTAO,Samet Okumus,"Towards an Official Computational Thinking Education in Regular School Settings. Review of Computational Thinking Education, Edited by Siu-Cheung Kong and Harold Abelson",2020
+GUVPRF,H. Altay Guvenir and Varol Akman,Problem Representation for Refinement,1992
+DIETUO,Eric Dietrich,The Ubiquity of Computation,1993
+FRECDC-2,Nir Fresco,Concrete Digital Computation: Competing Accounts and its Role in Cognitive Science,2013
+FERFBT,Chrisantha Fernando,From Blickets to Synapses: Inferring Temporal Causal Networks by Observation,2013
+Espinosa2013-HERDTP,Alberto Hern\'{a}ndez{-}Espinosa and Francisco Hern\'{a}ndez{-}Quiroz,Does the Principle of Computational Equivalence Overcome the Objections Against Computationalism?,2013
+CHERAR,Tony Chemero,Representation and ?Reliable Presence?,manuscript
+ACHEAA,Peter Achinstein,Explanation and Acceptability,1989
+CLEPVT,Axel Cleeremans,Computational Explorations in Cognitive Neuroscience: Understanding the Mind by Simulating the Brain,manuscript
+ISALIC,Alistair Isaac and Jakub Szymanik,Logic in Cognitive Science: Bridging the Gap Between Symbolic and Connectionist Paradigms,2010
+SPRTLO-4,Mark Sprevak,"The Language of Thought: A New Philosophical Direction, by Susan Schneider",2019
+DALIAE-2,Rick Dale,Integrating and Extending the Distributed Approach in Cognitive Science,2012
+DIECSA,Eric Dietrich,Cognitive Science and the Mechanistic Forces of Darkness,2000
+DIERTM,Eric Dietrich,Replies to My Computational Commentators,1990
+VANGAN,Iris van Rooij and Willem Haselager and Harold Bekkering,"Goals Are Not Implied by Actions, but Inferred From Actions and Contexts",2008
+EGAFEA-2,Frances Egan,Function-Theoretic Explanation and Neural Mechanisms,forthcoming
+BODWIC-3,Margaret A. Boden and D. H. Mellor,What is Computational Psychology?,1984
+MAGIWO,L. Magnani,Multimodal Abduction in Knowledge Development,2009
+DETLTA,Michael Detlefsen,"L\""{o}b's Theorem as a Limitation on Mechanism",2002
+STEWIC-3,Harnad Stevan,What is Computation (and is Cognition That),1995
+ABEGAP,Robert P. Abelson,Going After Parry,1981
+VERCCD,V\'{i}ctor M. Verdejo,"Computationalism, Connectionism, Dynamicism and Beyond: Looking for an Integrated Approach to Cognitive Science",2013
+GRDCCA,"Peter G\""{a}rdenfors",Computational Complexity and Cognitive Science : How the Body and the World Help the Mind Be Efficient,2014
+SCHNC,Matthias Scheutz,New Computationalism,2002
+LUGEAA,George Luger,"Epistemology, Access and Computational Models",2012
+BIRWOT,Tam\'{a}s Bir\'o,Will Optimality Theory Colonize All of Higher Cognition?,2010
+VAKINA,Orlin Vakarelov,Information Networks Are Better for Cognition Than Symbolic Dynamics,2013
+ANDSDA-6,Johannes Andres and Rainer Mausfeld,Structural Description and Qualitative Content in Perception Theory,2008
+NOLTCM,John Nolan,The Computational Metaphor and Environmentalism,1992
+FERCOT-2,Francesco Ferretti and Massimo Marraffa and Mario De Caro,Cartographies of the Mind: The Interface Between Philosophy and Cognitive Science,2007
+PENHTE,Davor Pe\'{c}njak,How to Eliminate Computational Eliminativism,2005
+GAMCAE,M. Gams,Computation and Embodied Agency,1997
+MOOTMB,James H. Moor,Thinking Must Be Computation of the Right Kind,2000
+BATCAC,Eleanor Olds Batchelder,Can a Computer Really Model Cognition? A Case Study of Six Computational Models of Infant Word Discovery,1998
+ADADMS,David Adams,"Defense Motivational System: Issues of Emotion, Reinforcement, and Neural Structure",1982
+WANOTC,DeLiang L. Wang,On the Computational Basis of Synchronized Codes,1997
+SCHTCN-2,N. A. Schmajuk and G. M. Kutlu,The Computational Nature of Associative Learning,2009
+BUCMNB,Hugh W. Buckingham,Must Neurolinguistics Be Computational?,1979
+DYECNN,Michael G. Dyer and Boelter Hall,"Computationalism, Neural Networks and Minds, Analog or Otherwise",unknown
+APEMGR,K. Apel and Julie A. Wolter and J. J. Masterson,Mental Graphemic Representations (Mgrs),2011
+OAKCLA,Mike Oaksford,Computational Levels Again,1994
+BERGGA,Robert C. Berwick,Grammar Growth and Parameter Setting: Computation and Creoles,1986
+STACMO,Edward P. Stabler,Computational Models of Language Processing,1986
+CUTANI,James E. Cutting,Asynchronous Neural Integration: Compensation or Computational Tolerance and Skill Acquisition?,2008
+DORFFC,Georg Dorffner,"Flexible Features, Connectionism, and Computational Learning Theory",1998
+KEIITC,Geert Keil,Is the Computational Metaphor of Mind Intentionalistic or Naturalistic?,1994
+ANDDMM,P. B. Andersen,"Does Mind Matter?('Symbols, Computation, and Intentionality'by Steven W. Horst)",1999
+ZAIIAC,Alan Zaitchik,Intentionalism and Computational Psychology,1980
+FELPAT-4,Roger Fellows,Philosophy and Technology,1995
+LONCAT-2,David Longinotti,Computationalism and the Locality Principle,2009
+SOMCNM,Friedrich T. Sommer and Pentti Kanerva,Can Neural Models of Cognition Benefit From the Advantages of Connectionism?,2006
+RORTCP,C. Rordam and D. Normann,The Computational Power of M\^{ }o\^{ }M\^{ }e\^{ }G\^{ }A,2002
+MCDTDC,Drew McDermott,The Digital Computer as Red Herring,2001
+WELPAA,Andrew Wells,Parallel Architectures and Mental Computation,1993
+REYWCA,Georges Rey,"Wittgenstein, Computationalism, and Qualia",1994
+STUWCN,Robert S. Stufflebeam,Why Computation Need Not Be Traded Only for Internal Representation,1997
+ABEITP,Robert P. Abelson,Imagining the Purpose of Imagery,1979
+GREIAT,Christopher D. Green,Is Ai the Right Method for Cognitive Science?,2000
+HERITL,Jeffrey Hershfield,Is There Life After the Death of the Computational Theory of Mind?,2005
+SIMCMW,Herbert A. Simon,Computational Models: Why Build Them?,2002
+OLICIB,"Christian Olivers and Dietmar Heinke and Glyn Humphreys and Hermann M\""{u}ller",Close Interactions Between ?When? and ?Where? in Saccade Target Selection: Multiple Saliency and Distractor Effects,1999
+BISLMA,Horst Bischof,"Locality, Modularity, and Computational Neural Networks",1997
+DAWCMO-2,Michael Rw Dawson,Computer Modeling of Cognition: Levels of Analysis,2002
+VANCAC-3,Tim van Gelder,Computers and Computation in Cognitive Science,1998
+GLECAT,Stuart S. Glennan,Computationalism and the Problem of Other Minds,1995
+BRUCC,Ada Brunstein,Computational Couture,2011
+ANDTMO-12,Barton L. Anderson,The Myth of Computational Level Theory and the Vacuity of Rational Analysis,2011
+ZUCTCP,Steven W. Zucker,The Computational/Representational Paradigm as Normal Science: Further Support,1980
+CLAMIP,Andy Clark and Josefa Toribio,Machine Intelligence: Perspectives on the Computational Model,1998
+GAMCAU,M. Gams,Computation and Understanding,1997
+DODCIC,Gordana Dodig Crnkovic and Susan Stuart,"Computation, Information, Cognition: The Nexus and the Liminal.F",2007
+THOCDC,Nigel J. T. Thomas,Coding Dualism: Conscious Thought Without Cartesianism or Computationalism,
+JUNGIS,Eun Sung Jung and Soon Woong Lee and Phill Kyu Rhee,Generic Intelligent Systems-Evolutionary Computation-Self-Adaptive Classifier Fusion for Expression-Insensitive Face Recognition,2006
+ALILHA,Atocha Aliseda and Donald Gillies,"Logical, Historical and Computational Approaches",2007
+OTOCAC,Alice O'Toole,Cognitive and Computational Approaches to Face Recognition,2011
+ROBBSA,William S. Robinson,Brain Symbols and Computationalist Explanation,1995
+ADALFC,A. David Redish Cliff Kentros Andr\'e A. Fenton Adam Johnson,Looking for Cognition in the Structure Within the Noise,2009
+WARCCA-2,"Todd Wareham and Iris van Rooij and Moritz M\""{u}ller","Computational Complexity Analysis Can Help, but First We Need a Theory",2008
+SLOCMO,A. Sloman and L. Beaudouin and I. Wright,Computational Modelling of Motive-Management Processes,1994
+MACIAA-4,Eoghan Mac Aog\'{a}in,Information and Appearance,1999
+DEMARF,Andreas Demetriou and Antigoni Mouyi,A Roadmap for Integrating the Brain with Mind Maps,2007
+BUFFAC,Hans Buffart,Functional and Computational Aspects of Perception,1983
+SHIRAW,D. Shier,"Robert A. Wilson, Cartesian Psychology and Physical Minds: Individualism and the Sciences of the Mind",1996
+HURTVO-2,Anya Hurlbert,The View of a Computational Animal,1992
+STACTA-3,Edward P. Stabler,Computational Theories and Mental Representation,1983
+GEOTBA,F. H. George,The Brain as a Computer,1962
+BRITFO-10,Selmer C. Bringsjord,The Failure of Computationalism,1987
+DOUCIT-2,Stephen Dougherty,"Culture in the Disk Drive: Computationalism, Memetics, and the Rise of Posthumanism",2001
+KEILTS,Damian Keil and Keith Davids,Lifting the Screen on Neural Organization: Is Computational Functional Modeling Necessary?,2000
+ZAIIAP,Alan Zaitchik,Intentionalism and Physical Reductionism in Computational Psychology,1981
+FELWTW,Roger Fellows,Welcome to Wales: Searle on the Computational Theory of Mind,1995
+LOUROT,Ron Loui,Report on the Computational Dialectics Workshop,manuscript
+HOOCOP,C. Hookway,Comments on Peacocke,2001
+SORCMO,Robert D. Sorkin,Computational Models of Tonal Sequence Discrimination,1986
+BOYICA,Pascal Boyer,What Are Memories For? Functions of Recall in Cognition and Culture,2009
+HABEIM,Ralph Norman Haber,"Eidetic Imagery, Monocularity, and Computational Models of Vision",1982
+SCOTCC,Dana S. Scott,The Computational Conception of Mind in Acting and Reflecting: The Interdisciplinary Turn,1990
+BALRTC,1Imre Balogh and Brian Beakley and Paul Churchland and Michael Gorman and Stevan Harnad and David Mertz and H. H. Pattee and William Ramsey and John Ringen and Georg Schwarz and Brian Slator and Alan Strudler and Charles Wallis,Responses to 'Computationalism',1990
+COLSLO,John Collier,Some Limitations of Behaviorist and Computational Models of Mind,manuscript
+GREWDW,Robert L. Greene,Why Do We Need a Computational Theory of Laboratory Tasks?,1994
+KUGWIA,Peter Kugel,When is a Computer Not a Computer?,1986
+ATME-2,Harald Atmanspacher,Editorial,2006
+LUNRFP,Laureano Luna,Reasoning From Paradox,2011
+BRYCID-3,Antony Bryant,"Cognitive Informatics, Distributed Representation and Embodiment",2003
+DRETCA,Hubert L. Dreyfus and John Haugeland,The Computer as a Mistaken Model of the Mind,1974
+HAUPAC,John Haugeland,Psychology and Computational Architecture,1980
+CLASAS,Austen Clark,Seeing and Summing: Implications of Computational Theories of Vision,1984
+FETCIA,James H. Fetzer,Computing is at Best a Special Kind of Thinking,2000
+SPRCIO,Richard Sproat,Computational Interpretations of Neurolinguistic Observations,1995
+GARMIM,James W. Garson,Mice in Mirrored Mazes and the Mind,1993
+TIBCWR,Guy Tiberghien,Can We Really Dissociate the Computational and Algorithm-Level Theories of Human Memory?,1994
+HARCDF,Stevan Harnad,Computers Don't Follow Instructions,manuscript
+LIGSBA,Francesco Giomi{-}{-}Marco Ligabue,Semiotic Bases and Computer Assisted Composition: Towards a Cognitive Model,1995
+FREJVN,W. J. Freeman,John von Neumann: The Computer and the Brain,1986
+MARIAT-12,A. Marras,Intentionality and the Computational Theory of the Mind,1998
+SUTCSO,N. S. Sutherland,Computer Simulation of Brain Function,1974
+ADAMSF,David B. Adams,Motivational Systems: Fear or Defense? Pain or Recuperation?,1980
+LASQPS,Kathryn Blackmond Laskey,Quantum Physical Symbol Systems,2006
+FIDGTA,U. Fidelman,Goedel's Theorem and Models of the Brain: Possible Hemispheric Basis for Kant's Psychological Ideas,1999
+RESRSA-2,Ricardo Restrepo,Russell's Structuralism and the Supposed Death of Computational Cognitive Science,2009
+MACPPF,Bruce J. MacLennan,"(Position Paper for Symposium, \texttt{\char92}what is Computing?"")",unknown
+Weithofer2008-STETCT-4,Pirmin Stekeler{-}Weithofer,The Computational Theory of Mind and the Decomposition of Actions,2008
+VANTAS-5,Frank van der Velde and Marc de Kamps,Toward a Synthesis of Dynamical Systems and Classical Computation,1998
+GONACM,Tao Gong and Jinyun Ke and James W. Minett and John H. Holland and William S. Y. Wang,A Computational Model of the Coevolution of Lexicon and Syntax,2005
+ARBCCA,Michael A. Arbib,Cooperative Computation as a Concept for Brain Theory,1979
+HENROC,R. J. Henle,Reflections on Current Reductionism,1985
+SHUCMO,T. R. Shultz and S. Sirois,Computational Models of Developmental Psychology,2008
+ODOTPO,William T. O'Donohue and Richard F. Kitchener,The Philosophy of Psychology,1996
+CLAULA,Alex Clark and Shalom Lappin,Unsupervised Learning and Grammar Induction,manuscript
+BRITIO-7,Selmer Bringsjord,"The Impact of Computing on Epistemology: Knowing G\""{o}del's Mind Through Computation",unknown
+DOUTCM,Richard Double,The Computational Model of the Mind and Philosophical Functionalism,1987
+ULEHCO,Andrej Ule,How Can One Catch a Thougth-Bird? Some Wittgensteinian Comments to Computational Modelling of Mind,2005
+ZENOTP,Hector Zenil and Francisco Hernandez{-}Quiroz,On the Possible Computational Power of the Human Mind,2007
+CHRTOS,Ronald L. Chrisley,The Ontological Status of Computational States,1994
+FELWTW-2,Roger Fellows,Welcome to Wales: Searle on the Computational Theory of Mind,1995
+HOPGNA,J. J. Hopfield,?Grandmother Networks? and Computational Economy,1986
+SPEHHI,Lee Spector,Hierarchy Helps It Work That Way,2002
+ROSSWA,A. Rosenberg and N. J. Mackintosh,"Strong, Weak and Functional Equivalence in Machine Simulation",1974
+HALOTS-3,Colin Hales,On the Status of Computationalism as a Law of Nature,2011
+MONDCR-3,Prakash Mondal,Does Computation Reveal Machine Cognition?,2014
+RICWWC,Sheldon Richmond,What We Can Learn From Polanyi About the Computational Theory of Mind?,2004
+WAGCSA,Morton Wagman,Cognitive Science and Concepts of Mind: Toward a General Theory of Human and Artificial Intelligence,1991
+CANTFO,Cantwell Smith Brian,The Foundations of Computing,2002
+POLTAD,Thomas W. Polger,Toward a Distributed Computation Model of Extended Cognition,2010
+GLYCOE,Glyn W. Humphreys and Philip T. Quinlan,"Comments on ?Explanation in Computational Psychology? By C. Peacocke (Mind and Language, Vol. 1, No. 2)",1986
+BRYLIQ,Joanna J. Bryson,Language Isn't Quite That Special,2002
+ANSOMR,Radical Answers,Of Mental Representations,1991
+HAYCDF,Pat Hayes,Computers Don't Follow Instructions,unknown
+NOWCMO-2,A. Nowak and R. R. Vallacher,Computational Models of Social Processes,2002
+CLATBO-3,W. J. Clancey,"The Biology of Consciousness: Comparative Review of Israel Rosenfield, the Strange, Familiar, and Forgotten: An Anatomy of Consciousness and Gerald M. Edelman, Bright Air, Brilliant Fire: On the Matter of the Mind",forthcoming
+HORTIM,Terence E. Horgan,Themes in My Philosophical Work,2002
+CUMPAA,Robert C. Cummins,Philosophy and Ai: Essays at the Interface,1991
+GARPAP-6,Carmine Garzillo and Giuseppe Trautteur,Preventing a Paradigm Shift: A Plea for the Computational Genome,2012
+MEYSPP,G. E. Meyer and T. J. Dougherty,"Sawtooth Pac People and the Realization of Illusory Edges-Computational, Cognitive, and Utilitarian Implications",1987
+DODP,Gordana Dodig Crnkovic,The Cybersemiotics and Info-Computationalist Research Programmes,2010
+TIBRDI,Paul Tibbetts,Residual Dualism in Computational Theories of Mind,1996
+MULNSU,Gregory R. Mulhauser,Nature's Subtlety Undermines the Empirical Relevance of Both Dynamical and Computational Hypotheses,1998
+QUADBT,Steven R. Quartz,Distinguishing Between the Computational and Dynamical Hypotheses: What Difference Makes the Difference?,1998
+LIHSWC,Ko{-}wei Lih,Should We Care If the Brain is a Computer?,1995
+PAICVO,Allan Paivio,Computational Versus Operational Approaches to Imagery,1979
+BOTOAC,Rudolf P. Botha,On a Computational Perspective Without Substance,1983
+SUTPOP,N. S. Sutherland,Philosophy of Psychology,1974
+Conde1997-CELMAA,Camilo J. Cela{-}Conde and Gis\`{e}le Marty,Mind Architecture and Brain Architecture,1997
+PUTCPA-2,H. Putnam,Computational Psychology and Interpretation Theory 'in B. Vermazen',1985
+ABECP,Robert P. Abelson,Commentary Points,1983
+GORSSE-3,Michael E. Gorman,Simulating Social Epistemology-Experimental and Computational Approaches,1992
+ARBTHP,Michael A. Arbib,The Halting Problem for Computational Cognitive Psychology,1978
+HERCAE,Jeffrey Hershfield,Cognitivism and Explanatory Relativity,1998
+OHLCMO,Stellan Ohlsson,Computational Models of Skill Acquisition,2008
+BILCOS,Dorrit Billman and Justin Peterson,Critique of Structural Analysis in Modeling Cognition: A Case Study of Jackendoff's Theory,1989
+STARBI,Edward P. Stabler,Rule-Governed Behavior in Computational Psychology,1984
+PICCEA,Gualtiero Piccinini,Computational Explanation and Mechanistic Explanation of Mind,2007
+DAVOTN,Lawrence H. Davis,On the Need for a Computational Psychology and the Hope for a Naturalistic One,1980
+DOYPQA,Jon Doyle,Perceptive Questions About Computation and Cognition,1990
+ANDIAA-4,John R. Anderson,"Implementations, Algorithms, and More",1987
+NOEITD,David C. Noelle,Is the Dynamical Hypothesis Falsifiable? On Unification in Theories of Cognition,1998
+CHRWMD,Ronald L. Chrisley,"What Might Dynamical Intentionality Be, If Not Computation?",1998
+RAMCMA,Michael Ramscar,Computing Machinery and Understanding,2010
+SPIKCA,Manfred Spitzer,Key Concepts: Associationism,1994
+PEARTH,Christopher Peacocke,"Reply to Humphreys, Quinlan, Higginbotham, Schiffer and Soames's Comments on Peacocke's \emph{Explanation in Computational Psychology}",1986
+MCMTCA,Ernan McMullin,The Computer and the Brain,1958
+HANCAC,Philip P. Hanson,"Computation and Cognition Zenon W. Pylyshyn Cambridge, Ma: Bradford Books, MIT Press, 1984. Pp. Xxiii, 292",1986
+SEAITB-4,John Searle,Is the Brain's Mind a Computer?,2006
+MOOCH,John W. Moore,Computational Hullianism,1982
+ERNAI,Marco Ernandes,Artificial Intelligence \& Games: Should Computational Psychology Be Revalued?,2005
+BAROQP,Carlos Barth,"o ""Frame Problem"": A Sensibilidade Ao Contexto Como Um Desafio Para Teorias Representacionais da Mente",2019
+COPNVW-2,Jack Copeland,Narrow Versus Wide Mechanism,2002
+FREACA-3,Norman H. Freeman,A Computational Approach to Picture Production and Consumption is Needed Right Here,1989
+SUNKII,Ron Sun,Knowledge Integration in Creative Problem Solving,manuscript
+WALRKA-2,Charles Wallis,"Representation, Knowledge, and Structure in Computational Explanations in Cognitive Science",1995
+SCHTCC,Matthias Scheutz,The Cognitive Computational Story,2000
+MISCAT,Nenad Mi\v{s}v{c}evi\'c,Computationalism and the Kripke-Wittgenstein Paradox,1996
+LACIIA,Roy Lachman,Imposed Intelligibility and Strong Claims Concerning Cognitive Systems,2004
+FETPAT,James Fetzer,Peirce and the Philosophy of Artificial Intelligence,2004
+VANFND,Frank van der Velde and Marc de Kamps,From Neural Dynamics to True Combinatorial Structures,2006
+PICTFA,Gualtiero Piccinini,The Functional Account of Computing Mechanisms,2004
+KOCTLI,Paul A. Koch and Gerry Leisman,The Local is Running on the Express Track: Localist Models Better Facilitate Understanding of Nervous System Function,2004
+HELCCA-2,John Hell,"Computation, Cognition, and Representation",1980
+HUDWIC,Patrick T. W. Hudson,What is Computational Neurolinguistics Anyway?,1979
+SALDRP,Nancy Salay,"Dress Rehearsals, Previews, and Encores: A New Account of Mental Representation",2013
+MICMCI,Donald Michie,?Mind-Like? Capabilities in Computers: A Note on Computer Induction,1982
+TIMCC,Bert Timmermans and Axel Cleeremans,Computing Consciousness,manuscript
+ANDAOA-6,James A. Anderson,Arithmetic on a Parallel Computer: Perception Versus Logic,2003
+QUIIAM-3,Maria Eunice Quilici Gonzalez,Information and Mechanical Models of Intelligence: What Can We Learn From Cognitive Science?,2005
+ITCCA,Masao It\=o and Yasushi Miyashita and Edmund T. Rolls,"Cognition, Computation, and Consciousness",1997
+WEICIN,Walter B. Weimer,"Cognition is Not Computation, for the Reasons That Computers Don't Solve the Mind-Body Problems",1980
+GUIPNM,Mazen Maurice Guirguis,"Peter Novak, Mental Symbols: A Defense of the Classical Theory of Mind Reviewed By",1998
+PUTOCP,Hilary Putnam,On Computational Psychology,2009
+LEIAUC,David Pierre Leibovitz,A Unified Cognitive Model of Visual Filling-in Based on an Emergic Network Architecture,2013
+HAUOAO,"Helmut Hauser and Rudolf M. F\""{u}chslin and Rolf Pfeifer",Opinions and Outlooks on Morphological Computation,2014
+SELAMO,"Evan Selinger and Timothy Engstr\""{o}m","A Moratorium on Cyborgs: Computation, Cognition, and Commerce",2008
+FETTAC,James H. Fetzer,Thinking and Computing: Computers as Special Kinds of Signs,1997
+PARRHS,Christopher Parisien and Paul Thagard,Robosemantics: How Stanley the Volkswagen Represents the World,2008
+WILSCA-10,Rob Wilson and Steven W. Horst,"Symbols, Computation, and Intentionality: A Critique of the Computational Theory of Mind",1998
+BOCBMA,Giuseppe Boccignone and Roberto Cordeschi,Bayesian Models and Simulations in Cognitive Science,2007
+STAWH-2,Michael Richard Starks,?????????????*??????(2012?)??????????? (Will Hominoids or Androids Destroy the Earth? --A Review of How to Create a Mind by Ray Kurzweil (2012)) (2019????),2020
+PITRFS,Karola Pitsch and Anna{-}Lisa Vollmer and Manuel Muhlig,Robot Feedback Shapes the Tutors Presentation: How a Robots Online Gaze Strategies Lead to Micro-Adaptation of the Humans Conduct,2013
+WEIACR,Daniel A. Weiskopf,A Critical Review of Jerry A. Fodor's the Mind Doesn't Work That Way,2002
+DAVCST-2,David Davenport,Computationalism: Still the Only Game in Town: A Reply to Swiatczak?s ?Conscious Representations: An Intractable Problem for the Computational Theory of Mind?,2012
+STALHO,Michael Richard Starks,?Los Hominoides o Androides Destruir\'{a}n la Tierra? -- Una Revisi\'{o}n de ?C\'{o}mo Crear Una Mente? (How to Create a Mind) Por Ray Kurzweil (2012) (Revisi\'{o}n Revisada 2019),2019
+AYDSFC,Murat Mustafa Aydede,"Syntax, Functionalism, Connectionism, and the Language of Thought",1993
+STARDH-2,Michael Richard Starks,Rese\~{n}a de ?Hacer El Mundo Social? (?Making the Social World?) Por John Searle (2010) (Revisi\'{o}n Revisada 2019),2019
+STARD-4,Michael Richard Starks,Rese\~{n}a de ' Los L\'{i}mites Exteriores de la Raz\'{o}n '(the Outer Limits of Reason) Por Noson Yanofsky 403P (2013) (Revision Revisada 2019),2019
+YEETMA,Richard Yee,Turing Machines and Semantic Symbol Processing: Why Real Computers Don?T Mind Chinese Emperors,1993
+STASQH,Michael Richard Starks,Ser\'a Que Hominoids Ou Androids Destroem a Terra? -- Uma Revis\~{a}o de Como Criar Uma Mente (How to Create a Mind) Por Ray Kurzweil (2012) (Revis\~{a}o Revisada 2019),2019
+GRITPO-32,Nikitin Grigory and Danilova Marina,"The Phenomenon of ""Virtualization"" of the World in Modern Society",2018
+STETVF,Joshua Stein,The View From Vector Space: An Account of Conceptual Geography,2014
+CLATTC,Andy Clark,Twisted Tales: Causal Complexity and Cognitive Scientific Explanation,1998
+SFEIFN,Nicolae Sfetcu,"Intelligence, From Natural Origins to Artificial Frontiers - Human Intelligence Vs. Artificial Intelligence",2024
+PINLSA-2,Jean{-}Jacques Pinto,La Subjectivit\'e Artificielle : \'{E}bauche d'Un Projet de Recherche,manuscript
+SANTAO-19,Desmond Sander,The Appearance of Consciousness in Machines,manuscript
+RADOMI,Radicioni,On Mental Imagery in Lexical Processing: Computational Modeling of the Visual Load Associated to Concepts,2015
+CORIPA-2,Roberto Cordeschi,Intentional Psychology and Computational Models,1988
+CARTSD-4,Eros Moreira de Carvalho,Textos Selecionados de Filosofia da Cogni\c{c}~{a}o,2022
+HARTCT-3,Stevan Harnad,The Causal Topography of Cognition,2012
+CLATFC,Andy Clark,"The Frozen Cyborg: A Reply to Selinger and Engstr\""{o}m",2008
+AKARRC,Akagi Mikio,Representation Re-Construed: Construal-Based Norms for Ascribing Natural Representations,manuscript
+SCHORE,Prof Andreas Schierwagen,On Reverse Engineering in the Cognitive and Brain Sciences,2012
+BURIAT-5,Marc Burock,Information and the Function of Neurons,2011
+BROULA,Martin Andrew Brown,Understanding Language: A Luddite Approach,1993
+MACCFS,Bruce J. MacLennan,Continuous Formal Systems: A Unifying Model in Language and Cognition,1995
+STECTC,Lynn Andrea Stein,Challenging the Computational Metaphor: Implications for How We Think,1999
+GOESOT-2,Vinod Goel,Sketches of Thought: A Study of the Role of Sketching in Design Problem-Solving and its Implications for the Computational Theory of Mind,1991
+CHACHI-2,B. E. Charles Dyer,Computational Heuristic Intelligence- Cognition (Chi-Cog),2014
+COWCBT,Stephen Cowley and Frederic Vall\'{e}e{-}Tourangeau,"Cognition Beyond the Brain: Computation, Interactivity and Human Artifice (2Nd Ed.)",2017
+KINACA-2,Michael King,Analog Computationalism and Psychophysical Reduction,1998
+SCHMAT-29,Susan Lynn Schneider,Meaning and the Computational Mind: The Relation Between Intentional and Computational States in a Scientific Psychology,2003
+BIGOAC,Lucio Biggiero,Organizations as Cognitive Systems is Knowledge an Emergent Property of Information Networks?,unknown
+GREWKO,Christopher D. Green and John Vervaeke,"What Kind of Explanation, If Any, is a Connectionist Net?",1996
+CORPAI,Roberto Cordeschi,Philosophical Assumptions in Artificial Intelligence: A Tentative Criticism of a Criticism,1989
+OSBTLS-2,George Osborne,The Logical Structure of the Cognitive Mechanisms Guiding Psychological Development,1995
+DROMSC-2,Itiel E. Dror and Ailsa E. P\'{e}ron,"Matthias Scheutz, Computationalism New Directions",2004
+CORPOT-6,Roberto Cordeschi,Philosophical Assumptions in Artificial Intelligence: A Tentative Criticism of a Criticism,1989
+PICBRJ,Gualtiero Piccinini,"Book Review: John von Neumann, the Computer and the Brain, 2Nd Edition",2003
+MLLMAB,"Vincent C. M\""{u}ller","Margaret A. Boden, Mind as Machine: A History of Cognitive Science , 2 Vols",2008
+POLTIE,Thomas Polger,The Innocent Eye: Why Vision is Not a Cognitive Process by Nico Orlandi,2015
+BULCAT-2,David J. Buller,Confirmation and the Computational Paradigm (Or: Why Do You Think They Call Itartificial Intelligence?),1993
+RANBRO,Anand Rangarajan,"Book Review of ""the Embodied Mind: Cognitive Science and Human Experience""",manuscript
+AMORJL,A. Morton,Review: John L. Pollock: Thinking About Acting: Logical Foundations for Rational Decision Making,2008
+DIEEDS,Eric Dietrich,"Dynamic Systems and Paradise Regained, or How to Avoid Being a Calculator",1999
+CUMCAC-5,Robert Cummins,Computation and Cognition,1988
+BRICTL,Selmer Bringsjord,Clarifying the Logic of Anti-Computationalism: Reply to Hauser,2000
+EGAMME,Frances Egan,"Milkowski, Marcin., Explaining the Computational Mind",2013
+ARAROC,Andrew Arana,"Review of Computability: Turing, G\""{o}del, Church, and Beyond",2015
+DIEIDS,Eric Dietrich,It Does So: Review of \emph{the Mind Doesn't Work That Way: The Scope and Limits of Computational Psychology},2001
+PICJDT,Gualtiero Piccinini,"Jean-Pierre Dupuy, the Mechanization of Mind: On the Origins of Cognitive Science",2002
+FLODHA,Juan Felipe Martinez Florez,Dietmar Heinke and Eirini Mavritsaki (Eds): Computational Modelling in Behavioural Neuroscience,2012
+SILCCA,Stuart Silvers,"Cortical Conversations: A Review Essay on Cognition, Computation and Consciousness",1999
+THAZWP,Paul Thagard,"Zenon W. Pylyshyn and William Demopoulos, Eds., Meaning and Cognitive Structure: Issues in the Computational Theory of Mind Reviewed By",1987
+CHATPF,Nick Chater and Martin Pickering,Two Projects for Understanding the Mind: A Response to Morris and Richardson,1997
+RIVLT,Bradley Rives,Lot 2: The Language of Thought Revisited,2009
+HOLTMO-5,Maurice R. Holloway,"""The Modeling of Mind: Computers and Intelligence,"" Ed. Kenneth M. Sayre and Frederick J. Crosson",1965
+PICSUC,G. Piccinini,Su Una Critica Dell'intelligenza Artificiale ?Forte?,1994
+ASAHMR,Peter M. Asaro,"Hans Moravec, Robot. Mere Machine to Transcendent Mind, New York, Ny: Oxford University Press, Inc., 1999, Ix + 227 Pp., \$25.00 (Cloth), Isbn 0-19-511630-",2001
+PRIBRC,Christopher G. Prince,Book Review: Computational Principles of Mobile Robotics,2004
+MCDWTC,Richard McDonough,Why the Computational Theory of Mind Doesn't Compute,2001
+WESCHO-2,Robert West,Cambridge Handbook of Computational Psychology,2009
+CUMFIA,Robert Cummins,"Form, Interpretation, and the Uniqueness of Content: A Response to Morris",1991
+KADIFM,John Kadvany,Indistinguishable From Magic: Computation is Cognitive Technology,2010
+WARMS,Walter Warwick,Matthias Scheutz : Computationalism: New Directions,2003
+GROPAN,Miles Groth,Psychology and Nihilism. A Genealogical Critique of the Computational Model of Mind,1995
+CRODST-2,Mary Croarken,"Doron Swade, the Cogwheel Brain: Charles Babbage and the Quest to Build the First Computer. London: Little, Brown and Company, 2000. Pp. X+342. Isbn 0-316-64847-7. \pounds14.99",2004
+ELIDAR,Chris Eliasmith,Discreteness and Relevance: A Reply to Roman Poznanski,2002
+MAGBMH,Lorenzo Magnani,Beyond Mind: How Brains Make Up Artificial Cognitive Systems,2009
+ENSTCL,Nathan Ensmenger,The Cultural Logic of Computation,2010

@@ -1,0 +1,125 @@
+ID,Author,Title,Year
+COPTCT,B. Jack Copeland,The Church-Turing Thesis,2014
+CLEITC,Carol E. Cleland,Is the Church-Turing Thesis True?,1993
+SALTDP-2,Nathan Salm\'{o}n,The Decision Problem for Effective Procedures,2023
+PICTPC-4,Gualtiero Piccinini,The Physical Church?Turing Thesis: Modest or Bold?,2011
+SHAPHA,Oron Shagrir and Itamar Pitowsky,Physical Hypercomputation and the Church?Turing Thesis,2003
+WOLIOC-4,David Wolpert,Implications of Computer Science Theory for the Simulation Hypothesis,manuscript
+COPNVW-3,B. Jack Copeland,Narrow Versus Wide Mechanism: Including a Re-Examination of Turing?s Views on the Mind-Machine Issue,2000
+SIESBR,Wilfried Sieg,Step by Recursive Step: Church's Analysis of Effective Calculability,1997
+RESCTA,Michael Rescorla,Church's Thesis and the Conceptual Analysis of Computability,2007
+ETENCV,G\'{a}bor Etesi and Istv\'{a}n N\'{e}meti,Non-Turing Computations Via Malament-Hogarth Space-Times,2002
+BUTSCA-3,Tim Button,Sad Computers and Two Versions of the Church?Turing Thesis,2009
+FLOTVS-2,Luciano Floridi,Turing Vs. Super-Turing: A Defence of the Church-Turing Thesis,1999
+COPTBC,Jack Copeland,The Broad Conception of Computation,1997
+COTHAT-3,Paolo Cotogno,Hypercomputation and the Physical Church-Turing Thesis,2003
+KRIQAT,Saul A. Kripke,"The Church-Turing ?Thesis? as a Special Corollary of G\""{o}del?s Completeness Theorem",2013
+PICCTC-2,Gualtiero Piccinini,"Computationalism, the Church?Turing Thesis, and the Church?Turing Fallacy",2007
+COPPCH,B. Jack Copeland and Oron Shagrir,Physical Computation: How General Are Gandy?s Principles for Mechanisms?,2007
+FOLCTP,Janet Folina,Church's Thesis: Prelude to a Proof,1998
+WSIGOC,W. Sieg,Godel on Computability,2006
+CLEEPA,Carole E. Cleland,Effective Procedures and Computable Functions,1995
+ABRPOM,Darren Abramson,Philosophy of Mind is (in Part) Philosophy of Computer Science,2011
+SIEAAM,Wilfried Sieg and John Byrnes,An Abstract Model for Parallel Computations: Gandy?s Thesis,1999
+SHAUCT,Stewart Shapiro,Understanding Church's Thesis,1981
+BLAPCT,Robert Black,Proving Church's Thesis,2000
+COPTTG,Jack Copeland and Jonathan Bowen and Robin Wilson and Mark Sprevak,The Turing Guide,2017
+OROECB,Shagrir Oron,Effective Computation by Humans and Machines,2002
+WTHAQC,"Christian W\""{u}thrich",A Quantum-Information-Theoretic Complement to a General-Relativistic Implementation of a Beyond-Turing Computer,2015
+SLOBTE,Aaron Sloman,Beyond Turing Equivalence,1996
+ORDHCM,Toby Ord,Hypercomputation: Computing More Than the Turing Machine,2002
+OLSCTA-3,Adam Olszewski and Jan Wolenski and Robert Janusz,Church's Thesis After 70 Years,2006
+MLLOTP,"Vincent C. M\""{u}ller",On the Possibilities of Hypercomputing Supertasks,2011
+CUFUIA,Michael Cuffaro,"Universality, Invariance, and the Foundations of Computational Complexity in the Light of the Quantum Computer",2018
+GANCTA,Robin Gandy,Church's Thesis and Principles for Mechanisms,1980
+MYRCIQ,Wayne C. Myrvold,Computability in Quantum Mechanics,1995
+ADDTAL-2,Tom Addis and Jan Townsend Addis and Dave Billinge and David Gooding and Bart{-}Floris Visscher,Simulation Methods for an Abductive System in Science,2008
+BALTOT-9,Davide Baldini and Matteo De Benedetto,The Open Texture of ?Algorithm? in Legal Language,forthcoming
+BOWAAA,G. Lee Bowie,An Argument Against Church's Thesis,1973
+MLLWIA-2,"Vincent C. M\""{u}ller",What is a Digital State?,2013
+DEBEAA-3,Matteo De Benedetto,Explication as a Three-Step Procedure: The Case of the Church-Turing Thesis,2021
+FLOWDE,Juliet Floyd,Wittgensteins Diagonal-Argument: Eine Variation Auf Cantor Und Turing,2018
+MYRTDP,Wayne C. Myrvold,The Decision Problem for Entanglement,1997
+ISRROG,David Israel,"Reflections on G\""{o}del's and Gandy's Reflections on Turing's Thesis",2002
+ANDSNO-2,Luca Anderlini,Some Notes on Church's Thesis and the Theory of Games,1990
+SHATCT,O. Shagrir and I. Pitowsky,The Church-Turing Thesis and Hyper-Computation,forthcoming
+HORTCT-2,Leon Horsten,The Church-Turing Thesis and Effective Mundane Procedures,1995
+BERCTM,Jonathan Berg and Charles Chihara,Church's Thesis Misconstrued,1975
+PITTPC,Itamar Pitowski,The Physical Church Thesis and Physical Computational Complexity,1990
+BRIOTP,Selmer Bringsjord and Konstantine Arkoudas,"On the Provability, Veracity, and Ai-Relevance of the Church-Turing Thesis",2006
+MALWIG,Fintan Mallory,Why is Generative Grammar Recursive?,2023
+RICCTW,Fred Richman,Church's Thesis Without Tears,1983
+ROSCTW,David Ross,Church's Thesis: What its Difficulties Are and Are Not,1974
+SLOTIO-2,Aaron Sloman,The Irrelevance of Turing Machines to Artificial Intelligence,2002
+TROOAS,A. S. Troelstra,On a Second Order Propositional Operator in Intuitionistic Logic,1981
+CASOTC-3,Ram\'{o}n Casares,"On Turing Completeness, or Why We Are so Many (7th edition)",manuscript
+FREAAO-2,Nir Fresco,An Analysis of the Criteria for Evaluating Adequate Theories of Computation,2008
+BEITE,Peter Beilharz,Thesis Eleven ? 25 Years On,2006
+GURWIA-2,Yuri Gurevich,What is an Algorithm,2012
+KHUADA,David Elohim,Modality and Hyperintensionality in Mathematics,manuscript
+BRIIDO-3,Selmer Bringsjord,In Defense of the Unprovability of the Church-Turing Thesis,
+MLLYA,"Vincent C. M\""{u}ller",20 Years After the Embodied Mind - Why is Cognitivism Alive and Kicking?,2013
+DAVTMO-44,Martin Davis,The Myth of Hypercomputation,2004
+MYCACA,Jerzy Mycka,Analog Computation and Church's Thesis,2006
+COPCGT,B. J. Copeland and C. Posy and O. Shagrir,"Computability: G\""{o}del, Turing, Church, and Beyond",2013
+BUTHDN,Tim Button,Hyperloops Do Not Threaten the Notion of an Effective Procedure,2009
+GALTCT,Antony Galton,The Church-Turing Thesis: Its Nature and Status,1996
+HAGCSA,Amit Hagar and Giuseppe Sergioli,Counting Steps: A Finitist Interpretation of Objective Probability in Physics,2015
+DIDFTF,Farzad Didehvar,"Fuzzy Time, From Paradox to Paradox",manuscript
+SPRKPA,Mark D. Sprevak,Kripke?s Paradox and the Church?Turing Thesis,2008
+CLETCT-3,Carol E. Cleland,The Church?Turing Thesis. A Last Vestige of a Failed Mathematical Program,2006
+KALAAA-3,L\'{a}szl\'o Kalm\'{a}r,An Argument Against the Plausibility of Church's Thesis,1959
+PGNLDF-2,"Ma\""{e}l P\'{e}gny",Les Deux Formes de la Th\`{e}se de Church-Turing Et L?\'{E}pist\'{e}mologie du Calcul,2012
+FLOCTA,Juliet Floyd,"Carnap, Turing and Wittgenstein : Contrasting Notions of Analysis",2012
+OLSCTA-4,Adam Olszewski,Church's Thesis as Formulated by Church--an Interpretation,2006
+BRIOTP-4,Selmer Bringsjord and Konstantine Arkoudas,"On the Provability, Veracity, and Ai-Relevance of the Church?Turing Thesis",2006
+DEUANO-3,Michael Deutsch,A Note on the Theorems of Church-Turing and Trachtenbrot,1994
+MURCTA-3,Roman Murawski,Church's Thesis and its Epistemological Status,unknown
+SMISCT,Peter Smith,Squeezing Church's Thesis Again,manuscript
+TAMROM,Guglielmo Tamburrini,Reflections on Mechanism,1988
+COTOTI,P. Cotogno,On the Interpretation of Church's Thesis,1992
+VANDPI-3,Frans van de Paverd,Disciplinarian Procedures in the Early Church,1981
+COHLLA,Robert S. Cohen and Marx W. Wartofsky,"Language, Logic and Method",2012
+KRAROC-2,Stanis\l{}aw Krajewski,Remarks on Church's Thesis and Godel's Theorem,2006
+HANCTA-3,Sven Ove Hansson,Church's Thesis as an Empirical Hypothesis,1985
+BRICTA-2,Douglas S. Bridges,Church's Thesis and Bishop's Constructivism,2006
+THODAS,William J. Thomas,Doubts About Some Standard Arguments for Church's Thesis,1973
+HARCDF,Stevan Harnad,Computers Don't Follow Instructions,manuscript
+FOLCTA,Janet Folina,Church?s Thesis and the Variety of Mathematical Justifications,2006
+OLSCTA-2,A. Olszewski and J. Wole'nski and R. Janusz,Church's Thesis After Seventy Years,2006
+ALOIEI-2,Enrique Alonso,Ingenio e Industria. Gu\'{i}a de Referencia Sobre la Tesis de Turing-Church (Inventiveness and Skili. Reference Guide on Church-Turing Thesis),1999
+PEN-8,Vasil Penchev,\CYRO\cyrt\cyrv\cyrhrdsn\cyrd \CYRM\cyra\cyrsh\cyri\cyrn\cyra\cyrt\cyra \CYRN\cyra \CYRT\cyryu\cyrr\cyri\cyrn\cyrg: \CYRK\cyrv\cyra\cyrn\cyrt\cyro\cyrv\cyri\cyrya\cyrt \CYRK\cyro\cyrm\cyrp\cyryu\cyrt\cyrhrdsn\cyrr,2014
+CARANO-12,Lorenzo Carlucci and Konrad Zdanowski,A Note on Ramsey Theorems and Turing Jumps,2012
+SIEFSC,Wilfried Sieg,"Formal Systems, Church Turing Thesis, and G\""{o}del's Theorems: Three Contributions to the MIT Encyclopedias of Cognitive Science",1997
+HORFCT,Leon Horsten,Formalizing Church's Thesis,2006
+CLETCT,Carol Cleland,The Church-Turing Thesis: A Last Vestige of a Failed Mathematical Program,2006
+SMICTA-2,Peter Smith,Church's Thesis After 70 Years,manuscript
+SZUITT,Matthew P. Szudzik,Is Turing's Thesis the Consequence of a More General Physical Principle?,2012
+PETCOC-4,Clayton Peterson and Fran\c{c}ois Lepage,Cleland on Church's Thesis and the Limits of Computation,2012
+MAUCTI-2,Luca San Mauro,"Church-Turing Thesis, in Practice",2018
+SIEGTM,Wilfried Sieg and John Byrnes,Generalizing Turing's Machine and Arguments,1994
+URBHNT,R. Urbaniak,How Not to Use the Church-Turing Thesis Against Platonism,2011
+STAWCE-2,Michael Richard Starks,"Wolpert, Chaitin Et Wittgenstein Sur L?Impossibilit\'e, L?Incompl\'{e}tude, le Paradoxe Menteur, le Th\'{e}isme, les Limites du Calcul, Un Principe D?Incertitude M\'{e}canique Non Quantique Et L?Univers Comme Ordinateur, le Th\'{e}or\`{e}me Ultime Dans Turing Machine Theory (R\'{e}vis\'e 2019)",2020
+STAQ-4,Michael Richard Starks,"\CYRO\cyrb\cyrz\cyro\cyrr ""\CYRV\cyrn\cyre\cyrsh\cyrn\cyri\cyre \CYRG\cyrr\cyra\cyrn\cyri\cyrc\cyrery \CYRR\cyra\cyrz\cyru\cyrm\cyra"" (the Outer Limits of Reason by Noson Yanofsky 403P (2013) (\CYRO\cyrb\cyrz\cyro\cyrr \CYRP\cyre\cyrr\cyre\cyrs\cyrm\cyro\cyrt\cyrr\cyre\cyrn 2019)",2020
+STAWCA-7,Michael Richard Starks,"Wolpert, Chaitin and Wittgenstein ???????????????????? ???????????????????????????????????? ???-???????????????? (2019???????)",2020
+OLCTXL,P. Olcott,The X86 Language has Turing Complete Memory Access,manuscript
+STAROT-35,Michael Starks,Review of 'the Outer Limits of Reason' by Noson Yanofsky 403P (2013) (Review Revised 2019),2019
+STAWCU,Michael Richard Starks,"Wolpert, Chaitin Und Wittgenstein \""{U}ber Unm\""{o}glichkeit, Unvollst\""{a}ndigkeit, Das L\""{u}gner-Paradoxon, Theismus, Die Grenzen der Berechnung, Ein Nicht-Quantenmechanisches Unsicherheitsprinzip Und Das Universum Als Computer ? der Ultimative Satz in Turing Machine Theory (\""{U}berarbeitet 2019)",2020
+GOLTIN,Dina Goldin and Peter Wegner,The Interactive Nature of Computing: Refuting the Strong Church?Turing Thesis,2008
+STAQOL,Michael Richard Starks,"?????""?????????""?(the Outer Limits of Reason) by Noson Yanofsky (2019???????)",2020
+STAWCA-6,Michael Richard Starks,"Wolpert, Chaitin and Wittgenstein ???, ??? ?, ??? ?? ??, ??, ?? ??, ? ?? ??? ???? ?? ? -Turing ?? ??? ??? ??(",2020
+STAWCE,Michael Richard Starks,"Wolpert, Chaitin e Wittgenstein Em Impossibilidade, Incompletude, o Paradoxo Do Mentiroso, o Te\'{i}smo, Os Limites da Computa\c{c}~{a}o, Um Princ\'{i}pio de Incerteza Mec\^{a}nica N\~{a}o Qu\^{a}ntica e o Universo Como Computador -- o Teorema Final Na Teoria da M\'{a}quina de Turing (Revisado 2019)",2019
+STAWCA-5,Michael Starks,"Wolpert, Chaitin and Wittgenstein on Impossibility, Incompleteness, the Liar Paradox, Theism, the Limits of Computation, a Non-Quantum Mechanical Uncertainty Principle and the Universe as Computer--the Ultimate Theorem in Turing Machine Theory (Revised 2019)",2019
+STAWC-2,Michael Richard Starks,"Wolpert, Chaitin \CYRI Wittgenstein \CYRO \CYRN\cyre\cyrv\cyro\cyrz\cyrm\cyro\cyrzh\cyrn\cyro\cyrs\cyrt\cyri, \CYRN\cyre\cyrp\cyro\cyrl\cyrn\cyro\cyrt\cyre, \CYRP\cyra\cyrr\cyra\cyrd\cyro\cyrk\cyrs\cyre \CYRL\cyrzh\cyre\cyrc\cyro\cyrv, \CYRT\cyre\cyri\cyrz\cyrm, \CYRG\cyrr\cyra\cyrn\cyri\cyrc\cyra\cyrh \CYRV\cyrery\cyrch\cyri\cyrs\cyrl\cyre\cyrn\cyri\cyrishrt, \CYRP\cyrr\cyri\cyrn\cyrc\cyri\cyrp\cyre \CYRN\cyre\cyrk\cyrv\cyra\cyrn\cyrt\cyro\cyrv\cyro\cyrishrt \CYRM\cyre\cyrh\cyra\cyrn\cyri\cyrch\cyre\cyrs\cyrk\cyro\cyrishrt \CYRN\cyre\cyro\cyrp\cyrr\cyre\cyrd\cyre\cyrl\cyre\cyrn\cyrn\cyro\cyrs\cyrt\cyri \CYRI \CYRV\cyrs\cyre\cyrl\cyre\cyrn\cyrn\cyro\cyrishrt \CYRK\cyra\cyrk \CYRK\cyro\cyrm\cyrp\cyrsftsn\cyryu\cyrt\cyre\cyrr ? \CYRK\cyro\cyrn\cyre\cyrch\cyrn\cyro\cyrishrt \CYRT\cyre\cyro\cyrr\cyre\cyrt\cyre \CYRV \CYRT{}uring \CYRM\cyra\cyrsh\cyri\cyrn \CYRT\cyrsftsn\cyryu\cyrr\cyri\cyrn\cyrg\cyra (\CYRP\cyre\cyrr\cyre\cyrs\cyrm\cyro\cyrt\cyrr\cyre\cyrn\cyrn\cyrery\cyrishrt 2019)",2020
+STAWCY-2,Michael Richard Starks,"Wolpert, Chaitin y Wittgenstein Sobre la Imposibilidad, la Incompletitud, la Paradoja Mentirosa, El Te\'{i}smo, Los L\'{i}mites de la Computaci\'{o}n, Un Principio de Incertidumbre Mec\'{a}nica No Cu\'{a}ntica y El Universo Como Computadora, El Teorema Definitivo En la Teor\'{i}a de la M\'{a}quina de Turing (Revisado En 2019)",2019
+MOLCTC,Liesbeth De Mol,Closing the Circle: An Analysis of Emil Post's Early Work,2006
+KEATMS,John T. Kearns,Thinking Machines: Some Fundamental Confusions,1997
+THOCTA-5,William John Thomas,Church's Thesis and Philosophy,1972
+OLINAT-4,Jelson Oliveira,Nihilism and the Problem of Future: Biodiversity Destruction as One of the Great Dangers of Technology?,2017
+ZenithForthcoming-ERIEEI,Steven Ericsson{-}Zenith,Explaining Experience in Nature: The Foundations of Logic and Apprehension,forthcoming
+CLETCA-3,Patrick Cleary,"The Church and Usury. Thesis, St. Patrick's Coll., Maynooth",1914
+HanssenForthcoming-KJOOHA,Bj\o{}rn Kjos{-}Hanssen,Only Human: A Book Review of the Turing Guide,forthcoming
+ARAROC,Andrew Arana,"Review of Computability: Turing, G\""{o}del, Church, and Beyond",2015
+COOBJC,Roy T. Cook,"B. Jack Copeland, Carl J. Posy, and Oron Shagrir, Eds, Computability: Turing, G\""{o}del, Church, and Beyond. Cambridge, Mass.: MIT Press, 2013. Isbn 978-0-262-01899-9. Pp. X + 362",2014
+WIEJAN-2,John Wiens,"Jonathan A. Newman, Gary Varner, and Stefan Linquist. Defending Biodiversity: Environmental Science and Ethics",2021
+NESGRC,William J. Nessel,"Gary R. Collins, ""Psychology Series for Church Leaders"". Vol. Ii. ""Effective Counselling""",1973

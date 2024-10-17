@@ -1,0 +1,867 @@
+ID,Author,Title,Year
+CHEMLA-2,Brian F. Chellas,Modal Logic: An Introduction,1980
+BLAML-2,Patrick Blackburn and Maarten de Rijke and Yde Venema,Modal Logic: Graph. Darst,2001
+KRISCO,Saul Kripke,Semantical Considerations on Modal Logic,1963
+CREANI-3,M. J. Cresswell and G. E. Hughes,A New Introduction to Modal Logic,1996
+JAGTI,Mark Jago,The Impossible: An Essay on Hyperintensionality,2014
+SEGAEI,Krister Segerberg,An Essay in Classical Modal Logic,1971
+BERIW,Francesco Berto,Impossible Worlds,2013
+KRIACT,Saul Kripke,A Completeness Theorem in Modal Logic,1959
+CHATSA-5,David J. Chalmers and Brian Rabern,Two-Dimensional Semantics and the Nesting Problem,2014
+BERNOT-10,Francesco Berto and Greg Restall,Negation on the Australian Plan,2019
+INCEML,"Luca Incurvati and Julian J. Schl\""{o}der",Epistemic Multilateral Logic,2022
+KRISAO,Saul A. Kripke,Semantical Analysis of Modal Logic I. Normal Propositional Calculi,1963
+DORDAF,Cian Dorr and Jeremy Goodman,Diamonds Are Forever,2019
+TEICEA,Trevor Teitel,Contingent Existence and the Reduction of Modality to Essence,2019
+BACTBN,Andrew Bacon,The Broadest Necessity,2018
+BOOTLO-7,George Boolos,The Logic of Provability,1993
+INCWR,"Luca Incurvati and Julian J. Schl\""{o}der",Weak Rejection,2017
+CHAML-2,Alexander Chagrov,Modal Logic,1997
+FORLOP,Graeme Forbes,Languages of Possibility: An Essay in Philosophical Logic,1989
+SANTKO-3,Alexander Sandgren and Koji Tanaka,Two Kinds of Logical Impossibility,2020
+MELFML,Melvin Fitting and Richard L. Mendelsohn,First-Order Modal Logic,1998
+DORTBO-2,Cian Dorr and John Hawthorne and Juhani Yli{-}Vakkuri,The Bounds of Possibility: Puzzles of Modal Variation,2021
+CARMAN-7,Rudolf Carnap,Meaning and Necessity: A Study in Semantics and Modal Logic,1957
+CARMAN-8,RUDOLF CARNAP,Meaning and Necessity: A Study in Semantics and Modal Logic,1949
+BOOTUO-2,George Boolos,The Unprovability of Consistency: An Essay in Modal Logic,1979
+VANMLA,Johan van Benthem,Modal Logic and Classical Logic,1983
+MCKSTA,J. C. C. McKinsey and Alfred Tarski,Some Theorems About the Sentential Calculi of Lewis and Heyting,1948
+Nye2021-KIMCHA-2,Samuel Kimpton{-}Nye,Can Hardcore Actualism Validate S5?,2021
+VANMLF-4,Johan van Benthem,Modal Logic for Open Minds -,2010
+YATDAT,David Yates,Dispositionalism and the Modal Operators,2015
+HAZCSF,Allen Hazen,Counterpart-Theoretic Semantics for Modal Logic,1979
+ROSAHA-7,"Niccol\`o Rossi and Ayb\""{u}ke \""{O}zg\""{u}n",A Hyperintensional Approach to Positive Epistemic Possibility,2023
+FINPQI,Kit Fine,Propositional Quantifiers in Modal Logic,1970
+CHITWO,Charles S. Chihara,The Worlds of Possibility: Modal Realism and the Semantics of Modal Logic,1998
+GARMLW,George Gargov and Valentin Goranko,Modal Logic with Names,1993
+BLAHOM-3,Patrick Blackburn and Johan van Benthem and Frank Wolter,Handbook of Modal Logic,2006
+VENML,Yde Venema,Modal Logic,2000
+HUMPAO-2,Lloyd Humberstone,Philosophical Applications of Modal Logic,2016
+GARMLF-3,James W. Garson,Modal Logic for Philosophers,2006
+TOMCTM,Christopher Tomaszewski,Collapsing the Modal Collapse Argument: On an Invalid Argument Against Divine Simplicity,2019
+BARAFC,Ruth C. Barcan,A Functional Calculus of First Order Based on Strict Implication,1946
+GABMML,Dov M. Gabbay,Many-Dimensional Modal Logics: Theory and Applications,2003
+HOLECA,Wesley H. Holliday,Epistemic Closure and Epistemic Logic I: Relevant Alternatives and Subjunctivism,2015
+STUCIS,"Brian McLoone and Cassandra Gr\""{u}tzner and Michael T. Stuart",Counterpossibles in Science: An Experimental Study,2023
+LINPAM-9,\O{}ystein Linnebo,Plurals and Modals,2016
+FRIALF,Peter Fritz,A Logic for Epistemic Two-Dimensional Semantics,2013
+KRISAO-3,Saul A. Kripke,Semantical Analysis of Modal Logic Ii. Non-Normal Modal Propositional Calculi,1965
+HOLPS-4,Wesley H. Holliday,Possibility Semantics,2021
+STEEAM-8,Andrew Stephenson,Existence and Modality in Kant: Lessons From Barcan,2023
+SCOOEA,Dana Scott,On Engendering an Illusion of Understanding,1971
+FRIWIT-2,Peter Fritz,"What is the Correct Logic of Necessity, Actuality and Apriority?",2014
+BACATO-5,Andrew Bacon and Jin Zeng,A Theory of Necessities,2022
+HAKDTD,Raul Hakli and Sara Negri,Does the Deduction Theorem Fail for Modal Logic?,2012
+STATRW,Shawn Standefer,Tracking Reasons with Extensions of Relevant Logics,2019
+Vakkuri2016-YLIEAM,Juhani Yli{-}Vakkuri,Epistemicism and Modality,2016
+LAMAPA-5,Fabio Lampert,A Puzzle About the Fixity of the Past,2022
+GARML,James W. Garson,Modal Logic,2009
+KUBALF,Ekaterina Kubyshkina and Mattia Petrolo,A Logic for Factive Ignorance,2019
+INCMAS,"Luca Incurvati and Julian J. Schl\""{o}der",Meta-Inferences and Supervaluationism,2021
+DUNPML,J. Michael Dunn,Positive Modal Logic,1995
+BENDLO,J. Benthem and E. Pacuit,Dynamic Logics of Evidence-Based Beliefs,2011
+LEMNFF,E. J. Lemmon,New Foundations for Lewis Modal Systems,1957
+LEMASF-2,E. J. Lemmon,Algebraic Semantics for Modal Logics Ii,1966
+FRIAPR,Fritz Peter,A Purely Recombinatorial Puzzle,2017
+DAVSET,David Makinson,Some Embedding Theorems for Modal Logic,1971
+LEMASF-3,E. J. Lemmon,Algebraic Semantics for Modal Logics I,1966
+HAZECI,Allen Hazen,Expressive Completeness in Modal Language,1976
+HOLMPI-2,Wesley H. Holliday and Thomas F. Icard,Moorean Phenomena in Epistemic Logic,2010
+STAAIT-16,Shawn Standefer,An Incompleteness Theorem for Modal Relevant Logics,2021
+LITVM,Jon Erling Litland and Juhani Yli{-}Vakkuri,Vagueness \& Modality--an Ecumenical Approach,2016
+BLAHL,Patrick Blackburn and Jerry Seligman,Hybrid Languages,1995
+HODOML,Harold T. Hodes,On Modal Logics Which Enrich First-Order S5,1984
+GORECF,Valentin Goranko and Dimiter Vakarelov,Elementary Canonical Formulae: Extending Sahlqvist?s Theorem,2006
+ODIDFP,Sergei P. Odintsov and Heinrich Wansing,Disentangling Fde -Based Paraconsistent Modal Logics,2017
+HODSTO,Harold T. Hodes,Some Theorems on the Expressive Limitations of Modal Languages,1984
+MENTTM,Christopher Menzel,The True Modal Logic,1991
+COBVS,Pablo Cobreros,Vagueness: Subvaluationism,2013
+RESPFS,Greg Restall,Proofnets for S5: Sequents and Circuits for Modal Logic,2007
+Yami2020-BENTBF-5,Hanoch Ben{-}Yami,The Barcan Formulas and Necessary Existence: The View From Quarc,2020
+BEZASH,Guram Bezhanishvili and Wesley H. Holliday,A Semantic Hierarchy for Intuitionistic Logic,2019
+HODAFA,Harold T. Hodes,Axioms for Actuality,1984
+QVIMLW,Lennart \A{A}qvist,Modal Logic with Subjunctive Conditionals and Dispositional Predicates,1973
+Yami2018-BENTLC-2,Hanoch Ben{-}Yami,The Logical Contingency of Identity,2018
+EKRUUQ,Kristina \v{S}ekrst,"Unjustified Untrue ""Beliefs"": Ai Hallucinations and Justification Logics",forthcoming
+SEGMLW,Krister Segerberg,Modal Logics with Linear Alternative Relations,1970
+FINLCK,Kit Fine,Logics Containing K4. Part I,1974
+BOBIAT,Susanne Bobzien and Ian Rumfitt,Intuitionism and the Modal Logic of Vagueness,2020
+GORRSI,Valentin Goranko,Refutation Systems in Modal Logic,1994
+CARLOF-5,Walter Carnielli and Marcelo E. Coniglio and David Fuenmayor,Logics of Formal Inconsistency Enriched with Replacement: An Algebraic and Modal Account,2022
+ROSAEM-2,Niccol\`o Rossi,An Enhanced Model for Rosenkranz?s Logic of Justification,2022
+KITNFI,Kit Fine,Normal Forms in Modal Logic,1975
+FINLCK-2,Kit Fine,Logics Containing K4. Part Ii,1985
+HACWIS,Ian Hacking,What is Strict Implication?,1963
+BOIMFN,Milan Bo\v{z}i\'c and Kosta Do\v{s}en,Models for Normal Intuitionistic Modal Logics,1984
+MAKOSC-2,D. Makinson,On Some Completeness Theorems in Modal Logic,1966
+RUMTSF,Antje Rumberg,Transition Semantics for Branching Time,2016
+HOLAFN,Wesley Holliday,A Fundamental Non-Classical Logic,2023
+LYORLS,Tim Lyon,Refining Labelled Systems for Modal and Constructive Logics with Applications,2021
+Yami2014-BENTQA-2,Hanoch Ben{-}Yami,The Quantified Argument Calculus,2014
+EWAITA,W. B. Ewald,Intuitionistic Tense and Modal Logic,1986
+ZACLIM-2,Richard Zach,Logic in Mathematics and Computer Science,forthcoming
+GORHOM,Valentin Goranko,Hierarchies of Modal and Temporal Logics with Reference Pointers,1996
+Vakkuri2016-YLIWOM,Juhani Yli{-}Vakkuri and Mark McCullagh,Williamson on Modality,2016
+FRIPQI,Peter Fritz,Propositional Quantification in Bimodal S5,2020
+SHACAS-2,Michael J. Shaffer,Counterfactuals and Scientific Realism,2012
+VENCML,Yde Venema,Cylindric Modal Logic,1995
+Roma2019-CASTLO-21,Joan Casas{-}Roma and Antonia Huertas and M. Elena Rodr\'{i}guez,The Logic of Imagination Acts: A Formal System for the Dynamics of Imaginary Worlds,2019
+VENDRA,Yde Venema,Derivation Rules as Anti-Axioms in Modal Logic,1993
+ROBMSA-7,Sam Roberts,Modal Structuralism and Reflection,2019
+IAQFML,Samuele Iaquinto and Ciro De Florio and Aldo Frigerio,Fragmenting Modal Logic,forthcoming
+RAUMTC,Wolfgang Rautenberg,Modal Tableau Calculi and Interpolation,1983
+MELTMO-4,Melvin Fitting,Tableau Methods of Proof for Modal Logics,1972
+GAANCR-4,Tore Fjetland \O{}gaard,Non-Boolean Classical Relevant Logics Ii: Classicality Through Truth-Constants,2021
+BIEOAI,G. M. Bierman and V. C. V. de Paiva,On an Intuitionistic Modal Logic,2000
+MARAFC,Ruth Barcan Marcus,A Functional Calculus of First Order Based on Strict Implication,1946
+KUHQAM,Steven T. Kuhn,Quantifiers as Modal Operators,1980
+BJOTSS-3,Adam Bjorndahl,Topological Subset Space Models for Public Announcements,2018
+KOCTPO-7,Alexander W. Kocurek,The Problem of Cross-World Predication,2016
+LEWTCO,C. I. Lewis,The Calculus of Strict Implication,1914
+BASART-3,Andrew Dennis Bassford,A Response to Chisholm?s Paradox,2020
+LYOAAR,Tim Lyon and Kees van Berkel,Automating Agential Reasoning: Proof-Calculi and Syntactic Decidability for Stit Logics,2019
+GOOLAF,Zachary Goodsell and Juhani Yli{-}Vakkuri,Lf: A Foundational Higher-Order Logic,manuscript
+BINTSE,Robert Binkley,The Surprise Examination in Modal Logic,1968
+VANWOM,van Benthem Johan,What One May Come to Know,2004
+TRUTEK,Robert Trueman and Richard Zach and Chanwoo Lee,???? ??? (Tasting Modal Logic) (1st edition),manuscript
+WILRTG-3,Timothy Williamson,Reply to Goodman,2016
+HAZAIP,Allen P. Hazen and Benjamin G. Rin and Kai F. Wehmeier,Actuality in Propositional Modal Logic,2013
+KOCOTC,Alexander W. Kocurek,On the Concept of a Notational Variant,2017
+VALMDI,Valentin Goranko,Modal Definability in Enriched Languages,1989
+FERLMM-2,Jos\'e Alejandro Fern\'{a}ndez Cuesta,L\'{o}gica Modal Meg\'{a}rico-Estoica: Posibilidad y Necesidad Como Operadores Atl\'{e}ticos,2021
+KRBBCM,"Nils K\""{u}rbis","Bilateralism, Collapsing Modalities, and the Logic of Assertion and Denial",2024
+CLEFDG,Nicolas Clerbout,First-Order Dialogical Games and Tableaux,2014
+JOHABP-3,Johan van Benthem and Nick Bezhanishvili and Wesley H. Holliday,A Bimodal Perspective on Possibility Semantics,2017
+CHEMLA-3,Zia Movahed,Modal Logic. An Introduction,2002
+HOLCAA-7,Wesley H. Holliday and Tadeusz Litak,Complete Additivity and Modal Incompleteness,2019
+FRIPQC,Peter Joseph Fritz,Propositional Quantifiers (1st edition),2024
+BEDHCF,Kaja Bednarska and Andrzej Indrzejczak,Hypersequent Calculi for S5: The Methods of Cut Elimination,2015
+FABAAT,Fabio Lampert,Actuality and the a Priori,2018
+BEALTB-2,Jc Beall and Shay A. Logan,Logic: The Basics (2Nd Edition),2017
+POPFSI,Sally Popkorn,First Steps in Modal Logic,1994
+CIADTL,Agata Ciabattoni and Tim Lyon and Revantha Ramanayake and Alwen Tiu,Display to Labeled Proofs and Back Again for Tense Logics,2021
+HOLIDA-5,Wesley H. Holliday and Tomohiro Hoshi and Thomas F. Icard Iii,Information Dynamics and Uniform Substitution,2013
+DEMBCO,Lorenz Demey,Boolean Considerations on John Buridan's Octagons of Opposition,2018
+KOCOTE-2,Alexander W. Kocurek,On the Expressive Power of First-Order Modal Logic with Two-Dimensional Operators,2018
+IACICA,Andrea Iacona,Indicative Conditionals as Strict Conditionals,2018
+VANMDL,Johan van Benthem and Guram Bezhanishvili and Balder ten Cate and Darko Sarenac,Multimo Dal Logics of Products of Topologies,2006
+WILTNA-14,Timothy Williamson,The Necessity and Determinacy of Distinctness,1996
+ALLTEO-5,Allen Hazen,The Eliminability of the Actuality Operator in Propositional Modal Logic,1978
+MARDMD,Genoveva Marti,Do Modal Distinctions Collapse in Carnap?s System?,1994
+GHIUOP,Silvio Ghilardi and Marek Zawadowski,Undefinability of Propositional Quantifiers in the Modal System S,1995
+STAAIF,Robert C. Stalnaker and Richmond H. Thomason,Abstraction in First-Order Modal Logic,1968
+BACTLO-7,Andrew Bacon and Kit Fine,The Logic of Logical Necessity,2024
+YATASK,David Yates,A Strange Kind of Power: Vetter on the Formal Adequacy of Dispositionalism,2020
+POGMOT,Francesca Poggiolesi,Method of Tree-Hypersequents for Modal Propositional Logic,2009
+GRECAD,Dominic Gregory,Completeness and Decidability Results for Some Propositional Modal Logics Containing ?Actually? Operators,2001
+CROCAT,Charles B. Cross,'Can' and the Logic of Ability,1986
+WILBFI,Timothy Williamson,Barcan Formulas in Second-Order Modal Logic,2015
+SCHSML-4,Joshua Schechter,"Supervaluationism, Modal Logic, and Weakly Classical Logic",2024
+WILRTY,Timothy Williamson,Reply to Yli-Vakkuri,2016
+HOTMP,Pao{-}Shen Ho,The Modal Problem of Creatio Ex Nihilo,2020
+COROTR-5,Fabrice Correia and Sven Rosenkranz,On the Relation Between Modality and Tense,2020
+BLAAPO-4,Stephen Blamey and Lloyd Humberstone,A Perspective on Modal Sequent Logic,1991
+BADBIB,Guillermo Badia,Bi-Simulating in Bi-Intuitionistic Logic,2016
+DUMMLB-2,M. A. E. Dummett and E. J. Lemmon and Iwao Nishimura and D. C. Makinson,Modal Logics Between s4 and S5,1959
+DUNMQW,Billy Dunaway,Modal Quantification Without Worlds,2013
+RUBEIF,Daniel Rubio,Essays in Formal Metaphysics,2019
+LAMATA-3,Fabio Lampert,"Actuality, Tableaux, and Two-Dimensional Modal Logics",2018
+PRIAMT-2,Giuseppe Primiero and Mariarosaria Taddeo,A Modal Type Theory for Formalizing Trusted Communications,2012
+ARTDKA,Sergei Artemov and Tudor Protopopescu,Discovering Knowability: A Semantic Analysis,2013
+MOSFMC,Lawrence S. Moss,Finite Models Constructed From Canonical Formulas,2007
+HUMZAP,Lloyd Humberstone,Zolin and Pizzi: Defining Necessity From Noncontingency,2013
+HOLCCA-10,Wesley Holliday and Matthew Mandelkern,"Compatibility, Compossibility, and Epistemic Modality",forthcoming
+RABAME,R. A. Bull,A Modal Extension of Intuitionist Logic,1965
+MEYEIN,Robert K. Meyer,Entailment is Not Strict Implication,1974
+EJETPO-2,R. E. Jennings and P. K. Schotch,The Preservation of Coherence,1984
+BRIMLI-2,Brian F. Chellas and Krister Segerberg,Modal Logics in the Vicinity of S,1996
+BEZMLO,Guram Bezhanishvili and David Gabelaia and Joel Lucero{-}Bryan,Modal Logics of Metric Spaces,2015
+GEOMLF,Konstantinos Georgatos,Modal Logics for Topological Spaces,1993
+HUGACT-3,George Edward Hughes and M. J. Cresswell,A Companion to Modal Logic,1984
+LAMPPI-3,Karel Lambert,Philosophical Problems in Logic,1970
+CORMQA-2,Fabrice Correia,"Modality, Quantification, and Many Vlach-Operators",2007
+DINLOI,Yifeng Ding and Wesley H. Holliday and Thomas F. Icard,Logics of Imprecise Comparative Probability,2021
+BROTVO-22,Matthew J. Brown and Jacob Stegenga,The Validity of the Argument From Inductive Risk,2023
+SANDDF,Weng Kin San,Disappearing Diamonds: Fitch-Like Results in Bimodal Logic,2019
+MICTEP-2,Michael Kaminski and Michael Tiomkin,The Expressive Power of Second-Order Propositional Modal Logic,1996
+JOSMAP,Josep M. Font,Modality and Possibility in Some Intuitionistic Modal Logics,1986
+BENQML,"Christoph Benzm\""{u}ller and Lawrence C. Paulson",Quantified Multimodal Logics in Simple Type Theory,2013
+MENSPA,Christopher Menzel,Singular Propositions and Modal Logic,1993
+IACCAS,Andrea Iacona,Counterfactuals as Strict Conditionals,2015
+DINTLO-2,Yifeng Ding and Matthew Harrison{-}Trainor and Wesley H. Holliday,The Logic of Comparative Cardinality,2020
+JONOAM,"Andrew J. I. Jones and Ingmar P\""{o}rn",Ought' and 'Must,1986
+WEHWTA,Kai F. Wehmeier,World Travelling and Mood Swings,2003
+GOLFDI,R. I. Goldblatt,First-Order Definability in Modal Logic,1975
+BLAML,Patrick Blackburn,Modal Logic,2001
+HOLOML,Wesley H. Holliday and Tadeusz Litak,One Modal Logic to Rule Them All?,2018
+YANEPO,Igor Yanovich,Expressive Power of ?Now? and ?Then? Operators,2015
+KUHNOS,Steven Kuhn and Brian Weatherson,Notes on Some Ideas in Lloyd Humberstone?s Philosophical Applications of Modal Logic,2018
+KOOTLI,Barteld Kooi and Allard Tamminga,Three-Valued Logics in Modal Logic,2013
+BENAHC-2,Bruno Bentzen,A Henkin-Style Completeness Proof for the Modal Logic S5,2021
+TENEOS,Balder ten Cate,Expressivity of Second Order Propositional Modal Logic,2006
+HOLOTM,Wesley H. Holliday,On the Modal Logic of Subset and Superset: Tense Logic Over Medvedev Frames,2017
+MAKAWA,David Makinson,A Warning About the Choice of Primitive Operators in Modal Logic,1973
+HOLPAA-10,Wesley H. Holliday,Partiality and Adjointness in Modal Logic,2014
+STEIA,Yannis Stephanou,Indexed Actuality,2001
+BARTDT,Ruth C. Barcan,The Deduction Theorem in a Functional Calculus of First Order Based on Strict Implication,1946
+HODOML-4,Harold T. Hodes,"One-Step Modal Logics, Intuitionistic and Classical, Part 1",2021
+GORTBA-4,Valentin Goranko,The Basic Algebra of Game Equivalences,2003
+GOLTPO-17,Robert Goldblatt and Tomasz Kowalski,The Power of a Propositional Constant,2012
+LYOFDT-2,Agata Ciabattoni and Tim Lyon and Revantha Ramanayake,From Display to Labelled Proofs for Tense Logics,2013
+GORAWC,Valentin Goranko,Axiomatizations with Context Rules of Inference in Modal Logic,1998
+LAMAPA-7,Fabio Lampert and John William Waldrop,A Puzzle About Moral Responsibility,2023
+BOROSP,Marco Borga,On Some Proof Theoretical Properties of the Modal Logic Gl,1983
+REINPA,William N. Reinhardt,Necessity Predicates and Operators,1980
+REJSRO,R. E. Jennings and P. K. Schotch,Some Remarks on (Weakly) Weak Modal Logics,1981
+PARSML,Andrew Parisi,Second-Order Modal Logic,2017
+BLKUIA-2,Marta B\'{i}lkov\'a,Uniform Interpolation and Propositional Quantifiers in Modal Logics,2007
+Yellin2016-MITSFA-2,Benjamin Mitchell{-}Yellin and Michael Nelson,S5 for Aristotelian Actualists,2016
+DINAPI,Yifeng Ding and Wesley H. Holliday,Another Problem in Possible World Semantics,2020
+BOBGSI,Susanne Bobzien,Gestalt Shifts in the Liar or Why Kt4M is the Logic of Semantic Modalities,2017
+HOLAUL,Wesley H. Holliday and Tomohiro Hoshi and Thomas F. Icard,A Uniform Logic of Information Dynamics,2012
+MNDAIO,Jos\'e M. M\'{e}ndez and Gemma Robles and Francisco Salto,An Interpretation of \L{}ukasiewicz?s 4-Valued Modal Logic,2016
+KRBAPP,"Nils K\""{u}rbis",Arthur Prior's Proofs of the Necessities of Identity and Difference,forthcoming
+LYONSF,Tim Lyon,Nested Sequents for Intuitionistic Modal Logics Via Structural Refinement,2021
+WILRTL,Timothy Williamson,Reply to Linnebo,2016
+ANTRIS,G. Aldo Antonelli and Richmond H. Thomason,Representability in Second-Order Propositional Poly-Modal Logic,2002
+VANCML,J. F. A. K. van Benthem,Canonical Modal Logics and Ultrafilter Extensions,1979
+BLASLS,Robert Blanch\'e,Sur la Structuration du Tableau des Connectifs Interpropositionnels Binaires,1957
+RUMFDO-2,Antje Rumberg and Alberto Zanardo,First-Order Definability of Transition Structures,2019
+GABMTS-2,Dov M. Gabbay,Montague Type Semantics for Modal Logics with Propositional Quantifiers,1971
+VONAEI-7,Georg Henrik von Wright,An Essay in Modal Logic,1951
+ALESCR-2,Samuel Alexander and Arthur Paul Pedersen,Strengthening Consistency Results in Modal Logic,2023
+DAVPOT,David Gabelaia and Agi Kurucz and Frank Wolter and Michael Zakharyaschev,Products of 'Transitive' Modal Logics,2005
+FITMLS,Melvin Fitting,Modal Logic Should Say More Than It Does,unknown
+BRAM-10,Ross T. Brady,Metavaluations,2017
+FRIATJ-2,Peter Fritz,Appendix to Juhani Yli-Vakkuri?s ?Epistemicism and Modality?,2016
+VANTWD-2,Frederik Van De Putte,?That Will Do?: Logics of Deontic Necessity and Sufficiency,2017
+BLAROG,Patrick Blackburn and Maarten Marx,Remarks on Gregory's ?Actually? Operator,2002
+WYAWAB-3,Nicole Wyatt,What Are Beall and Restall Pluralists About?,2004
+KLEMAT-10,Ansten Klev,Modality and the Structure of Assertion,2023
+GABNRD,David Gabelaia and Agi Kurucz and Frank Wolter and Michael Zakharyaschev,Non-Primitive Recursive Decidability of Products of Modal Logics with Expanding Domains,2006
+RUMCE,Ian Rumfitt,Contingent Existents,2003
+FITLWS,Melvin Fitting,Logics with Several Modal Operators,1969
+BOOAIS,George Boolos and Giovanni Sambin,An Incomplete System of Modal Logic,1985
+LEWSIE,C. I. Lewis,Strict Implication--An Emendation,1920
+MARSID-2,Ruth Barcan Marcus,"Strict Implication, Deducibility and the Deduction Theorem",1953
+WHEITA-2,Gregory Wheeler,Is There a Logic of Information?,2015
+WEIARF-2,Yale Weiss,A Relevant Framework for Barriers to Entailment,forthcoming
+VANANM,Johan van Benthem,"A New Modal Lindstr\""{o}m Theorem",2007
+YANFML,Yannis Stephanou,First-Order Modal Logic with an 'Actually' Operator,2005
+FREEPM,Rohan French,"Expressive Power, Mood, and Actuality",2013
+KOVSWG,Sre\'{c}ko Kova\vc,"Some Weakened G\""{o}delian Ontological Systems",2003
+SHEJLW,Ted Shear and John Quiggin,Justification Logic with Confidence,2020
+DASFTR,Gesiel B. Da Silva and F\'{a}bio Bertato,Formal Theodicy: Religious Determinism and the Logical Problem of Evil,2020
+PARMIT,William Tuthill Parry,Modalities in the Survey System of Strict Implication,1939
+EJLAEA,E. J. Lemmon,An Extension Algebra and the Modal System \$\{\texttt{\char92}rm T\}\$,1960
+TIMAAR-2,Timothy Williamson,An Alternative Rule of Disjunction in Modal Logic,1991
+LAMNDF-2,Fabio Lampert,Natural Deduction for Diagonal Operators,2017
+DEULFC-2,Harry Deutsch,Logic for Contigent Beings,1994
+ADAANO-2,Ernest W. Adams,A Note on Comparing Probabilistic and Modal Logics of Conditionals,1977
+CRETIO,M. J. Cresswell,The Interpretation of Some Lewis Systems of Modal Logic,1967
+GEOKTP,Konstantinos Georgatos,Knowledge Theoretic Properties of Topological Spaces,1994
+PARTPF,William Tuthill Parry,"The Postulates for ""Strict Implication""",1934
+XUOTB,Ming Xu,On the Basic Logic of Stit with a Single Agent,1995
+FREDMP,Rohan French,Denumerably Many Post-Complete Normal Modal Logics with Propositional Constants,2012
+WILRTF-2,Timothy Williamson,Reply to Fine,2016
+GORSFU-2,Valentin Goranko and Dimiter Vakarelov,Sahlqvist Formulas Unleashed in Polyadic Modal Languages,1998
+BALMLF,Philippe Balbiani and Valentin Goranko,"Modal Logics for Parallelism, Orthogonality, and Affine Geometries",2002
+FREPCO-2,Rohan French and Lloyd Humberstone,Partial Confirmation of a Conjecture on the Boxdot Translation in Modal Logic,2009
+MAKAGO,David Makinson,A Generalisation of the Concept of a Relational Model for Modal Logic,1970
+KRBSOA,"Nils K\""{u}rbis",Sketch of a Proof-Theoretic Semantics for Necessity,2020
+SEGDOF,Krister Segerberg,Decidability of Four Modal Logics,1968
+CREIAT,M. J. Cresswell,Incompleteness and the Barcan Formula,1995
+KRIMLW,Krister Segerberg,Modal Logics with Functional Alternative Relations,1986
+SCHASA,Paul Schweizer,A Syntactical Approach to Modality,1992
+STEANR,Steven K. Thomason,A New Representation of \$S5\$,1973
+FITAEO-2,Melvin Fitting,An Embedding of Classical Logic in S4,1970
+THOIPM,S. K. Thomason,Independent Propositional Modal Logics,1980
+WLFPQ,"Stefan W\""{o}lfl",Propositional Q-Logic,2002
+MEYSOE,Robert K. Meyer and Edwin D. Mares,Semantics of Entailment,1993
+COCLAN,Nino Cocchiarella,"Logical Atomism, Nominalism, and Modal Logic",1975
+HERMOA,Andreas Herzig and Ivan Varzinczak,Metatheory of Actions: Beyond Consistency,2007
+DEMRIM-2,Robert Demolombe and Andreas Herzig and Ivan Varzinczak,Regression in Modal Logic,2003
+KUUSPM,Antti Kuusisto,Second-Order Propositional Modal Logic and Monadic Alternation Hierarchies,2015
+COCMLA,Nino Barnabas Cocchiarella and Max A. Freund,Modal Logic: An Introduction to its Syntax and Semantics,2008
+FITMLB,Melvin Fitting,Modal Logics Between Propositional and First Order,unknown
+VANMLT,Johan van Benthem and Jan van Eijck and Vera Stebletsova,"Modal Logic, Transition Systems and Processes",unknown
+GORSFU,Valentin Goranko and Dimiter Vakarelov,Sahlqvist Formulas Unleashed in Polyadic Modal Languages,1998
+BOBDSM,Susanne Bobzien,Die Stoische Modallogik (Stoic Modal Logic),1986
+DERMLA,Louis deRosset,Modal Logic and Contingentism: A Comment on Timothy Williamsons Modal Logic as Metaphysics,2016
+MULMRO,Ruward Mulder and F. A. Muller,Modal-Logical Reconstructions of Thought Experiments,2023
+DAVHMA,David Makinson,How Meaningful Are Modal Operators?,1966
+WEHSIT,"Kai F. Wehmeier and Helge R\""{u}ckert",Still in the Mood: The Versatility of Subjunctive Markers in Modal Logic,2019
+CIAMIT,Ivano Ciardelli,Modalities in the Realm of Questions: Axiomatizing Inquisitive Epistemic Logic,2014
+CHALAG-2,Charles G. Morgan,Local and Global Operators and Many-Valued Modal Logics,1979
+FITIFF-2,Melvin Fitting,Interpolation for First Order S5,2002
+DODNMC,Adriano Dod\'o and Jo\~{a}o Marcos,"Negative Modalities, Consistency and Determinedness",2014
+THONIP,S. K. Thomason,Noncompactness in Propositional Modal Logic,1972
+NYGSSF,Karl Nygren,Supercover Semantics for Deontic Action Logic,2019
+HUMIFN,Lloyd Humberstone and Timothy Williamson,Inverses for Normal Modal Operators,1997
+BRAMLT,"Torben Bra\""{u}ner","Modal Logic, Truth, and the Master Modality",2002
+ANDIDP,Alan Ross Anderson,Improved Decision Procedures for Lewis's Calculus s4 and von Wright's Calculus M,1954
+RHIOML,R. Hirsch and I. Hodkinson and A. Kurucz,On Modal Logics Between \{\$\texttt{\char92}roman K\texttt{\char92}times\texttt{\char92}roman K\texttt{\char92}times \texttt{\char92}roman K\$\} and \{\$\{\texttt{\char92}rm s\}5\texttt{\char92}times\{\texttt{\char92}rm s\}5\texttt{\char92}times\{\texttt{\char92}rm S\}5\$\},2002
+VANANO,J. F. A. K. van Benthem,A Note on Modal Formulae and Relational Properties,1975
+JOHNOM,Johan van Benthem,Notes on Modal Definability,1988
+GLAFAO,Daniela Glavani\v{c}ov\'a and Matteo Pascucci,Formal Analysis of Responsibility Attribution in a Multimodal Framework,2019
+GLAASF,Daniela Glavani\v{c}ov\'a and Matteo Pascucci,Alternative Semantics for Normative Reasoning with an Application to Regret and Responsibility,2021
+LEOZBD,"Gl\""{u}sing Leon","Zur Bedingung der M\""{o}glichkeit von Erfahrung. Eine Modallogische Analyse (1st edition)",2024
+LINPWS,Sten Lindstro?m,Possible Worlds Semantics and the Liar: Reflections on a Problem Posed by Kaplan,2009
+AWOTAM-3,Steve Awodey,Topology and Modality: The Topological Interpretation of First-Order Modal Logic: Topology and Modality,2008
+NYGDLB,Karl Nygren,Deontic Logic Based on Inquisitive Semantics,2021
+FEROTM,David Fern\'{a}ndez Duque,On the Modal Definability of Simulability by Finite Transitive Models,2011
+TUBMLW,Adam Tamas Tuboly,Modal Logic,forthcoming
+FREITM,Rohan French,In the Mood for S4: The Expressive Power of the Subjunctive Modal Language in Weak Background Logics,2015
+CONECF,W. Conradie and V. Goranko and D. Vakarelov,"Elementary Canonical Formulae: A Survey on Syntactic, Algorithmic, and Modeltheoretic Aspects",1998
+ECOEAA,Marcelo E. Coniglio and Luis Fari\~{n}as del Cerro and Newton M. Peron,Errata and Addenda to ?Finite Non-Deterministic Semantics for Some Modal Systems?,2016
+RINRSF,Benjamin G. Rin and Sean Walsh,Realizability Semantics for Quantified Modal Logic: Generalizing Flagg?s 1985 Construction,2016
+BENMAI-2,Christoph Benzmueller and Lawrence Paulson,Multimodal and Intuitionistic Logics in Simple Type Theory,2010
+GORHAA-2,Valentin Goranko and Dimiter Vakarelov,Hyperboolean Algebras and Hyperboolean Modal Logic,1999
+HEOMIV,Chaoan He,One More Inconvenient Modal Truth,2024
+MENMOA,M. Menni and C. Smith,Modes of Adjointness,2013
+HODROA-3,Wilfrid Hodges,Remark on Al-F\={a}r\={a}b\=i's Missing Modal Logic and its Effect on Ibn S\={i}n\=a,2019
+AMAAUT,Giambattista Amati and Fiora Pirri,A Uniform Tableau Method for Intuitionistic Modal Logics I,1994
+GOLAGS-3,Robert Goldblatt and Edwin D. Mares,A General Semantics for Quantified Modal Logic,1998
+FITASP,Melvin Fitting,A Simple Propositional s5 Tableau System,1999
+Barnaba1987-FATMOW,M. Fattorosi{-}Barnaba and G. Amati,"Modal Operators with Probabilistic Interpretations, I",1987
+HOLKTA-2,Wesley Holliday,"Knowledge, Time, and Paradox: Introducing Sequential Epistemic Logic",2018
+VANANT-4,Kees van Berkel and Tim Lyon,A Neutral Temporal Deontic Stit Logic,2019
+GORPUI,Valentin Goranko,Proving Unprovability in Some Normal Modal Logics,1991
+PUNSMO,V\'{i}t Pun\v{c}och\'{a}vr,Some Modifications of Carnap?s Modal Logic,2012
+BEZMOD,Guram Bezhanishvili and Joel Lucero{-}Bryan,More on D-Logics of Subspaces of the Rational Numbers,2012
+VENTFE,Giorgio Venturi and Pedro Teixeira Yago,Tableaux for Essence and Contingency,2021
+LEWDSF,Steffen Lewitzka,Denotational Semantics for Modal Systems s3?s5 Extended by Axioms for Propositional Quantifiers and Identity,2015
+PAYNDF,Jonathan Payne,Natural Deduction for Modal Logic with a Backtracking Operator,2015
+VakkuriManuscript-YLIME,Juhani Yli{-}Vakkuri and John Hawthorne,Modal Epistemology,manuscript
+WEISKA,Yale Weiss and Romina Birman,Saul Kripke: A Portrait of the Modal Logician as a Young Man,2024
+MAKPCA-2,David Makinson and Krister Segerberg,Post Completeness and Ultrafilters,1974
+VANMRP-3,J. F. A. K. van Benthem,Modal Reduction Principles,1976
+AWOLRT,Steve Awodey and Lars Birkedal and Dana Scott,Local Realizability Toposes and a Modal Logic for Computability,2000
+BEZGTT,Guram Bezhanishvili,Glivenko Type Theorems for Intuitionistic Modal Logics,2001
+VENRG,Yde Venema,Rectangular Games,1998
+BONMLA,Giacomo Bonanno,Modal Logic and Game Theory: Two Alternative Approaches,2002
+FABARF,Fabrice Correia,Adequacy Results for Some Priorean Modal Propositional Logics,1999
+TOMSRA,Tomasz Skura,Syntactic Refutations Against Finite Models in Modal Logic,1994
+WAWAPW,Jacek Wawer,A Problem with the Fixed Past Fixed,2023
+BERTPS,Gustav Bergmann,The Philosophical Significance Modal Logic,1960
+LEORC,Joop Leo,Relational Complexes,2013
+ERAITA,Jacobus Erasmus,Is There a Problem of Creatio Ex Nihilo? A Reply to Pao-Shen Ho,2020
+PIZRCA,Claudio Pizzi,Relative Contingency and Bimodality,2013
+HOLIIL-3,Wesley H. Holliday,Inquisitive Intuitionistic Logic,2020
+LAGAAS,Henrik Lagerlund,Avicenna and \={U}s\=i on Modal Logic,2009
+FITTRT,Melvin Fitting,"The Realization Theorem for s5 a Simple, Constructive Proof",manuscript
+ARNDMI,Berislav \v{Z}arni\'c,Dynamic Models in Imperative Logic (Imperatives in Action: Changing Minds and Norms),2013
+BOBCML,Susanne Bobzien,Chrysippus' Modal Logic and its Relation to Philo and Diodorus,1993
+RIGTLO,Adam Rigoni and Richmond H. Thomason,The Logic of Counterpart Theory with Actuality,2012
+VANYMM,Jan van Eijck,Yet More Modal Logics of Preference Change and Belief Revision,manuscript
+IAQAPN-2,Samuele Iaquinto and Giuseppe Spolaore,A Philosophically Neutral Semantics for Perception Sentences,2022
+CLADL,David S. Clarke,Deductive Logic,1973
+LAMPPI-2,Karel Lambert,Philosophical Problems in Logic: Some Recent Developments,1980
+MARBCE-3,Edwin D. Mares and Koji Tanaka,Boolean Conservative Extension Results for Some Modal Relevant Logics,2011
+CORWNO,Fabrice Correia,Weak Necessity on Weak Kleene Matrices,1998
+JOHLCI,John Corcoran and George Weaver,Logical Consequence in Modal Logic,1969
+BOLCEO,Boles\l{}aw Soboci\'{n}ski,Certain Extensions of Modal System \$S4\$,1970
+JEATOS,Jean Porte,The \$\texttt{\char92}omega \$-System and the \L-System of Modal Logic,1979
+DEMACP,St\'{e}phane Demri,A Completeness Proof for a Logic with an Alternative Necessity Operator,1997
+SURCFI,Timothy J. Surendonk,Canonicity for Intensional Logics Without Iterative Axioms,1997
+GEOKOT,Konstantinos Georgatos,Knowledge on Treelike Spaces,1997
+RIGCTP,R. I. Goldblatt,Concerning the Proper Axiom for \$S4.04\$ and Some Related Systems,1973
+BONBRI,Giacomo Bonanno,Belief Revision in a Temporal Framework,2008
+REYFSF,Gonzalo E. Reyes and Marek W. Zawadowski,Formal Systems for Modal Operators on Locales,1993
+OHNASF,Masao Ohnishi and Kazuo Matsumoto,A System for Strict Implication,1964
+HANVII,William H. Hanson and James Hawthorne,Validity in Intensional Languages: A New Approach,1985
+VAKIML,Dimiter Vakarelov,Intuitionistic Modal Logics Incompatible with the Law of the Excluded Middle,1981
+SCHOCO,Renate A. Schmidt and Dmitry Tishkovsky,On Combinations of Propositional Dynamic Logic and Doxastic Modal Logics,2008
+HERMPL,L. Herman and R. Piziak,Modal Propositional Logic on an Orthomodular Basis. I,1974
+AMECTC-2,Martin Amerbauer,Cut-Free Tableau Calculi for Some Propositional Normal Modal Logics,1996
+WALTPO-31,Lee Walters,The Possibility of Unicorns and Modal Logic,2014
+WHEABR,Gregory Wheeler,Agm Belief Revision in Monotone Modal Logics,2010
+Pilarek2007-GOLTAD-2,Joanna Goli\'{n}ska{-}Pilarek and Ewa Or\l{}owska,Tableaux and Dual Tableaux: Transformation of Proofs,2007
+GOGSPM,George Goguadze and Carla Piazza and Yde Venema,Simulating Polyadic Modal Logics by Monadic Ones,2003
+GOSWBN-2,Dana Goswick,Why Being Necessary Really is Not the Same as Being Not Possibly Not,2015
+day2024-ADAPCO-5,Sam Adam{-}day and Nick Bezhanishvili and David Gabelaia and Vincenzo Marra,Polyhedral Completeness of Intermediate Logics: The Nerve Criterion,2024
+CONACA-8,Willem Conradie and Valentin Goranko and Dimitar Vakarelov,Algorithmic Correspondence and Completeness in Modal Logic. V. Recursive Extensions of Sqema,2010
+SHANAL-3,Mohammad Shafiei,"Necessity, a Leibnizian Thesis, and a Dialogical Semantics",2017
+CREABM,M. J. Cresswell,Arnoud Bayart's Modal Completeness Theorems -- Translated with an Introduction and Commentary,2015
+CARMFI,Fabrizio Cariani,Modeling Future Indeterminacy in Possibility Semantics,manuscript
+FITDMR,Melvin Fitting,Destructive Modal Resolution ?,unknown
+RAYPAI,Dwayne Raymond,Polarity and Inseparability: The Foundation of the Apodictic Portion of Aristotle's Modal Logic,2010
+HOLANO-12,Wesley H. Holliday,A Note on Algebraic Semantics for \$Mathsf\{s5\}\$ with Propositional Quantifiers,2019
+GREIMM,Dominic Gregory,"Iterated Modalities, Meaning and a Priori Knowledge",2011
+SCHELS,P. K. Schotch and R. E. Jennings,"Epistemic Logic, Skepticism, and Non-Normal Modal Logic",1981
+GABSFI,Dovm Gabbay,Selective Filtration in Modal Logic Part A. Semantic Tableaux Method,1970
+BECFTF,Bernhard Beckert and Rajeev Gor\'E,Free-Variable Tableaux for Propositional Modal Logics,2001
+PEIRTT,Charles S. Peirce,Reply to the Necessitarians,1893
+MAAFOI,Maarten Marx and Carlos Areces,Failure of Interpolation in Combined Modal Logics,1998
+THONDR,Thomas W. Satre,Natural Deduction Rules for Modal Logics,1972
+CHEMLW,Brian F. Chellas and Krister Segerberg,Modal Logics with the Macintosh Rule,1994
+VENADC,Yde Venema,A Dual Characterization of Subdirectly Irreducible Baos,2004
+CREAID,M. J. Cresswell,An Incomplete Decidable Modal Logic,1984
+MEYEAS-3,Robert K. Meyer,E and S4,1970
+DEMALW,St\'{e}phane Demri,A Logic with Relative Knowledge Operators,1999
+HUMYAC,Lloyd Humberstone,"Yet Another ""Choice of Primitives"" Warning: Normal Modal Logics",2004
+LEWANO-6,C. I. Lewis and C. H. Langford,A Note on Strict Implication (1935),2014
+RIGANE,R. I. Goldblatt,A New Extension of \$S4\$,1973
+Pilarek2009-GOLRAF,Joanna Golinska{-}Pilarek and Emilio Munoz Velasco,"Relational Approach for a Logic for Order of Magnitude Qualitative Reasoning with Negligibility, Non-Closeness and Distance",2009
+BLOAAO,W. J. Blok,An Axiomatization of the Modal Theory of the Veiled Recession Frame,1979
+DIRELF,Dirk Pattinson,Expressive Logics for Coalgebras Via Terminal Sequence Induction,2004
+FITSRI,Melvin Fitting,Subformula Results in Some Propositional Modal Logics,1978
+FRIPCI,Peter Fritz,Post Completeness in Congruential Modal Logics,2016
+HOLELR,Wesley H. Holliday,"Epistemic Logic, Relevant Alternatives, and the Dynamics of Context",2012
+SHAAPF,Michael J. Shaffer and Jeremy Morris,A Paradox for Possible World Semantics,2006
+YamiManuscript-BENTAP-8,Hanoch Ben{-}Yami,Truth and Proof Without Models: A Development and Justification of the Truth-Valuational Approach (2nd edition),manuscript
+KOODTL,Barteld Kooi,Dynamic Term-Modal Logic,2008
+Vakkuri2017-YLIWOM-2,Juhani Yli{-}Vakkuri and Mark McCullagh,Williamson on Modality,2017
+ALLALA-2,Patrick Allo,Adaptive Logic as a Modal Logic,2013
+ERKLAA,Ekin Erkan,Life and Actuality: On Placing Possibility in Hegel's Modal Metaphysics,2021
+SALMLK-3,Nathan Salmon,Modal Logic Kalish-and-Montague Style,2005
+CONISE,Willem Conradie and Valentin Goranko,Algorithmic Correspondence and Completeness in Modal Logic. Iv. Semantic Extensions of Sqema,2008
+BOONMD-2,Richard Jefferson Booth,"Necessity Modals, Disjunctions, and Collectivity",2022
+LAMTLO-11,Fabio Lampert,The Logic of Sequence Frames,2022
+JAKTPW,David Jakobsen and Peter \O{}hrstr\o{}m,The Prior-von Wright Debate on Anselm's Argument for the Existence of God,2017
+MAROMA-4,Genoveva Mart\'i,On Modality and Reference: Ruth Barcan Marcus (1921-2012),2012
+ALEAGM,Natasha Alechina and Dmitry Shkatov,A General Method for Proving Decidability of Intuitionistic Modal Logics,2006
+HUMMCC,Lloyd Humberstone,Minimally Congruential Contexts: Observations and Questions on Embedding e in K,2012
+JANSIR,Tomi Janhunen,Some (in)Translatability Results for Normal Logic Programs and Propositional Theories,2006
+JOHPSF-2,Eric Johannesson,Partial Semantics for Quantified Modal Logic,2018
+PASHMF,Matteo Pascucci and Igor Sedl\'{a}r,Hyperintensional Models for Non-Congruential Modal Logics,forthcoming
+ROYDCF-2,Olivier Roy and Ole Thomassen Hjortland,Dynamic Consequence for Soft Information,forthcoming
+FITTTF,Jesse Fitts and David Beisecker,"Two-Sided Trees for Sentential Logic, Predicate Logic, and Sentential Modal Logic",2019
+LYOARW,Tim Lyon and Luc\'{i}a G\'{o}mez \'{A}lvarez,Automating Reasoning with Standpoint Logic Via Nested Sequents,2018
+DORCEA-2,Cian Dorr,Contingent Existence and Iterated Modality,2017
+SCHIAH-2,"Julian J. Schl\""{o}der",Identity and Harmony and Modality,2023
+RABMG,Brian Rabern,Might Generics,2020
+HAYTTO,Reina Hayaki,The Transience of Possibility,2005
+LYOAFF,Tim Lyon,A Framework for Intuitionistic Grammar Logics,2006
+CONECF-2,W. Conradie and V. Goranko and D. Vakarelov,"Elementary Canonical Formulae: A Survey on Syntactic, Algorithmic, and Modeltheoretic Aspects",1998
+LISLCC-2,L. Lismont and P. Mongin,La Connaissance Commune: Une S\'{e}mantique Pour la Logique Modale,1993
+GOTPSF,Esther Ramharter and Christian Gottschall,Peirce's Search for a Graphical Modal Logic (Propositional Part),2011
+CANDTD,Domenico Cantone and Marianna Nicolosi Asmundo and Ewa Orlowska,Dual Tableau-Based Decision Procedures for Relational Logics with Restricted Composition Operator,2011
+KHUAML,David Elohim,"A Modal Logic and Hyperintensional Semantics for G\""{o}delian Intuition",manuscript
+SCHELE-2,Fabien Schang,Espace Logique Et Modalit\'{e}s Chez Wittgenstein,2014
+QVIRCS,Lennart \A{A}qvist,Results Concerning Some Modal Systems That Contain S,1964
+GABAPM,Dov M. Gabbay and Nicola Olivetti,Algorithmic Proof Methods and Cut Elimination for Implicational Logics Part I: Modal Implication,1998
+COCLAA,Nino B. Cocchiarella,Logical Atomism and Modal Logic,1974
+Jones1934-EDUISI,Austin e. Duncan{-}Jones and Alonso Church,Is Strict Implication the Same as Entailment,1934
+UCKASS-2,Sara L. Uckelman and Spencer Johnston,A Simple Semantics for Aristotelian Apodeictic Syllogistics,1998
+HENCEO,Herbert E. Hendry and M. L. Pokriefka,Carnapian Extensions of S,1985
+ANDCTA,Alan Ross Anderson,Correction to a Paper on Modal Logic,1955
+WIEMLA,Norbert Wiener,Mr. Lewis and Implication,1916
+CORWNO-2,Fabrice Correia,Weak Necessity on Weak Kleene Matrices,1998
+MCDNOT,Agnes Charlene Senape McDermott,Notes on the Assertoric and Modal Propositional Logic of the Pseudo-Scotus,1972
+POLLVI,John L. Pollock,Logical Validity in Modal Logic,1967
+ROUEOM,R. Routley,Extensions of Makinson's Completeness Theorems in Modal Logic,1970
+HALAQC,"S\""{o}ren Halld\'{e}n","A Question Concerning a Logical Calculus Related to Lewis' System of Strict Implication, Which is of Special Interest for the Study of Entailment",1948
+UCKASS-3,Sara L. Uckelman and Spencer Johnston,A Simple Semantics for Aristotelian Apodeictic Syllogistics,1998
+BREOGB,Aldo Bressan,On Gupta's Book the Logic of Common Nouns,1993
+MIRAAW,Adrian Miroiu,Actuality and World-Indexed Sentences,1999
+PARHGO,Matthew Parker,"How G\""{o}delian Ontological Arguments Fail",manuscript
+HEWWBT-2,Simon Hewitt,We Belong Together? A Plea for Modesty in Modal Plural Logic,manuscript
+NYGFCI,Karl Nygren,Free Choice in Modal Inquisitive Logic,2023
+PASALA,Kees van Berkel and Timothy Lyon and Matteo Pascucci,A Logical Analysis of Instrumentality Judgments: Means-End Relations in the Context of Experience and Expectations,2023
+FRIAOP-2,Peter Fritz,Axiomatizability of Propositionally Quantified Modal Logics on Relational Frames,2024
+WHELFL-2,Gregory Wheeler,Logic for Lunatics,manuscript
+WOLAIM,F. Wolter and H. Wansing and M. de Rijke and M. Zakharyaschev,"Advances in Modal Logic, Volume",unknown
+VANADM-8,Kees van Berkel and Tim Lyon and Francesco Olivieri,"A Decidable Multi-Agent Logic for Reasoning About Actions, Instruments, and Norms",1996
+ATKOAS,Thomas Atkinson and Daniel J. Hill and Stephen K. McLeod,'On a Supposed Puzzle Concerning Modality and Existence',2019
+TRYACP-2,Robert Trypuz,A Completeness Proof of Kiczuk?s Logic of Physical Change,2010
+SPIHIA-4,Nicola Spinelli,Husserlian Intentionality and Contingent Universals,2017
+PASARO,Matteo Pascucci,Anderson?s Restriction of Deontic Modalities to Contingent Propositions,2017
+LYOCCA-3,Tim Lyon and Kees van Berkel,Cut-Free Calculi and Relational Semantics for Temporal Stit Logics,2019
+GOTSCA,Thomas \A{A}gotnes and Valentin Goranko and Wojciech Jamroga,Strategic Commitment and Release in Logics for Multi-Agent Systems,manuscript
+SHAPAT-4,Michael J. Shaffer,Probability and Tempered Modal Eliminativism,2004
+ECOMLS,Marcelo E. Coniglio and Leonardo Prieto{-}Sanabria,Modal Logic s4 as a Paraconsistent Logic with a Topological Semantics,2017
+REBIVE,Manuel Rebuschi,Implicit Versus Explicit Knowledge in Dialogical Logic,2009
+LYCFND,Hans Lycke,Fitch-Style Natural Deduction for Modal Paralogics,2009
+GORMLA-3,Valentin Goranko and Dimiter Vakarelov,Modal Logic and Universal Algebra I: Modal Axiomatizations of Structures,1998
+DAMAED,Gregor Damschen,"Autologos. Ein Dialog \""{U}ber Die Fundamentallogik",2015
+NEEMTI,Paul Needham,Making Theorem-Proving in Modal Logic Easy,2009
+DAMATU,Gregor Damschen,Are There Ultimately Founded Propositions?,2010
+EYISWE,Til Eyinck,Should We Embrace Impossible Worlds Due to the Flaws of Normal Modal Logic?,2024
+SEDAFF,Igor Sedl\'{a}r,Action Frames for Weak Relevant Logics,2015
+MORMAA-6,Thomas Mormann,Mckinsey Algebras and Topological Models of S4.1,manuscript
+WILRTF-3,Timothy Williamson,Reply to Fritz,2016
+IACMP-2,Andrea Iacona,Modal Predicates,2004
+BERNWA,Francesco Berto,Non-Normal Worlds and Representation,2011
+SALMLK-2,Nathan Salmon,Modal Logic Kalish-and-Montague Style,2005
+MORMVA,Vittorio Morato,Modal Validity and the Dispensability of the Actuality Operator,2014
+EVACL,Richard Evans,Cathoristic Logic,manuscript
+JOHTMO-53,Spencer Johnston,The Modal Octagon and John Buridan's Modal Ontology,2016
+GORODP,Valentin Goranko and Steen Vester,Optimal Decision Procedures for Satisfiability in Fragments of Alternating-Time Temporal Logics,2014
+SHACPA,Mark Sharlow,Chemical Possibility and Modal Semantics,2007
+WILTFB,Timothy Williamson,Themes From Barcan Marcus,2015
+GORMLA-2,Valentin Goranko and Dimiter Vakarelov,Modal Logic and Universal Algebra I: Modal Axiomatizations of Structures,1998
+GORTML,Valentin Goranko and Bruce Kapron,The Modal Logic of the Countable Random Frame,2003
+KULTUO-2,Piotr Kulicki,The Use of Axiomatic Rejection,2000
+RIJTML,Maarten De Rijke,The Modal Logic of Inequality,1992
+LINPOM-5,\O Linnebo,Putnam on Mathematics as Modal Logic,2018
+STENAN-3,Johannes Stern,Necessities and Necessary Truths. Proof-Theoretically,2015
+GEOUKU,Konstantinos Georgatos,Updating Knowledge Using Subsets,2011
+WEINFF,Yale Weiss,New(Ish) Foundations for Theories of Entailment,2024
+SCHPAU-7,Jon Alan Schmidt,Peirce and \L{}ukasiewicz on Modal and Multi-Valued Logics,2022
+DUIAIR,Hein Duijf and Allard Tamminga and Frederik Van De Putte,An Impossibility Result on Methodological Individualism,2021
+DZITUI,Wojciech Dzik,Transparent Unifiers in Modal Logics with Self-Conjugate Operators,2006
+GOLRDT,David Bresolin and Joanna Golinska{-}Pilarek and Ewa Orlowska,Relational Dual Tableaux for Interval Temporal Logics,2006
+BURRAT-8,Alfredo Burrieza and Manuel Ojeda{-}Aciego and Ewa Or\l{}owska,Relational Approach to Order-of-Magnitude Reasoning,2006
+Smith2022-ELDISO-3,Peter Eldridge{-}Smith,In Search of Modal Hypodoxes Using Paradox Hypodox Duality,2022
+HOLCAA-11,Wesley Holliday,Compatibility and Accessibility: Lattice Representations for Semantics of Non-Classical and Modal Logics,2022
+VARKME,Achille C. Varzi,Kripke: Modalit\`a e Verit\`a,2010
+WYADDS,Nicole Wyatt,Did Duns Scotus Invent Possible Worlds Semantics?,2000
+PATAML-2,Richard Patterson,Aristotle's Modal Logic: Essence and Entailment in the Organon,1995
+FARSSO,Domingos Faria,S\~{a}o S\'{o}lidos Os Argumentos de Quine Contra a Modalidade de Re?,2013
+BOBHVA-3,Susanne Bobzien,Higher-Order Vagueness and Numbers of Distinct Modalities,2014
+Yami2014-BENWR-3,Hanoch Ben{-}Yami,Why Rigidity?,2014
+MAKNFI,David Makinson,Non-Equivalent Formulae in One Variable in a Strong Omnitemporal Modal Logic,1981
+PEZIAL-2,Andr\'{e}s P\'{a}ez,"Introducci\'{o}n a la L\'{o}gica Moderna, 2a Edici\'{o}n",2010
+LEWECA,C. I. Lewis,Emch's Calculus and Strict Implication,1936
+RADIPN,Slavian Radev,Infinitary Propositional Normal Modal Logic,1987
+ORLDLW,Ewa Orlowska,Dynamic Logic with Program Specifications and its Relational Proof System,1993
+HOLMPI-3,Wesley H. Holliday and Thomas F. Icard Iii,Moorean Phenomena in Epistemic Logic,1998
+ULRSII,Dolph Ulrich,Strict Implication in a Sequence of Extensions of S4,1981
+BENASI,Roy A. Benton,A Simple Incomplete Extension of T Which is the Union of Two Complete Modal Logics with F.M.P,2002
+CROTML,Charles B. Cross,The Modal Logic of Discrepancy,1997
+ULRSII-2,Dolph Ulrich,Strict Implication in a Sequence of Extensions of S4,1981
+BARTCO-8,Barry Coburn and David Miller,Two Comments on Lemmon's Beginning Logic,1977
+MARTMM,Marilyn Milberger,The Minimal Modal Logic: A Cautionary Tale About Primitives and Definitions,1978
+DEMUAN,St\'{e}phane Demri,Uniform and Non Uniform Strategies for Tableaux Calculi for Modal Logics,1995
+MELAML,Melvin Fitting,A Modal Logic \$\texttt{\char92}varepsilon\$-Calculus,1975
+HUNIPR,Edward V. Huntington,Independent Postulates Related to C. I. Lewis's Theory of Strict Implication,1934
+CORPSI,Fabrice Correia,"Priorean Strict Implication, Q and Related Systems",2001
+ROWPAV,Darrell Patrick Rowbottom,Permissibility and Violable Rules,2008
+MIRPPL,Seyed Ahmad Mirsanei and Lotfollah Nabavi,Propositional Provability Logics,2022
+WEISKO,Yale Weiss and Romina Birman,Saul Kripke on Modal Logic,2024
+FRIMAM-2,Peter Fritz,Matrices and Modalities: On the Logic of Two-Dimensional Semantics,manuscript
+MARALS-2,Edwin Mares,A Lewisian Semantics for S2,2013
+HOLWDI-2,Wesley H. Holliday and Yifeng Ding and Cedegao Zhang,When Do Introspection Axioms Matter for Multi-Agent Epistemic Reasoning?,2019
+FREAOC-4,Rohan French and Lloyd Humberstone,An Observation Concerning Porte's Rule in Modal Logic,2015
+FREASE,Rohan French,A Simplified Embedding of e Into Monomodal K,2009
+KRISAO-7,Saul A. Kripke and R. Routley and H. Montgomery,Semantical Analysis of Modal Logic Ii. Non-Normal Modal Propositional Calculi.The Inadequacy of Kripke's Semantical Analysis of D2 and D3,1970
+WHELFL,Gregory Wheeler,Logic for Lunatics,
+MARMLI,Ruth Bar Can Marcus,Modal Logics I: Modalities and Intensional Languages',forthcoming
+STEHMN,Jordan Stein,How Many Notions of Necessity?,2013
+HUMIIO,Lloyd Humberstone,Inverse Images of Box Formulas in Modal Logic,2013
+GIFATM,Christopher S. Gifford,Against the Modal Argument,2013
+JUMLC,Fengkui Ju and Karl Nygren and Tianwen Xu,Modeling Legal Conflict Resolution Based on Dynamic Logic,2021
+PAYROI,Gillman Payette,Ramifications of Imposing Uniform Responsibility on Collective Action,2018
+BEKAIM,Lev Dmitrievich Beklemishev and Valentin Goranko and Valentin Shehtman,Advances in Modal Logic 8,2010
+GORF-2,Valentin Goranko and Wojciech Jamroga,Foreword to Special Issue on Logics for Multi-Agent Systems,2011
+URBSMA,Rafal Urbaniak and Agnieszka Rostalska,Swinburne?s Modal Argument for the Existence of a Soul: Formalization and Criticism,2009
+FITARI,Branden Fitelson,Automated Reasoning in Modal Logics: A Framework with Applications,manuscript
+LUNBPA,Laureano Luna,Blum?s Puzzle and the Analiticity of Kripkean Identity Statements,2019
+STETTO-25,Jordan Stein,Tharp?s Theorems of Metaphysics and the Notion of Necessary Truth,2017
+SCHPDM-10,Fabien Schang,Philosophie des Modalit\'{e}s \'{E}pist\'{e}miques (la Logique Assertorique Revisit\'{e}e),2007
+SCHMMO-6,Fabien Schang,Maccoll?s Modes of Modalities,2011
+Pilarek2012-GOLRDT-2,Joanna Goli\'{n}ska{-}Pilarek and Emilio Munoz{-}Velasco and Angel Mora,Relational Dual Tableau Decision Procedure for Modal Logic K,2012
+LUPALC-2,Tracy Lupher,A Logical Choice,2012
+Pilarek2012-GOLRDT-5,Joanna Goli\'{n}ska{-}Pilarek and Emilio Mu\~{n}oz{-}Velasco and Angel Mora{-}Bonilla,Relational Dual Tableau Decision Procedure for Modal Logic K,2012
+PIESIO,Andrzej Pietruszczak,Semantical Investigations on Some Weak Modal Logics. Part Ii,2012
+Pilarek2012-GOLRWQ,Joanna Golinska{-}Pilarek and Emilio Munoz Velasco,Reasoning with Qualitative Velocity: Towards a Hybrid Approach,2012
+MEARCS,Toby Meadows,Revising Carnap?s Semantic Conception of Modality,2012
+MAREIT-7,Edwin Mares,Editor's Introduction to C.I. Lewis and C.H. Langford 'a Note on Strict Implication',2014
+GOLAGS-2,Robert Goldblatt and Edwin D. Mares,A General Semantic for Quantified Modal Logic,1998
+MAKMHL,David Makinson,"M. H. L\""{o}b. Extensional Interpretations of Modal Logics. The Journal of Symbolic Logic, Vol. 31 , Pp. 23?45",1971
+MAKGJM,David Makinson,"Gerald J. Massey. Four Simple Systems of Modal Propositional Logic. Philosophy of Science, Vol. 32 , Pp. 342?355",1972
+MAKIHW,David Makinson,"Ian Hacking. What is Strict Implication?The Journal of Symbolic Logic, Vol. 28 No. 1 , Pp. 51?71",1972
+PAYNIA,Gillman Payette,Normative (in)Consistency: An Xstit Account,2018
+MAKCFK,David Makinson,"Charles F. Kielkopf. Kripke's Axiomatization of S2. Notre Dame Journal of Formal Logic, Vol. 13 , Pp. 379?380",1973
+MAKANM-2,David Makinson,A Normal Modal Calculus Between T and s4 Without the Finite Model Property,1971
+PAYRRA,Gillman Payette,Reflecting Rules: A Note on Generalizing the Deduction Theorem,2015
+ZAFTML,Francesca Zaffora Blando and Krzysztof Mierzewski and Carlos Areces,The Modal Logics of the Poison Game,2020
+GOLMAM-7,Robert Goldblatt,Maps and Monads for Modal Frames,2006
+PACNOM,Eric Pacuit,Notes on Modal Logic,manuscript
+PASPQI,Matteo Pascucci,Propositional Quantifiers in Labelled Natural Deduction for Normal Modal Logic,2019
+MAUFAP,Mauro Gattari,Finite and Physical Modalities,2005
+WHICMA-2,Graham White,"Causality, Modality, and Explanation",2008
+GNGAMS,G. N. Georgacarakos,A Modal System Properly Independent of Both the Brouwerian System and \$S4\$,1978
+ZAKAIM,Michael Zakharyaschev and Krister Segerberg and Maarten de Rijke and Heinrich Wansing,"Advances in Modal Logic, Volume 2: Papers From the Second Aiml Conference, Held at the University of Uppsala, Sweden, October 1998",2001
+GORAIM,Rajeev Gore,"Advances in Modal Logic, Volume",manuscript
+MAROBU,G. Martin,"Oskar Beckers Untersuchungen \""{U}ber den Modalkalk\""{u}l",1969
+SCHTHN,H. Arnold Schmidt,"T\""{o}rnebohm H\a{a}kan. Notes on Modal Operators. Theoria , Vol. 24 , Pp. 130?135",1960
+DEVIIM,David DeVidi and Graham Solomon,$\Box$ in Intuitionistic Modal Logic1,1997
+HOLAUL-3,Wesley H. Holliday and Tomohiro Hoshi and Thomas F. Icard Iii,A Uniform Logic of Information Dynamics,1998
+NEGAPA,Sara Negri and Edi Pavlovi\'c,A Proof-Theoretic Approach to Formal Epistemology,2024
+YINDOO,Hongkai Yin and Matteo Pascucci,Decidability of Ordered Fragments of Fol Via Modal Translation,2024
+TURMIB,Giacomo Turbanti,Modality in Brandom's Incompatibility Semantics,2011
+FRACMT,Franz Baader and Silvio Ghilardi,Connecting Many-Sorted Theories,2007
+BAYLCI,Charles A. Baylis,Lewis C. I.. Emch's Calculus and Strict Implication,1937
+SHICNF,Shigeo \={O}hama,Conjunctive Normal Forms and Weak Modal Logics Without the Axiom of Necessity,1984
+REHMFO,Wulf Rehder,Modal Foundations of Probability Theory,1981
+KUSAOM,Hirohiko Kushida,Applicability of Motohashi's Method to Modal Logics,2005
+UCKRAO,Sara Uckelman,Reasoning About Obligations in Obligationes: A Formal Approach,2014
+FITNOL-3,Frederic B. Fitch,Note on Leo Abraham?s ?Transformations? of Strict Implication,1933
+HUMWTE-2,Lloyd Humberstone,Weaker-to-Stronger Translational Embeddings in Modal Logic,1998
+MCKLTI,Matthew McKeon,Logical Truth in Modal Logic,1996
+CARTIO-77,Colin R. Caret,The Interpretation of Partitioned Frame Semantics,2009
+JOHFCS-3,Ingvar Johansson,Formalizing Common Sense: An Operator-Based Approach to the Tibbles?Tib Problem,2008
+BENMDI,Johan van Benthem and Giovanna D'Agostino and Angelo Montanari and Alberto Policriti,Modal Deduction in Second-Order Logic and Set Theory: Ii,1998
+HENTAM-2,Vincent F. Hendricks,The Agency: Methods of Logic in General Philosophy of Science,manuscript
+TAKSPI,Mitio Takano,Subformula Property in Many-Valued Modal Logics,1994
+Pilarek2011-GOLAND-2,Joanna Golinska{-}Pilarek and Emilio Munoz Velasco and Angel Mora,A New Deduction System for Deciding Validity in Modal Logic K,2011
+HALYNO,"S\""{o}ren Halld\'{e}n","Yonemitsu Naoto. On Systems of Strict Implication. T\^{o}hoku Mathematical Journal, Ser. 2 Vol. 3 , Pp. 48?58",1951
+GIAECF,Giuseppe Giacomo,Eliminating ?Converse? From Converse Pdl,1996
+KOVLOL,Sre\'{c}ko Kova\vc,Logi\v{c}ko-Filozofijski Ogledi [Logical-Philosophical Essays],2005
+RJBOSM,R. J. Baxter,On Some Models of Modal Logics,1973
+BRODRA,Baruch A. Brody,De Re and de Dicto Interpretations of Modal Logic or a Return to an Aristotelean Essentialism,1972
+LAWCAM-2,Wies law Dziobiak,Classically Axiomatizable Modal Propositional Calculi Containing the System T of Feys?von Wright,1976
+ISHTCO,Arata Ishimoto and Yoshimi Fujikawa,The Construction of Bi-Modal Systems,1969
+VREASO,P. G. J. Vredenduin,A System of Strict Implication,1939
+SOBAND-2,Howard J. Sobel,A Natural Deduction System for Sentential Modal Logic,1979
+CORJPM,Raul Corazzon,"Jerzy Perzanowski: Modal Logics, Ontology and Ontologics",unknown
+SANGOI,Gabriel Sandu,Games of Imperfect Information and and Modal Logic,manuscript
+PFSAEI,P. F. Strawson,"An Essay in Modal Logic. By Georg H. Von Wright. (North Holland Publishing Company, Amsterdam. Pp. 90. Price 15S.)",1953
+VELOFA,Paulo A. S. Veloso and Renata P. de Freitas and Petrucio Viana and Mario Benevides and Sheila R. M. Veloso,On Fork Arrow Logic and its Expressive Power,2007
+JONNPA-2,Andrew J. I. Jones and Xavier Parent,Normative-Informational Positions: A Modal-Logical Approach,2008
+RANJM,Veikko Rantala and Ari Virtanen,Johdatus Modaalilogiikkaan,2004
+THOMOA,S. K. Thomason,"Modal Operators and Functional Completeness, Ii",1977
+Pilarek2012-GOLODO,Joanna Golinska{-}Pilarek,On Decidability of a Logic for Order of Magnitude Qualitative Reasoning with Bidirectional Negligibility,2012
+PAPSIE,Arthur Pap,"Strict Implication, Entailment, and Modal Iteration",1955
+BENANM,Ermanno Bencivenga and Peter W. Woodruff,A New Modal Language with the \ensuremath{\Lambda} Operator,1981
+STOFMD,Matthew Stone,First-Order Multi-Modal Deduction,manuscript
+ROSSMA-7,Agnieszka Rostalska and Rafal Urbaniak,Swinburne?s Modal Argument for the Existence of a Soul,2009
+APTNPO,Krzysztof R. Apt and Robert Van Rooij,New Perspectives on Games and Interactions,2008
+POLBML,John L. Pollock,Basic Modal Logic,1967
+BIMEMA,Katalin Bimbo and J. Michael Dunn,"Entailment, Mingle and Binary Accessibility",2024
+IEMML,Rosalie Iemhoff,Modal Logic,manuscript
+SHOCAS-2,J. M. Shorter,Contradictories and Strict Implication,1956
+GALKFP,Daniel Gallin,"Kit Fine. Propositional Quantifiers in Modal Logic. Theoria, Vol. 36 , Pp. 336?346",1973
+FITP-5,Melvin Fitting and Konstantinos Georgatos and R. Ramanujam,Preface,1999
+BENOCB,Dorit Ben Shalom,One Connection Between Standard Invariance Conditions on Modal Formulas and Generalized Quantifiers,2003
+Pilarek2009-GOLDTF,Joanna Goli\'{n}ska{-}Pilarek and Emilio Munoz{-}Velasco,Dual Tableau for a Multimodal Logic for Order of Magnitude Qualitative Reasoning with Bidirectional Negligibility,2009
+ORLDTF,Ewa Orlowska and Joanna Golinska{-}Pilarek,"Dual Tableaux: Foundations, Methodology, Case Studies",2011
+AWOMOA,Steve Awodey and Jess Hughes,Modal Operators and the Formal Dual of Birkhoff's Completeness Theorem,2002
+ZEMTSO,J. Jay Zeman,The Semisubstitutivity of Strict Implication,1968
+PASAUS,Matteo Pascucci,A Unified Semantics for a Family of Modal Logics with Propositional Constants,2016
+MASBCF,Gerald J. Massey,Binary Connectives Functionally Complete by Themselves in s5 Modal Logic,1967
+CHURAS-4,Alonzo Church,"Rose Alan. Self-Dual Primitives for Modal Logic. Mathematische Annalen, Vol. 125 , Pp. 284?286",1953
+ZACBAD,Richard Zach,Boxes and Diamonds: An Open Introduction to Modal Logic,2019
+BRODTE-3,Jan Broersen and Rosja Mastop and John{-}Jules Meyer and Paolo Turrini,Determining the Environment: A Modal Logic for Closed Interaction,2009
+VANCOM,Jan van Eijck,Comments on 'Modal Fixed Point Logic and Changing Models',manuscript
+LBEIO-2,"M. H. L\""{o}b",Extensional Interpretations of Modal Logics,1966
+ISSLLE,S. Issman,L'implication Logique Et la D\'{e}duction Naturelle,1968
+SOBEMS,Boles\l{}aw Soboci\'{n}ski,Erratum: ??Modal System \$\{Rm s\}3\$ and the Proper Axioms of \$\{Rm S\}4.02\$ and \$\{Rm S\}4.04\$'',1974
+BEZLNA,Guram Bezhanishvili and Wesley Holliday,"Locales, Nuclei, and Dragalin Frames",2016
+NAKARO,A. Nakamura,A Remark on the Truth-Value Stipulation for the Modal System M?,1967
+BORIGC,Andrea Borghini,Il Genio Compreso: La Filosofia di Saul Kripke,2010
+BASGAT-7,Andrew Dennis Bassford,God and the Problem of Logic,2023
+VELOFA-2,Paulo A. S. Veloso and Renata P. De Freitas and Petrucio Viana and Mario Benevides and Sheila R. M. Veloso,On Fork Arrow Logic and its Expressive Power,2007
+HODABC,Ian Hodkinson and Hicham Tahiri,A Bisimulation Characterization Theorem for Hybrid Logic with the Current-State Binder,2010
+RUTDOM,A. N. Rutskiy,"Decidability of Modal Logics s4$\oplus$ ?n, s4$\oplus$ \ensuremath{\Xi}n Wrt Admissible Inference Rules",2001
+CLANDB,Claudio Cerrato,Natural Deduction Based Upon Strict Implication for Normal Modal Logics,1994
+Pilarek2008-GOLAAO-4,Joanna Golinska{-}Pilarek and Angel Mora and Emilio Munoz Velasco,"An Atp of a Relational Proof System for Order of Magnitude Reasoning with Negligibility, Non-Closeness and Distance",2008
+ROSSPF,Alan Rose,Self-Dual Primitives for Modal Logic,1953
+HOLMPI-4,Wesley H. Holliday and Thomas F. Icard Iii,Moorean Phenomena in Epistemic Logic,1998
+OHSTCO,Hidesuke Ohsawa,The Construction of a Bi-Modal Propositional Logic s2-s2 and its Decision Method,1978
+ZALBCI,Edward N. Zalta,Basic Concepts in Modal Logic,manuscript
+MARPIA-5,David B. Martens,Propositional Identity and Logical Necessity,2004
+BULTSK,R. A. Bull,Thomason S. K.. Noncompactness in Propositional Modal Logic,1983
+FRIIAL-2,Marcello Frixione and Samuele Iaquinto and Massimiliano Vignolo,Introduzione Alle Logiche Modali,2016
+HALANC-2,"S\""{o}ren Halld\'{e}n",A Note Concerning the Paradoxes of Strict Implication and Lewis's System S,1948
+RIJASO,Maarten Rijkdee,A System of Dynamic Modal Logic,1998
+NICMEO,Nicholas Rescher and Ruth Manor,Modal Elaborations of Propositional Logics,1972
+MARDAS,Norman M. Martin,Deduction and Strict Implication,1960
+SMIMAT-16,Richard Smith,Montage and Tableau in King Vidor's Stella Dallas,2014
+SANANS-5,Gon\c{c}alo Santos,A Not so Fine Modal Version of Generality Relativism,2010
+PETLAC,Peter Loptson,Logic and Contingent Existence,1980
+DEMOML,St\'{e}phane Demri and Dov Gabbay,On Modal Logics Characterized by Models with Relative Accessibility Relations: Part I,2000
+CATASO,Charles E. Caton,A Stipulation of Logical Truth in a Modal Propositional Calculus,1962
+SEVDOI,Merlijn Sevenster,Decidability of Independence-Friendly Modal Logic,2010
+KROMCA-2,Moshe Kroy,Moral Competence: An Application of Modal Logic to Rationalistic Psychology,1975
+FITCTT,Frederic B. Fitch,Corrections to Two Papers on Modal Logic,1948
+DOLRRS,Dolph Ulrich,\$\{\texttt{\char92}rm Rmlc\}\$: Solution to a Problem Left Open by Lemmon,1981
+HARDMA-9,Ronald Harrop,"David Makinson. A Normal Modal Calculus Between T and s4 Without the Finite Model Property. The Journal of Symbolic Logic, Vol. 34 , Pp. 35?38",1971
+ROBOSM,Robert L. Wilson,On Some Modal Logics Related to the \L -Modal System,1976
+NYGNAA,Karl Nygren,Norms and Alternatives : Logical Aspects of Normative Reasoning,2022
+Pilarek2016-GOLTRT-4,Joanna Goli\'{n}ska{-}Pilarek and Emilio Mu\~{n}oz{-}Velasco and Angel Mora,Tableau Reductions: Towards an Optimal Decision Procedure for the Modal Necessity,2016
+MARGRS,Mark A. Brown,Generalized \$\{\texttt{\char92}rm s\}2\$-Like Systems of Propositional Modal Logic,1982
+BRORAC-7,Jan Broersen,Relativized Action Complement for Dynamic Logics,1998
+MELATP-2,Melvin Fitting,A Tableau Proof Method Admitting the Empty Domain,1971
+GAVA-3,Marc{-}Antoine Gavray,\S 16 Aristote. Tableau R\'{e}capitulatif des Occurrences. Observations,2008
+NAKARO-3,A. Nakamura,A Remark on the Truth-Value Stipulation for the Modal System M?,1967
+VAKRPM,D. Vakarelov,Rough Polyadic Modal Logics,1991
+IACNEI,Andrea Iacona,Not Everything is Possible,2007
+LIALL,Xiaowu Li and Xiangyang Guo,A Logic Lu for Understanding,2010
+RYBLOS,Vladimir V. Rybakov,Logics of Schemes for First-Order Theories and Poly-Modal Propositional Logic,1997
+BADALT-4,Guillermo Badia and Grigory Olkhovikov,"A Lindstr\""{o}m Theorem in Many-Valued Modal Logic Over a Finite Mtl-Chain",forthcoming
+DELMTF,Luis Fari\~{n}as del Cerro and Olivier Gasquet,Modal Tableaux for Reasoning About Diagrams,2006
+MCDTAA-4,Agnes Charlene Senape Mcdermott,The Assertoric and Modal Propositional Logic of the Pseudo-Scotus,1964
+STUMHC,Holger Sturm,Modal Horn Classes,2000
+FITACA,Frederic B. Fitch,A Complete and Consistent Modal Set Theory,1967
+OLIAIM,Nicola Olivetti and Rineke Verbrugge,"Advances in Modal Logic, Vol. 13",2020
+ZDZANV,Zdzis\l{}aw Dywan,"A New Variant of the G\""{o}del-Mal'cev Theorem for the Classical Propositional Calculus and Correction to My Paper: ""The Connective of Necessity of Modal Logic \$\{\texttt{\char92}rm s\}\_5\$ is Metalogical""",1986
+CZEDMA,J. Czermak,Distinct Modalities Are Not Equivalent in T,1976
+VANSWA,Jan van Eijck,Specification with Alloy -- Foundations,manuscript
+SEDLYE,Igor Sedl\'{a}r,Logica Yearbook 2023,forthcoming
+POLTPO-17,John L. Pollock,The Paradoxes of Strict Implication,1966
+MELVBA,Melvin Fitting,\$\texttt{\char92}varepsilon\$-Calculus Based Axiom Systems for Some Propositional Modal Logics,1972
+BISNAS,Biswambhar Pahi,Necessity and Some Non-Modal Propositional Calculi,1973
+Pilarek2006-GOLRPS,Joanna Goli\'{n}ska{-}Pilarek and Ewa Orlowska,Relational Proof Systems for Spatial Reasoning,2006
+GALSMA,Matthieu Gallais,Scientific Models and Games of Make-Believe: A Modal-Logical Perspective,2016
+HODTBF,Ian Hodkinson,The Bounded Fragment and Hybrid Logic with Polyadic Modalities,2010
+MYRANO,George Myro and P. T. Geach,A Note on Strict Implication and Entailment,1971
+URBAMM,Rafal Urbaniak and Agnieszka Rostalska,A Modern Modal Argument for the Soul,2011
+SANBLW,Katsuhiko Sano and Yasuo Nakayama,Bimodal Logic with the Irreflxive Modality,2007
+PEZIAL,Andr\'{e}s P\'{a}ez,Introducci\'{o}n a la L\'{o}gica Moderna,2007
+DEMOML-2,St\'{e}phane Demri and Dov Gabbay,On Modal Logics Characterized by Models with Relative Accessibility Relations: Part Ii,2000
+MORIAR-3,Angel Mora and Emilio Munoz Velasco and Joanna Goli\'{n}ska{-}Pilarek,Implementing a Relational Theorem Prover for Modal Logic K,2011
+COCLNB,Nino Cocchiarella,Logical Necessity Based on Carnap's Criterion of Adequacy,2002
+WILSRO-12,Robert L. Wilson,Some Remarks on Metaphysics and the Modal Logics F*F,1976
+Pilarek2008-GOLLOS,Joanna Goli\'{n}ska{-}Pilarek and Ewa Orlowska,Logics of Similarity and Their Dual Tableaux. A Survey,2008
+OTEAPE,Otero Manuel P\'{e}rez,Aspectos Particularistas En El Discurso Modal (Particularist Traits in Modal Discourse),2006
+ZIMEDA,Ernst Zimmermann,Elementary Definability and Completeness in General and Positive Modal Logic,2003
+PASP-14,Matteo Pascucci and Adam Tamas Tuboly,Preface,2019
+CARAAO-2,Michael J. Carroll,An Axiomatization of S13,1978
+MEUSFE,Jean{-}Guy Meunier,Syntaxe Formelle Et Tableau,1984
+CRETDN,M. J. Cresswell,The Decidable Normal Modal Logics Are Not Recursively Enumerable,1985
+LELNSO,"Bj\""{o}rn Lellmann and Francesca Poggiolesi",Nested Sequents or Tree-Hypersequents--a Survey,2024
+JACALP,Dale Jacquette,Against Logically Possible World-Relativized Existence,2014
+MELATS,Melvin Fitting,A Tableau System for Propositional S,1977
+CHEAPF,Brian F. Chellas,Another Proof for the Decidability of Four Modal Logics,1980
+GEOECA-2,Konstantinos Georgatos,Epistemic Conditionals and the Logic of Subsets,2017
+KLEMOM-2,R. Kleinknecht,"Modallogik Ohne M\""{o}gliche Welten [Modal Logic Without Possible Worlds]",1981
+HOLAUL-2,Wesley H. Holliday and Tomohiro Hoshi and Thomas F. Icard Iii,A Uniform Logic of Information Dynamics,1998
+ALEMLF,Natasha Alechina and Philippe Balbiani and Dmitry Shkatov,Modal Logics for Reasoning About Infinite Unions and Intersections of Binary Relations,2012
+TURLEM,Giacomo Turbanti,Logica e Mondi Possibili,2020
+BRAIAS-2,Martin D. Braine,If?Then and Strict Implication: A Response to Grandy's Note,1979
+LAMNDF-3,Fabio Lampert,Natural Deduction for Diagonal Operators,2017
+BAYEJL,Arnould Bayart,"E. J. Lemmon. Quantifiers and Modal Operators. Proceedings of the Aristotelian Society, Vol. 58 , Pp. 245?268",1966
+DEVDTF,Jonas De Vuyst,Dynamic Tableaux for Dynamic Modal Logics,2013
+WOLTNO-2,Boguslaw Wolniewicz,The Notion of Fact as a Modal Operator,1972
+BOLMSR-2,Boles\AA?aw Soboci\AA?ski,Modal System \$\{\texttt{\char92}rm s\}3\$ and the Proper Axioms of \$\{\texttt{\char92}rm S\}4.02\$ and \$\{\texttt{\char92}rm S\}4.04\$,1973
+SALASL-3,Nathan Salmon,\emph{Against S5: Impossible Worlds in the Logic of What Might Have Been},manuscript
+MCKANO-2,J. C. Chenoweth McKinsey,A Note on Bronstein's and Tarter's Definition of Strict Implication,1934
+CAROIT,Michael J. Carroll,On Interpreting the s5 Propositional Calculus: An Essay in Philosophical Logic,1976
+ROUVSO,R. Routley,Vredenduin's System of Strict Implication,1972
+ZDZTCO,Zdzis\l{}aw Dywan,The Connective of Necessity of Modal Logic s5 is Metalogical,1983
+PASANO-3,Matteo Pascucci,A Note on the Issue of Cohesiveness in Canonical Models,2020
+DAGDTE,Giovanna D?Agostino and Giacomo Lenzi,Deciding the Existence of Uniform Interpolants Over Transitive Models,2011
+MARTL,Maarten Marx and Szabolcs Mikul and Istv\'{a}n N\'{e}meti,Taming Logic,1995
+BYSTVO,P. I. Bystrov,Tableaux Variants of Some Modal and Relevant Systems,1988
+LEMXAM,E. J. Lemmon,Xii.--Quantifiers and Modal Operators,1958
+MARDMI-5,Alessandra Marra,Deontic Modality in Rationality and Reasoning,2019
+VANCHT,Jan van Eijck,Constrained Hyper Tableaux,manuscript
+SCHOTU-2,Klaus J. Schmidt,On the Unity of Modal Syllogistics in Aristotle,2008
+LAWASA-3,Zdzis law Dywan,A Simple Axiomatization of Lukasiewicz's Modal Logic,2012
+KIMTTO-2,Beomin Kim,The Translation of First Order Logic Into Modal Predicate Logic,2008
+EMCTDO,E. M. Curley,The Development of Lewis' Theory of Strict Implication,1975
+HOERAL,Wiebe van der Hoek and Hans van Ditmarsch and Barteld Kooi,Reasoning About Local Properties in Modal Logic,2011
+XUSDC,Ming Xu,Some Descending Chains of Incomplete Modal Logics,1991
+CONOAF,Marcelo E. Coniglio and Mart\'{i}n Figallo,On a Four-Valued Modal Logic with Deductive Implication,2014
+URBDAS-2,Rafal Urbaniak,"Different Arguments, Same Problems. Modal Ambiguity and Tricky Substitutions",2017
+MCKVPG,J. C. C. McKinsey,Vredenduin P. G. J.. A System of Strict Implication,1939
+ORLRIO,Ewa Orlowska,Relational Interpretation of Modal Logics,1988
+STEHAM-4,Read Stephen,Harmony and Modality,2008
+FERLIM-5,Jose Alejandro Fern\'{a}ndez Cuesta,La Interpretaci\'{o}n Modal de la Mec\'{a}nica Cu\'{a}ntica: De la L\'{o}gica Cu\'{a}ntica Al Problema de la Medida,2023
+MELLOP-2,Joseph Melia,Languages of Possibility,1990
+AGUPRC-2,Juan C. Agudelo,Polynomial Ring Calculus for Modal Logics: A New Semantics and Proof Method for Modalities: Polynomial Ring Calculus for Modal Logics,2011
+RICLOP-3,Mark Richard,Languages of Possibility,1994
+DASAAA,Gesiel B. Da Silva,An Axiomatic Approach to Theodicy Via Formal Applied Systems,2020
+MAYPAI-4,Marta Cialdea Mayer and Fiora Pirri,Propositional Abduction in Modal Logic,1995
+NINMLF,Guallart Nino,Modal Logic for Relationships Between Sets,manuscript
+SOCPWS,Joram Soch,Possible World Semantics Without Modal Logic,manuscript
+KAPSAK-3,David Kaplan,"Saul A. Kripke. Semantical Analysis of Modal Logic I. Normal Modal Propositional Calculi. Zeitschrift F\""{u}r Mathematische Logik Und Grundlagen der Mathematik, Vol. 9 , Pp. 67?96",1966
+MOVISA,Zia Movahed,Ibn Sina?s Anticipation of Burdian and Barcan Formulas,2006
+ANDMLT,Gabriel Andrus,Modal Logic: The System S5,manuscript
+MENLEA-4,Christopher Menzel,"Logic, Essence, and Modality -- Review of Bob Hale's Necessary Beings",2015
+DUIBTR,Duijf Hein,Beyond Team-Directed Reasoning: Participatory Intentions Contribute to a Theory of Collective Agency,2017
+MOVDRA,Zia Movahed,De Re and de Dicto Modality in Islamic Traditional Logic,2010
+ZIASMS,Zia Movahed,Suhrawardi's Modal Syllogisms,2012
+MORIIE,Cezar A. Mortari,Issues in Epistemic and Modal Logics and Their Applications,1991
+CHITWO-7,Bernard Linsky,The Worlds of Possibility,2001
+COLAML,Marco Colombetti,A Modal Logic of Intentional Communication,1999
+Chen1939-TSAAPA,Tang Tsao{-}Chen,Algebraic Postulates and a Geometric Interpretation for the Lewis Calculus of Strict Implication,1939
+COWCAT-2,Robert Cowen,Combinatorial Analytic Tableaux,1993
+RACTMA,Ji\v{r}'i Raclavsk\'y,The Modal Argument Against Nominal Description Theory,2017
+QUIRRC-3,W. V. Quine,"Review: Ruth C. Barcan, the Deduction Theorem in a Functional Calculus of First Order Based on Strict Implication",1947
+VARWIA,Ivan Varzinczak,What is a Good Domain Description? Evaluating and Revising Action Theories in Dynamic Logic,2006
+Jaszczolt1998-BUGAOT,Beata Bugajska{-}Jaszczolt,Axiomatization of the Logic Determined by Some N-Element Relational Systems with Identity,1998
+WOOEAT-2,John Hayden Woods,Entailment and the Paradoxes of Strict Implication,1965
+YONOSO,Naoto Yonemitsu,On Systems of Strict Implication,1951
+MARFPS,Bruno Maret,"Fitch?s Paradox, Stumbling Block or Touchstone for Knowability",2012
+KITSML,Hisashi Kitamura and Koji Nakatogawa and Yohei Fukayama,Substructuralized Modal Logics Applied to the Two Girls Puzzle,2007
+PICIAT,Joseph Romeo William Michael Picard,Impredicativity and Turn of the Century Foundations of Mathematics: Presupposition in Poincare and Russell,1993
+GRAMSL,A. Grappone,Modal Sentence Logic Formulas as Abbreviations of Standard Sentence Logic Formulas,1990
+PARBOT,Jacob Parr,"Book 5 -- \""\CYRZH : A Treatise Towards a Robust Set Theoretic Ontology",manuscript
+LINRPD,Diogo Lindner,Redu\c{c}~{a}o Plena Do De\^{o}ntico Ao \^{O}ntico,2008
+DZICAM,Wieslaw Dziobiak,Classically Axiomatizable Modal Propositional Calculi Containing the System T of Feys-von Wright,1976
+VARCED,Ivan Varzinczak,Causalidade e Depend\^{e}ncia Em Racioc\'{i}nio Sobre A\c{c}~{o}es,2002
+PRUOTL,Tadeusz Prucnal,On the Logic Determined by Some Finite Relational Systems,1998
+IVEECI,Sherwin Louis Iverson,Entailment: C. I. Lewis and the Paradoxes of Strict Implication,1972
+MORRSS,Cezar A. Mortari,Revisiting Sylvan's Semantics for S0.6 and Related Systems,2016
+CERMSM,Luis del Cerro and Olivier Gasquet,Minimal Structuresfor Modal Tableaux: Some Examples,2000
+BEKCLC,Daisuke Bekki and Yuri Ozaki,Conditional Logic Cb and its Tableau System,2011
+OMYBFI,Mieczyslaw Omyla,Barcan Formulas in Sci with Quantifiers,1977
+CERMTF,Luis del Cerro and Olivier Gasquet,Modal Tableaux for Reasoning About Diagrams,2006
+SOBANA,Boles\l{}aw Soboci\'{n}ski,A New Axiomatization of Modal System K1.2,1973
+NAGECL,Sophie Nagler,Embedding Classical Logic in S4,2019
+QUIRRC-2,W. V. Quine,"Review: Ruth C. Barcan, a Functional Calculus of First Order Based on Strict Implication",1946
+QUIBRC,W. V. Quine,Barcan Ruth C.. A Functional Calculus of First Order Based on Strict Implication,1946
+QUIRRC,W. V. Quine,"Review: Ruth C. Barcan, the Identity of Individuals in a Strict Functional Calculus of Second Order",1958
+THORDM,S. K. Thomason,"Review: David Makinson, Some Embedding Theorems for Modal Logic",1974
+ANERIA,Irving H. Anellis,Review Ibn-Sina?s Anticipation of the Formulas of Buridan and Barcan,2008
+NOLCSC,Daniel Nolan,"Charles S. Chihara, the Worlds of Possibility, Modal Realism and the Semantics of Modal Logic",2004
+CALOTM,Carlos Caleiro and Luca Vigan\`o and Marco Volpe,On the Mosaic Method for Many-Dimensional Modal Logics: A Case Study Combining Tense and Modal Operators,2013
+GORMLA,Valentin Goranko,"Modal Logic, Alexander Chagrov and Michael Zakharyaschev",1999
+GORLIC,Valentin Goranko,Logic in Computer Science: Modelling and Reasoning About Systems,2006
+CANNRP-2,Valentin Goranko,"Patrick Blackburn, Maarten de Rijke and Yde Venema, Cambridge Tracts in Theoretical Computer Science Vol. 53",2004
+EDWRMK,Edwin D. Mares,"Review: Marcus Kracht, Maarten de Rijke, Heinrich Wansing, Michael Zakharyaschev, Advances in Modal Logic",2002
+MAKREJ,David Makinson,"Review: E. J. Lemmon, an Extension Algebra and the Modal System T; E. J. Lemmon, Algebraic Semantics for Modal Logics",1970
+MAKEJL,David Makinson,"E. J. Lemmon. An Extension Algebra and the Modal System T.Notre Dame Journal of Formal Logic, Vol. 1 , Pp. 3?12. - E. J. Lemmon. Algebraic Semantics for Modal Logics.The Journal of Symbolic Logic, Vol. 31 , Pp. 46?65; Pp. 191?218",1970
+MAKRJE-2,David Makinson,"Rubin Jean E.. Bi-Modal Logic, Double-Closure Algebras, and Hilbert Space. Zeitsckrift F\""{u}r Matkematische Logik Und Grundlagen der Mathematik, Vol. 8 Pp. 305?322",1972
+MAKBFC-4,David Makinson,"Brian F. Chellas. Modal Logic. An Introduction. Cambridge University Press, Cambridge Etc. 1980, Xii + 295 Pp",1981
+MAKRFR,David Makinson,"Review: F. R. Drake, on Mckinsey's Syntactical Characterizations of Systems of Modal Logic",1971
+MAKRMJ,David Makinson,"Review: M. J. Cresswell, a Henkin Completeness Theorem for T; M. J. Cresswell, Alternative Completeness Theorems for Modal Systems; M. J. Cresswell, Some Proofs of Relative Completeness in Modal Logic",1970
+MAKRGJ,David Makinson,"Review: Gerald J. Massey, Four Simple Systems of Modal Propositional Logic",1972
+MAKSAK,David Makinson,"Saul A. Kripke. Semantical Analysis of Modal Logic Ii. Non-Normal Modal Propositional Calculi. The Theory of Models, Proceedings of the 1963 International Symposium at Berkeley, Edited by J. W. Addison, Leon Henkin, and Alfred Tarski, Studies in Logic and the Foundations of Mathematics, North-Holland Publishing Company, Amsterdam1965, Pp. 206?220. - R. Routley and H. Montgomery. The Inadequacy of Kripke's Semantical Analysis of D2 and D3. The Journal of Symbolic Logic, Vol. 33 , P. 568",1970
+MAKRIH,David Makinson,"Review: Ian Hacking, What is Strict Implication?",1972
+MAKJDL,David Makinson,"Jean Drabbe. Les s4-Alg\`{e}bres Finies. Comptes Rendus Hehdomadaires des S\'{e}ances de l'Acad\'{e}mic des Sciences, S\'{e}r. A Vol. 265 , P. 309",1973
+MAKCMJ,David Makinson,"Cresswell M. J.. A Henkin Completeness Theorem for T. Notre Dame Journal of Formal Logic, Vol. 8 No. 3 , Pp. 186?190.Cresswell M. J.. Alternative Completeness Theorems for Modal Systems. Notre Dame Journal of Formal Logic, Vol. 8 No. 4 , Pp. 339?345.Cresswell M. J.. Some Proofs of Relative Completeness in Modal Logic. Notre Dame Journal of Formal Logic, Vol. 9 No. 1 , Pp. 62?66",1970
+MAKBRA,David Makinson,"Bull R. A.. A Note on the Modal Calculi S4.2 and S4.3. Zeitschrift F\""{u}r Mathematische Logik Und Grundlagen der Mathematik, Vol. 10 , Pp. 53?55.Bull R. A.. A Class of Extensions of the Modal System s4 with the Finite Model Property. Zeitschrift F\""{u}r Mathematische Logik Und Grundlagen der Mathematik, Vol. 11 , Pp. 127?132.Bull R. A.. That All Normal Extensions of S4.3 Have the Finite Model Property. Zeitschrift F\""{u}r Mathematische Logik Und Grundlagen der Mathematik, Vol. 12 , Pp. 341?344",1968
+MAKRBF,David Makinson,"Review: Brian F. Chellas, Modal Logic. An Introduction",1981
+KUHHGA,S. T. Kuhn,"Hughes, Ge and Cresswell, Mj-a New Introduction to Modal Logic",1998
+FITHSA-3,Frederic B. Fitch,"Halld\'{e}n S\""{o}ren. A Question Concerning a Logical Calculus Related to Lewis' System of Strict Implication, Which is of Special Interest for the Study of Entailment. Theoria, Vol. 14 , Pp. 265?269",1949
+BACRIC,John Bacon,"Review: Isabel C. Hungerland, Contextual Implication",1970
+LEMAPS-2,Kazuo Matsumoto,Alternative Postulate Sets for Lewis's S5,1957
+THORMO-2,Ivo Thomas,"Review: Masao Ohnishi, Kazuo Matsumoto, a System for Strict Implication",1970
+ZEMPAN,J. Jay Zeman,"A. N. Prior. Some Axiom-Pairs for Material and Strict Implication. Zeitsckrift F\""{u}r Matkematische Logik Und Grundlagen der Mathematik, Vol. 7 , Pp. 61?65",1972
+DITJVB,Hans Ditmarsch,"Johan van Benthem, Modal Logic for Open Minds, Csli Lecture Notes, Stanford University, 2010, Pp. 350. Isbn: 9781575865997 (Hardcover) Us \$70.00, Isbn: 9781575865980 (Paperback) Us \$30.00",2012
+CHURAR-6,Alonzo Church,"Review: Alan Rose, Self-Dual Primitives for Modal Logic",1953
+ENDHGE,H. B. Enderton,"Hughes G. E. And Cresswell M. J.. An Introduction to Modal Logic. A Second Printing, with Corrections, of Xxxvi 328. Methuen and Co Ltd, London, and Barnes and Noble, Inc., New York, 1972, Xii + 388 Pp.; Also a University Paperback, Ibid. 1972, Xii + 388 Pp",1972
+NAGRET,Ebnest Nagel,"Review: E. Toms, the Principles of Implication",1943
+HIGRMJ,James Higginbotham,"Review: M. J. Cresswell, Entities and Indices",1993
+KUHMLA,Steven J. Kuhn,"Modal Logic: An Introduction Brian F. Chellas New York: Cambridge University Press, 1980. Pp. Xii, 295. \$42.50 , \$14.95",1982
+BOCRBM,I. M. Boche\'{n}ski,"Review: Benson Mates, Diodorean Implication",1950
+ZAKRGE,Michael Zakharyaschev,"Review: G. E. Hughes, M. J. Cresswell, a New Introduction to Modal Logic",1997
+BULGEH,R. A. Bull,"Hughes G. E. And Cresswell M. J.. An Introduction to Modal Logic. Methuen and Co. Ltd., London 1968, Xii + 388 Pp",1971
+NELRAF-2,Everett J. Nelson,"Review: Arnold F. Emch, Implication and Deducibility",1936
+TURRFB,A. R. Turquette,"Review: Frederic B. Fitch, Intuitionistic Modal Logic with Quantifiers",1950
+BAYREJ,Arnould Bayart,"Review: E. J. Lemmon, Quantifiers and Modal Operators",1966
+EKRSCY,Kristina \v{S}ekrst,"Syraya Chin-Mu Yang, Duen-Min Deng, Hanti Lin (Eds.), Structural Analysis of Non-Classical Logics: The Proceedings of the Second Taiwan Philosophical Logic Colloquium (Berlin/Heidelberg: Springer Verlag, 2016), 278 Pp",2016
+BALPOL,Pedro Baltazar,Probabilization of Logics: Completeness and Decidability,2013
+MCKRPG,J. C. C. McKinsey,"Review: P. G. J. Vredenduin, a System of Strict Implication",1939
+TALBFC-2,Jari Talja,"Brian F. Chellas, Modal Logic, an Introduction",1982
+PRIRMA,A. N. Prior,"Review: M. A. E. Dummett, E. J. Lemmon, Modal Logics Between s4 and s5; Iwao Nishimura, on Formulas of One Variable in Intuitionistic Propositional Calculus; D. C. Makinson, There Are Infinitely Many Diodorean Modal Functions",1967
+BREBRB-5,Manuel Bremer,"Book Reviews:Patrick Blackburn, Maarten de Rijke and Yde Venema, Modal Logic, Cambridge: Cambridge University Press, 2002, Xxii + 554 Pp., Us\$53.00, Isbn 0-52152-714-7 (Paperback)",2005
+BAYRRW,Charles A. Baylis,"Review: Roger W. Holmes, Classical and Relational Logic",1936
+GALRKF,Daniel Gallin,"Review: Kit Fine, Propositional Quantifiers in Modal Logic",1973
+FITRCE,Frederic B. Fitch,"Review: Charles E. Gauss, the Interpretation of Implication",1943
+MCKRSH-2,J. C. C. McKinsey,"Review: Soren Hallden, on the Decision-Problem of Lewis' Calculus S5",1950
+MASRGB,Gerald J. Massey,"Review: G. B. Keene, the Relational Syllogism. A Systematic Approach to Relational Logic",1970
+CHURCI,Alonzo Church,"Review: C. I. Lewis, the Modes of Meaning",1944
+CRERLA-3,M. J. Cresswell,"Review: Lennart Aqvist, Results Concerning Some Modal Systems That Contain s2; E. J. Lemmon, Some Results on Finite Axiomatizability in Modal Logic; E. J. Lemmon, a Note on Hallden-Incompleteness",1969
+SCHRHT-2,H. Arnold Schmidt,"Review: Hakan Tornebohm, Notes on Modal Operators",1960
+LECTLO-5,Marek Lechniak,The Logic of Time and Modality,2007
+FOLRLB,Dagfinn Follesdal,"Review: Lars Bergstrom, Something on ?Pragmatic Implication' and Similar Concepts",1968
+BAYECA-3,Charles A. Baylis and C. I. Lewis,"Jerzy S\l{}upecki. Der Volle Dreiwertige Aussagenkalk\""{u}l. Comptes Rendus des S\'{e}ances de la Soci\'{e}t\'e des Sciences Et des Lettres de Varsovie, Classe Iii, Vol. 29 (1936), Pp. 9?11",1937
+JONRGQ,R. Jones,"Robert Goldblatt. Quantifiers, Propositions and Identity: Admissible Semantics for Quantified Modal and Substructural Logics. Lecture Notes in Logic; 38. Cambridge: Cambridge University Press, 2011. Isbn 978-1-107-01052-9. Pp. Xiii + 282",2013
+LANRDJ,C. H. Langford,"Review: Daniel J. Bronstein, the Meaning of Implication",1936
+BAYTTA,Charles A. Baylis,"Tsao-Chen Tang. Algebraic Postulates and a Geometric Interpretation for the Lewis Calculus of Strict Implication. Bulletin of the American Mathematical Society, Vol. 44 , Pp. 737?744",1939
+SMOGBT,C. Smory\'{n}ski,"George Boolos. The Unprovability of Consistency. An Essay in Modal Logic. Cambridge University Press, Cambridge Etc. 1979, Viii + 184 Pp",1981
+RENRAN,M. K. Rennie,"Review: Akira Nakamura, a Remark on the Truth-Value Stipulation for the Modal System \${M}$'; Akira Nakamura, on an Axiomatic System of Modal Logic; R. A. Bull, on a Paper of Akira Nakamura",1974
+FITRRB,Frederic B. Fitch,"Ruth Barcan Marcus. The Elimination of Contexlually Defined Predicates in a Modal System. The Journal of Symbolic Logic, Vol. 15 , P. 92",1951
+FUHDCM-2,Gebhard Fuhrken,"Davis Chandler. Modal Operators, Equivalence Relations, and Projective Algebras, American Journal of Mathematics, Vol. 76 , Pp. 747?762",1959
+BENRGE,Johan Van Benthem,"Review: G. E. Hughes, M. J. Cresswell, a Companion to Modal Logic",1986
+MASRRF,Gerald J. Massey,"Review: Robert Feys, J. Dopp, Modal Logics",1969
+HENRWT,Paul Henle,"Review: William Tuthill Parry, Modalities in the Survey System of Strict Implication",1940
+CMAM,N. S. C.,Modal and Many-Valued Logics,1964
+HALRNY,"S\""{o}ren Halld\'{e}n","Review: Naoto Yonemitsu, on Systems of Strict Implication",1951
+MAKRJD,J. A. Makowsky,"Review: Jeffrey D. Ullman, Principles of Database Systems; David Maier, the Theory of Relational Databases; Ashok K. Chandra, David Harel, Computable Queries for Relational Data Bases",1986

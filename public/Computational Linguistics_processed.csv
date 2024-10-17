@@ -1,0 +1,70 @@
+ID,Author,Title,Year
+BARCAN-3,Chris Barker and Chung{-}Chieh Shan,Continuations and Natural Language,2014
+JURSAL,Dan Jurafsky and James H. Martin,"Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition",2000
+CHALCL-2,Nick Chater and Christopher D. Manning,Probabilistic Models of Language Processing and Acquisition,2006
+GROTEO-11,Daniel Grodner and Julie Sedivy,The Effect of Speaker-Specific Information on Pragmatic Inferences,2011
+RAMUCL,Juan Pablo Mej\'{i}a Ramos and Lara Alcock and Kristen Lew and Paolo Rago and Chris Sangwin and Matthew Inglis,Using Corpus Linguistics to Investigate Mathematical Explanation,2019
+KOLLAG,Oren Kolodny and Arnon Lotem and Shimon Edelman,Learning a Generative Probabilistic Grammar of Experience: A Process-Level Model of Language Acquisition,2014
+BREAIT-3,Michael R. Brent,Advances in the Computational Study of Language Acquisition,1996
+CHRDOL-2,Morten H. Christiansen and Padraic Monaghan,Division of Labor in Vocabulary Structure: Insights From Corpus Analyses,2016
+CHANLI,Stergios Chatzikyriakidis and Zhaohui Luo,Natural Language Inference in Coq,2014
+STEISC,Mark Steedman and Matthew Stone,Is Semantics Computational?,manuscript
+KLENLG,Dan Klein and Christopher D. Manning,Natural Language Grammar Induction Using a Constituent-Context Model,unknown
+SHYNLU,Vitalii Shymko,Natural Language Understanding: Methodological Conceptualization,2019
+EDEUEL,Shimon Edelman,Unsupervised Ef?cient Learning and Representation of Language Structure,unknown
+WIEACT,Janyce M. Wiebe and William J. Rapaport,A Computational Theory of Perspective and Reference in Narrative,1988
+EDMTPR,Bruce Edmonds,The Pragmatic Roots of Context,1999
+CANCSA-4,Angelo Cangelosi and Domenico Parisi,Computer Simulation: A New Scientific Approach to the Study of Language Evolution,2002
+GRIDTO-2,Jumbly Grindrod,Distributional Theories of Meaning: Experimental Philosophy of Language,2023
+FRIAPM,Joyce Friedman and David S. Warren,A Parsing Method for Montague Grammars,1978
+BALTBO-15,Yuri Balashov,The Boundaries of Meaning: A Case Study in Neural Machine Translation,2022
+FULAPF-3,Joseph S. Fulda,A Plea for Automated Language-to-Logical-Form Converters,2006
+FISHUS-2,Eugen Fischer and Aur\'{e}lie Herbelot,How Understanding Shapes Reasoning: Experimental Argument Analysis with Methods From Psycholinguistics and Computational Linguistics,2023
+SHYDOL,Vitalii Shymko,Discourseology of Linguistic Consciousness: Neural Network Modeling of Some Structural and Semantic Relationships,2021
+BLAROF,Patrick Blackburn and Claire Gardent and Maarten De Rijke,Rich Ontologies for Tense and Aspect,1996
+SHYSCL,Vitalii Shymko and Anzhela Babadzhanova,Short Communication: Linguistic Semantics of the Covid-19 Quarantine Concept Perceived by Ukrainians,2020
+SHYSOT,Vitalii Shymko and Anzhela Babadzhanova,Study of the Covid-19 Related Quarantine Concept as an Emerging Category of a Linguistic Consciousness,2020
+FEREIN,Tim Fernando,Entailments in Finite-State Temporality,manuscript
+STOLRA-2,Matthew Stone,Linguistic Representation and Gricean Inference,manuscript
+ZAMIPC,Edoardo Zamuner and Fabio Tamburini and Cristiana de Sanctis,?Identifying Phrasal Connectives in Italian Using Quantitative Methods?,2002
+KEMSPA-2,Ruth M. Kempson,"Semantics, Pragmatics, and Natural-Language Interpretation",1996
+SMIPOC-5,Barry Smith and Christiane Fellbaum,Proceedings of Coling: The 20Th International Conference on Computational Linguistics,2004
+SAYCAT,Bilge Say and Varol Akman,Current Approaches to Punctuation in Computational Linguistics,1997
+BUKARQ,Mikhail Bukhtoyarov and Anna Bukhtoyarova,A Rough Quarter of the Millennium. Revolutions Through the Lens of Google Ngram Viewer,2018
+WIEPOT-2,Janyce M. Wiebe and William J. Rapaport,A Computational Theory of Perspective and Reference in Narrative,1988
+DARIK,Kes?avacandra Da?s?a,"Relations in Knowledge Representation: An Interdisciplinary Study in Nya?Ya, Mi?Ma?M?Sa?, Vya?Karan?a, Tantra, Modern Linguistics, and Artificial Intelligence in Computer Application",1991
+GODPAP-4,Cliff Goddard,Polysemy: A Problem of Definition,2000
+BOSFAN,Peter Bosch and Rob van der Sandt,Focus and Natural Language Processing,1995
+HILCSI,Thomas Hills and Mounir Maouene and Josita Maouene and Adam Sheya and Linda B. Smith,Categorical Structure in Early Semantic Networks of Nouns,2008
+DEGLAO,Philippe de Groote and Glyn Morrill and Christian Retor\'e,Logical Aspects of Computational Linguistics (Lacl'01),2001
+MILLRF,G. Miller and Claudia Leacock,Lexical Representations for Sentence Processing,2000
+CHACRI,Eugene Charniak,Context Recognition in Language Comprehension,1982
+GRAAAO-3,Arthur C. Graesser and Moongee Jeon and Zhiqiang Cai and Danielle S. McNamara and J. Auracher and W. van Peer,"Automatic Analyses of Language, Discourse, and Situation Models",2008
+FERADI,Tim Fernando,Ambiguous Discourse in a Compositional Context. An Operational Perspective,2001
+COHAPM,Robin Cohen,A Processing Model for the Analysis of One-Way Arguments in Discourse,1990
+KUNASN,Claudia Kunze,A Syllable-Based Net-Linguistic Approach to Lexical Access,1990
+DOLPIA,William Dolan and Lucy Vanderwende and Stephen Richardson and Bill Dolan,Polysemy in a Broad-Coverage Natural Language Processing System,2000
+MONAAR,Christof Monz,"Automatic Ambiguity Resolution in Natural Language, Alexander Franz",1999
+CHALAT-2,Lucas Champollion and Aravind K. Joshi,Ltag-Spinal and the Treebank,unknown
+KLEDPS,Dan Klein and Christopher D. Manning,Distributional Phrase Structure Induction,
+COPTRO-4,Ann Copestake,The Representation of Group Denoting Nouns in a Lexical Knowledge Base,1995
+MANNLG,Christopher Manning,Natural Language Grammar Induction Using a Constituent-Context Model,manuscript
+KARSEC,Nikiforos Karamanis,Supplementing Entity Coherence with Local Rhetorical Relations for Information Ordering,2007
+EDERSF,Shimon Edelman,Rich Syntax From a Raw Corpus: Unsupervised Does It,unknown
+GRITIC-2,J. Griffith,Topics in Constraint Grammar Formalism for Computational Linguistics (Sfs Report 4-95),1995
+MARGTA-2,Dymetman Marc,Group Theory and Computational Linguistics,1998
+MOOSLP,Roger K. Moore,Spoken Language Processing by Machine,2009
+CARCML,Vincent Carchidi,Creative Minds Like Ours? Large Language Models and the Creative Aspect of Language Use,forthcoming
+MARLNI-6,Maxime Amblard and Philippe de Groote and Sylvain Pogodalla and Christian R\'{e}tor\'e,Logical Aspects of Computational Linguistics. Celebrating 20 Years of Lacl (1996?2016),2016
+KIECLI,F. Kiefer,Computational Linguistics Iii,1966
+NUCPAP,Stefania Nuccorini,Phrases and Phraseology ? Data and Descriptions,2002
+POGLAO,Sylvain Pogodalla and Jean{-}Philippe Prost,"Logical Aspects of Computational Linguistics (6Th International Conference, Lacl2011, Montpellier, France, June/July 2011 Proceedings)",2011
+BIRCPA-2,Steven Bird,Computational Phonology: A Constraint-Based Approach,1995
+CROMMI-2,Matthew W. Crocker,Multiple Meta-Interpreters in a Logical Model of Sentence Processing,1990
+GARNLA-2,Paul L. Garvin,Natural Language and the Computer,1966
+KEEFTT,Edward L. Keenan,Facing the Truth: Some Advantages of Direct Interpretation,1983
+FORDSD,Katherine Forbes and Eleni Miltsakaki and Rashmi Prasad and Anoop Sarkar and Aravind Joshi and Bonnie Webber,D-Ltag System: Discourse Parsing with a Lexicalized Tree-Adjoining Grammar,2003
+NEFRAC,Ryan M. Nefdt,Recursion: A Computational Investigation Into the Representation and Processing of Language,2019
+KOLPMG,Alexander Koller and Ralph Debusmann and Malte Gabsdil and Kristina Striegnitz,Put My Galakmid Coin Into the Dispenser and Kick It: Computational Linguistics and Theorem Proving in a Computer Game,2004
+MOOLAO-4,Michael Moortgat,"Logical Aspects of Computational Linguistics Third International Conference, Lalc '98, Grenoble, France, December 14-16, 1998 : Selected Papers'",2001
+GANCSL,Bernhard Ganter and Guy W. Mineau,"Conceptual Structures: Logical, Linguistic, and Computational Issues: 8Th International Conference on Conceptual Structures, Iccs 2000 Darmstadt, Germany, August 14-18, 2000 Proceedings",2000

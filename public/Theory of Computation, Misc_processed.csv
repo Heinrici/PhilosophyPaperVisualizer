@@ -1,0 +1,65 @@
+ID,Author,Title,Year
+BLAML-2,Patrick Blackburn and Maarten de Rijke and Yde Venema,Modal Logic: Graph. Darst,2001
+AUGTGS-3,Luis M. Augusto,Two-Level Grammars: Some Interesting Properties of van Wijngaarden Grammars.,2023
+ROOIAT,Iris van Rooij and Cory Wright and Todd Wareham,Intractability and the Use of Heuristics in Psychological Explanations,2012
+KRIQAT,Saul A. Kripke,"The Church-Turing ?Thesis? as a Special Corollary of G\""{o}del?s Completeness Theorem",2013
+BEAEC,Dwight R. Bean,Effective Coloration,1976
+PEZOTN,Ivo Pezlar,On Two Notions of Computation in Transparent Intensional Logic,2018
+Crnkovic2014-DODICA,G. Dodig{-}Crnkovic,Info-Computational Constructivism and Cognition,2014
+BURSLO-2,Mark Burgin and Rao Mikkililineni,Seven Layers of Computation: Methodological Analysis and Mathematical Modeling,2022
+ALEST-2,Samuel A. Alexander,Self-Referential Theories,2020
+BEKOTI,Lev D. Beklemishev,On the Induction Schema for Decidable Predicates,2003
+MASTMO,Ian Mason,The Metatheory of the Classical Propositional Calculus is Not Axiomatizable,1985
+HOFSOC,"Matej Hoffmann and Vincent C. M\""{u}ller",Simple or Complex Bodies? Trade-Offs in Exploiting Body Morphology for Control,2017
+DIDPBA,Farzad Didehvar,"P$\neq$Np, by Accepting to Make a Shift in the Theory (Time as a Fuzzy Concept) the Structure of a Theory (Tc*, Theory of Computation Based on Fuzzy Time)",manuscript
+RICTSO-41,Richard Zach,The Significance of the Curry-Howard Isomorphism,2018
+BEETUI,Michael Beeson,The Unprovability in Intuitionistic Formal Systems of the Continuity of Effective Operations on the Reals,1976
+MEYCSB,Albert R. Meyer and Patrick C. Fischer,Computational Speed-Up by Effective Operators,1972
+MALWIG,Fintan Mallory,Why is Generative Grammar Recursive?,2023
+WALITM,Micha? Walicki,Introduction to Mathematical Logic,2012
+GURWIA-2,Yuri Gurevich,What is an Algorithm,2012
+HOFTIE-2,"Matej Hoffmann and Vincent C. M\""{u}ller",Trade-Offs in Exploiting Body Morphology for Control: From Simple Bodies and Model-Based Control to Complex Ones with Model-Free Distributed Control Schemes,2014
+Roesch2015-LUCSC-2,Markus Luczak{-}Roesch and Ramine Tinati and Kieron O'Hara and Nigel Shadbolt,Socio-Technical Computation,2015
+MLLWAC-2,"Vincent C. M\""{u}ller",What a Course on Philosophy of Computing is Not,2008
+DIDACA,Farzad Didehvar,A Contradiction and P=Np Problem,manuscript
+DIDBCF,Farzad Didehvar,"By Considering Fuzzy Time, P=Bpp (P*=Bpp*)",manuscript
+YAMCPO-3,Yoriyuki Yamagata,Consistency Proof of a Fragment of Pv with Substitution in Bounded Arithmetic,2018
+YAMSNO,Yoriyuki Yamagata,Strong Normalization of a Symmetric Lambda Calculus for Second-Order Classical Logic,2002
+MLLSOC,"Vincent M\""{u}ller and Matej Hoffmann",Simple or Complex Bodies? Trade-Offs in Exploiting Body Morphology for Control,2017
+BURFTC-2,Mark Burgin and Gordana Dodig{-}Crnkovic,From the Closed Classical Algorithmic Universe to an Open World of Algorithmic Constellations,2013
+DBOOTR,D. Bollman and M. Tapia,On the Recursive Unsolvability of the Provability of the Deduction Theorem in Partial Propositional Calculi,1972
+DIDFTF,Farzad Didehvar,"Fuzzy Time, From Paradox to Paradox",manuscript
+BIAWVO,Matteo Bianchetti,Weaker Variants of Infinite Time Turing Machines,2020
+SERLML-2,Marco Cococcioni and Massimo Pappalardo and Yaroslav Sergeyev,Lexicographic Multi-Objective Linear Programming Using Grossone Methodology: Theory and Algorithm,2018
+ZACTSO,Richard Zach,The Significance of the Curry-Howard Isomorphism,2018
+DAVSOA,Ren\'e David and Karim Nour,Storage Operators and Directed Lambda-Calculus,1995
+NOWAGF,Antje Nowack,A Guarded Fragment for Abstract State Machines,2005
+STRRAT-3,"Claes Stranneg\a{a}rd and Fredrik Engstr\""{o}m and Abdul Rahim Nizamani and Lance Rips",Reasoning About Truth in First-Order Logic,2013
+BAISJO-2,Colin G. Bailey,Some Jump-Like Operations in ?-Recursion Theory,2013
+AMEFOL,Mohamed A. Amer,First Order Logic with Empty Structures,1989
+TOREIF,Josefa Toribio,Extruding Intentionality From the Metaphysical Flux,1999
+COLDOP,William J. Collins and Paul Young,Discontinuities of Provably Correct Operators on the Provably Recursive Real Numbers,1983
+AUGCLV-2,Luis M. Augusto,Computational Logic. Vol. 1: Classical Deductive Computing with Classical Logic. 2Nd Ed.,2022
+BECPCO,Arnold Beckmann?,Proving Consistency of Equational Theories in Bounded Arithmetic,2002
+JONCAC-6,N. D. Jones,Computability and Complexity: From a Programming Perspective Vol. 21,1997
+AUGLMU,Luis M. Augusto,L\'{o}gicas Multivalentes. Uma Introdu\c{c}~{a}o Matem\'{a}tica e Computacional.,2016
+WASAVS,Jonathan A. Waskan,A Virtual Solution to the Frame Problem,forthcoming
+GUOJOA,Guohua Wu,Jump Operator and Yates Degrees,2006
+ALLPOJ-2,David Allison,Papers of John von Neumann on Computing and Computer Theoryjohn von Neumann William Aspray Arthur Burks,1987
+AISHLB,T? K\~y Thu?t Aisdl,H\d{o}c Li?u Bmf Analytics Hi?n Di?n T\d{a}i Harvard University Hollis,2024
+SERHON,Yaroslav Sergeyev,Higher Order Numerical Differentiation on the Infinity Computer,2011
+Roesch2016-LUCAUS,Markus Luczak{-}Roesch and Ramine Tinati and Saud Aljaloud and Wendy Hall and Nigel Shadbolt,A Universal Socio-Technical Computing Machine,2016
+SERSAM,Yaroslav Sergeyev and Alfredo Garro,Single-Tape and Multi-Tape Turing Machines Through the Lens of the Grossone Methodology,2013
+SERNCA,Yaroslav Sergeyev,Numerical Computations and Mathematical Modelling with Infinite and Infinitesimal Numbers,2009
+FARUHT,Didehvar Farzad,Theory of Fuzzy Time Computation (3),manuscript
+LEMATM,P. M. F. Lemos,A Turing Machine for Exponential Function,manuscript
+KIJATE,Kenneth Kijun Lee and Chase Kihwan Lee,A Theory Explains Deep Learning,manuscript
+OLCDAD-3,P. Olcott,Defining a Decidability Decider for the Halting Problem,manuscript
+STARD-4,Michael Richard Starks,Rese\~{n}a de ' Los L\'{i}mites Exteriores de la Raz\'{o}n '(the Outer Limits of Reason) Por Noson Yanofsky 403P (2013) (Revision Revisada 2019),2019
+Roesch2017-LUCTSI-4,Markus Luczak{-}Roesch and Ramine Tinati,The Social in the Platform Trap: Why a Microscopic System Focus Limits the Prospect of Social Machines,2017
+RETPL,Christian Retor\'e,Pomset Logic: The Other Approach to Non Commutativity in Logic,2021
+ZenithForthcoming-ERIEEI,Steven Ericsson{-}Zenith,Explaining Experience in Nature: The Foundations of Logic and Apprehension,forthcoming
+SALAPD-2,Dante Roberto Salatino,Aspectos Psico-Bio-Socio-Culturales Del Lenguaje Natural Humano,2012
+CALOTM,Carlos Caleiro and Luca Vigan\`o and Marco Volpe,On the Mosaic Method for Many-Dimensional Modal Logics: A Case Study Combining Tense and Modal Operators,2013
+MAHJVN,Michael Mahoney,John von Neumann and the Origins of Modern Computing by William Aspray,1993
+FART-6,Didehvar Farzad,(Tc* ????? ???? ) ????? ? ???? ???? ? ?????????? ?? ????? ??????? ???,manuscript

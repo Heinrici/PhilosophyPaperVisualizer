@@ -1,0 +1,172 @@
+ID,Author,Title,Year
+BERKRT,Peter Hawke and Franz Berto,Knowability Relative to Information,2021
+BERIWA-4,Francesco Berto,Impossible Worlds and the Logic of Imagination,2017
+BERSHB-10,F. Berto,Simple Hyperintensional Belief Revision,2018
+MCCCA-2,John McCarthy,Circumscription -- a Form of Non-Monotonic Reasoning,1980
+ROTCCA,Hans Rott,"Change, Choice and Inference: A Study of Belief Revision and Nonmonotonic Reasoning",2001
+MCCAOC,John McCarthy,Applications of Circumscription to Formalizing Common Sense Knowledge,1986
+MOOSCO,Robert C. Moore,Semantic Considerations on Nonmonotonic Logic,1985
+KYBUI-3,Henry E. Kyburg Jr and Choh Man Teng,Uncertain Inference,2001
+SMITLO-27,Martin Smith,The Logic of Epistemic Justification,2018
+CRUOOA,Vincenzo Crupi and Andrea Iacona,Outline of a Theory of Reasons,2023
+MAKBFC,David Makinson,Bridges From Classical to Nonmonotonic Logic,2005
+MAKGPI,David Makinson,General Patterns in Nonmonotonic Reasoning,1994
+GODATO-3,David M. Godden and Douglas N. Walton,A Theory of Presumption for Everyday Argumentation,2007
+MAKOTS,David Makinson,On the Status of the Postulate of Recovery in the Logic of Theory Change,1987
+ASATRV,Samuel Asarnow,The Reasoning View and Defeasible Practical Reasoning,2017
+HAWTQW-2,James Hawthorne and David Makinson,The Quantitative/Qualitative Watershed for Rules of Uncertain Inference,2007
+MAKRBT,"David Makinson and Peter G\""{a}rdenfors",Relations Between the Logic of Theory Change and Nonmonotonic Logic,1991
+HLOANS,Ulf Hlobil,A Nonmonotonic Sequent Calculus for Inferentialist Expressivists,2016
+ANDOTR-11,"Holger Andreas and Mario G\""{u}nther",On the Ramsey Test Analysis of ?Because?,2019
+BOYTQT,David Boylan and Ginger Schultheis,The Qualitative Thesis,2022
+HAWOTL,James Hawthorne,On the Logic of Nonmonotonic Conditionals and Conditional Probabilities,1996
+ROTCAT,Hans Rott,"Conditionals and Theory Change: Revisions, Expansions, and Additions",1989
+KNOCVH-2,Aleks Knoks,"Conciliatory Views, Higher-Order Disagreements, and Defeasible Logic",2022
+LEENCT,Joohyung Lee and Vladimir Lifschitz and Hudson Turner,Nonmonotonic Causal Theories,2004
+HORMDA,John Horty,Moral Dilemmas and Nonmonotonic Logic,1994
+KNOMHE,Aleks Https://Orcidorg Knoks,"Misleading Higher-Order Evidence, Conflicting Ideals, and Defeasible Logic",2020
+LINOPR,"Sten Lindstr\""{o}m and Wlodek Rabinowicz",On Probabilistic Representation of Non-Probabilistic Belief Revision,1989
+PFECAN-3,Niki Pfeifer and Gernot D. Kleiter,Coherence and Nonmonotonicity in Human Reasoning,2005
+CONAPB,Rafael R. Testa and Marcelo E. Coniglio and M\'{a}rcio M. Ribeiro,Agm-Like Paraconsistent Belief Change,2017
+HANCLR,Sven Hansson and Eduardo Ferme and John Cantwell and Marcelo Falappa,Credibility Limited Revision,2001
+THOAUB,Paul D. Thorn and Gerhard Schurz,A Utility Based Evaluation of Logico-Probabilistic Systems,2014
+BRENRA-2,"Gerhard Brewka and J\""{u}rgen Dix and Kurt Konolige",Nonmonotonic Reasoning: An Overview,1997
+KNODIE,Aleks Knoks,Defeasibility in Epistemology,2020
+SKECCA,Patrick Skeels,"Context, Consistency, and Non-Contradiction",forthcoming
+GINRIN,Matthew L. Ginsberg,Readings in Nonmonotonic Reasoning,1980
+MILALF-3,Jared Millson and Christian Stra\s{s}er,A Logic for Best Explanations,2019
+NAITLO,Shyam Nair and John Horty,The Logic of Reasons,2018
+SCHRVR-5,Gerhard Schurz and Paul D. Thorn,Reward Versus Risk in Uncertain Inference: Theorems and Simulations,2012
+ANTNL,G. Aldo Antonelli,Non-Monotonic Logic,2008
+PAROIN,J. B. Paris and R. Simmonds,O is Not Enough,2009
+ARCMAN,Jacob Archambault,Monotonic and Non-Monotonic Embeddings of Anselm?s Proof,2017
+THOQPI-4,Paul D. Thorn and Gerhard Schurz,Qualitative Probabilistic Inference Under Varied Entropy Levels,2016
+SILPLA,Arnold Silverberg,Psychological Laws and Nonmonotonic Logic,1996
+MILIFE,Jared A. Millson and Kareem Khalifa and Mark Risjord,Inferentialist-Expressivism for Explanatory Vocabulary,2018
+GRTCTM,Paul \'{E}gr\'e and Lorenzo Rossi and Jan Sprenger,Probability for Trivalent Conditionals,manuscript
+BOCALT,Alexander Bochman,A Logical Theory of Nonmonotonic Inference and Belief Change,2001
+PFEPL-2,Niki Pfeifer,Probability Logic,2021
+SCHFAN-5,Daniela Schuster,Forms and Norms of Indecision in Argumentation Theory,2021
+BIAPLU,Veronica Biazzo and Angelo Gilio and Thomas Lukasiewicz and Giuseppe Sanfilippo,"Probabilistic Logic Under Coherence, Model-Theoretic Probabilistic Logic, and Default Reasoning in System P",2002
+ROTANC,Hans Rott,A Nonmonotonic Conditional Logic for Belief Revision,1991
+HAWAPO,James Hawthorne,"A Primer on Rational Consequence Relations, Popper Functions, and Their Ranked Structures",2014
+WHEARD,Gregory Wheeler,A Resource-Bounded Default Logic,2004
+KEITRL,William Keith and David Beard,Toulmin's Rhetorical Logic: What's the Warrant for Warrants?,2008
+MORTNO-3,Charles G. Morgan,The Nature of Nonmonotonic Reasoning,2000
+ROTDAT-2,Hans Rott,"Degrees All the Way Down: Beliefs, Non-Beliefs and Disbeliefs",2009
+BENAPA,Salem Benferhat and Didier Dubois and Henri Prade and Mary{-}Anne Williams,A Practical Approach to Revising Prioritized Knowledge Bases,2002
+HORACA,John F. Horty,Argument Construction and Reinstatement in Logics for Defeasible Reasoning,2001
+GORTPG-2,Thomas F. Gordon,The Pleadings Games: An Artificial Intelligence Model of Procedural Justice,1995
+MEYREE,Thomas Andreas Meyer and Willem Adrian Labuschagne and Johannes Heidema,Refined Epistemic Entrenchment,2000
+ROTISI,Hans Rott,Information Structures in Belief Revision,2008
+PECJAL,Aleksander Peczenik,Jumps and Logic in the Law,1996
+FRENRF,Michael Freund and Daniel Lehmann,Nonmonotonic Reasoning: From Finitary Relations to Infinitary Inference Operations,1994
+PFEIHR,Niki Pfeifer and G. D. Kleiter,Is Human Reasoning About Nonmonotonic Conditionals Probabilistically Coherent?,2006
+KAPAMS,Daniel Kaplan,A Multi-Succedent Sequent Calculus for Logical Expressivists,2018
+HAGLAD,Jaap Hage,Law and Defeasibility,2003
+SHOERA,Yoav Shoham,Efficient Reasoning About Rich Temporal Domains,1988
+PRERAA,Helmut Prendinger and Gerhard Schurz,Reasoning About Action and Change,1996
+ROTTCO-5,Hans Rott,Two Concepts of Plausibility in Default Reasoning,2014
+ROYSAI,Olivier Roy and Eric Pacuit,Substantive Assumptions in Interaction: A Logical Perspective,2013
+HORNLE,John F. Horty,Nonmonotonic Logic,2001
+PRIACT,Giuseppe Primiero,A Contextual Type Theory with Judgemental Modalities for Reasoning From Open Assumptions,2012
+ALLLRA-2,Patrick Allo,"Logic, Reasoning and Revision",2015
+WHEDRA,Gregory Wheeler,Defeat Reconsidered and Repaired,2014
+HLOWSP,Ulf Hlobil,When Structural Principles Hold Merely Locally,2017
+MEHDAA,Joke Meheus,Deductive and Ampliative Adaptive Logics as Tools in the Study of Creativity,1999
+BOCBCA,Alexander Bochman,Belief Contraction as Nonmonotonic Inference,2000
+DUTRBN-2,Catarina Dutilh Novaes and Herman Veluwenkamp,"Reasoning Biases, Non-Monotonic Logics and Belief Revision",2016
+BOCAIT-2,Alexander Bochman,An Inferential Theory of Causal Reasoning,2023
+ALLALA-2,Patrick Allo,Adaptive Logic as a Modal Logic,2013
+WHEAIO,Gregory Wheeler and Carlos Damasio,An Implementation of Statistical Default Logic,2004
+THOQPI,Paul D. Thorn and Christian Eichhorn and Gabriele Kern{-}Isberner and Gerhard Schurz,Qualitative Probabilistic Inference with Default Inheritance,2015
+TINCWC,Erkan Tin and Varol Akman,Computing with Causal Theories,1992
+SHIANM-3,Shuhei Shimamura,A Nonmonotonic Modal Relevant Sequent Calculus,2017
+DIXTRB,"J\""{u}rgen Dix and David Makinson",The Relationship Between Klm and Mak Models for Nonmonotonic Inference Operations,1992
+HAGDNE,Jaap Hage,"Donald Nute (Ed.), Defeasible Deontic Logic",2000
+PREORT,Ramon Perez and Carlos Uzcategui,On Representation Theorems for Nonmonotonic Consequence Relations,2000
+GEOERA,Konstantinos Georgatos,Entrenchment Relations: A Uniform Approach to Nonmonotonic Inference,1997
+OLSBRR,Erik J. Olsson,"Belief Revision, Rational Choice and the Unity of Reason",2003
+TINTLO-4,Erkan Tin and Varol Akman,The Logic of Counteraction,1993
+FRAAWS,James Franklin,Arguments Whose Strength Depends on Continuous Variation,2013
+MAKPRT,David C. Makinson,Propositional Relevance Through Letter-Sharing: Review and Contribution,
+WEIPTO,Jonathan Weisberg,Pollock's Theory of Defeasible Reasoning,2010
+ALEPBR,Natasha Alechina and Mark Jago and Brian Logan,Preference-Based Belief Revision for Rule-Based Agents,2008
+SILSAF,Ricardo Silvestre,Sobre a Formaliza\c{c}~{a}o L\'{o}gica de Mudan\c{c}a de Teorias e Anomalias Cient\'{i}ficas,2017
+MAKLOB,David C. Makinson,Levels of Belief in Nonmonotonic Reasoning,2009
+DAVKBA,Todd R. Davies,Knowledge Bases and Neural Network Synthesis,1991
+TANOAE-2,Koji Tanaka and Graham Priest,On an Error in Grove's Proof,1997
+SCHBAO-6,Reiner Schaefer,Brandom?s Account of Reasoning,2016
+VERDAW,Bart Verheij,Dialectical Argumentation with Argumentation Schemes: An Approach to Legal Logic,2003
+PANSAD,Stipe Pand\v{z}i\'c,Structured Argumentation Dynamics: Undermining Attacks in Default Justification Logic,2022
+RIGLRL-2,Adam W. Rigoni,"Legal Rules, Legal Reasoning, and Nonmonotonic Logic",2015
+PLURFC,Gilbert Plumer and Kenneth Olson,Reasoning From Conflicting Sources,2007
+THOAIU,Paul D. Thorn and Gerhard Schurz,Ampliative Inference Under Varied Entropy Levels,2013
+THOTIO-35,Paul D. Thorn,The Inheritance of Defaults in the Case of Exceptional Subclasses,2015
+PFEPSF,Niki Pfeifer and Giuseppe Sanfilippo,Probability Semantics for Aristotelian Syllogisms,manuscript
+PANALO,Stipe Pand\v{z}i\'c,A Logic of Defeasible Argumentation: Constructing Arguments in Justification Logic,2022
+VITTNA,Christine Vitrano and Steven M. Cahn,The Nature and Value of Happiness,2014
+GEOORO,Konstantinos Georgatos,Ordering-Based Representations of Rational Inference,1996
+GEOTPV,Konstantinos Georgatos,To Preference Via Entrenchment,1999
+CRONI-2,Charles B. Cross,Nonmonotonic Inconsistency,2003
+SIEWNL,Jan{-}R. Sieckmann,Why Non-Monotonic Logic is Inadequate to Represent Balancing Arguments,2003
+PAIFRO,John Pais,Faithful Representation of Nonmonotonic Patterns of Inference,1992
+PETRWC-2,Gardenfors Peter and Osta{-}V\'{e}lez Mat\'{i}as,Reasoning with Concepts: A Unifying Framework,2023
+TINSNT,Erkan Tin and Varol Akman,Situated Nonmonotonic Temporal Reasoning with Baby-Sit,1997
+HUDTA,Ivan Hu,Defeasible Tolerance and the Sorites,2020
+CHAEIR-3,Jake Chandler and Richard Booth,Elementary Iterated Revision and the Levi Identity.,forthcoming
+SHIAFS-2,Shuhei Shimamura,A First-Order Sequent Calculus for Logical Inferentialists and Expressivists,2019
+BRERMI,Gerhard Brewka,Representing Meta-Knowledge in Poole-Systems,2001
+ECAHAA,Paulo Alexandre E. Castro,Happiness and Are You Lost in the World Like Me? A Brief Philosophical Analysis of Steve Cutts? Animated Films,2022
+CAUTEB,Robert L. Causey,The Epistemic Basis of Defeasible Reasoning,1991
+BILPPL,David Billington and Andrew Rock,Propositional Plausible Logic: Introduction and Implementation,2001
+COLHJA,Timothy R. Colburn,"Heuristics, Justification, and Defeasible Reasoning",1995
+WHICMA-2,Graham White,"Causality, Modality, and Explanation",2008
+LIUAIB,F. Liu and O. Roy,Advances in Belief Dynamics: Introduction,2010
+FANNRB,Tuan{-}Fang Fan and I. {-}Peng Lin and Churn{-}Jung Liau,Nonmonotonic Reasoning Based on Incomplete Logic,1997
+ROTOCO,Hans Rott,Odd Choices: On the Rationality of Some Alleged Anomalies of Decision and Inference,2011
+HAWUIA,James Hawthorne,A Semantic Approach to Non-Monotonic Conditionals,1988
+ANTDRA,G. Aldo Antonelli,Defeasible Reasoning as a Cognitive Model,1996
+Godinez2019-GARELD-7,Miguel Garcia{-}Godinez,El Lugar de la L\'{o}gica En El Razonamiento Jur\'{i}dico,2019
+NAKOTR-2,K. Nakamatsu and A. Suzuki,On the Relation Between Nonmonotonic Atms and Alpsn,1995
+EBERRT,Lanny O. Ebenstein,Routledge Revivals: The Greatest Happiness Principle (1986): An Examination of Utilitarianism,1991
+ZHOABL,Beihai Zhou and Yi Mao,A Base Logic for Default Reasoning,2006
+GLAAOT,Stephen Murray Glaister,Aspects of the Theory of Qualitative Rational Belief Change,1999
+MAIWSF,Frederick Maier and Donald Nute,Well-Founded Semantics for Defeasible Logic,2010
+FERTYS,Tim Fernando,The Yale Shooting Problem,manuscript
+MIZATO,Masaharu Mizumoto,A Theory of Knowledge and Belief Change - Formal and Experimental Perspectives,2011
+ROTSWZ,Hans Rott,"Seltsame Wahlen. Zur Rationalit\""{a}t Vermeintlicher Anomalien Beim Entscheiden Und Schlussfolgern",2009
+CHAMMA-4,Nick Chater,Mental Models and Nonmonotonic Reasoning,1993
+STANTA,Zbigniew Stachniak,Nonmonotonic Theories and Their Axiomatic Varieties,1995
+AUGLIK,Luis M. Augusto,Logic in Knowledge Representation and Reasoning: Central Topics Via Readings.,manuscript
+CORTTC,Thomas R. Corwin,The Threshold-Versus-Duration Curve is Nonmonotonic,1984
+ALLLIA,Patrick Allo,Local Information and Adaptive Consequence,2006
+BRIAPA-2,K. Britz,A Power Algebra for Theory Change,1999
+POLOAA,John Pollock,Oscar: An Agent Architecture Based on Defeasible Reasoning,manuscript
+PATHAS-4,Allo Patrick,Hard and Soft Logical Information,2017
+FORHNR-2,Marilyn Ford,Human Nonmonotonic Reasoning: The Importance of Seeing the Logical Strength of Arguments,2005
+CLANR,Peter Clark,"Nonmonotonic Reasoning , Argumentation and Machine Learning 1 Introduction",1990
+TABHPC,Pedro Alexis Tabensky,"Happiness: Personhood, Community, Purpose",2003
+CROACT,Charles B. Cross,A Correction to ?Nonmonotonic Inconsistency? [Artificial Intelligence 149 (2003) 161?178],2004
+ROTDIF,Hans Rott,Drawing Inferences From Conditionals,1997
+POWUHA,Michael J. Power,Understanding Happiness: A Critical Review of Positive Psychology,2015
+PEAEOP,Sandra J. Peart,"Economists on Private Incentives, Economic Models, and the Administrative State: The Clash Between Happiness and the so-Called Public Good",2021
+COLDRA,Timothy R. Colburn,Defeasible Reasoning and Logic Programming,1991
+MANFTO-3,Bernard Mandeville and Irwin Primer,"Free Thoughts on Religion, the Church \& National Happiness",2001
+TURPIT-3,Giacomo Turbanti,Perspectives in the Interpretation of Defeasible Reasoning,2014
+BENPAN-2,van Jfak Benthem,Partiality and Non-Monmotonicity in Classical Logic,1986
+CROBRN,Charles B. Cross,"Belief Revision, Non-Monotonic Reasoning, and the Ramsey Test",1990
+EGBACO,Purissima Emelda Egbekpalu,Aristotelian Concept of Happiness (Eudaimonia) and its Conative Role in Human Existence: A Critical Evaluation,2021
+EMMCLV,Parker Emmerson,Cohesive Logic Vectors,manuscript
+ANTNR,Marek A. Suchenek,Nonmonotonic Reasoning,2001
+VANDAI-6,Donovan van der Haak,"Death Anxiety, Immortality Projects and Happiness: A Utilitarian Argument Against the Legalization of Euthanasia",2021
+HAWOTL-2,James Hawthorne,On the Logic of Nonmonotonic Conditionals and Conditional Probabilities: Predicate Logic,1998
+GRATMH-2,Johan J. Graafland,"The Market, Happiness, and Solidarity: A Christian Perspective",2010
+VALBRA-2,Alvaro del Val,Belief Revision and Update,1993
+GROUAS,Benjamin Nathan Grosof,Updating and Structure in Nonmonotonic Theories,1993
+HENKRA,Kyburg Henry E. and Loui Ronald P. and Carlson Greg N.,Knowledge Representation and Defeasible Reasoning,1990
+LEATML,David Elden Leasure,The Modal Logic Z Applied to Lifschitz's Benchmark Problems for Formal Nonmonotonic Reasoning,1993
+WANDMB,Heinrich Wansing,"David Makinson, Bridges From Classical to Nonmonotonic Logic, Texts in Computingvox. 5, King's College Publications, London, 2005. Xvi + 216 Pp. Isbn 1-904987-00-",2006
+HOSMDB,Hykel Hosni,"Makinson David. Bridges From Classical to Nonmonotonic Logic. Text in Computing, Vol. 5. King's College, London, 2005, Xvi+ 216 Pp",2006
+BULROJ,Eugenio Bulygin,Review of Jaap Hage's Law and Defeasibility,2003
+ANTRDM,G. Aldo Antonelli,"Review: Dov M. Gabbay, C. J. Hogger, J. A. Robinson, D. Nute, Handbook of Logic in Artificial Intelligence and Logic Programming, Volume 3, Nonmonotonic Reasoning and Uncertain Reasoning",2000

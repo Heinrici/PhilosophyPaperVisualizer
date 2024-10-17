@@ -1,0 +1,330 @@
+ID,Author,Title,Year
+CHATSA,David J. Chalmers,The Singularity: A Philosophical Analysis,2010
+BROIWR,Rodney A. Brooks,Intelligence Without Representation,1991
+DREWCC,Hubert L. Dreyfus,What Computers Can?T Do: The Limits of Artificial Intelligence,1972
+PENTEN-3,Roger Penrose,"The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics",1999
+WINUCA,Terry Winograd and Fernando Flores,Understanding Computers and Cognition: A New Foundation for Design,1987
+CLAMPC,Andy Clark,"Microcognition: Philosophy, Cognitive Science, and Parallel Distributed Processing",1989
+MINSIP,Marvin Lee Minsky,Semantic Information Processing,1968
+CLAMAI-4,Andy Clark,Mindware: An Introduction to the Philosophy of Cognitive Science,2001
+SANME,Michael Anderson and Susan Leigh Anderson,Machine Ethics,2011
+POLHTB,John L. Pollock,How to Build a Person: A Prolegomenon,1989
+SCHCAL-12,Eric Schwitzgebel and David Schwitzgebel and Anna Strasser,Creating a Large Language Model of a Philosopher,2023
+FACAAA,Marco Facchin and Giacomo Zanotti,Affective Artificial Agents as Sui Generis Affective Artifacts,2024
+CHAHPR-2,David J. Chalmers and Robert M. French and Douglas R. Hofstadter,"High-Level Perception, Representation, and Analogy:A Critique of Artificial Intelligence Methodology",1992
+PUTTML,Hilary Putnam,The Mental Life of Some Machines,1966
+MCCAMQ,John McCarthy,Ascribing Mental Qualities to Machines,1979
+DREEOC,Eric Drexler,Engines of Creation,1986
+MCDAIM,Drew McDermott,Artificial Intelligence Meets Natural Stupidity,1981
+SHECMA-6,Henry Shevlin,"Consciousness, Machines, and Moral Status",manuscript
+HOODOM,Sidney Hook,Dimensions of Mind: A Symposium.,1960
+ANDMAM-4,Alan Ross Anderson,Minds and Machines,1964
+EMMDAR,Claus Emmeche,Does a Robot Have an Umwelt?,
+RAPSSC,William J. Rapaport,"Semiotic Systems, Computers, and the Mind: How Cognition Could Be Computing",2012
+TURIMA,A. M. Turing,"Intelligent Machinery, a Heretical Theory",1996
+MCLOTM,Brian P. McLaughlin and David Rose,On the Matter of Robot Minds,forthcoming
+TAUCAC,M. Taube,Computers and Common Sense: The Myth of Thinking Machines,1961
+WHECIC,Michael Wheeler,"Cognition in Context: Phenomenology, Situated Robotics and the Frame Problem",2008
+DELPEW-2,Craig DeLancey,Passionate Engines: What Emotions Reveal About the Mind and Artificial Intelligence,2001
+PREVIT,John Mark Bishop and John Preston,Views Into the Chinese Room: New Essays on Searle and Artificial Intelligence,2002
+KURTAO-3,Ray Kurzweil,The Age of Intelligent Machines,1990
+COPNVW-3,B. Jack Copeland,Narrow Versus Wide Mechanism: Including a Re-Examination of Turing?s Views on the Mind-Machine Issue,2000
+BERCIC,Bernard J. Baars and Stan Franklin,Consciousness is Computational: The Lida Model of Global Workspace Theory,2009
+DREMAT,Fred Dretske,Machines and the Mental,1985
+CHEAC,Antonio Chella and Riccardo Manzotti,Artificial Consciousness,2007
+SLOWSO-5,Aaron Sloman and L. Jonathan Cohen,What Sorts of Machines Can Understand the Symbols They Use?,1986
+LEVSW-2,Neil Levy,Searle?s Wager,2011
+BUTSOC-3,Patrick Butlin,Sharing Our Concepts with Machines,2021
+EKLAAA,Matti Eklund,Ai and Alien Languages,manuscript
+STARCA,Bernd Carsten Stahl,Responsible Computers? A Case for Ascribing Quasi-Responsibility to Computers Independent of Personhood or Agency,2006
+BICLOR,Mark H. Bickhard,Levels of Representationality,1998
+DRETM,Eric Drexler,Thinking Machines,1986
+DIEHS,Eric Dietrich,Homo Sapiens 2.0 Why We Should Build the Better Robots of Our Nature,2011
+HOGDAU,Mark Hogarth,Deciding Arithmetic Using Sad Computers,2004
+GRZLAN,Alex Grzankowski and Stephen M. Downes and Patrick Forber,Llms Are Not Just Next Token Predictors,manuscript
+DENCMT,Daniel C. Dennett,Can Machines Think?,1984
+RONSP,Ron Chrisley,Synthetic Phenomenology,2009
+GRZRSO,Alex Grzankowski,Real Sparks of Artificial Intelligence and the Importance of Inner Interpretability,forthcoming
+DREWCM,Hubert L. Dreyfus,Why Computers Must Have Bodies in Order to Be Intelligent,1967
+SAHSAE,Baljinder Sahdra and Paul R. Thagard,Self-Deception and Emotional Coherence,2003
+KINMLA,Owen C. King,Machine Learning and Irresponsible Inference: Morally Assessing the Training Data for Image Recognition Systems,2019
+RORART,Richard Rorty,A Reply to Dreyfus and Taylor,1980
+VANRP,Simon van Rysewyk,Robot Pain,2014
+MAYCMT,W. Mays,Can Machines Think?,1952
+POPALA,Elena Popa,Artificial Life and ?Nature?s Purposes?: The Question of Behavioral Autonomy,2019
+ASHTNS,W. R. Ashby,The Nervous System as Physical Machine: With Special Reference to the Origin of Adaptive Behaviour,1947
+KIRFOA,David Kirsh,Foundations of Ai: The Big Issues,1991
+CORVOJ,David Corfield,Varieties of Justification in Machine Learning,2010
+HAKRAA,"Raul Hakli and Pekka M\""{a}kel\""a","Robots, Autonomy, and Responsibility",2016
+RINPPI,Martin Ringle,Philosophical Perspectives in Artificial Intelligence,1979
+DENDHC,Daniel C. Dennett,Did Hal Committ Murder?,1997
+DARAIA-2,Lindley Darden,Artificial Intelligence and Philosophy of Science: Reasoning by Analogy in Theory Construction,1982
+DRECIB,Fred Dretske,Can Intelligence Be Artificial?,1993
+STAACM,Janusz A. Starzyk and Dilip K. Prasad,A Computational Model of Machine Consciousness,2011
+BRICIN,Selmer Bringsjord,Cognition is Not Computation: The Argument From Irreversibility,1997
+WRIIAN,Crispin Wright,Intuitionists Are Not (Turing) Machines,1995
+SCRTCR,Michael Scriven,The Compleat Robot: A Prolegomena to Androidology,1960
+DIEEOT-2,Eric Dietrich and Chris Fields,Equivalence of the Frame and Halting Problems,2020
+MANEAM,Alex Vereschagin and Mike Collins and Pete Mandik,Evolving Artificial Minds and Brains,2007
+RITSEC,Graeme Ritchie,Some Empirical Criteria for Attributing Creativity to a Computer Program,2007
+NANSBT,Bence Nanay,Symmetry Between the Intentionality of Minds and Machines? The Biological Plausibility of Dennett?s Account,2006
+MOOPAA,Todd C. Moody,Philosophy and Artificial Intelligence,1993
+CASIMA-2,Hector{-}Neri Castan?eda,"Intentionality, Minds and Perception",1966
+SEACCT-2,John R. Searle,Can Computers Think?,2002
+KUGCMC-2,Peter Kugel,Computing Machines Can't Be Intelligent (...And Turing Said So),2002
+HARWAA-2,Rom Harre,Wittgenstein and Artificial Intelligence,1988
+PUTTML-2,Hilary Putnam,The Mental Life of Some Machines,1966
+THAPAM,Paul Thagard,Philosophy and Machine Learning,1990
+BURLCA,Arthur W. Burks,"Logic, Computers, and Men",1972
+KARHWY,Michael Kary and Martin Mahner,How Would You Know If You Synthesized a Thinking Thing?,2002
+RUDWCC,Lynne Rudder Baker,Why Computers Can't Act,1981
+ISHASC,Hiroshi Ishiguro,Android Science: Conscious and Subconscious Recognition,2006
+AMIWAC,Reza Amini and Catherine Sabourin and Joseph De Koninck,Word Associations Contribute to Machine Learning in Automatic Scoring of Degree of Emotional Tones in Dream Reports,2011
+RAPCPA,William J. Rapaport,"Computer Processes and Virtual Persons: Comments on Cole's ""Artificial Intelligence and Personal Identity""",1990
+WANOPA,Hao Wang,On Physicalism and Algorithmism: Can Machines Think?,1993
+RAPBMC,William J. Rapaport,Because Mere Calculating Isn't Thinking: Comments on Hauser's \emph{Why Isn't My Pocket Calculator a Thinking Thing?},1993
+HAUWIM,Larry Hauser,Why Isn't My Pocket Calculator a Thinking Thing?,1993
+PYLCAT-2,Zenon W. Pylyshyn,Computers and the Symbolization of Knowledge,unknown
+BLUMPC-2,Paul Richard Blum,Michael Polanyi: Can the Mind Be Represented by a Machine?,2010
+GAMMVC,Matjaz Gams,Mind Versus Computer: Were Dreyfus and Winograd Right?,1997
+TALWTM,Raymond Tallis,Why the Mind is Not a Computer: A Pocket Lexicon of Neuromythology,2004
+ASHCAM,W. Ross Ashby,Can a Mechanical Chess-Player Outplay its Designer?,1952
+BRIICP,Selmer Bringsjord,"In Computation, Parallel is Nothing, Physical Everything",2001
+GLYAEC,Clark Glymour,"Android Epistemology: Computation, Artificial Intelligence",1992
+BRIMFC,Selmer Bringsjord,Meeting Floridi's Challenge to Artificial Intelligence From the Knowledge-Game Test for Self-Consciousness,2010
+MACTUO,Donald M. Mackay,The Use of Behavioural Language to Refer to Mechanical Processes,1962
+HELOBA-2,Grace Helton,"On Being a Lonely Brain-in-a-Vat: Structuralism, Solipsism, and the Threat From External World Skepticism",2024
+KINLIT-3,Amy Kind,Love in the Time of Ai,2021
+DIEAAT-2,Eric Dietrich,Ai and the Mechanistic Forces of Darkness,1995
+STRTAC-7,Anna Strasser and Michael Wilby,The Ai-Stance: Crossing the Terra Incognita of Human-Machine Interactions?,2022
+BREHDH,Philip Brey,Hubert Dreyfus: Humans Versus Computers,2001
+PREHAA,Beth Preston,Heidegger and Artificial Intelligence,1993
+KOBIAA,Bernard W. Kobes,Individualism and Artificial Intelligence,1990
+MORCCE,John Morris,Can Computers Ever Lie?,1976
+WILCCA-11,Robert Wilensky,"Computers, Cognition and Philosophy",1980
+JOHWST,Deborah Johnson,Who Should Teach Computer Ethics and Computers \& Society?,1994
+BICATA-3,Mark H. Bickhard,"Automata Theory, Artificial Intelligence and Genetic Epistemology",1982
+KENHLD,Setargew Kenaw,Hubert L. Dreyfus?s Critique of Classical Ai and its Rationalist Assumptions,2008
+BUNDCT,Mario Bunge,Do Computers Think? (I),1956
+COLRTS,Harry M. Collins,Response to Selinger on Dreyfus,2008
+CASTQF,David Casacuberta Sevilla,The Quest for Artificial Wisdom,2013
+BOSTSW,Nick Bostrom,The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents,2012
+DEDBC,Don Dedrick,{[}Book Chapter],1998
+HARCLW,David Harel,Computers Ltd: What They Really Can't Do,2003
+PREWAC-13,John Preston,What Are Computers (If They're Not Thinking Things)?,2012
+REYTTT-2,Georges Rey,The Turing Thesis Vs. The Turing Test,2012
+DIECSA-2,Eric Dietrich,"Cognitive Science and the Mechanistic Forces of Darkness, or Why the Computational Science of Mind Suffers the Slings and Arrows of Outrageous Fortune",2000
+MINWPT,Marvin L. Minsky,Why People Think Computers Can't,1982
+ALEAAC,Igor Aleksander and Susan Stuart and Tom Ziemke and Ron Chrisley and Uziel Awret,Assessing Artificial Consciousness,2008
+HOFCMT,Achim Hoffmann,Can Machines Think? An Old Question Reformulated,2010
+FRIWAT,Julian Friedland,Wittgenstein and the Aesthetic Robot's Handicap,2005
+UPKTIG,Pawe\l \L{}upkowski and Andrzej Wi\'{s}niewski,Turing Interrogative Games,2011
+DIETCA-4,Eric Dietrich,Thinking Computers and the Problem of Intentionality,1994
+MOLSAA-6,Warmhold Jan Thomas Mollema,Social Ai and the Equation of Wittgenstein?s Language User with Calvino?s Literature Machine,2024
+PYLMMA,Zenon W. Pylyshyn,"Minds, Machines and Phenomenology: Some Reflections on Dreyfus' \emph{What Computers Can't Do}",1974
+ARBBTP,Michael A. Arbib,Beware the Passionate Robot,2004
+DENCE-3,Daniel C. Dennett,Cognitive Ethology,1989
+MARWCA-4,Dr Peter J. Marcer,Why Computers Are Never Likely to Be Smarter Than People,1989
+GOLTVI,Sanford C. Goldberg,The Very Idea of Computer Self-Knowledge and Self-Deception,1997
+KRILTC,Daya Krishna,?Lying? and the Compleat Robot,1961
+BRIPO_,Selmer Bringsjord,Precis of \emph{What Robots Can and Can't Be},1994
+RESCPA-2,Ricardo Restrepo,"Computers, Persons, and the Chinese Room. Part 1: The Human Computer",2012
+BUNDCT-2,Mario Bunge,Do Computers Think? (Ii),1956
+OXEWCA,Richard Oxenberg,Why Computers Are Not Intelligent: An Argument,2017
+DIEASC,Eric Dietrich,"Ai, Situatedness, Creativity, and Intelligence; or the Evolution of the Little Hearing Bones",1996
+LONWMC,Douglas C. Long,Why Machines Can Neither Think nor Feel,1994
+DIEEBB,Eric Dietrich,"Banbury Bound, or Can a Machine Be Conscious?",2001
+BERYGL,Jacob Berger and Kyle Ferguson,'You Gotta Listen to How People Talk': Machines and Natural Language,2009
+COGATM,Jon Cogburn and Jason Megil,Are Turing Machines Platonists? Inferentialism and the Computational Theory of Mind,2010
+RESCPA-3,Ricardo Restrepo,"Computers, Persons, and the Chinese Room. Part 2: Testing Computational Cognitive Science",2012
+WHOMMA,Darren Whobrey,Machine Mentality and the Nature of the Ground Relation,2001
+SHAHWK,Michael G. Shafto,How We Know,1984
+SCHORA,C. T. A. Schmidt,Of Robots and Believing,2005
+JWRD,Jason L. Megill,What Role Do the Emotions Play in Cognition? Towards a New Alternative to Cognitive Theories of Emotion,2003
+PROTIO,Diane Proudfoot,The Implications of an Externalist Theory of Rule-Following Behavior for Robot Cognition,2004
+CLATMA,J. J. Clarke,Turing Machines and the Mind-Body Problem,1972
+HAUAIA,L. Hauser,"Acting, Intending, and Artificial Intelligence",1994
+BOSTIM,Nick Bostrom,Taking Intelligent Machines Seriously: Reply to Critics,2003
+DENCMT-2,Daniel C. Dennett,Can Machines Think?,1984
+LINTPO,Richard Lind,The Priority of Attention: Intentionality for Automata,1986
+WISSMI-2,J. O. Wisdom and R. J. Spilsbury and D. M. Mackay,Symposium: Mentality in Machines,1952
+CHEMAP,Christopher Cherry,Machines as Persons? - I,1991
+ROSMSF,Don Ross,Minimal Strong Functionalism,1995
+PINDMT,Leonard Pinsky,Do Machines Think About Machines Thinking?,1951
+VEROSN-2,Shourya Verma,Organoid Sentience,manuscript
+HALGOT-4,Alex V. Halapsis,Gods of Transhumanism,2019
+WHEGRA-2,Billy Wheeler,"Giving Robots a Voice: Testimony, Intentionality, and the Law",2017
+SEADCT,John Searle,Do Computers Think?,2000
+FISANO,Mark Fisher,A Note on Free Will and Artificial Intelligence,1983
+DAMMMT,Lisa Damm,Moral Machines: Teaching Robots Right From Wrong,2012
+DIEAAT,Eric Dietrich,"Ai and the Tyranny of Galen, or Why Evolutionary Psychology and Cognitive Ethology Are Important to Artificial Intelligence",1994
+BODCAR,Margaret A. Boden,Could a Robot Be Creative--And Would We Know?,1995
+HALNAI,J. Storrs Hall,Nano-Enabled Ai,2006
+LSZLAS,L.?szl? Ropolyi,Life-Worlds and Social Relations in Computers,1999
+STITPA-2,Brian Stipak,Teaching Public Administators About Computers,1985
+WEIOTI,Paul A. Weiss,On the Impossibility of Artificial Intelligence,1990
+RATHLD,Model Of Rationality,Hubert L. Dreyfus and Stuart E. Dreyfus,1978
+GOMFCS,Antoni Gomila,From Cognitive Systems to Persons,1995
+ALEIMF,Igor Aleksander and Helen B. Morton,Informational Minds: From Aristotle to Laptops (Book Extract),2011
+MORCAB-2,Harold Morowitz,Computers and Biology,2003
+HERCMA-2,Marcel Herbst,Chess Metaphors: Artificial Intelligence and the Human Mind,2015
+PUCCHT,Roland Puccetti,Can Humans Think?,1966
+WOOTFC-3,D. Wood,The First Computers-History and Architectures,2003
+GAUCAM,Alan Gauld,Could a Machine Perceive?,1966
+CLACAU,Timothy Clark,Computers as Universal Mimics,1985
+SCHCAS-14,Schick,Computers and Self-Knowledge,1989
+MCNCOC,Paul McNamara,Comments on Can Intelligence Be Artificial?,1993
+WAIAHT,Eldon C. Wait,"Analecta Husserliana: The Yearbook of Phenomenological Research, Volume Xd:Artificial Intelligence;Experience;Premise;Searle, John R",2006
+FLYDD,Bent Flyvbjerg,Dreyfus \& Dreyfus: Opretholdelse Af Ikke-Rationaliserede Praksisser,1991
+ROTVAA,V. S. Rotenberg,Variations and Active Versus Reactive Behavior as Factors of the Selection Processes,2001
+TERRPC,Dartnall Terry,"Reverse Psychologism, Cognition and Content",2000
+BATCAL,Yves Battagion,Computers and Life Styles,1994
+DROCAT,Adam Drozdek,Computers and the Mind-Body Problem: On Ontological and Epistemological Dualism,1993
+GUNMAM-2,Keith Gunderson,"Mentality and Machines, Second Edition",1985
+LAYSCC,Ronald E. Laymon,Some Computers Can Add (Even If the Ibm 1620 Couldn't): Defending Eniac's Accumulators Against Dretske,1988
+SRZCMT,Jan Srzednicki,Could Machines Talk?,1962
+NEWCIP,Alan Newell and Herbert A. Simon,Computers in Psychology,1963
+BONDOT-3,Kimberly Bonia and Fern Brunger and Laura Fullerton and Chad Griffiths and Chris Kaposy and Barbara Mason,Dako on Trial,2012
+GOGDAT,Daniel Gogol,Determinism and the Predicting Machine,1970
+DONBAB,Donald Perlis,Bica and Beyond: How Biology and Anomalies Together Contribute to Flexible Cognition,2010
+FULCMA,James S. Fulton,Computing Machines and Minds,1957
+KEIBED,Geert Keil,"\""{U}ber Ein Die Maschinenmetapher des Menschen Betreffendes Mi\s{s}verst\""{a}ndnis",1993
+HEFSDA,James D. Heffernan,Some Doubts About Turing Machine Arguments,1978
+VANCAT-4,Tim van Gelder,Connectionism and the Mind-Body Problem: Exposing the Distinction Between Mind and Cognition,1993
+JAMLMA-2,Dale W. Jamieson,"Language, Mind and Art",1994
+HANMMA-3,Hans G. Andersson,"Man, Machine and Creativity",1989
+MACMBI,Donald M. Mackay,Mind-Life Behavior in Artifacts,1951
+PANOTI,D. Iu Panov,On the Interaction of Man and Machine,1967
+GOTGBJ,G. M. Gottfried and S. Traiger,"Graham Button, Jeff Coulter, John Re Lee, and Wes Sharrock, Computers, Minds, and Conduct",1997
+SHAIDM-3,Wes Sharrock and Wil Coleman,It Don't Mean a Thing: On What Computers Have to Say,2000
+ALEWTA-2,Igor Aleksander,Workspace Theories Are Alive and Well,2011
+DREPCI,Hubert Dreyfus and Stuart Dreyfus,Putting Computers in Their Place,1986
+GEIYAW,H. Geirsson,"Yorick A. Wilks, Brian M. Slater, and Louise M. Guthrie, Electric Words: Dictionaries, Computers and Meanings",1997
+KINMLA-2,Owen C. King,Machine Learning and Irresponsible Inference: Morally Assessing the Training Data for Image Recognition Systems,2019
+CLAHSC,William Clancey,How Situated Cognition is Different From Situated Robotics,1995
+MILDRB,Ralph R. Miller and Francisco Arcediano,Differentiating Robotic Behavior and Artificial Intelligence From Animal Behavior and Biological Intelligence: Testing Structural Accuracy,2001
+WAIWCC,Eldon C. Wait,What Computers Could Never Do,2006
+KAICAC-2,Howard P. Kainz,Certain Angelic Characteristics of Computers,1993
+MANWSH,Rita C. Manning,Why Sherlock Holmes Can't Be Replaced by an Expert System,1987
+BCKECT,Thomas B.?ck,Evolutionary Computation: Toward a New Philosophy of Machine Intelligence,1997
+CROACT,Charles B. Cross,A Correction to ?Nonmonotonic Inconsistency? [Artificial Intelligence 149 (2003) 161?178],2004
+GOLMAM,Stuart Goldkind,Machines and Mistakes,1982
+KOWAEI-2,Ludwik Kowalski,An Exploration Into Teaching with Computers,1995
+SELCID,Evan Selinger,Collins?s Incorrect Depiction of Dreyfus?s Critique of Artificial Intelligence,2008
+ALBCOH,Rogers Albritton,Comments on Hilary Putnam's Robots: Machines or Artificially Created Life,1964
+GAGIAS,Salvatore Gaglio,Intelligent Artificial Systems,2007
+KELTOS,John Kelly,The Ontological Status of Computers or What is a Computer?,1992
+CHEHB-2,Christopher Cherry,Human Beings,1991
+SAYIBA,Kenneth M. Sayre,"Intelligence, Bodies, and Digital Computers",1968
+CAMAPA-2,Richmond Campbell and Alexander Rosenberg,"Action, Purpose, and Consciousness Among the Computers",1973
+ROPLAS,L\'{a}szl\'o Ropolyi,Life-Worlds and Social Relations in Computers,1999
+HARANJ,George Harris,A New Journey Into Hofstadter?s Mind,web
+LANMTE,Jaron Lanier,Mindless Thought Experiments (a Critique of Machine Intelligence),manuscript
+ALLEAM-2,Henri Allan,Ends and Meaning in Machine-Like Systems,1992
+BODAE,Margaret A. Boden,Android Epistemology,1995
+GEOWCC,Geoffrey Hunter,What Computers Can't Do,1988
+MILMAT-4,Peter J. R. Millican and Andy Clark,"Machines and Thought: The Legacy of Alan Turing, Volume I",1996
+WALCCT,Mitchell Waldrop,Can Computers Think?,1990
+FOZPMO,P. J. Fozzy,Professor Mackay on Machines,1963
+CERTBT,P. Ceruzzi,Talking Back to the Machine: Computers and Human Aspiration,1999
+RYCAIA,Joseph F. Rychlak,Artificial Intelligence and Human Reason: A Teleological Critique,1991
+HAUTSO,Larry Hauser,The Sense of Thinking,1993
+TILEKI,J. E. Tiles and G. T. McKee and G. C. Dean,Evolving Knowledge in Natural Science and Artificial Intelligence,1990
+BEATDS,Luc Patrick Beaudoin,"The Designer Stance Towards Shanahan's Dynamic Network Theory of the ""Conscious Condition""",2011
+HRSMAC,Peter \O{}hrstr\o{}m,Minds and Computers,2009
+ROBFMA-2,Daniel N. Robinson,"Faculties, Modules, and Computers",1985
+CULIVC,Jamie Cullen,Imitation Versus Communication: Testing for Human-Like Intelligence,2009
+ANDPIC,Daniel Andler,Phenomenology in Cognitive Science and Artificial Intelligence,2006
+OLDEC,Joseph D. Oldham,Examining Computers \& Society 1970--2008,2009
+COHCTB,L. Jonathan Cohen,Can There Be Artificial Minds?,1955
+FERTMS,Timothy Ferris,The Mind's Sky: Human Intelligence in a Cosmic Context,1992
+JONANO-3,Bill Jones,A Note on Alan Gauld's 'Could a Machine Perceive?',1969
+MAHCAM-2,Michael S. Mahoney,Computers and Mathematics: The Search for a Discipline of Computer Science,1992
+PHIDCH,Michael Philips,Do Computers Have Syntax?,2002
+LANTOT,Jaron Lanier,Three Objections to the Idea of Artificial Intelligence,1998
+COPWTD,Diane Proudfoot and Jack Copeland,What Turing Did After He Invented the Universal Turing Machine,2000
+NEGCAT,Glenn Negley,Cybernetics and Theories of Mind,1951
+KISTIE,Andrey Kiselev and Benjamin Alexander Hacker and Thomas Wankerl and Niyaz Abdikeev and Toyoaki Nishida,Toward Incorporating Emotions with Rationality Into a Communicative Virtual Agent,2011
+SCRTSA,Michael Scriven,The Supercomputer as Liar,1962
+MINMMM,Marvin L. Minsky,"Matter, Minds, Models",1968
+WILDD-6,Yorick Wilks,Dreyfus's Disproofs,1976
+FRECAD,Frank R. Freemon,Computers Are Dumb,1979
+SAALAA,D. J. Saab and U. V. Riss,Logic and Abstraction as Capabilities of the Mind: Reconceptualizations of Computational Approaches to the Mind,2010
+BEIDOO,David Beisecker,Dennett?s Overlooked Originality,2006
+IGOIOL,Igor Aleksander and David Gamez and Helen Morton,Information or Logic in Modeling Conscious Systems?,2009
+BURCAC,Arthur W. Burks,Computers and Control in Society,2006
+ROBREA,William S. Robinson,"Rationalism, Expertise, and the Dreyfuses' Critique of Ai Research",1991
+ONETCA,Ray H. O'Neal,The Computers and Society Agora,1997
+BREAPO,Philip Brey,American Philosophy of Technology: The Empirical Turn,2001
+GOMAE,Antoni Gomila,Android Epistemology,1995
+KUCAWC,John{-}Michael Kuczynski,Are We Computers?: A Wittgensteinian Approach,2003
+COLRIC,Allan Collins and Edward E. Smith,"Readings in Cognitive Science, a Perspective From Psychology and Artificial Intelligence",1988
+ALEIIT,Alexei V. Samsonovich,Is It Time for the New Cognitive Revolution?,2010
+MORAAC-5,Harold Morowitz,Acronyms and Computers,2002
+DREEWD,Drew Mcdermott,"Erratum: ""What Does a Sloman Want?""",2010
+PSTAEO,K. Pstruzina,An Essay on Philosophy and Computers,1995
+GARCNT,Martin Gardener,Computers Near the Threshold,1996
+CLACAP-3,Gary Clark,Computers and Philosophers,1985
+HENNPA,Tracy B. Henley,Natural Problems and Artificial Intelligence,1990
+JOSDM,W. D. Joske,Deliberating Machines,1972
+CASMAM-5,Gerard Casey,Minds and Machines,1992
+MAITEM-4,Klaus Mainzer,"The Embodied Mind: On Computational, Evolutionary, and Philosophical Interpretations of Cognition",2005
+DEMAWS,William A. Dembski,Are We Spiritual Machines?,1999
+BARTPC,Alexander Barzel,The Perplexing Conclusion: The Essential Difference Between Natural and Artificial Intelligence is Human Beings' Ability to Deceive,1998
+WHINOT,C. H. Whiteley,Note on the Concept of Mind,1955
+GUNIWA,Keith Gunderson,Interview with a Robot,1963
+CORDH,J. W. Cornman and G. Cottrell and R. Cummins and A. Cussins and L. Darden and C. Darwin and W. Demopoulos and M. Derthick and H. Gardner and M. S. Gazzaniga,"Dreyfus, Hl, 3\% Dreyfus, Se, 396",1993
+ALLWST,Jonathan P. Allen,Who Shapes the Future?: Problem Framings and the Development of Handheld Computers,1998
+NELTMA,R. J. Nelson,Turing Machine Arguments,1980
+BODMP,Margaret A. Boden,Machine Perception,1969
+KLENNU,Ellen R. Klein,Normative Naturalism Undefended: A Response to Mccauley's Reply,1992
+PRETOA,Beth Preston,The Ontological Argument Against the Mind-Machine Hypothesis,1995
+WILRAC-3,Frederick D. Wilhelmsen,Reasoning and Computers,1970
+DENTIL,Denis L. Baggi,The Intelligence Left in Ai,2000
+BELMOM,John Beloff,Minds or Machines,2002
+STOHLS,David G. Stork,Hal's Legacy: 2001'S Computer as Dream and Reality,1997
+SMIWDA-8,Evgeny Smirnov,What Does Ai Believe In?,manuscript
+ZIETCO,Tom Ziemke,The Construction of 'Reality' in the Robot: Constructivist Perspectives on Situated Artificial Intelligence and Adaptive Robotics,2001
+STAROI-3,Michael Starks,Review of I Am a Strange Loop by Douglas Hofstadter (2007) (Review Revised 2019),2019
+BHUAFO,Md Majidul Haque Bhuiyan,A Framework of Ai-Powered Engineering Technology to Aid Altair Data Intelligence Start-Up Benefits; Speeding Up Data-Driven Solution,manuscript
+ERNMDM,Robin Ernstsson,"M\""{a}nniskan; den Medvetna Biologiska Maskinen.",manuscript
+GLATSR,Matthew E. Gladden,The Social Robot as ?Charismatic Leader?: A Phenomenology of Human Submission to Nonhuman Power,2014
+GUTTBA,Aaron Julian Gutknecht,The ?Bottom-Up? Approach to Mental Life - a Commentary on Holk Cruse \& Malte Schilling,2015
+SFEIDL-2,Nicolae Sfetcu,"Inteligen?a, de la Originile Naturale la Frontierele Artificiale - Inteligen?a Uman\ua Vs. Inteligen?a Artificial\ua",2024
+SFEIFN,Nicolae Sfetcu,"Intelligence, From Natural Origins to Artificial Frontiers - Human Intelligence Vs. Artificial Intelligence",2024
+PINLSA-2,Jean{-}Jacques Pinto,La Subjectivit\'e Artificielle : \'{E}bauche d'Un Projet de Recherche,manuscript
+KEATMS,John T. Kearns,Thinking Machines: Some Fundamental Confusions,1997
+CLAWTC,William J. Clancey,Why Today?s Computers Don?T Learn the Way People Do,1991
+ALALOI,S. Alam,Limitation of 'Intelligence Tests',1989
+MCCSCC,Gerard McCartney,Some Considerations Concerning Computers,1983
+COOICB,Michael Cooper,Interdisciplinary Communication by Plausible Analogies: The Case of Buddhism and Artificial Intelligence,2022
+CAVTCO-2,Robert J. Cavalier,The Convergence of Philosophy and Computers,1986
+DUCWIC,W\l{}odzis\l{}aw Duch,What is Computational Intelligence and Where is It Going?,2007
+FELCDR,Sandro Rinaldi Feliciano,Cr\'{i}tica da Raz\~{a}o Positr\^{o}nica,2018
+WALNMF,Rodrick Wallace,New Mathematical Foundations for Ai and Alife: Are the Necessary Conditions for Animal Consciousness Sufficient for the Design of Intelligent Machines?,2006
+LAWPRA-6,Joey Lawsin,Generated Interim Emergence: The Single Theory of Everything,manuscript
+HAYAIC,Jonathan Hayward,"Artificial Intelligence, Cognitive Science, and Orthodox Views on Personhood",2004
+HARVMM,Stevan Harnad,Verifying Machines' Minds,1984
+DELEAI,Pierre De Loor and Kristen Manac?H. and Jacques Tisseau,Enaction-Based Artificial Intelligence: Toward Co-Evolution with Humans in the Loop,2009
+ALLKVD,Patrick Allo,"Kees van Deemter: Not Exactly: In Praise of Vagueness: Oxford University Press, Oxford, 2010, Xvi+341, \$29.95, Isbn: 0-199-5459-01",2012
+RONIIN,E. Ronald and Moshe Sipper,Intelligence is Not Enough: On the Socialization of Talking Machines,2001
+HOLTMO-5,Maurice R. Holloway,"""The Modeling of Mind: Computers and Intelligence,"" Ed. Kenneth M. Sayre and Frederick J. Crosson",1965
+RADCAG-2,Roy Rada,Computers and Gradualness: The Selfish Meme,1991
+WILRDD,Yorick Wilks,Review: Dreyfus's Disproofs,1976
+HETJFR,Marek Hetma\'{n}ski,"Joseph F. Rychlak, Artificial Intelligence and Human Reason: A Teleological Critique",1999
+FORROA-5,John M. Ford,Review of Artificial Intelligence and Human Reason: A Teleological Critique,1991
+OKRUDA,Kathleen Okruhlik,"Utopias, Dolphins, and Computers: Problems of Philosophical Plumbing Mary Midgley New York: Routledge, 1996, X + 182 Pp., \$22.95",1999
+HEIVIT,Reese M. Heitner,"Views Into the Chinese Room: New Essays on Searle and Artificial Intelligence: John Preston and Mark Bishop, Eds., Views Into the Chinese Room: New Essays on Searle and Artificial Intelligence, Oxford University Press, Oxford, 2002, Xvi + 410, Isbn 0-19-925277-7",2005
+WYAJHF-2,Richard Wyatt,"James H. Fetzer, Computers and Cognition: Why Minds Are Not Machines, Dordrecht: Kluwer, 2001, Xix + 323 Pp., \$128.00 (Hardcover), Isbn 0-792-36615-8",2003
+WILDD,Yorick Wilks,Dreyfus's Disproofs,1976
+KAPTAO-3,Maurits Kaptein and Panos Markopoulos and Boris Ruyter and Emile Aarts,Two Acts of Social Intelligence: The Effects of Mimicry and Social Praise on the Evaluation of an Artificial Agent,2011
+SAYRBH,Ayse Pinar Saygin,"Robert B. Horn (Illustrator), Jeff Yoshimi, Mark Deering, Russ Mcbride, David Fleischman (Illustrator), Thierry Didonna (Illustrator), Jennifer Wedel (Editor), Mapping Great Debates. Can Computers Think?: 7 Maps and a Handbook",2001
+MCGHLD-2,Sean Mcgrath,"Hubert L. Dreyfus and Mark A. Wrathall, Eds. A Companion to Phenomenology and Existentialism",2008
+ASPEBC-2,William Aspray,"Early British Computers: The Story of Vintage Computers and the People Who Built Them. Simon Lavingtonproject Whirlwind: The History of a Pioneer Computer. Kent C. Redmond, Thomas M. Smith",1982
+ANTBRW,Antonio Chella,"Book Review: ""World in My Mind, My Mind in the World"" by Igor Aleksander",2009
+WOEROG,Peter Woelert,"Review of Glen Mazis, Humans, Animals, Machines: Blurring Boundaries",2009
+VIRLOT,Nemoianu Virgil,"Kimball, Roger. Lives of the Mind: The Use and Abuse of Intelligence",2003
+Short1983-HOLTAI-8,Graham Hollister{-}Short,"Technology and Instruments Simon Lavington, Early British Computers: The Story of Vintage Computers and the People Who Built Them. Manchester: Manchester University Press, 1980. Pp. Iv + 139. \pounds3.95",1983
+RICHAA-5,Lee C. Rice,"""Human and Artificial Intelligence,"" Ed. Frederick J. Crosson",1971
+DOLKRT,R. G. A. Dolby,"Ken Richardson, the Making of Intelligence. Maps of the Mind. New York: Columbia University Press, 2000. Pp. Viii+210. Isbn 0-231-12004-4. \$24.95",2002
+WELWCS-2,Bob Welham,What Computers Still Can?T Do,1994

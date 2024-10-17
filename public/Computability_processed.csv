@@ -1,0 +1,501 @@
+ID,Author,Title,Year
+ROGTOR,Hartley Rogers,Theory of Recursive Functions and Effective Computability,1987
+EARAPO-2,John Earman,A Primer on Determinism,1986
+TUROCN,Alan Turing,"On Computable Numbers, with an Application to the Entscheidungsproblem",1936
+DAVCU,Martin Davis,Computability \& Unsolvability,1958
+BOOCAL-2,George Boolos and John Burgess and Richard P. and C. Jeffrey,Computability and Logic,1980
+JENCIS-2,Matthias Jenny,Counterpossibles in Science: The Case of Relative Computability,2018
+HINRH,Peter G. Hinman,Recursion-Theoretic Hierarchies,1978
+BOOCAL-4,George S. Boolos and John P. Burgess and Richard C. Jeffrey,Computability and Logic,1974
+LANWMW-2,Jobst Landgrebe and Barry Smith,Why Machines Will Never Rule the World: Artificial Intelligence Without Fear,2022
+KOEOTQ-3,Peter Koellner,"On the Question of Whether the Mind Can Be Mechanized, I: From G\""{o}del to Penrose",2018
+ROSSFA-2,H. E. Rose,Subrecursion: Functions and Hierarchies,1984
+GERCAP-2,Robert Geroch and James B. Hartle,Computability and Physical Theories,1986
+KLERPA-2,S. C. Kleene,Recursive Predicates and Quantifiers,1943
+NIECAR-2,Andr\'e Nies,Computability and Randomness,2008
+SOACAR,Robert I. Soare,Computability and Recursion,1996
+CUTCAI,Nigel Cutland,"Computability, an Introduction to Recursive Function Theory",1980
+BRACOC-4,Vasco Brattka and Guido Gherardi,Completion of Choice,2021
+DAVCCA-5,Martin Davies and Ron Segal and Elaine Weyuker,"Computability, Complexity and Languages",1994
+SMISA-6,P. Smith,Squeezing Arguments,2011
+HOGNCA,Mark Hogarth,Non-Turing Computers and Non-Turing Computability,1994
+SALTDP-2,Nathan Salm\'{o}n,The Decision Problem for Effective Procedures,2023
+ROOIAT,Iris van Rooij and Cory Wright and Todd Wareham,Intractability and the Use of Heuristics in Psychological Explanations,2012
+WOLIOC-4,David Wolpert,Implications of Computer Science Theory for the Simulation Hypothesis,manuscript
+GABASO,D. M. Gabbay and D. H. J. De Jongh,A Sequence of Decidable Finitely Axiomatizable Intermediate Logics with the Disjunction Property,1974
+TURCAD,A. M. Turing,Computability and \ensuremath{\Lambda}-Definability,1937
+STEUP-2,Tom F. Sterkenburg,Universal Prediction: A Philosophical Investigation,2018
+DERANA,Nachum Dershowitz and Yuri Gurevich,A Natural Axiomatization of Computability and Proof of Church?s Thesis,2008
+COOCT,S. Barry Cooper,Computability Theory,2003
+RESCTA,Michael Rescorla,Church's Thesis and the Conceptual Analysis of Computability,2007
+BRAEBM,Vasco Brattka,Effective Borel Measurability and Reducibility of Functions,2005
+NORPTI,Dag Normann and Sam Sanders,Pincherle's Theorem in Reverse Mathematics and Computability Theory,2020
+SOATOM,Robert I. Soare,"Turing Oracle Machines, Online Computing, and Three Displacements in Computability Theory",2009
+STEPDA-11,Tom F. Sterkenburg,Putnam?s Diagonal Argument and the Impossibility of a Universal Learning Machine,2019
+MILRAC-2,Joseph S. Miller and Andr\'e Nies,Randomness and Computability: Open Questions,2006
+COPDEA-2,B. Jack Copeland and Diane Proudfoot,Deviant Encodings and Turing?s Analysis of Computability,2010
+STESPA-12,Tom F. Sterkenburg,Solomonoff Prediction and Occam?s Razor,2016
+Trainor2020-HARCOP-8,Matthew Harrison{-}Trainor and Alexander Melnikov and Keng Meng Ng,Computability of Polish Spaces Up to Homeomorphism,2020
+WSIGOC,W. Sieg,Godel on Computability,2006
+CUFHEI,Michael E. Cuffaro,How-Possibly Explanations in (Quantum) Computer Science,2015
+SHAGOT,Oron Shagrir,Godel on Turing on Computability,2006
+AVRANV-2,Arnon Avron,A Non-Deterministic View on Non-Classical Negations,2005
+FENGRT,Jens Erik Fenstad,General Recursion Theory: An Axiomatic Approach,1980
+MOSKAS,Yiannis N. Moschovakis,Kleene's Amazing Second Recursion Theorem,2010
+COOCT-2,Barry Cooper,Computability Theory,2010
+EPSCCF,Richard L. Epstein,"Computability: Computable Functions, Logic, and the Foundations of Mathematics",2004
+SIECWD,Wilfried Sieg,Church Without Dogma: Axioms for Computability,2005
+PAUOTS-2,Arno Pauly,On the (Semi)Lattices Induced by Continuous Reducibilities,2010
+PITLDC-2,Itamar Pitowsky,Laplace's Demon Consults an Oracle: The Computational Complexity of Prediction,1996
+MYHEOO,J. Myhill and J. C. Shepherdson,Effective Operations on Partial Recursive Functions,1955
+MYHEOO-2,J. Myhill and J. C. Shepherdson,Effective Operations on Partial Recursive Functions,1955
+KUEDRA,Anton\'{i}n Ku\v{c}era and Andr\'e Nies,Demuth Randomness and Computational Complexity,2011
+AUGTVW,Luis M. Augusto,The van Wijngaarden Grammars: A Syntax Primer with Decidable Restrictions,2023
+BARCOS-11,Fausto Barbero,Complexity of Syntactical Tree Fragments of Independence-Friendly Logic,2021
+CHURMC,Jennifer Chubb and Jeffry L. Hirst and Timothy H. McNicholl,"Reverse Mathematics, Computability, and Partitions of Trees",2009
+RESCAP-4,Michael Rescorla,Copeland and Proudfoot on Computability,2012
+DOWCTA-2,Rod Downey,Computability Theory and Linear Orders,1998
+PARD-3,Matthew W. Parker,Three Concepts of Decidability for General Subsets of Uncountable Spaces,2003
+BLABMO,Francesca Zaffora Blando,Bayesian Merging of Opinions and Algorithmic Randomness,forthcoming
+SACDOU,Gerald E. Sacks,Degrees of Unsolvability,1966
+MERKRA-2,Wolfgang Merkle and Joseph S. Miller and Andr\'e Nies and Jan Reimann and Frank Stephan,Kolmogorov?Loveland Randomness and Stochasticity,2006
+El1975-POUOAS,Marian Boykan Pour{-}El and Jerome Caldwell,On a Simple Definition of Computable Function of a Real Variable-with Applications to Functions of a Complex Variable,1975
+MOORTO,Christopher Moore,Recursion Theory on the Reals and Continuous-Time Computation,1996
+MLLOTP,"Vincent C. M\""{u}ller",On the Possibilities of Hypercomputing Supertasks,2011
+BLAROG,Patrick Blackburn and Maarten Marx,Remarks on Gregory's ?Actually? Operator,2002
+SHACPA-8,Stewart Shapiro,"Computability, Proof, and Open-Texture",2006
+REIECS,Jan Reimann,Effectively Closed Sets of Measures and Randomness,2008
+KELTCT,Kevin T. Kelly and Oliver Schulte,The Computable Testability of Theories Making Uncomputable Predictions,1995
+SOACTA,Robert I. Soare,Computability Theory and Differential Geometry,2004
+Crnkovic2014-DODICA,G. Dodig{-}Crnkovic,Info-Computational Constructivism and Cognition,2014
+KOEOMA,Peter Koepke and Benjamin Seyfferth,Ordinal Machines and Admissible Recursion Theory,2009
+SHAGOT-4,Oron Shagrir,"G\""{o}del on Turing on Computability",2006
+SHACPA-4,Stewart Shapiro,"Computability, Proof, and Open-Texture",2007
+HYLFSA,J. M. E. Hyland,Filter Spaces and Continuous Functionals,1979
+JAPTAT,Giorgi Japaridze,Towards Applied Theories Based on Computability Logic,2010
+AVIARR,Jeremy Avigad and Edward T. Dean and Jason Rute,"Algorithmic Randomness, Reverse Mathematics, and the Dominated Convergence Theorem",2012
+SIMTRO-7,Harold Simmons,The Realm of Primitive Recursion,1988
+DOWRBC,Rod Downey and Noam Greenberg and Matthew Harrison{-}Trainor and Ludovic Patey and Dan Turetsky,Relationships Between Computability-Theoretic Properties of Problems,2022
+THOWTN,Alex Thomson and Jobst Landgrebe and Barry Smith,"Where There?s No Will, There?s No Way",2023
+MYRCIQ,Wayne C. Myrvold,Computability in Quantum Mechanics,1995
+BEKOTI,Lev D. Beklemishev,On the Induction Schema for Decidable Predicates,2003
+MILPTA,Joseph R. Mileti,Partition Theorems and Computability Theory,2005
+BIERAL,Laurent Bienvenu and Joseph S. Miller,Randomness and Lowness Notions Via Open Covers,2012
+NERRT,Anil Nerode and Richard A. Shore,Recursion Theory,1985
+HODSTM,Wilfrid Hodges,"Set Theory, Model Theory, and Computability Theory",2009
+CHAVOA-2,Charles McCarty,Variations on a Thesis: Intuitionism and Computability,1987
+STEROT-5,Stewart Shapiro,Remarks on the Development of Computability,1983
+SHEOTD-3,J. C. Shepherdson,On the Definition of Computable Function of a Real Variable,1976
+ENDCTA,Herbert B. Enderton,Computability Theory: An Introduction to Recursion Theory,2010
+GHEATA,Guido Gherardi,Alan Turing and the Foundations of Computable Analysis,2011
+MIYTSR,Kenshi Miyabe,Truth-Table Schnorr Randomness and Truth-Table Reducible Randomness,2011
+BRABCA-2,Vasco Brattka,Borel Complexity and Computability of the Hahn?Banach Theorem,2008
+SALEPA-7,Nathan Salmon,Effective Procedures,2023
+GIRSRA,Jean{-}Yves Girard and Dag Normann,Set Recursion and \ensuremath{\Pi}half-Logic,1985
+SHEOTD,J. C. Shepherdson,On the Definition of Computable Function of a Real Variable,1976
+WEICCO,Klaus Weirauch,Computational Complexity on Computable Metric Spaces,2003
+SHIRTK,Hyun Song Shin and Timothy Williamson,Representing the Knowledge of Turing Machines,1994
+CICTRT,E. A. Cichon and Andreas Weiermann,Term Rewriting Theory for the Primitive Recursive Functions,1997
+DIMQAP,Rumen Dimitrov,Quasimaximality and Principal Filters Isomorphism Between,2004
+AVILSO,Jeremy Avigad,Local Stability of Ergodic Averages,manuscript
+DIDICM-2,Farzad Didehvar,Is Classical Mathematics Appropriate for Theory of Computation?,manuscript
+PAWDBF,Janusz Pawlikowski and Marcin Sabok,Decomposing Borel Functions and Structure at Finite Levels of the Baire Hierarchy,2012
+OLIOSB,Paulo Oliva and Thomas Powell,On Spector's Bar Recursion,2012
+UFTTCO-2,Patrick Uftring,The Characterization of Weihrauch Reducibility in Systems Containing,2021
+HEDAFC,Shawn Hedman,"A First Course in Logic: An Introduction to Model Theory, Proof Theory, Computability, and Complexity",2004
+MOLCIH,Johan Moldestad,Computations in Higher Types,1977
+LERSCA,St\'{e}phane Le Roux and Martin Ziegler,Singular Coverings and Non-Uniform Notions of Closed Set Computability,2008
+MYRTDP,Wayne C. Myrvold,The Decision Problem for Entanglement,1997
+WHIOCM,Blay Whitby,On Computable Morality an Examination of Machines,2011
+FEFTOF,Solomon Feferman,"""Turing's\texttt{\char92} Oracle"": From Absolute to Relative Computability and Back",1992
+KUMESP,Martin Kummer and Frank Stephan,Effective Search Problems,1994
+AWOLRT,Steve Awodey and Lars Birkedal and Dana Scott,Local Realizability Toposes and a Modal Logic for Computability,2000
+POWTEO-8,Thomas Powell,The Equivalence of Bar Recursion and Open Recursion,2014
+KORRTI-2,Andr\'{a}s Kornai,Resolving the Infinitude Controversy,2014
+MEYACO,Albert R. Meyer and Dennis M. Ritchie,A Classification of the Recursive Functions,1972
+MEYACO-2,Albert R. Meyer and Dennis M. Ritchie,A Classification of the Recursive Functions,1972
+STEANO-24,Tomasz Steifer,A Note on the Learning-Theoretic Characterizations of Randomness and Convergence,forthcoming
+CoblijnForthcoming-BARESF,Llu\'{i}s Barcel\'o{-}Coblijn,Evolutionary Scenarios for the Emergence of Recursion,forthcoming
+BIECER-3,Laurent Bienvenu and Wolfgang Merkle,Constructive Equivalence Relations on Computable Probability Measures,2009
+DORWAW-2,Luke Dormehl and Jobst Landgrebe and Barry Smith,Why Ai Will Never Rule the World (Interview),2022
+MACTTC,B. J. Maclennan,Transcending Turing Computability,2003
+IVAART,Ljubomir Lalov Ivanov,Algebraic Recursion Theory,1986
+BRGCCL,"Egon B\""{o}rger","Computability, Complexity, Logic",1989
+AVICAA,Jeremy Avigad and Vasco Brattka,Computability and Analysis: The Legacy of Alan Turing,2012
+KHOCIO,Bakhadyr Khoussainov and Tomasz Kowalski,Computable Isomorphisms of Boolean Algebras with Operators,2012
+DEKRRT,J. C. E. Dekker and E. Ellentuck,Recursion Relative to Regressive Functions,1974
+CLEAHO-6,J. P. Cleave,A Hierarchy of Primitive Recursive Functions,1963
+DOWSRO-2,R. Downey,Some Remarks on a Theorem of Iraj Kalantari Concerning Convexity and Recursion Theory,1984
+REYFSF,Gonzalo E. Reyes and Marek W. Zawadowski,Formal Systems for Modal Operators on Locales,1993
+DARCOA,Arman Darbinyan,"Computability, Orders, and Solvable Groups",2020
+BOSEAC,Fabio Boschetti and Randall Gray,Emergence and Computability,2007
+LEWRAT-4,Andrew Em Lewis and George Barmpalias,Randomness and the Linear Degrees of Computability,2007
+ARAPCF,Toshiyasu Arai,Predicatively Computable Functions on Sets,2015
+PATRGC-2,Ludovic Patey,Ramsey-Type Graph Coloring and Diagonal Non-Computability,2015
+HARCCO-2,Valentina S. Harizanov,Computability-Theoretic Complexity of Countable Structures,2002
+DEBLOD-4,de Brecht Matthew,"Levels of Discontinuity, Limit-Computability, and Jump Operators",2014
+MONTAG,Richard Montague,Towards a General Theory of Computability,1960
+CLEAHO-9,J. P. Cleave,A Hierarchy of Primitive Recursive Functions,1963
+NORTCF-4,Dag Normann,"The Continuous Functionals; Computations, Recursions and Degrees",1981
+STEEA-4,Rebecca M. Steiner,Effective Algebraicity,2013
+KARCOH,Karen Lange and Robert I. Soare,Computability of Homogeneous Models,2007
+TAYMOC,Ralph Gregory Taylor,Models of Computation and Formal Languages,1998
+MYRCCA,Wayne C. Myrvold,"Constructivism, Computability, and Physical Theories",1994
+NORROT-2,Dag Normann,Recursion on the Countable Functionals,1980
+CHOTOA,C.{-}T. Chong,Techniques of Admissible Recursion Theory,1984
+FITCTS,Melvin Fitting,"Computability Theory, Semantics, and Logic Programming",1987
+HOGPCA,Mark Hogarth,"Predictability, Computability and Spacetime",1996
+SHACNA-3,Stewart Shapiro and Eric Snyder and Richard Samuels,"Computability, Notation, and de Re Knowledge of Numbers",2022
+GRANUA,Daniel S. Gra\c{c}a,"Noncomputability, Unpredictability, and Financial Markets",2012
+YUCSR,Liang Yu,"Characterizing Strong Randomness Via Martin-L\""{o}f Randomness",2012
+BERSWE,Nora Berenstain,Strengthening Weak Emergence,2020
+GURWIA-2,Yuri Gurevich,What is an Algorithm,2012
+Hanssen2010-KJOHKR,Bj\o{}rn Kjos{-}Hanssen and Andr\'e Nies and Frank Stephan and Liang Yu,Higher Kurtz Randomness,2010
+MAZBIA,Stefano Mazzanti,Bounded Iteration and Unary Functions,2005
+ARASTC-2,Andrew Arana,Solovay's Theorem Cannot Be Simplified,2001
+HEMADI,Armin Hemmerling,Approximate Decidability in Euclidean Spaces,2003
+ZHOCRF,Qing Zhou,Computable Real-Valued Functions on Recursive Open and Closed Subsets of Euclidean Space,1996
+DOWEEO,R. G. Downey and Iraj Kalantari,Effective Extensions of Linear Forms on a Recursive Vector Space Over a Recursive Field,1985
+El1997-POUTWE,Marian B. Pour{-}El and Ning Zhong,The Wave Equation with Computable Initial Data Whose Unique Solution is Nowhere Computable,1997
+CLECF-2,J. P. Cleave,Creative Functions,1961
+ZIECOO-3,Martin Ziegler,Computable Operators on Regular Sets,2004
+El1960-POUACO-3,Marian Boykan Pour{-}El,A Comparison of Five ?Computable? Operators,1960
+KROTDP,M. R. Krom,The Decision Problem for Formulas in Prenex Conjunctive Normal Form with Binary Disjunctions,1970
+DOWDAC,Rodney G. Downey and Sergei S. Goncharov and Asher M. Kach and Julia F. Knight and Oleg V. Kudinov and Alexander G. Melnikov and Daniel Turetsky,Decidability and Computability of Certain Torsion-Free Abelian Groups,2010
+GWIICA-2,Jeremy Gwiazda,"Infinitism, Completability, and Computability: Reply to Peijnenburg: Discussions",2010
+OLCTAH,P. Olcott,Simulating Termination Analyzer H is Not Fooled by Pathological Input P,manuscript
+DAVTMO-44,Martin Davis,The Myth of Hypercomputation,2004
+DIDACA,Farzad Didehvar,A Contradiction and P=Np Problem,manuscript
+HARCTN-2,Valentina Harizanov and Keshav Srinivasan and Dario Verta,Computability Theory,2024
+SAYCTS,Hiroki Sayama,"Construction Theory, Self-Replication, and the Halting Problem",2008
+KACCSS,Asher M. Kach,Computable Shuffle Sums of Ordinals,2008
+JOCWPO,Carl G. Jockusch and Alexandra Shlapentokh,Weak Presentations of Computable Fields,1995
+ALEFFC,Samuel Alexander,Formulas for Computable and Non-Computable Functions,2006
+GRELOF-2,Hajo Greif,Laws of Form and the Force of Function: Variations on the Turing Test,2012
+DIAMRA,David Diamondstone and Bj\o{}rn Kjos{-}Hanssen,"Martin-L\""{o}f Randomness and Galton?Watson Processes",2012
+CHEILC,Anthony Chemero and Michael T. Turvey,Is Life Computable?,manuscript
+DOWOSO,Rodney G. Downey and Carl Jockusch and Joseph S. Miller,On Self-Embeddings of Computable Linear Orderings,2006
+BARCRU,Barbara F. Csima and Robert I. Soare,Computability Results Used in Differential Geometry,2006
+COPCGT,B. J. Copeland and C. Posy and O. Shagrir,"Computability: G\""{o}del, Turing, Church, and Beyond",2013
+CAMOTC-5,Caleb Camrud and Isaac Goldbring and Timothy H. McNicholl,On the Complexity of the Theory of a Computably Presented Metric Structure,2023
+LEMMTA,Steffen Lempp and Joseph S. Miller and Andr\'e Nies and Mariya I. Soskova,Maximal Towers and Ultrafilter Bases in Computability Theory,2023
+ALEAPR-2,Samuel Alexander,A Paradox Related to the Turing Test,2011
+DUBCAC-5,Jacques Dubucs and Michel Bourdeau,Constructivity and Computability in Historical and Philosophical Perspective,2014
+SMURTF,Raymond Merrill Smullyan,Recursion Theory for Metamathematics,1993
+HERITM-3,Peter Hertling,Is the Mandelbrot Set Computable?,2005
+OSTEA,Geoffrey E. Ostrin and Stanley S. Wainer,Elementary Arithmetic,2005
+JAMTTO-4,James Cain,The Theory of Computability Developed in Terms of Satisfaction,1999
+PRICCF-2,Carlos Augusto Di Prisco and Richard L. Epstein and Walter A. Carnielli,"Computability. Computable Functions, Logic, and the Foundations of Mathematics. Second Edition of the Preceding",2002
+MUNCT,Daniele Mundici and Wilfried Sieg,Computability Theory,1994
+GEOCOO,Nadejda V. Georgieva,Classes of One-Argument Recursive Functions,1976
+JURDPO,Matthew Jura and Oscar Levin and Tyler Markkanen,Domatic Partitions of Computable Graphs,2014
+GEOCOO-2,Nadejda V. Georgieva,Classes of One-Argument Recursive Functions,1976
+PARHOP-4,Charles Parsons,Hierarchies of Primitive Recursive Functions,1968
+FRECBI,"R\""{u}sin\vs Freivalds and Efim B. Kinber and Rolf Wiehagen","Connections Between Identifying Functionals, Standardizing Operations, and Computable Numberings",1984
+SCHMCB-3,Bernd Schiemenz,Managing Complexity by Recursion,2002
+BAUTCE-4,Andrej Bauer and Alex Simpson,Two Constructive Embedding-Extension Theorems with Applications to Continuity Principles and to Banach-Mazur Computability,2004
+HERSCA-4,Gabor T. Herman,Strong Computability and Variants of the Uniform Halting Problem,1971
+LACQPD-2,Daniel Lacombe,Quelques Proc\'{e}d\'{e}s de D\'{e}finition En Topologie R\'{e}cursive,1959
+SKVOSK,Dmitrij Skvortsov,On Some Kripke Complete and Kripke Incomplete Intermediate Predicate Logics,1998
+SZAOTA-2,Istv\'{a}n Szalkai,On the Algebraic Structure of Primitive Recursive Functions,1985
+MOCANO,Asae Mochizuki and Juichi Shinoda,A Note on the Functions Which Are Not Polynomial Time Computable From Their Graphs,1996
+AXTIOP,Paul Axt,Iteration of Primitive Recursion,1965
+FREIIA,Rsin\vs Freivalds and Efim B. Kinber and Rolf Wiehagen,Inductive Inference and Computable One-One Numberings,1982
+EIZPYR,Xabier Eizagirre and Javier Echeverria,Pluralidad y Recursi\'{o}n,1993
+FRECBI-2,"R\""{u}sin\vs Freivalds and Efim B. Kinber and Rolf Wiehagen","Connections Between Identifying Functionals, Standardizing Operations, and Computable Numberings",1984
+MOSACA-2,Yiannis N. Moschovakis,Abstract Computability and Invariant Definability,1969
+FAROTK,Amin Farjudian,On the Kolmogorov Complexity of Continuous Real Functions,2013
+NORCWF,Dag Normann,Computing with Functionals: Computability Theory or Computer Science?,2006
+DIDFTF,Farzad Didehvar,"Fuzzy Time, From Paradox to Paradox",manuscript
+FESGOT,Rosanna Festa,Generalitation of the Function N in Computational Analysis (12th edition),2024
+ARAPMO,Andrew Arana,Possible M-Diagrams of Models of Arithmetic,2005
+CALIAT-11,Cristian S. Calude,Incompleteness and the Halting Problem,2021
+WAIARF,Stanley S. Wainer,Accessible Recursive Functions,1999
+HINFLA,Jaakko Hintikka,Function Logic and the Theory of Computability,2013
+GEOCCO-2,Ivan Georgiev and Dimiter Skordev,Conditional Computability of Real Functions with Respect to a Class of Operators,2013
+BIAWVO,Matteo Bianchetti,Weaker Variants of Infinite Time Turing Machines,2020
+MAIPVN,Gunther Mainhardt,P Versus Np and Computability Theoretic Constructions in Complexity Theory Over Algebraic Structures,2004
+MAUPRE,Luca San Mauro and Nikolay Bazhenov and Keng Meng Ng and Andrea Sorbi,Primitive Recursive Equivalence Relations and Their Primitive Recursive Complexity,forthcoming
+VALAJT,Manlio Valenti,"A Journey Through Computability, Topology and Analysis",2022
+STEOCO-5,Tom F. Sterkenburg,On Characterizations of Learnability with Computable Learners,2022
+VAAGQA,"Jouko V\""{a}""{a}n\""{a}nen","Generalized Quantifiers and Computation, 9Th European Summer School in Logic, Language, and Information, Esslli'97 Workshop, Aix-En-Provence, France, August 11-22, 1997, Revised Lectures",1997
+CARTKZ,Merlin Carl,Taming Koepke's Zoo Ii: Register Machines,2022
+PAURCM,Gheorghe P\u{a}un and Mario J. P\'{e}rez{-}Jim\'{e}nez,Recent Computability Models Inspired From Biology: Dna and Membrane Computing,2010
+MAUCTM,Luca San Mauro and Nikolay Bazhenov and Vittorio Cipriani,Calculating the Mind-Change Complexity of Learning Algebraic Structures,2022
+FITCOP-2,Branden Fitelson,Comments on Presting's ?Computability and Newcomb's Problem?,unknown
+COHCAL-2,Daniel E. Cohen,Computability and Logic,1987
+GEOCIN,Ivan Georgiev and Lars Kristiansen and Frank Stephan,Computable Irrational Numbers with Representations of Surprising Complexity,2021
+ZIERCW,Martin Ziegler,Real Computation with Least Discrete Advice: A Complexity Theory of Nonuniform Computability with Applications to Effective Linear Algebra,2012
+Hanssen2012-KJOHMR,Bj\o{}rn Kjos{-}Hanssen and Antoine Taveneaux and Neil Thapen,How Much Randomness is Needed for Statistics?,2012
+FRECDF,Cameron E. Freer and Daniel M. Roy,Computable de Finetti Measures,2012
+BLAALC,Francesca Zaffora Blando,"A Learning-Theoretic Characterisation of Martin-L\""{o}f Randomness and Schnorr Randomness",2021
+NOWAGF,Antje Nowack,A Guarded Fragment for Abstract State Machines,2005
+DIDEIR,Farzad Didehvar and Kaveh Ghasemloo and Massoud Pourmahdian,"Effectiveness in Rpl, with Applications to Continuous Logic",2010
+OLCSRU,P. Olcott,Does the Halting Problem Place an Actual Limit on Computation?,manuscript
+HADCTC,Robert F. Hadley,"Consistency, Turing Computability and G\""{o}del?s First Incompleteness Theorem",2008
+WILRIU,Jon Williamson,Randomness is Unpredictability,web
+Spies2012-AMBCIE,"Klaus Ambos{-}Spies and Arnold Beckmann and Samuel R. Buss and Benedikt L\""{o}we",Computability in Europe 2009,2012
+MAACTA,Wolfgang Maass,Contributions to [Alpha]- and [Beta]-Recursion Theory,1978
+ERSAIM,A. P. Ershov and Donald Ervin Knuth,"Algorithms in Modern Mathematics and Computer Science: Proceedings, Urgench, Uzbek Ssr, September 16-22, 1979",1981
+KELCAL-5,John Kelly,Computability and Logic,1988
+WAGURS,Eric Gerhardt Wagner,Uniformly Reflexive Structures: Towards an Abstract Theory of Computability,1963
+FROCLO,Andrey N. Frolov and Steffen Lempp and Keng Meng Ng and Guohua Wu,Computable Linear Orders and Products,2020
+NORTCP-4,Dag Normann and Christian R\o{}rdam,The Computational Power of ?,2002
+DAHCAC,Fredrik Dahlgren,Computability and Continuity in Computable Metric Partial Algebras Equipped with Computability Structures,2004
+LEWCOR-2,F. D. Lewis,Classes of Recursive Functions and Their Index Sets,1971
+SMIPRF,Peter Smith,Primitive Recursive Functions,manuscript
+HLZDOR,"Rupert H\""{o}lzl and Christopher P. Porter",Degrees of Randomized Computability,2022
+PAUMFI,Arno Pauly,Multi-Valued Functions in Computability Theory,2012
+DUBHAN,Daniel Dubois,Hyperincursivity: A New Mathematical Theory,1992
+MENBAT,Elliott Mendelson,"B. A. Traht\'{e}nbrot. O \v{C}astotnom Vy\v{c}isl\'{e}nii Funkcij . Alg\'{e}bra I Logika, S\'{e}minar, Vol. 2 No. 1 , Pp. 25?32",1974
+NORCOT-6,Dag Normann,Computability Over the Partial Continuous Functionals,2000
+LACMR-4,A. H. Lachlan,Multiple Recursion,1962
+BRACOF-2,Vasco Brattka and Ruth Dillhage,Computability of Finite-Dimensional Linear Subspaces and Best Approximation,2010
+KREPCF,D. L. Kreider and R. W. Ritchie,Predictably Computable Functionals and Definition by Recursion,1964
+WUCOM-2,Yongcheng Wu and Decheng Ding,Computability of Measurable Sets Via Effective Topologies,2006
+MAIEPO-3,W. Maier and W. Menzel and V. Sperschneider,Embedding Properties of Total Recursive Functions,1982
+CENCSD-2,Douglas Cenzer and S. Ali Dashti and Jonathan L. F. King,Computable Symbolic Dynamics,2008
+WEISRI-5,Rose Weisshaar,Some Results in Computability Theory,2019
+Dolezelova1968-OCHRDC-2,Renata Ochranov\'a{-}Dole\v{z}elov\'a,"Real-Time Decidability, Computability, Countability and Generability",1968
+LUCALF,H. Luckhardt,A Limit for Higher Recursion Theory,1979
+MILIDA-6,Justin Miller,"Intrinsic Density, Asymptotic Computability, and Stochasticity",2021
+CROFSA,John N. Crossley and Michael Dummett,Formal Systems and Recursive Functions,1965
+SINCAO,Peter Sinclair,Computable Axiomatizability of Elementary Classes,2016
+BARARO-7,George Barmpalias and Paul Brodhead and Douglas Cenzer and Jeffrey B. Remmel and Rebecca Weber,Algorithmic Randomness of Continuous Functions,2008
+OWIMAM,James Owings and William Gasarch and Georgia Martin,Max and Min Limiters,2002
+MCNAUC,Timothy H. McNicholl,A Uniformly Computable Implicit Function Theorem,2008
+THOART-2,Simon Thompson,Axiomatic Recursion Theory and the Continuous Functionals,1985
+KAMCOS,Hiroyasu Kamo and Kiko Kawamura,Computability of Self-Similar Sets,1999
+RCATTO,Robert Caussin and Wells F. Chamberlin,The Transfer of Functions From Man to Machine,1959
+FERCIE,"Fernando Ferreira and Martin Hyland and Benedikt L\""{o}we and Elvira Mayordomo",Computability in Europe 2010,2012
+JOOCSA,Joost J. Joosten,Consistency Statements and Iterations of Computable Functions in I\ensuremath{\sigma}1 and Pra,2010
+CHOOTC-4,Arthur W. Chou and Ker{-}I. Ko,On the Complexity of Finding Paths in a Two-Dimensional Domain I: Shortest Paths,2004
+SCHRPO-3,Leonard Schrieber,Recursive Properties of Euclidean Domains,1985
+ANDCAT-16,Uri Andrews and Peter M. Gerdes and Steffen Lempp and Joseph S. Miller and Noah D. Schweber,Computability and the Symmetric Difference Operator,2022
+GRECAJ,Noam Greenberg and Keng Meng Ng and Guohua Wu,Cupping and Jump Classes in the Computably Enumerable Degrees,2020
+STEAGC-2,Tom F. Sterkenburg,A Generalized Characterization of Algorithmic Probability,2017
+IGAPAL,Abir Igamberdiev,Physics and Logic of Life,2011
+PLAKGR,Richard A. Platek,"Kreisel, Generalized Recursion Theory, Stanford and Me",1996
+ERSHOR,IUrii Leonidovich Ershov,Handbook of Recursive Mathematics,1998
+CALTSO-7,Cristian Calude,Topological Size of Sets of Partial Recursive Functions,1982
+KELGAR,Christopher Kelty,Geeks and Recursive Publics,2013
+NORTEO-10,Dag Normann and V. Yu Sazonov,The Extensional Ordering of the Sequential Functionals,2012
+DAHCAC-3,Fredrik Dahlgren,Computability and Continuity in Metric Partial Algebras Equipped with Computability Structures,2004
+BECCOC-2,Ver\'{o}nica Becher and C. T. Chong and Rod Downey and Noam Greenberg and Antonin Kucera and Bj\o{}rn Kjos{-}Hanssen and Steffen Lempp and Antonio Montalb\'{a}n and Jan Reimann and Stephen Simpson,"Conference on Computability, Complexity and Randomness",2008
+HODMTI,Wilfrid Hodges,"Main Trends in Mathematical Logic After the 1930s : Set Theory, Model Theory, and Computability Theory",2009
+MURTCO-12,Roman Murawski,The Contribution of Polish Logicians to Recursion Theory,1998
+COOMAC-2,S. B. Cooper and J. K. Truss,"Models and Computability: Invited Papers From Logic Colloquium '97, European Meeting of the Association for Symbolic Logic, Leeds, July 1997",1999
+LACQPD,Daniel Lacombe,Quelques Procedes de Definition En Topologffi Recursive,1959
+ZHODOC,Ning Zhong,Derivatives of Computable Functions,1998
+SHLGWP,Alexandra Shlapentokh,Generalized Weak Presentations,2002
+HELOEC-2,John P. Helm,On Effectively Computable Operators,1971
+MAZICO,Stefano Mazzanti,Iterative Characterizations of Computable Unary Functions: A General Method,1997
+TERCIP,Sebastiaan A. Terwijn,Computability in Partial Combinatory Algebras,2020
+KALDAB-2,Iraj Kalantari and Larry Welch,Density and Baire Category in Recursive Topology,2004
+KREPCF-2,D. L. Kreider and R. W. Ritchie,Predictably Computable Functionals and Definition by Recursion,1964
+XIRTIN,Olga Xirotiri,There is No Safe Pairing Function Over an Arbitrary Structure,2006
+CENISF-4,Douglas Cenzer and Jeffrey B. Remmel,Index Sets for Computable Differential Equations,2004
+WESFOL,Dag Westerst\a{a}hl,"Foundations of Logic: Completeness, Incompleteness, Computability",2022
+SCHANO-27,"Gisela Sch\""{a}fer",A Note on Conjectures of Calude About the Topological Size of Sets of Partial Recursive Functions,1985
+ABRCTG,Darren Abramson,"Chapter Twelve Growing Minds, Computability, and the Potentially Infinite Darren Abramson",2007
+GHEEBD,Guido Gherardi,Effective Borel Degrees of Some Topological Functions,2006
+OITARA,Isabel Oitavem,A Recursion-Theoretic Approach to Np,2011
+LUCALF-2,H. Luckhardt,A Limit for Higher Recursion Theory,1979
+SPRSHO,Klaus{-}Hilmar Sprenger,Some Hierarchies of Primitive Recursive Functions on Term Algebras,1997
+HOOPRF-2,M. R. R. Hoole,Plus-1 Results for \_{e}_-Recursion,1986
+MILIS-4,Justin Miller,Intrinsic Smallness,2021
+RTW-2,S. L. R. and Jon Barwise and John Etchemendy,Turing's World 3.0. An Introduction to Computability Theory,1994
+CSITCO,Barbara F. Csima and Reed Solomon,The Complexity of Central Series in Nilpotent Computable Groups,2011
+SKOSSV-2,Dimiter Skordev,Some Subrecursive Versions of Grzegorczyk's Uniformity Theorem,2004
+DOYCAC,Patrick Doyle,Computability and Computational Complexity,2003
+MCNCLA,Timothy H. McNicholl,Computing Links and Accessing Arcs,2013
+THOCC-2,Thomas H. Payne,Concrete Computability,1975
+KANPSA,Akira Kanda,Productive Sets and Constructively Nonpartial-Recursive Functions,1988
+MOSOTC-2,Philippe Moser,On the Convergence of Fourier Series of Computable Lebesgue Integrable Functions,2010
+NIGNOT-2,Karl{-}Heinz Niggl,Non-Definability of the Ackermann Function with Type 1 Partial Primitive Recursion,1997
+COOCEU,S. B. Cooper and T. A. Slaman and S. S. Wainer,"Computability, Enumerability, Unsolvability: Directions in Recursion Theory",1996
+ZHEATE,Xizhong Zheng and Vasco Brattka and Klaus Weihrauch,Approaches to Effective Semi-Continuity of Real Functions,1999
+MAYCOC,Elvira Mayordomo and Wolfgang Merkle,"Conference on Computability, Complexity and Randomness: Isaac Newton Institute, Cambridge, Uk July 2-6, 2012",forthcoming
+SUTREA,Glen H. Suter,Recursive Elements and Constructive Extensions of Computable Local Integral Domains,1973
+BRAACV,Vasco Brattka,A Computable Version of Banach?s Inverse Mapping Theorem,2009
+KOLCFA,Phokion G. Kolaitis,Canonical Forms and Hierarchies in Generalized Recursion Theory,1985
+WONCOM,Kam{-}Chau Wong,Computability of Minimizers and Separating Hyperplanes,1996
+BIRNRF,Richard Bird,Non Recursive Functionals,1975
+IMMCAC,Neil Immerman,Computability and Complexity,2008
+POLTRI,Stephen Pollard,Transfinite Recursion in a Theory of Properties,1986
+FACCHO-2,E. Fachini and A. Maggiolo{-}Schettini,Comparing Hierarchies of Primitive Recursive Sequence Functions,1982
+MLLSVR,"H. J. M\""{u}ller and G. W. Humphreys and A. C. Olson",Search Via Recursive Rejection (Serr),1998
+TUCCAT,J. V. Tucker,Computability and the Algebra of Fields: Some Affine Constructions,1980
+WAIHOP,Stanley S. Wainer,Hierarchies of Provably Recursive Functions,1998
+SAMVOD-2,Ramez L. Sami,Variations on Determinacy And,forthcoming
+DAQETL,Paola D?Aquino and Julia Knight and Karen Lange,Erratum To: Limit Computable Integer Parts,2015
+BECLCA-2,Ver\'{o}nica Becher,"Logic, Computability, and Randomness",2005
+EBULFO,Robert E. Butts and Kaarlo Jaakko Juhani Hintikka,"Logic, Foundations of Mathematics, and Computability Theory",1977
+ZHOL,Ning Zhong and Bing{-}Yu Zhang,Lp -Computability,1999
+OLIOTC-4,Paulo Oliva,On the Computational Complexity of Best L1-Approximation,2002
+MAZION,Stefano Mazzanti,Iteration on Notation and Unary Functions,2013
+TEROPL,Settimo Termini and Salvatore Guccione and Guglielmo Tamburrini,On Physical Laws and Computability,1998
+KALODH,Iraj Kalantari and Larry Welch,On Degree-Preserving Homeomorphisms Between Trees in Computable Topology,2008
+KRISBC,Lars Kristiansen,"S. Barry Cooper, Computability Theory",2007
+YASTES,Mariko Yasugi and Takakazu Mori and Yoshiki Tsujii,The Effective Sequence of Uniformities and its Limit: As a Methodology in Computable Analysis,2007
+SCHEIS-2,"Matthias Schr\""{o}der",Effectivity in Spaces with Admissible Multirepresentations,2002
+OITATR,Isabel Oitavem,A Term Rewriting Characterization of the Functions Computable in Polynomial Space,2002
+DAZTAL,Josep D\'{i}az and Carme Torras,Turing?s Algorithmic Lens: From Computability to Complexity Theory,2013
+LUCAOL,Duccio Luchi and Franco Montagna,An Operational Logic of Proofs with Positive and Negative Information,1999
+STACAT-17,Rachel D. Stahl,Computability and the Game of Cops and Robbers on Graphs,2022
+HORCAA,Tamara Horowitz,Computability as a Physical Modality,forthcoming
+PETTCO-23,Holger Petersen,The Computation of Partial Recursive Word-Functions Without Read Instructions,1996
+EPSISO,Richard L. Epstein,Initial Segments of Degrees Below 0',1981
+VUKEEO,Vladeta Vu\v{c}kovi\'c,Effective Enumerability of Some Families of Partially Recursive Functions Connected with Computable Functionals,1970
+FRECRY-2,Max A. Freund,Conceptualismo Realista y Computabilidad,2005
+NORRTF,Dag Normann,Representation Theorems for Transfinite Computability and Definability,2002
+MCNEEI,Timothy H. McNicholl,Effective Embeddings Into Strong Degree Structures,2003
+THOCOF-2,Thomas H. Payne,Computability on Finite Linear Configurations,1975
+NORAJO-2,Dag Normann,A Jump Operator in Set Recursion,1979
+COOCIC,S. B. Cooper and Andrea Sorbi,Computability in Context: Computation and Logic in the Real World,2011
+KUMSAO-2,Martin Kummer,Some Applications of Computable One-One Numberings,1990
+ZHEHCR,Xizhong Zheng and Robert Rettinger and George Barmpalias,H-Monotonically Computable Real Numbers,2005
+DOUCDA,Douglas Cenzer and Jeffrey B. Remmel,"Complexity, Decidability and Completeness",2006
+KOMONS,J\'{a}n Komara,On Nested Simple Recursion,2011
+GRIHOC,Edward R. Griffor,Handbook of Computability Theory,1999
+STECFA-2,Rebecca M. Steiner,Computable Fields and the Bounded Turing Reduction,2012
+INTNRO,Benedetto Intrigila,Negative Results on the Reduction of the Recursion Scheme,1988
+POLTRI-2,Stephen Pollard,Transfinite Recursion in a Theory of Properties,1986
+TUCPCS,J. Tucker and J. Zucker,Provable Computable Selection Functions on Abstract Structures,1992
+WEICAO,Klaus Weihrauch and Ning Zhong,Computable Analysis of the Abstract Cauchy Problem in a Banach Space and its Applications I,2007
+SANRF,Luis E. Sanchis,Recursive Functionals,1992
+Gonzalez2012-OCATCE,V\'{i}ctor A. Ocasio{-}Gonz\'{a}lez,Turing Computable Embeddings and Coding Families of Sets,2012
+LIECWC-2,Liesbeth De Mol and Andreas Weiermann and Florin Manea and David Fern\'{a}ndez{-}Duque,Connecting with Computability. Proceedings of Computability in Europe.,2021
+PAURCM-2,Gheorge Paun and Mario de Jes\'{u}s P\'{e}rez Jim\'{e}nez,Recent Computability Models Inspired From Biology: Dna and Membrane Computing,2003
+EDMTIO,Bruce Edmonds,The Insufficiency of Formal Design Methods,manuscript
+NORDOF-2,Dag Normann,Degrees of Functionals,1979
+LADEDL-2,J. Ladriere,Expression de la Recursion Primitive Dans le Calcul-Xk,forthcoming
+SILCTA,Mark Silcox and Jon Cogburn,Computability Theory and Literary Competence,2006
+HEMCOS,Armin Hemmerling,Computability of String Functions Over Algebraic Structures Armin Hemmerling,1998
+Valverde2021-ONGCAO,Iv\'{a}n Ongay{-}Valverde and Paul Tveite,Computable Analogs of Cardinal Characteristics: Prediction and Rearrangement,2021
+MAZPBF-2,Stefano Mazzanti,Plain Bases for Classes of Primitive Recursive Functions,2002
+TEUHOE,Ralph J. Teutsch and Dale W. Jamieson,Hockett on Effective Computability,1974
+BUCASO,Bruno Buchberger,A Study on Universal Functions,1972
+KALOTD,Iraj Kalantari and Larry Welch,On Turing Degrees of Points in Computable Topology,2008
+FENGRT-2,Jens Erik Fenstad and R. O. Gandy and Gerald E. Sacks,Generalized Recursion Theory Ii: Proceedings of the 1977 Oslo Symposium,1978
+MOREFO,Takakazu Mori and Mariko Yasugi and Yoshiki Tsujii,Effective Fine-Convergence of Walsh-Fourier Series,2008
+KROOAC,F. W. Kroon and W. A. Burkhard,On a Complexity-Based Way of Constructivizing the Recursive Functions,1990
+DIENSP,Amparo Diez,Nota Sobre Pluralidad y Recursi\'{o}n: Ontosem\'{a}ntica Fregeana Para Un Analisis de Las Teor\'{i}as,1994
+Romero2008-MARSRN-2,J. Raymundo Marcial{-}Romero and M. Andrew Moshier,Sequential Real Number Computation and Recursive Relations,2008
+CHECOC-7,Jinhe Chen and Decheng Ding and Liang Yu,"Conference on Computability, Complexity and Randomness",2008
+KOBUDR,Petter K. K\o{}ber,"Uniform Domain Representations of ""Lp"" -Spaces",2007
+WILASG,William J. Thomas,A Simple Generalization of Turing Computability,1979
+SCHFCB,A. Schurmann,Functions Computable by a Computer,1971
+GOORAI-3,Rl Goodsteest,Recursive Analysis,1959
+OKACOR,Yukiko Okamoto,Computability of Reality as an Unfulfilled Dream,2008
+LUTCPO,Jack H. Lutz and Klaus Weihrauch,Connectivity Properties of Dimension Level Sets,2008
+HORSCC-3,Bruce M. Horowitz,Sets Completely Creative Via Recursive Permutations,1978
+CALRBC,Cristian Calude and Gabriel Istrate and Marius Zimand,Recursive Baire Classification and Speedable Functions,1992
+KASTSO-9,Ryo Kashima and Naosuke Matsuda and Takao Yuyama,Term-Space Semantics of Typed Lambda Calculus,2020
+VUKRWO,Vladeta Vu\v{c}kovi,Recursive Word-Functions Over Infinite Alphabets,1970
+LEVAMP,Hilbert Levitz and Warren Nichols and Robert F. Smith,A Macro Program for the Primitive Recursive Functions,1991
+SMIEAC-2,Peter Smith,Expressing and Capturing the Primitive Recursive Functions,manuscript
+HIRAMP,Denis R. Hirschfeldt,A Minimal Pair in the Generic Degrees,2020
+MCNUCA,Timothy H. McNicholl,Uniformly Computable Aspects of Inner Functions: Estimation and Factorization,2008
+THOGC,Thomas H. Payne,General Computability,1980
+MULACT-3,Albert A. Mullin,A Contribution Toward Computable Number Theory,1965
+NORAOT-2,Dag Normann,Aspects of the Continuous Functionals,1985
+KUNTCO-6,Daren Kunkle,Type-2 Computability on Spaces of Integrable Functions,2004
+ZHEWCA,Xizhong Zheng and Robert Rettinger,Weak Computability and Representation of Reals,2004
+AVICAC,Jeremy Avigad,Computability and Convergence,unknown
+HAREOS,Keith Harrow,Equivalence of Some Hierarchies of Primitive Recursive Functions,1979
+TANNOM,Hisao Tanaka,Notes on Measure and Category in Recursion Theory,1970
+WUCOM,Yongcheng Wu and Decheng Ding,Computability of Measurable Sets Via Effective Metrics,2005
+GRISCO,Edward R. Griffor,Some Consequences of Ad for Kleene Recursion in 3E,1983
+MAIEPO,W. Maier and W. Menzel and V. Sperschneider,Embedding Properties of Total Recursive Functions,1982
+TUGANO,Tugu\^{ }\ensuremath{|}\^{ }Eacute and Tosiyuki  and Sigeru Hinata,A Note on Continuous Functionals,1969
+KHOOCT,Bakhadyr Khoussainov,On Computability Theoretic Properties of Structures and Their Cartesian Products,2000
+GERTAR-2,Giangiacomo Gerla,Turingl-Machines and Recursive Computability Forl-Maps,1989
+OCHRDC,Renata Ochranov\'a{-}Dole\v{z}elov\'a,"Real-Time Decidability, Computability, Countability and Generability",1968
+MICATA,Michael Anderson,Approximation to a Decision Procedure for the Halting Problem,1968
+COSAFF,Jos\'e F\'{e}lix Costa and Bruno Loff and Jerzy Mycka,A Foundation for Real Recursive Function Theory,2009
+LAITIO-7,Jun Lai and Fenna H. Poletiek,The Impact of Starting Small on the Learnability of Recursion,2010
+ZIECOR,Martin Ziegler,Computability on Regular Subsets of Euclidean Space,2002
+AXTNOT-2,Paul Axt,Note on the 3-Recursive Functions,1961
+DOWSCT-3,R. Downey,"Sb Cooper, Ta Slaman, and Ss Wainer, Eds. Computability, Enumerability, Unsolvability: Directions in Recursion Theory",1997
+MCCSRO,G. L. McColm,Some Restrictions on Simple Fixed Points of the Integers,1989
+THOAND,Ivo Thomas,A New Decision Procedure for Aristotle's Syllogistic,1952
+BUSCIE,"Sam Buss and Benedikt L\""{o}we and Dag Normann and Ivan Soskov",Computability in Europe 2011,2013
+KALWSO-3,Iraj Kalantari and Larry Welch,When Series of Computable Functions with Varying Domains Are Computable,2013
+FENGRT-3,Jens Erik Fenstad and Peter G. Hinman,Generalized Recursion Theory,1974
+ZENRTC,Hector Zenil,"Randomness Through Computation: Some Answers, More Questions",2011
+ARSRTA,Marat Mirzaevich Arslanov and Steffen Lempp,"Recursion Theory and Complexity: Proceedings of the Kazan '97 Workshop, Kazan, Russia, July 14-19, 1997",1999
+BOSCOS,Volker Bosserhoff,Computability of Solutions of Operator Equations,2007
+JONCAC-6,N. D. Jones,Computability and Complexity: From a Programming Perspective Vol. 21,1997
+REMRTO-3,J. B. Remmel,Recursion Theory on Algebraic Structures with Independent Sets,1980
+NIECAR-5,Andr\'e Nies,Computability and Randomness,2009
+SERANA,Yaroslav D. Sergeyev,A New Applied Approach for Executing Computations with Infinite and Infinitesimal Quantities,2008
+OLCCRR,P. Olcott,Simulating Termination Analyzer H is Not Fooled by Pathological Input D,manuscript
+SERBFA,Yaroslav Sergeyev,Blinking Fractals and Their Quantitative Analysis Using Infinite and Infinitesimal Numbers,2007
+SEROOT,Yaroslav Sergeyev and Alfredo Garro,Observability of Turing Machines: A Refinement of the Theory of Computation,2010
+OLCSPH,P. Olcott,Simulating (Partial) Halt Deciders Defeat the Halting Problem Proofs,manuscript
+OLCROH,P. Olcott,Halting Problem Undecidability and Infinitely Nested Simulation,manuscript
+SERSAM,Yaroslav Sergeyev and Alfredo Garro,Single-Tape and Multi-Tape Turing Machines Through the Lens of the Grossone Methodology,2013
+OLCRTS-2,P. Olcott,Rebutting the Sipser Halting Problem Proof V2,manuscript
+OLCHPP-2,P. Olcott,Halting Problem Proofs Refuted on the Basis of Software Engineering ?,manuscript
+OLCSHD-3,P. Olcott,Simulating Halt Deciders Defeat the Halting Theorem,manuscript
+OLCRTS,P. Olcott,Rebutting the Sipser Halting Problem Proof --- D(D) Correctly Reports its Own Halt Status,manuscript
+ARRNLM,Ayda I. Arruda and Newton C. A. Costa and R. Chuaqui,"Non-Classical Logics, Model Theory, and Computability: Proceedings of the Third Latin-American Symposium on Mathematical Logic, Campinas, Brazil, July 11-17, 1976",1977
+OLCHPU-3,P. Olcott,Halting Problem Undecidability and Infinitely Nested Simulation (V3),manuscript
+ZHATDO-11,Yinsheng Zhang,The Development of Ideas on Computable Intelligence,2017
+PESOSR,Agnieszka Peszek and Apoloniusz Tyszka,Hilbert's 10Th Problem for Solutions in a Subring of Q,2019
+OLCHPU-5,P. Olcott,Halting Problem Undecidability and Infinitely Nested Simulation (V5),manuscript
+OLCHPP,P. Olcott,Halting Problem Proof From Finite Strings to Final States,manuscript
+SACOSO-2,Gerald E. Sacks,On Suborderings of Degrees of Recursive Unsolvability,1961
+OLCHPU-4,P. Olcott,Halting Problem Undecidability and Infinitely Nested Simulation (V4),manuscript
+OLCDAD-3,P. Olcott,Defining a Decidability Decider for the Halting Problem,manuscript
+STAROT-35,Michael Starks,Review of 'the Outer Limits of Reason' by Noson Yanofsky 403P (2013) (Review Revised 2019),2019
+STAWCE,Michael Richard Starks,"Wolpert, Chaitin e Wittgenstein Em Impossibilidade, Incompletude, o Paradoxo Do Mentiroso, o Te\'{i}smo, Os Limites da Computa\c{c}~{a}o, Um Princ\'{i}pio de Incerteza Mec\^{a}nica N\~{a}o Qu\^{a}ntica e o Universo Como Computador -- o Teorema Final Na Teoria da M\'{a}quina de Turing (Revisado 2019)",2019
+KAKOTN,Subhash Kak,On the Non-Computability of Consciousness,2024
+NORCTG-2,Dag Normann,Closing the Gap Between the Continuous Functionals and Recursion in \texttt{\char92}documentclass[12Pt]\{Minimal\} \texttt{\char92}usepackage\{Amsmath\} \texttt{\char92}usepackage\{Wasysym\} \texttt{\char92}usepackage\{Amsfonts\} \texttt{\char92}usepackage\{Amssymb\} \texttt{\char92}usepackage\{Amsbsy\} \texttt{\char92}usepackage\{Mathrsfs\} \texttt{\char92}usepackage\{Upgreek\} \texttt{\char92}setlength\{\texttt{\char92}oddsidemargin\}\{-69Pt\} \texttt{\char92}begin\{Document\} \$\^{ }3e\$\texttt{\char92}end\{Document\},1997
+MOLCTC,Liesbeth De Mol,Closing the Circle: An Analysis of Emil Post's Early Work,2006
+TYSACO,Apoloniusz Tyszka,"A True Mathematical Statement \ensuremath{\Psi} with the Predicate K of the Current Mathematical Knowledge, Where \ensuremath{\Psi} May Be False in the Future and Does Not Express the Current Knowledge About the Provability of Any Mathematical Statements \ensuremath{\Psi}1,...,\ensuremath{\Psi}n Without K",manuscript
+OLCDAH,P. Olcott,Defining a Halting Decidability Decider,manuscript
+HOMTST-2,Steven Homer,Two Splitting Theorems for Beta-Recursion Theory,1980
+CALRNF,Cristian S. Calude,Real Numbers: From Computable to Random,2001
+BERNAR-4,John W. Berry,\_{N}_-Ary Almost Recursive Functions,1974
+CALCCA-2,C. S. Calude,"Combinatorics, Computability and Logic: Proceedings of the Third International Conference on Combinatorics, Computability and Logic, (Dmtcs?01)",2001
+DEMCW-2,L. De Mol and A. Weiermann and F. Manea and D. Fern\'{a}ndez{-}Duque,"Connecting with Computability. Cie 2021. Lecture Notes in Computer Science, Vol 12813",2021
+MAARIB-2,Wolfgand Maass,Recursively Invariant Beta-Recursion Theory,1981
+TOUSRO-2,George Tourlakis,Some Reflections on the Foundations of Ordinary Recursion Theory and a New Proposal,1986
+GUCSPO,S. Guccione,Some Preliminary Observations on Effective Computability in Parallel Universes,2005
+BERRAR-11,Ulrich Berger and Johanna N. Y. Franklin and Florin Manea and Arno Pauly,Revolutions and Revelations in Computability,2022
+CALECE-2,Cristian Calude and Nicholas Hay,Every Computably Enumerable Random Real is Provably Computably Enumerable Random,2009
+SHATPB-3,Stewart David Shapiro,The Philosophical Background of Computability,1978
+MACMDI-2,Michael Machtey,Minimal Degrees in Generalized Recursion Theory,1974
+MOSTDO-3,Jean Mosconi,The Developments of the Concept of Machine Computability From 1936 to the 1960S,2006
+ZenithForthcoming-ERIEEI,Steven Ericsson{-}Zenith,Explaining Experience in Nature: The Foundations of Logic and Apprehension,forthcoming
+BENOTC-3,Paul Benioff,On the Correct Definition of Randomness,1978
+NORITC-2,D. Normann,Introduction to Computability Theory,2010
+COLFSA-2,John N. Logic Colloquium and Michael A. E. Crossley and Dummett and Association for Symbolic Logic,"Formal Systems and Recursive Functions Proceedings of the Eighth Logic Colloquium, Oxford, July 1963",1965
+FRECDC,Nir Fresco,Concrete Digital Computation: What Does It Take for a Physical System to Compute?,2011
+DRETHA,Eli Dresner,"Turing-, Human- and Physical Computability: An Unasked Question",2008
+ARATCP,Andrew Arana,"The Changing Practices of Proof in Mathematics: Gilles Dowek: Computation, Proof, Machine. Cambridge: Cambridge University Press, 2015. Translation of les M\'{e}tamorphoses du Calcul, Paris: Le Pommier, 2007. Translation From the French by Pierre Guillot and Marion Roman, \$124.00Hb, \$40.99Pb",2017
+ARAROC,Andrew Arana,"Review of Computability: Turing, G\""{o}del, Church, and Beyond",2015
+KALABO,Iraj Kalantari and Larry Welch,A Blend of Methods of Recursion Theory and Topology: A \ensuremath{\Pi}1 0 Tree of Shadow Points,2004
+GRIYNM,Thomas J. Grilliot,"Yiannis N. Moschovakis. Abstract First Order Computability. Transactions of the American Mathematical Society, Vol. 138 , Pp. 427?464 and Pp. 465?504",1972
+STEMDC,"W. Stegm\""{u}ller","Martin Davis: ""Computability and Unsolvability""",1962
+PEDC-2,J. M. P.,"Enumerability, Decidability, Computability",1966
+RRA-7,H. T. R.,Recursive Analysis,1964
+COOBJC,Roy T. Cook,"B. Jack Copeland, Carl J. Posy, and Oron Shagrir, Eds, Computability: Turing, G\""{o}del, Church, and Beyond. Cambridge, Mass.: MIT Press, 2013. Isbn 978-0-262-01899-9. Pp. X + 362",2014
+BONTNO-8,Paola Bonizzoni and Vasco Brattka and Benedikt Lo?we,"The Nature of Computation: Logic, Algorithms, Applications: 9Th Conference on Computability in Europe, Cie 2013, Milan, Italy, July 1-5, 2013: Proceedings",2013
+FERPPP,Fernando Ferreira,"Programs, Proofs, Processes: 6Th Conference on Computability in Europe, Cie, 2010, Ponta Delgada, Azores, Portugal, June 30-July 4, 2010 ; Proceedings",2010
+LFGSGS,"Lars L\""{o}fgren","Seymour Ginsburg. Some Remarks on Abstract Machines. Transactions of the American Mathematical Society, Vol. 96 , Pp. 400?444. - Seymour Ginsburg and Gene F. Rose. A Comparison of the Work Done by Generalized Sequential Machines and Turing Machines. Transactions of the American Mathematical Society, Vol. 103 , Pp. 394?402",1972
+FRARWL,Johanna N. Y. Franklin,"Reviewed Work(S): Lowness Properties and Randomness. Advances in Mathematics, Vol. 197 by Andr\'e Nies; Lowness for the Class of Schnorr Random Reals. Siam Journal on Computing, Vol. 35 by Bj\o{}rn Kjos-Hanssen; Andr\'e Nies; Frank Stephan; Lowness for Kurtz Randomness. The Journal of Symbolic Logic, Vol. 74 by Noam Greenberg; Joseph S. Miller; Randomness and Lowness Notions Via Open Covers. Annals of Pure and Applied Logic, Vol. 163 by Laurent Bienvenu; Joseph S. Miller; Relativizations of Randomness and Genericity Notions. The Bulletin of the London Mathematical Society, Vol. 43 by Johanna N. Y. Franklin; Frank Stephan; Liang Yu; Randomness Notions and Partial Relativization. Israel Journal of Mathematics, Vol. 191 by George Barmpalias; Joseph S. Miller; Andr\'e Nies",forthcoming
+MARBRM-5,Martin Davis,"Book Review: Melvin Fitting. Computability Theory, Semantics, and Logic Programming",1990
+MAYOAA-2,Brian H. Mayoh,"Oliver Aberth. Analysis in the Computable Number Field. Journal of the Association for Computing Machinery, Vol. 15 , Pp. 275?299",1975
+CAMTEC,Manuel L. Campagnolo and Kerry Ojakian,The Elementary Computable Functions Over the Real Numbers: Applying Two New Techniques,2008
+ARRNLM-3,Ayda I. Arruda and R. Chuaqui and Newton C. A. da Costa,"Non-Classical Logics, Model Theory, and Computability: Proceedings of the Third Latin-American Symposium on Mathematical Logic, Campinas, Brazil, July 11-17, 1976",1977
+PFSA,J. M. P.,Formal Systems and Recursive Functions,1965
+FISJHA,Patrick C. Fischer,"J. Hartmanis and J. E. Hopcroft. What Makes Some Language Theory Problems Undecidable. Journal of Computer and System Sciences, Vol. 4 , Pp. 368?376",1975
+MAYOAC-4,Brian H. Mayoh,"Oliver Aberth. Computable Analysis and Differential Equations. Intuitionism and Proof Theory, Proceedings of the Summer Conference at Buffalo N.Y. 1968, Edited by A. Kino, J. Myhill, and R. E. Vesley, Studies in Logic and the Foundations of Mathematics, North-Holland Publishing Company, Amsterdam and London1970, Pp. 47?52",1975
+SASJMN,Leonard P. Sasso,"John Myhill. Note on Degrees of Partial Functions. Proceedings of the American Mathematical Society, Vol. 12 , Pp. 519?521",1972
+LOWMOC-2,Benedikt Lo?we,"Models of Computation in Context: 7Th Conference on Computability in Europe, Cie 2011, Sofia, Bulgaria, June 27-July 2, 2011, Proceedings",2011
+PRIRRL,Carlos Augusto Priscdio,"Review: Richard L. Epstein, Walter A. Carnielli, Computability. Computable Functions, Logic, and the Foundations of Mathematics ; Richard L. Epstein, Walter A. Carnielli, Computability. Computable Functions, Logic, and the Foundations of Mathematics. Second Edition of the Preceding",2002
+FART-6,Didehvar Farzad,(Tc* ????? ???? ) ????? ? ???? ???? ? ?????????? ?? ????? ??????? ???,manuscript
+Sander1995-FEAATP-2,Desmond Fearnley{-}Sander,Automated Theorem Proving and its Prospects,1995

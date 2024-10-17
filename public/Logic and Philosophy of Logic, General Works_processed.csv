@@ -1,0 +1,659 @@
+ID,Author,Title,Year
+CHUITM-2,Alonzo Church,Introduction to Mathematical Logic..,1944
+QUIMOL,Willard Van Orman Quine,Methods of Logic,1959
+SUPITL,Patrick Suppes,Introduction to Logic,1957
+WARSOS-3,Jared Warren,Shadows of Syntax: Revitalizing Logical and Mathematical Conventionalism,2020
+STETWI-7,Florian Steinberger,Three Ways in Which Logic Might Be Normative,2019
+WOOLP-7,Jack Woods,Logical Partisanhood,2019
+IACVAA,Andrea Iacona,Valid Arguments as True Conditionals,2023
+SIDLFP,Theodore Sider,Logic for Philosophy,2009
+BELTLO-2,Nuel D. Belnap and Thomas B. Steel,The Logic of Questions and Answers,1976
+WHAEOL,Richard Whately,Elements of Logic,1827
+LADIAD,James Ladyman and \O{}ystein Linnebo and Richard Pettigrew,Identity and Discernibility in Philosophy and Logic,2012
+HURACI,Patrick J. Hurley,A Concise Introduction to Logic,2000
+MCGLPI-4,Colin McGinn,"Logical Properties: Identity, Existence, Predication, Necessity, Truth",2000
+CRUOOA,Vincenzo Crupi and Andrea Iacona,Outline of a Theory of Reasons,2023
+STAVAR,Shawn Standefer,Variable-Sharing as Relevance,forthcoming
+BERHTS,Francesco Berto,How to Sell a Contradiction: The Logic and Metaphysics of Inconsistency,2007
+LEWPIP,David K. Lewis,Papers in Philosophical Logic,1998
+STETNS-7,Florian Steinberger,The Normative Status of Logic,2017
+BURPL-3,John P. Burgess,Philosophical Logic,2009
+LEWASO,Clarence Irving Lewis,A Survey of Symbolic Logic,1960
+WOOARE,Jack Woods,Against Reflective Equilibrium for Logical Theorizing,2019
+STEFAC-3,Florian Steinberger,Frege and Carnap on the Normativity of Logic,2017
+REATAL,Stephen Read,Thinking About Logic: An Introduction to the Philosophy of Logic,1994
+FEFITL,Solomon Feferman,In the Light of Logic,1998
+EBBML,Heinz{-}Dieter Ebbinghaus,Mathematical Logic,1996
+JEFFLI,Richard C. Jeffrey,Formal Logic: Its Scope and Limits,1990
+KALLTO-2,Donald Kalish and Richard Montague and Gary Mar,Logic: Techniques of Formal Reasoning,1964
+LUAKAT,Huaping Lu{-}Adler,Kant and the Normativity of Logic,2017
+WOOITE-2,Jack Woods,"Intertranslatability, Theoretical Equivalence, and Perversion",2018
+SALL,Wesley Charles Salmon,Logic,1973
+WARRQO,Jared Warren,Revisiting Quine on Truth by Convention,2017
+DEMDLA-7,Fabio De Martin Polo,Discussive Logic. A Short History of the First Paraconsistent Logic,2023
+ANDAIT,Peter Bruce Andrews,An Introduction to Mathematical Logic and Type Theory: To Truth Through Proof,2002
+WRIOQI,Crispin Wright,On Quantifying Into Predicate Position: Steps Towards a New (Tralist) Perspective,2007
+CORAAL,John Corcoran,Argumentations and Logic,1989
+SCH-70,Michael Schmitz,?!.,manuscript
+REAFAM,Stephen Read,Formal and Material Consequence,1994
+CORC,John Corcoran,Categoricity,1980
+EPSTSF,Richard L. Epstein,The Semantic Foundations of Logic,1994
+RESITL,Nicholas Rescher,Introduction to Logic,1964
+GRAAIT-4,Anthony C. Grayling,An Introduction to Philosophical Logic,1997
+HLOLIN,Ulf Hlobil,Logic is Not Science,forthcoming
+COHAIT-3,Morris Raphael Cohen,An Introduction to Logic and Scientific Method,1944
+RAVILO,Michael J. Raven,Is Logic Out of This World?,2020
+ZALLAA,Edward N. Zalta,Logical and Analytic Truths That Are Not Necessary,1988
+TOLKOT,Clinton Tolley,Kant on the Nature of Logical Laws,2006
+THAFTD,Paul Thagard,From the Descriptive to the Normative in Psychology and Logic,1982
+HUMELI,Lloyd Humberstone,Explicating Logical Independence,2020
+LAMPAO,Karel Lambert,Philosophical Applications of Free Logic,1991
+HUNMAI,Geoffrey Hunter,Metalogic: An Introduction to the Metatheory of Standard First Order Logic,1971
+HUTFOT,Jim Hutchinson,Frege on the Generality of Logical Laws,2020
+HAMPAP-12,Yacin Hamami and Rebecca Lea Morris,Plans and Planning in Mathematical Proofs,2020
+BRELIR,Joseph E. Brenner,Logic in Reality,2008
+FORMLA-2,Graeme Forbes,Modern Logic: A Text in Elementary Symbolic Logic,1994
+LEMSPD,Jens Lemanski and Lorenz Demey,Schopenhauer?s Partition Diagrams and Logical Geometry,2021
+SMIAIT-2,Peter Smith,An Introduction to Formal Logic,2003
+DRETHN,Burton Dreben and Juliet Floyd,Tautology: How Not to Use a Word,1991
+ENGTNO-2,Pascal Engel,The Norm of Truth: An Introduction to the Philosophy of Logic,1991
+BEALTB-3,Jc Beall,Logic: The Basics,2010
+KAHLAP,Howard Kahane,Logic and Philosophy,1969
+BARL-18,Stan Baronett,Logic,2008
+GODMOL,David Godden,Mill on Logic,2016
+STEJLL-3,Julio Michael Stern,"Jacob?s Ladder: Logics of Magic, Metaphor and Metaphysics: Narratives of the Unconscious, the Self, and the Assembly",2020
+GRAIRA-5,Claude Gratton,Infinte Regress Arguments,2009
+BARTEO-8,Stephen Francis Barker,The Elements of Logic,1974
+ANGRAL,Richard B. Angell,Reasoning and Logic,1964
+MADTPO-14,Penelope Maddy,The Philosophy of Logic,2012
+TANBPO-5,Koji Tanaka,Buddhist Philosophy of Logic,2013
+COPTTO-3,Irving Marmer Copi,The Theory of Logical Types,1971
+PRILAV,Graham Priest,Logic: A Very Short Introduction,2000
+DEMFFA-2,Fabio De Martin Polo,"Fusion, Fission, and Ackermann?s Truth Constant in Relevant Logics: A Proof-Theoretic Investigation",forthcoming
+DEMBSP,Fabio De Martin Polo,Beyond Semantic Pollution: Towards a Practice-Based Philosophical Analysis of Labelled Calculi,2024
+MARAHS,R. M. Martin,A Homogeneous System for Formal Logic,1943
+KRAAMA,Chris A. Kramer,"Argumentation, Metaphor, and Analogy: It's Like Something Else",2024
+WOOCI-3,Jack Woods,Characterizing Invariance,2016
+COPLAR,Brian Jack Copeland,Logic and Reality: Essays on the Legacy of Arthur Prior,1996
+THOSL,Richmond H. Thomason,Symbolic Logic,1969
+ARNWIT,Jack Arnold and Stewart Shapiro,Where in the (World Wide) Web of Belief is the Law of Non-Contradiction?,2007
+TICWDW-3,Pavel Tich\'y,What Do We Talk About?,1975
+GABWIA,Dov M. Gabbay,What is a Logical System?,1994
+GABFL,Dov M. Gabbay,Fibring Logics,1999
+THOSAC,Robert Henry Thouless,Straight and Crooked Thinking,1930
+TAMOOM,Ilmar Tammelo,Outlines of Modern Legal Logic,1969
+LEBDL,Hugues Leblanc,Deductive Logic,1972
+RESLAI-2,Greg Restall,Logic: An Introduction,2006
+COPSL-2,Irving Marmer Copi,Symbolic Logic,1954
+MALPFT-3,Alex Malpass,Problems for the Argument From Logic: A Response to the Lord of Non-Contradiction,2020
+MAGSFA,Ofra Magidor,Strict Finitism and the Happy Sorites,2012
+IACLFC,Andrea Iacona,"Logical Form, Conditionals, Pseudo-Conditionals",forthcoming
+GENITL-6,Harry J. Gensler,Introduction to Logic,2001
+HODL,Wilfrid Hodges,Logic,1977
+JEVPLA,William Stanley Jevons,"Pure Logic, and Other Minor Works",1890
+BERTLB-2,Merrie Bergmann,The Logic Book,2003
+POCRPR,Jan Pociej,\emph{Rozwi\k{a}zanie Paradoks\'{o}w Rossa I Priora. Klasyczny Rachunek Modalno\'{s}ci.},2024
+MACQTO,Fraser MacBride,"""on the Origins of Order: Non-Symmetric or Only Symmetric Relations?""",2015
+JACACT-7,Dale Jacquette,A Companion to Philosophical Logic,2002
+CELLRD,Carlo Cellucci,Le Ragioni Della Logica,1998
+PARWIA-3,Terence Parsons,What is an Argument?,1996
+LEMADR,Jens Lemanski and Valentin Pluder,A Diagrammatic Representation of Hegel?s \emph{Science of Logic},2021
+WOLWOG,Wolfgang Kienzler and Sebastian Sunday Gr\`{e}ve,"Wittgenstein on G\""{o}delian 'Incompleteness', Proofs and Mathematical Practice: Reading \emph{Remarks on the Foundations of Mathematics}, Part I, Appendix Iii, Carefully",2016
+SALBET,F. Salto,Brain Electrical Traits of Logical Validity,2021
+BETAOM,Evert Willem Beth,Aspects of Modern Logic,1970
+MARAIT-38,Jacques Maritain and Imelda Choquette,An Introduction to Logic,1937
+ANDTLE,Alan Ross Anderson and Ruth Barcan Marcus and Richard Milton Martin and Frederic Brenton Fitch,The Logical Enterprise,1975
+JACPOL,Dale Jacquette,Philosophy of Logic,2002
+MEZFOT-2,Daniele Mezzadri,Frege on the Normativity and Constitutivity of Logic for Thought Ii,2015
+BRENAS,Andrew Brennan,Necessary and Sufficient Conditions,2008
+DEAAAT-2,W. Dean,Algorithms and the Mathematical Foundations of Computer Science,forthcoming
+LAMOTP,Karel Lambert,On the Philosophical Foundations of Free Logic,1981
+PEZTPV,Ivo Pezlar,The Placeholder View of Assumptions and the Curry?Howard Correspondence,2020
+RACCAD,Ji\v{r}'i Raclavsk\'y and Petr Kuchy\v{n}ka,Conceptual and Derivation Systems,2011
+MEZFOT,Daniele Mezzadri,Frege on the Normativity and Constitutivity of Logic for Thought I,2015
+PURLT,Richard L. Purtill,Logical Thinking,1994
+BETFM,Evert Willem Beth,Formal Methods,1962
+COHAIT-2,Morris Raphael Cohen,An Introduction to Logic,1962
+LEPMAA-2,Ernest LePore,Meaning and Argument: An Introduction to Logic Through Language,2000
+TOML-2,Paul Tomassi,Logic,1999
+GOBTBG-2,Lou Goble,The Blackwell Guide to Philosophical Logic,2001
+CHULMA,"C. Anthony Anderson and Michael Zel\""{e}ny","Logic, Meaning, and Computation: Essays in Memory of Alonzo Church",2001
+CARSLN-2,Massimiliano Carrara and Daniele Chiffi and Ahti{-}Veikko Pietarinen,Some Logical Notations for Pragmatic Assertions,2020
+Skardowska1969-WYBTZO,Urszula Wybraniec{-}Skardowska,Teoria Zda\'n Odrzuconych,1969
+CREAIL,James Edwin Creighton,An Introductory Logic,1904
+BAUL,Robert Baum,Logic,1975
+CARTAD-5,Massimiliano Carrara and Enrico Martino,Dleac: A Dialetheic Logic with Exclusive Assumptions and Conclusions,2019
+PASTOA-2,A. C. Paseau,The Overgeneration Argument(S): A Succinct Refutation,2014
+HINTLO-2,Jaakko Hintikka,The Logic of Science as a Model-Oriented Logic,1984
+BENIAE-6,Johan Benthem,Implicit and Explicit Stances in Logic,2019
+Adler2018-LUALNA,Huaping Lu{-}Adler,Logical Normativity and Rational Agency--Reassessing Locke's Relation to Logic,2018
+BZILIN,Jean{-}Ives B\'{e}ziau,Logic is Not Logic,2010
+AGAPFL,Joseph Agassi,Presuppositions for Logic,1982
+CONRAL,Marcelo Esteban Coniglio,Recovering a Logic From its Fragments by Meta-Fibring,2007
+Adler2017-LUAFLC,Huaping Lu{-}Adler,From Logical Calculus to Logical Formality--What Kant Did with Euler?s Circles,2017
+KORLAA-2,Anssi Korhonen,"Logic as a Science and Logic as a Theory: Remarks on Frege, Russell and the Logocentric Predicament",2012
+HENLSC,Leon Henkin,Logical Systems Containing Only a Finite Number of Symbols,1967
+HARKFV,Dirk Hartmann,Konstruktive Fragelogik. Vom Elementarsatz Zur Logik von Frage Und Antwort,1990
+CARFOL,James D. Carney,Fundamentals of Logic,1974
+PORATO-2,Daniele Porello and Oliver Kutz and Guendalina Righetti and Nicolas Troquard and Pietro Galliani and Claudio Masolo,A Toothful of Concepts: Towards a Theory of Weighted Concept Combination,2019
+COCPVM,Nino Cocchiarella,Predication Versus Membership in the Distinction Between Logic as Language and Logic as Calculus,1988
+BRIASO-10,Phillip Bricker,A Sketch of Reality,2020
+TOLKOT-2,Clinton Tolley,Kant on the Generality of Logic,2008
+TANBL,Koji Tanaka,Buddhist Logic,forthcoming
+SAYPTO,Charles Sayward,Prior?s Theory of Truth,1987
+MAKTIM-2,David Makinson,Topics in Modern Logic,1973
+ALLLRA-2,Patrick Allo,"Logic, Reasoning and Revision",2015
+MASUSL,Gerald J. Massey,Understanding Symbolic Logic,1970
+BOWTPO-5,Gwendolyn D. Bowne,"The Philosophy of Logic, 1880-1908",1966
+KAMLAP,Jack Kaminsky,Logic: A Philosophical Introduction,1974
+Plummer1999-BARLPA-4,Dave Barker{-}Plummer,"Language, Proof, and Logic",1999
+CLADL,David S. Clarke,Deductive Logic,1973
+GUTTLO,Samuel D. Guttenplan,The Languages of Logic: An Introduction to Formal Logic,1997
+Escobar1967-LOPLTO,E. G. K. Lopez{-}Escobar,Logic: Techniques of Formal Reasoning,1967
+EDGLAP,Dorothy Edgington,Logic and Philosophy: A Modern Introduction,1970
+CELRLW-3,Carlo Cellucci,Reconnecting Logic with Discovery,2020
+REIHI,Samuli Reijula,"Hacking, Ian (1936?)",2021
+SHANAS-4,Michael Shaffer,Necessary and Sufficient Conditions,2020
+ZALIDO,Edward N. Zalta,In Defense of the Law of Noncontradiction,2004
+WALITM,Micha? Walicki,Introduction to Mathematical Logic,2012
+CANICG,Paola Cant\`u,Is Common Ground a Word or Just a Sound?,2007
+TELAMF-2,Paul Teller,Sentence Logic,1989
+CARTLO-6,Robert Daniel Carmichael,The Logic of Discovery,1930
+HACACI,Ian Hacking,A Concise Introduction to Logic,1972
+EATGLA,Ralph Monroe Eaton,General Logic an Introductory Survey,1931
+FRELTA,David Hugh Freeman,Logic: The Art of Reasoning,1967
+FOWTEO-3,Thomas Fowler,The Elements of Deductive Logic: Designed Mainly for the Use of Junior Students in the Universities,1871
+BONDIS,Daniel A. Bonevac,Deduction: Introductory Symbolic Logic,2003
+BYEAPO,Henry Byerly,A Primer of Logic,1973
+Torrente2000-GOMFYM,Mario Gomez{-}Torrente,Forma y Modalidad. Una Introducci\'{o}n Al Concepto de Consecuencia L\'{o}gica,2000
+MOOCAC-3,William Edgar Moore,Creative and Critical Thinking,1967
+ENNOL,Robert Hugh Ennis,Ordinary Logic,1969
+CHUAER,Eugene Chua,An Empirical Route to Logical 'Conventionalism'.,2017
+SALMLK-3,Nathan Salmon,Modal Logic Kalish-and-Montague Style,2005
+SALCWB,Sherif Salem,Can We Be Skeptical About a Priori Knowledge?,
+PUTALF,Frederik Putte and Bert Leuridan and Mathieu Beirlaen,A Logic for the Discovery of Deterministic Causal Regularities,2018
+MAYLAS-3,Robert May,Logic as Science,2018
+BRIANO-6,Beppe Brivec,A Note on Logical Paradoxes and Aristotelian Square of Opposition,manuscript
+BUNTCM,Alan Bundy,The Computer Modelling of Mathematical Reasoning,1987
+FAREPD-7,Gheorghe{-}Ilie Farte,O Proiectare Sistemic\ua a Silogisticii Cu Ajutorul Func\c{t}iei de Cardinalitate,1999
+GRAIIE,Kherian Gracher,"Identidade, Indiscernibilidade e L\'{o}gica",2015
+ZALAPC,Edward N. Zalta,A Philosophical Conception of Propositional Modal Logic,1993
+PHIFOI,Philip Hugly and Charles Sayward,Frege on Identities,2000
+ROSCL-3,Alan Rose,Computer Logic,1978
+MCGAIL,Evander Bradley McGilvary and James Edwin Creighton,An Introductory Logic,1898
+QUITPB,Wv Quine,The Philosophical Bearing 0F Modern Logic,1961
+RUSLOR,Penelope Rush,Logic or Reason?,2012
+BEZWIF,Jean{-}Yves B\'{e}ziau,What is ?Formal Logic??,2008
+GRAAI-2,Kherian Gracher,\'E a Identidade Fundamental?,2016
+CUELLM-2,Jose Alejandro Fern\'{a}ndez Cuesta,La L\'{o}gica Modal Como Herramienta Metodol\'{o}gica En Epistemolog\'{i}a,2022
+GRAAOQ,Roger Granet,"Application of ""a Thing Exists If It's a Grouping"" to Russell's Paradox and Godel's First Incompletness Theorem",manuscript
+PEZEUA,Andr\'{e}s P\'{a}ez,"Explanation, Understanding, and Belief Revision",2018
+PENARR,Vasil Penchev,A Reductionist Reading of Husserl?s Phenomenology by Mach?s Descriptivism and Phenomenalism,2020
+HINAPO,Jaakko Hintikka,A Proof of Nominalism: An Exercise in Successful Reduction in Logic,2009
+BAZHOT,Andr\'e Bazzoni,Hintikka on the Foundations of Mathematics: If Logic and Uniformity Concepts,2015
+FREHTA,Danny Frederick,How to Argue (and How Not To),manuscript
+GRAIES-2,Kherian Gracher,Identidade e Sistemas Conceituais,forthcoming
+SOMHWI,Fred Sommers,How We Naturally Reason,manuscript
+IACR,Andrea Iacona,Replies,2020
+EDWWIA-2,Terence Rajivan Edward,What is an Argument? An Alternative Definition,manuscript
+JOATSL,Jeremiah Joven Joaquin and Robert James M. Boyles,Teaching Syllogistic Logic Via a Retooled Venn Diagrammatical Technique,2017
+GAUACT,Christopher Gauker,A Completenesss Theorem for a 3-Valued Semantics for a First-Order Language,manuscript
+RAVKF,Mike Raven,Kit Fine,2020
+ALEAIT,Peter Alexander,An Introduction to Logic,1969
+CLADLA,David S. Clarke and Richard Behling,Deductive Logic: An Introduction to Evaluation Technique and Logical Theory,1973
+HAROIA-3,Dirk Hartmann,On Inferring. An Enquiry Into Relevance and Validity.,2003
+MARFOM-2,Angelo Margaris,First Order Mathematical Logic,1967
+LIEMWA,Lillian R. Lieber,"Mits, Wits, and Logic",1954
+KRESLA,Peter Kreeft,"Socratic Logic: A Logic Text Using Socratic Method, Platonic Questions \& Aristotelian Principles",2004
+BEAITL,John D. Beach,Introduction to Logic,1970
+OESLTA,John A. Oesterle,Logic: The Art of Defining and Reasoning,1963
+RUSTMO-4,Penelope Rush,The Metaphysics of Logic,2014
+CAUFLA,Leigh S. Cauman,First-Order Logic: An Introduction,1998
+SHALAI,Patrick Shaw,Logic and its Limits,1997
+MELAIT,Sydney Herbert Mellone,An Introductory Text-Book of Logic,1937
+BASLDG,Patrick K. Bastable,Logic: Depth Grammar of Rationality: A Textbook on the Science and History of Logic,1975
+RESSL-2,Greg Restall,Symbolic Logic,manuscript
+RESLGR,Greg Restall,Logic Greg Restall I,2003
+WHAEOL-2,Richard Whately,"Elements of Logic. Comprising the Substance of the Article in the Encyclopaedia Metropolitana, with Additions, \&C",1826
+JASNTA-4,Gary James Jason,Notes Tow Ard a Formal Conversation Theory,1980
+LAUSAR,Laurence Goldstein,Smooth and Rough Logic,1992
+QUIASC,Willard V. Quine,A Short Course in Logic. Chapters I-Vii,1947
+SALCBS,Jan Salamucha,Comparisons Between Scholastic Logical Tools and Modern Formal Logic (1937),1993
+HARKL,Dirk Hartmann,"Kulturalistische Logikbegr\""{u}ndung",1998
+KOVOCA,Sre\'{c}ko Kova\vc,"On Causality as the Fundamental Concept of G\""{o}del?s Philosophy",2020
+KOVFVU,Sre\'{c}ko Kova\vc,Faust Vran\v{c}i\'c Und der Aristotelismus in der Logik,1993
+BEEVCT,Tom Beevers,Vagueness-Induced Counterexamples to Modus Tollens,2021
+HARFDL,David Harel,First-Order Dynamic Logic,1982
+FREADM-2,Danny Frederick,Any Dispute May Be Resolved by Argument but Rational People May Disagree About Anything,manuscript
+KOVFVI-3,Sre\'{c}ko Kova\vc,Faust Vran\v{c}i\'c I Aristotelizam U Logici [Faustus Verantius and Aristotelianism in Logic],1988
+ARABLP,Pavel Arazim,Beyond Logical Pluralism and Logical Monism,2020
+TRAMID,James Trafford,Meaning in Dialogue: An Interactive Approach to Logic and Reasoning,2016
+GONDAP-4,O. Yu Goncharko,"Dialectic After Plato and Aristotle: Thomas B\'{e}natou\""{i}l and Katerina Ierodiakonou, Editors. Foreword by T. B\'{e}natou\""{i}l. Cambridge: Cambridge University Press, 2019. 385 Pp. Isbn 9781108471909",2021
+CHAI-9,Zo\'e Chatzidakis and David Marker and Amador Martin{-}Pizarro and Rahim Moosa and Sergei Starchenko,Introduction,2013
+PEZCOD,Ivo Pezlar,Composition of Deductions Within the Propositions-as-Types Paradigm,2020
+SAYTPA,Charles Sayward,True Propositions: A Reply to C.J.F. Williams,1972
+EAGEOD,Antony Eagle,Elements of Deductive Logic,manuscript
+VIDNAI,Concha Mart\'{i}nez Vidal,Normativity and its Vindication: The Case of Logic,2004
+SMIHAL,Henry Bradford Smith,"How a Logic of ""Propositions"" Fails of Complete Generality",1931
+PERANO-18,Tin Perkov,A Note on Logicality of Generalized Quantifiers,2021
+PASEFT-3,Lawrence Pasternack and Pablo Muchnik,Excerpt From the Doctrine of Reason,2016
+CHOTIO-22,Seungrak Choi,The Identity of Proofs and the Criterion for Admissible Reductions,2021
+VANLAP-4,Johan van Benthem,"Logic and Philosophy, a Sea of Stories",2015
+POLLAI,John Pollock,Logic: An Introduction to the Formal Study of Reasoning,manuscript
+GOTLAA-2,Thomas \A{A}gotnes and Beishui Liao and Y\`i N. W\'{a}ng,Logic and Argumentation,2018
+MOLRI,Daniel Molto,Relativizing Identity,2019
+KASPTA,Jeffrey L. Kasser and Daniel H. Cohen,"Putnam, Truth and Informal Logic",2002
+BETFMA,Evert Willem Beth,Formal Methods: An Introduction to Symbolic Logic and to the Study of Effective Operations in Arithmetic and Logic,2012
+HERITL-3,Paul Herrick,Introduction to Logic,2012
+HAULAP,Alan Hausman,Logic and Philosophy: A Modern Introduction,2012
+TURATS-2,Andrew W. Appel,Alan Turing's Systems of Logic: The Princeton Thesis,2012
+HUMWIA-4,Lloyd Humberstone and Allen Hazen,When is a Schema Not a Schema? On a Remark by Suszko,2020
+SILBFA,"Ricardo Sousa Silvestre and Benedikt Paul G\""{o}cke and Jean{-}Yves B\'{e}ziau and Purushottama Bilimoria","Beyond Faith and Rationality: Essays on Logic, Religion and Philosophy",2020
+BZINTI,Jean{-}Yves B\'{e}ziau and D\'{e}cio Krause,New Trends in the Foundations of Science,2007
+ANEEIT,Irving H. Anellis,"Editor?s Introduction to Jean van Heijenoort, Historical Development of Modern Logic",2012
+HUGPTO,Philip Hugly and Charles Sayward,Prior?s Theory of Propositions,1977
+CHOTCF-3,Seungrak Choi,Tennant?s Conjecture for Self-Referential Paradoxes and its Classical Counterexample,2021
+TRACII,James Trafford,Conditionals in Interaction,2017
+ZALLMA-3,Edward N. Zalta,"Lambert, Mally, and the Principle of Independence",1985
+AKILAT-3,Ken Akiba,Logic and Truth,2000
+SAYAOW,Charles Sayward and Michael Durrant,Austin on Whether Every Proposition has a Contradictory,1967
+SILTBL-2,Cezar A. Mortari and Ricardo Silvestre,19Th Brazilian Logic Conference: Book of Abstracts,2019
+HOUHOL,Roland Houde,Handbook of Logic,1954
+STEAME,Lizzie Susan Stebbing,A Modern Elementary Logic,1946
+ZHOTTR,Zhang Zhongyi and Zhang Jialong,The Three-Form Reasoning of New Hetu-Vidya in Indian Logic From the Perspective of Modern Logic,2009
+COPROL,Irving M. Copi,Readings on Logic,1971
+HIBAIT,John Grier Hibben and Sydney Herbert Mellone and Herbert Austin Aikins,An Introductory Text-Book of Logic.The Principles of Logic,1903
+OLIAIT,James Willard Oliver,An Introduction to Logic,1979
+FOSFLI,Alfred Leon Foster,Formal Logic in Finite Terms..,1931
+STANMI,Gerald B. Standley,New Methods in Symbolic Logic,1971
+ROMLBW,Carlos Romero,L\'{o}gica B\'{a}sica,manuscript
+JOHEDL,Henry W. Johnstone,Elementary Deductive Logic,1955
+GRAITP-6,A. C. Grayling,Introduction to Philosophical Logic,1997
+YAMAIT,M. Yamunacharya,An Introduction to Logic \& Scientific Method,1953
+DITLII,Hans Ditmarsch and Rohit Parikh and R. Ramanujam,Logic in India--Editorial Introduction,2011
+SEUBBL,Karen H. Seubert,Bare Bones Logic,1986
+VANLII-5,R. Ramanujam and Rohit Parikh and Hans van Ditmarsch,Logic in India--Editorial Introduction,2011
+SMITGO-15,Perry Smith and D. D. Mahulkar,The Groundwork of Modern Logic,1971
+LINFL,"Per Lindstr\""{o}m",First-Order Logic,2009
+GOOFL,Michael F. Goodman,First Logic,1992
+SUPFCI,Patrick Suppes,First Course in Mathematical Logic,1964
+WOLTOL,Abraham Wolf,Textbook of Logic,1938
+SAYWDO,Charles Sayward,Williams? Definition of ?X is True?,1970
+BLALEF,Stephen Blamey and Julie Jack and A. W. Moore and Wilfrid Hodges,Logic Exercises for Use in Conjunction with Hodges' Logic,1982
+KOZUND,John Kozy,Understanding Natural Deduction,1974
+HEIHIL,Johan Ludvig Heiberg,Heiberg's Introductory Lecture to the Logic Course and Other Texts,2007
+BACITL,Andrew H. Bachhuber,Introduction to Logic,1957
+STERRA-8,L. Susan Stebbing,Routledge Revivals: A Modern Elementary Logic,1952
+CHUEOL,J. B.,Elements of Logic and Formal Science,1942
+CREAIL-2,James Edwin Creighton,"An Introductory Logic, 5Th Ed",1933
+HARCSA-5,Allen J. Harder,"Content, Skills, and Introductory Logic",1976
+CORCNC,John Corcoran and Micheal Scanlan,Critical Notice: Contemporary Relevance of Ancient Logical Theory,1982
+HLORFL,Ulf Hlobil and Robert B. Brandom,"Reasons for Logic, Logic for Reasons: Pragmatics, Semantics, and Conceptual Roles",2024
+WAGTBT,Frank Wagner,The Bsl 25Th Anniversary Prize,2020
+RUBLAI,Lionel Ruby,"Logic, an Introduction",1960
+GUTTLO-2,Samuel D. Guttenplan,The Languages of Logic: An Introduction,1987
+THOIRT,Ivo Thomas,Introductory Remarks to Modern Logic,1956
+DOWAFC,Roy Dowsing,A First Course in Formal Logic and its Applications in Computer Science,1986
+AGAPOM-2,Unknown,Philosophy of Mathematics Today,2000
+FICHWC,Elena Ficara,Hegel Within Contemporary Logic,2013
+SSUPTF,S. Summersbee and A. Walters,Programming the Functions of Formal Logic,1962
+LOSAEI,Nikola\ui Onoufrievitch Losski\ui,An Epistemological Introduction Into Logic,1939
+JACPOL-4,Dale Jacquette,Philosophy of Logic: An Anthology,2001
+RICDLB,Richard L. Purtill,Doing Logic by Computer,1969
+BAULSG,Robert Baum,Logic: Study Guide,1995
+JOAPFE,Jeremiah Joven Joaquin,Prospects for Experimental Philosophical Logic,2019
+MCAUT,Thomas Burns McArthur,Unitive Thinking,1988
+DEMTIT-4,Fabio De Martin Polo,Topics in the Proof Theory of Non-Classical Logics. Philosophy and Applications,2023
+SCHLFU-13,Ferdinand Canning Scott Schiller,Logic for Use,1929
+KUCLO,John{-}Michael Kuczynski,30 Laws of Logic,2016
+MORSGF,Warner Morse,Study Guide for Logic and Philosophy,1971
+LIEAIA,Antonio Lieto and Marco Cruciani,Artificial Intelligence and Cognition. Proceedings of the First International Workshop Aic 2013.,2013
+DUNGCA,J. Michael Dunn and Robert K. Meyer,Gentzen's Cut and Ackermann's Gamma,1989
+SILTCO-23,Ricardo Silvestre,The Concept of God: Special Issue of the Journal of Applied Logics,2019
+BROEML,Paul Llewellyn Brown,Elementary Modern Logic,1965
+HOWLWT-3,Colin Howson,Logic with Trees: An Introduction to Symbolic Logic,1997
+ARNMP,E. Leonard Arnoff and S. Sankar Sengupta,Mathematical Programming,1961
+GALTLO-7,Roger Gallie,The Language of Logic: An Introduction,1987
+WEDITM,Anders Wedberg and Otso Aalto and Eino Kaila,Introduction to Modern Logic,1948
+MANLAP-3,Peter T. Manicas,Logic as Philosophy an Introductory Anthology,1971
+RUZOTP,G. I. Ruzavin,On the Problem of the Interrelations of Modern Formal Logic and Mathematical Logic,1964
+ZIEFLA,Ernesto Zierer,Formal Logic and Linguistics,1972
+MIGPLA,Fernando Migura,Philosophical Logic: An Introduction,1993
+OLSLAN,Elizabeth Olsen,Logic and Normativity,2012
+LUCCAW,J. R. Lucas,Chapter 9a What is Logic?,manuscript
+GREACC-3,Maughn Gregory,A Crash Course in Logic,1999
+BOTPAL,Petre Botezatu,Philosophy and Logic: Selected Writings of Petre Botezatu,1987
+VANRAU-2,J. van Eijck and F. J. de Vries,"Reasoning About Update Logic', Report Cs-R9312, Centre for Mathematics and Computer Science, Amsterdam",forthcoming
+ISELAP,Gary Iseminger,Logic and Philosophy: Selected Readings,1980
+RACEAD,Jiri Raclavsky,Explikace a Deukce: Of Jednoduch\'e K Rozv\v{e}tven\'e Teorii Typ\ru [Explication and Deduction: From Simple to Ramified Theory of Types],2012
+PEZTTC,Ivo Pezlar,Tich\'y's Two-Dimensional Conception of Inference,2013
+PRALAP,Dag Prawitz and Dag Westerst\a{a}hl,"Logic and Philosophy of Science in Uppsala: Papers From the 9Th International Congress of Logic, Methodology and Philosophy of Science",1994
+PATTKO,Bernard M. Patten,"Truth, Knowledge, or Just Plain Bull: How to Tell the Difference: A Handbook of Practical Logic and Clear Thinking",2004
+RUBTAO,Lionel Ruby,The Art of Making Sense,1968
+THOML,Norman L. Thomas,Modern Logic,1966
+ZALLAM,Edward N. Zalta,Logic and Metaphysics,2010
+MEYFSI,Renier Stefanus Meyer,First Steps in Logic,1972
+VIDNAI-2,Concepci\'{o}n Mart\'{i}nez Vidal,Normativity and its Vindications: The Case of Logic,2004
+NIDIFL,Peter Harold Nidditch,Introductory Formal Logic of Mathematics,1957
+FISEIN-4,Alec Fisher,Exercises in Non-Formal Logic,1994
+LOWPLA,E. J. Lowe,Philosophical Logic: An Introduction,1990
+JACTLO-14,Rodger L. Jackson and Melanie L. McLeod,The Logic of Our Language: An Introduction to Symbolic Logic,2014
+CLAMLA-2,Michael Clark,Modern Logic. A Text in Elementary Symbolic Logic,1995
+DEVAIT-3,David DeVidi,An Introduction to Formal Logic,2004
+KUCTMO-4,John{-}Michael Kuczynski,The Mathematics of the Infinite,2015
+ABBEOL,T. K. Abbott,Elements of Logic,1884
+WILML,Henry Horace Williams,Modern Logic,1927
+DASAIT,Adhar Chandra Das,An Introduction to Logic,1949
+HASITT,Gisbert Hasenjaeger,Introduction to the Basic Concepts and Problems of Modern Logic,1971
+DUNTEO-3,William Duncan,"The Elements of Logic, 1748",1748
+SIMTSA,Edward Dwyer Simmons,The Scientific Art of Logic,1961
+GAREL-2,Brian Garrett,Elementary Logic,2012
+Ari1993-BENMLF,M. Ben{-}Ari,Mathematical Logic for Computer Science,1993
+HAITSA-3,Mary Haight,The Snake and the Fox: An Introduction to Logic,1999
+MILWGF,David Miller,Word Games for Formal Logic,manuscript
+FOWTEO-5,Thomas Fowler,The Elements of Deductive Logic Designed Mainly for the Use of Junior Students in the Universities / by Thomas Fowler,1883
+JOUSMA,Philip E. B. Jourdain,Some Modern Advances in Logic,1911
+GUPLAS,Saryoo Prasad Gupta,Logic and Scientific Method,1978
+VARERO-2,Achille Varzi,The Nature of Logic,1999
+NEIDFA,Robert Neidorf,Deductive Forms an Elementary Logic,1967
+SUSILA,Danilo Suster,Informal Logic and Informal Consequence,2011
+BLASBM,Andreas Blass,Symbioses Between Mathematical Logic and Computer Science,2016
+HURSTI-2,Stanley Leonard Hurst and D. Michael Miller and Jon C. Muzio,Spectral Techniques in Digital Logic,1985
+RADGAL-2,K. S. Radhakrishnan,Globalization and Localization,2008
+MARISL-3,Robert M. Martin,Introducing Symbolic Logic,2004
+PRIHGE-2,A. N. Prior,"Hughes, G. E., and Londey, D. G.: ""The Elements of Logic""",1966
+PEDAVO,Andrea Pedeferri,Alternative Versions of Second Order Logic: An Introduction,2007
+GABHOP-3,Gabbay Dm and Guenthner F.,Handbook of Philosophical Logic,2002
+MAHTSO,Asa Mahan,The Science of Logic,2005
+RUSFLA,L. J. Russell,Formal Logic and Ordinary Language,1960
+COPCRI,Irving M. Copi,Contemporary Readings in Logical Theory,1967
+AJDLAE-2,Maria Kokoszy\'{n}ska,Logic and Experience,1948
+NYATLA,Oriare Nyarwath,Traditional Logic: An Introduction (2nd edition),2007
+MCFAIT,I. G. Mcfetridge,An Introduction to Philosophical Logic,1983
+BORPAD,Richard Bornat,Proof and Disproof in Formal Logic: An Introduction for Programmers,2005
+KUCWIA-4,John{-}Michael Kuczynski,What is a Law of Logic?: A Dialogue,2016
+VANHOL,Johan Van Benthem and Alice Ter Meulen,"Handbook of Logic and Language, 2Nd Edition",2010
+BARLAL-5,Jon Barwise and William Ladusaw and Alice ter Meulen and Richard Oehrle and Richmond Thomason,"Logic and Linguistics Meeting: Santa Cruz, 1991",1992
+BROLTA-2,Baruch A. Brody,Logic: Theoretical and Applied,1973
+ARPBA,Robert Arp and Steven Barbone and Michael Bruce,Bad Arguments: 100 of the Most Important Fallacies in Western Philosophy,2018
+KILAIL,William Jackson Kilgore,An Introductory Logic,1968
+BRASWP,Raymond D. Bradley,"Sybil Wolfram, Philosophical Logic: An Introduction Reviewed By",1989
+CELDLS,Carlo Cellucci,"Does Logic Slowly Pass Away, or has It a Future?",2014
+JEVELI,William Stanley Jevons,"Elementary Lessons in Logic: Deductive and Inductive. With Copious Questions and Examples, and a Vocabulary of Logical Terms",1905
+GUTLAC,Samuel D. Guttenplan,Logic: A Comprehensive Introduction,1971
+THAEOE-2,Ross Thalheimer,Elements of Epistemology,1933
+AGAORS,Evandro Agazzi,"One Reason, Several Logics",2011
+VARSSI,Moshe Vardi,Special Selection in Logic in Computer Science,1997
+LODAIT,Rupert Clendon Lodge,An Introduction to Modern Logic,1920
+JACCTA-2,Debra Jackson and Paul Newberry,Critical Thinking: A User's Manual,2012
+SUSRCT,Roman Suszko,Remarks Concerning the Relation Between Linguistics and Logic,1970
+BLYAMI,John William Blyth,A Modern Introduction to Logic,1957
+KRIMLI,Daya Krishna,Modern Logic: Its Relevance to Philosophy,1969
+SMAAIL,Harold R. Smart,An Introductory Logic,1933
+GEULR,Bart Geurts,Logical Reasoning,manuscript
+WICTIL,Halina S?wie?czkowska,"Topics in Logic, Informatics and Philosophy of Science",1999
+SANITL,Batuk Sasadhar Sanyal,Introduction to Logic,1979
+BETCFM,E. W. Beth,Chapters From Modern Formal Logic,1947
+TULTLO-3,Gordon Tullock,The Logic of the Law,1971
+Kolss2013-HOFL-5,Vera Hoffmann{-}Kolss,Logik,2013
+GABLWA,Michael Gabbay,Logic with Added Reasoning,2002
+CHIML,Ian Chiswell,Mathematical Logic,2007
+BENFLA,E. N.,Formal Logic: A Modern Introduction,1941
+KANWIL-5,Yusuke Kaneko,What is Lk? Vol.5. Solved Problems in Propositional Logic (Textbook Series in Symbolic Logic) (1st edition),2024
+DUMOEH,Mircea Dumitru,Ordinary Expressions Have No Exact and Systematic Logic,2009
+STAJWO,Gerald Standley,"James Willard Oliver. Some Misconceptions of Modern Logic. Darshana International , Vol. 5 No. 2 , Pp. 26?33",1970
+CARTOF,John Carroll and Darrell Long,Theory of Finite Automata: With an Introduction to Formal Languages,1989
+JASSSG,Gary James Jason,Student Study Guide for Introduction to Logic,1994
+RODMCC,Cassiano Terra Rodrigues,Matem\'{a}tica Como Ci\^{e}ncia Mais Geral: Forma da Experi\^{e}ncia e Categorias,2007
+JOHALB-3,Robert M. Johnson,A Logic Book: Fundamentals of Reasoning,1999
+TEILCA,Roger Teichmann,"Logic, Cause and Action: Essays in Honour of Elizabeth Anscombe",2000
+DIAPME,Diogo Dias,"Pluralismo, Monismo e Relativismo L\'{o}gico",2018
+KULASR,Piotr Kulicki,Aksjomatyczne Systemy Rachunku Nazw,2011
+ADATFO,Elie Maynard Adams,The Fundamentals of General Logic,1954
+SMITEO-7,Vincent Edward Smith,The Elements of Logic,1957
+MARSOL-2,Norman M. Martin,Systems of Logic,1989
+DASMIW,Probal Dasgupta,Modern Indian Work at the Logic-Linguistics Boundary,1981
+BITTSO,Celestine Nicholas Charles Bittle,The Science of Correct Thinking: Logic,1950
+KOVPUQ,Sre\'{c}ko Kova\vc,"Priru\v{c}nik Uz ""Logiku"" (Manual for the Textbook ""Logic"")",2004
+HEAILA-2,David Heath and Derek Allum and Lynne Dunckley,Introductory Logic and Formal Methods,1994
+SKJRIS,Hans Skjervheim,Reason in Society and Modern Logic,1958
+BRUISM,Michael Bruce and Steven Barbone,Introduction: Show Me the Arguments,2011
+GAVIR-2,Kostas Gavroglu,Introductory Remarks,2000
+STERRA-7,Susan Stebbing,Routledge Revivals: A Modern Elementary Logic,1952
+CHUEIS,Carl Chung,Enhancing Introductory Symbolic Logic with Student-Centered Discussion Projects,2004
+KINIRC,Renato Rodrigues Kinouchi,Introductory Remarks Concerning Classical Pragmatism,2007
+TOLPOT,Valerio Rohden and Ricardo R. Terra and Guido Antonio de Almeida and Margit Ruffing,Recht Und Frieden in der Philosophie Kants Akten des X. Internationalen Kant-Kongresses,2008
+MITAIT-7,David Mitchell,An Introduction to Logic,1962
+VOSTPO,Marilyn Vos Savant,"The Power of Logical Thinking: Easy Lessons in the Art of Reasoning, and Hard Facts About its Absence in Our Lives",1996
+JUSFL,Erkki Juhani Jussila,Functional Logic,1975
+COOAPO-2,John Cleveland Cooley,A Primer of Formal Logic,1942
+MELEOM,Sydney Herbert Mellone,Elements of Modern Logic,1966
+DOPTII,J. Dopp,"Thomas Ivo. Introductory Remarks to Modern Logic. Blackfriars , T. 33 , P. 299?305",1956
+SONWS,Hu?ng{-}yo?l So,Nolli Wa Sago,1979
+CARLAS,Peter A. Carmichael,Logic and Scientific Law,1932
+RICCFL-2,Tom Richards,Clausal Form Logic: An Introduction to the Logic of Computer Reasoning,1989
+SWITIL,Halina \^{a}swi\~{n}eczkowska,"Topics in Logic, Informatics and Philosophy of Science",1999
+MCABL,Tom McArthur,Beyond Logic \& Mysticism,1990
+SCHLFC,Uwe Scho?ning,Logic for Computer Scientists,1989
+KUCFLA-2,John{-}Michael Kuczynski,"Frege, Logic, and Logicism",2016
+SMIAFB-2,Henry Bradford Smith,A First Book of Logic,1939
+BUTEOL,Harumal Lachiram Butani,Elements of Logic,1962
+GIFTVA,Christopher S. Gifford,The Value and the Identity of Business: Towards a Logical Framework of Business Value,2015
+STOITE,Abram Aronovich Stolyar,Introduction to Elementary Mathematical Logic,1983
+WILITL,Susan Wilson,Introduction to Logic,1971
+DALLAI,A. J. Dale,Logic: An Introductory Course,1986
+HARLAI-4,Charles A. Hart,Logic and Introduction to Philosophy,1931
+CURATO,Haskell Brooks Curry,A Theory of Formal Deducibility,1966
+FISOTP-6,Jennifer Fisher,On the Philosophy of Logic,2007
+CAMLTO-2,J. R. Cameron,Logic: Techniques of Formal Reasoning,1967
+JOOEDT,Jo\~{a}o Miguel Biscaia Branquinho and Desid\'{e}rio Murcho and Nelson Gon\c{c}alves Gomes,Enciclop\'{e}dia de Termos L\'{o}gico-Filos\'{o}ficos,2006
+VONNLA-3,Simon Vonlanthen,Natural Language and Logical Consequence: An Inferentialist Account,manuscript
+POLMLC,Fabio De Martin Polo,Modular Labelled Calculi for Relevant Logics,2023
+MORIL-7,Cezar Augusto Mortari,Introdu\c{c}~{a}o \`A L\'{o}gica,2001
+LICGST,Ignazio Licata,"General System Theory, Likequantum Semantics and Fuzzy Sets",2006
+STAWDP-5,Michael Starks,"What Do Paraconsistent, Undecidable, Random, Computable and Incomplete Mean? A Review of Godel's Way: Exploits Into an Undecidable World by Gregory Chaitin, Francisco a Doria , Newton C.A. Da Costa 160P (2012)",2017
+STAPDP,Michael Richard Starks,"?????????????????????????????????:????????????????????????????160P(2012?)????????????????(What Do Paraconsistent, Undecidable, Random, Computable and Incomplete Mean? A Review of Godel's Way: Exploits Into an Undecidable World by Gregory Chaitin, Francisco a Doria, Newton C.A. Da Costa 160P (2012)) (2019????)",2020
+LIVLOA,Joseph P. Li Vecchi,Logical Objectivity and Second Intentions,2014
+IBRLIA,Nijaz Ibrulj,Logical Identity: A Holistic Approach,2021
+STARDW,Michael Richard Starks,Rese\~{n}a de ?Wittgenstein's Metaphilosophy? de Paul Horwich 248P (2013) (Revisi\'{o}n Revisada 2019),2019
+MANSA-4,Mansooreh,Scrutinizing Anti-Exceptionalism,manuscript
+MERO-5,Paul Merriam,Observations 3 Version 3,manuscript
+KIRWTS,Marvin E. Kirsh,Where the Shape of the Egg Comes From?,manuscript
+TERLAM,Dailey Burnham Terrell,"Logic, a Modern Introduction to Deductive Reasoning",1967
+ARNMOJ,Broz?ek Anna and Chybi\'{n}ska Alicja and Grygianiec Mariusz and Tkaczyk Marcin,"My\'{s}li o J\k{e}zyku, Nauce I Warto\'{s}ciach. Seria Druga. Profesorowi Jackowi Juliuszowi Jadackiemu W Siedemdziesi\k{a}t\ka Rocznic\ke Urodzin.",2016
+MIDLAS,Cornelis A. Middelburg,Logic and Specification: Extending Vdm-Sl for Advanced Formal Specification,1993
+JAVNUN,Taraneh Javanbakht,N\'{e}tisme: Un Nouveau Syst\`{e}me Philosophique,2023
+WHAEOL-3,Richard Whately and James Robert Ballantyne,"Elements of Logic, Extr. [By J.R. Ballantyne]",1853
+RAYATO,Prasanna K. Ray,A Text-Book of Deductive Logic for the Use of Students,1886
+BAREIL,Frederic Charles Bartlett,Exercises in Logic. [With] Key,1913
+DANGSR-2,Jo\~{a}o Daniel Dantas,"G\""{o}del's Slingshot Revisited: Does Russell's Theory of Descriptions Really Evade the Slingshot",2016
+SANQRA,Donato Santarcangelo and Tiziano Cantalupi,L' Imperioso Richiamo Ad Orientarsi. 1. Cos'\`e L'Oriente.,2004
+LEEEOL,John Leechman,Elements of Logic,1836
+JAVTEP,Taraneh Javanbakht,\^{E}tre Et Pens\'{e}e,2020
+YOULOT,Roger William Young,Lines of Thought: Exercises in Reasoned Thinking,1958
+AJDCOR-2,Boles\l{}aw Soboci\'{n}ski,Classification of Reasonings,1956
+STA-65,Michael Richard Starks,"??????? ??? ???????, ??? ??????, ?????????,??? ?????, ???????, ???????, ??????, ???? ?????? ?? Chaitin, Wittgenstein, Hofstadter, Wolpert, ?????, ?? ?????, ?????, ????, ?????, ?????, ?????, ????? ????? ?????????",2019
+SCHLOC-2,Helmut Schwichtenberg,Logic of Computation,1997
+Keng2016-TZUIUL,Fu Tzu{-}Keng,Is Universal Logic ?Universal'?,2016
+MOUFLA,John Arthur Mourant,Formal Logic an Introductory Textbook,1963
+LEELDA,John Leechman,Logic: Designed as an Introduction to the Study of Reasoning,2018
+MANLOT,Zohar Manna,Lectures on the Logic of Computer Programming,1983
+COVAAM,Preston K. Covey,Argue: A Manual and Concise Text to Accompany the Argue Program for Formal Deduction and Analytic Inquiry,1984
+HINITL,Samuel Hinds and Richard Whately,"Introduction to Logic, From Dr. Whately's 'Elements of Logic'",1827
+MCNDAT,G. H. McNair,Davies's a Text-Book on Logic,1917
+WOOAIT-7,J. Woolley,An Introduction to Logic Designed for the Use of Younger Students,1840
+SLODLS,Chris Slocombe,"Doing Logic: Study Notes For: Introduction to Philosophy, Introduction to Logic",2003
+BALSGF,Keith Emerson Ballard,Study Guide for Copi: Introduction to Logic,1978
+PHDEOM,Vijai S. Shankar MD PhD,Evolution of Mind,2010
+BENFGT,Stephen Bennett,Fast Guide to Emagic Logic,1998
+STABGT,Gerald F. Stapleton and Booker T. Williams,Beginner's Guide to Computer Logic,1971
+DIAPLF,Diogo Dias,Paraconsistent Logics From a Philosophical Point of View,2012
+ABBTEO-4,Thomas Kingsmill Abbott,The Elements of Logic,1883
+DASFET-2,Ricardo Tavares da Silva,From Effect to Cause: Deductive Reasoning,2019
+SIRACI,Desh Raj Sirswal,A Class-Room Introduction to Logic,2011
+COVLAA-2,Preston K. Covey,Logic and Argument Analysis: An Introduction to Formal Logic and Philosophic Method (Revised),1985
+MIRHLA,Francisco Mir\'o Quesada Cantuarias,Heterodox Logics and the Problem of the Unity of Logic,manuscript
+SHETEO-22,Thomas Shedden,The Elements of Logic / by Thomas Shedden,1864
+SCHFMT-3,P. N. Scharbach,Formal Methods: Theory and Practice,1989
+ELLLFC,Alexander John Ellis,"Logic for Children, Deductive and Inductive, the Substance of Two Addresses to Teachers",1882
+ZHOMLF,Lu Zhongwan,Mathematical Logic for Computer Science,1993
+LIGLAE,John Lightfoot,Logic and Education: An Elementary Text-Book of Deductive and Inductive Logic,1899
+WOLEIL,Abraham Wolf,Exercises in Logic \& Scientifi,2016
+SHETEO-23,Thomas Shedden,The Elements of Logic,2020
+MACTPO-69,Cecil Alec Mace,The Principles of Logic an Introductory Survey,1933
+ROSTIB-5,Guillermo E. Rosado Haddock,"The Interplay Between Logic, Mathematics and Philosophy",2016
+BARAIT-13,Thomas Squire Barrett,An Introduction to the Study of Logic and Metaphysics,1875
+MARNAI-7,Concha Mart\'{i}nez Vidal,Normativity and its Vindication: The Case of Logic,2010
+SANLRA,Donato Santarcangelo and Tiziano Cantalupi,L'imperioso Richiamo Ad Orientarsi. 2.Le Ombre Nella Luce Orientale,2004
+CORPOL,John Corcoran,Philosophy of Logic. Willard van Orman Quine,1972
+STEAMI-7,Ralph Eaton,A Modern Introduction to Logic,1931
+EVAHJG,J. Evans,"Harry J. Gensler, Historical Dictionary of Logic",2007
+GERROJ-2,Stamatios Gerogiorgakis,"{[}Review of] Jon Williamson/Federica Russo (Eds.), Key Terms in Logic, London: Continuum, 2010",2013
+BESWTT,Corine Besson,?What the Tortoise Said to Achilles?: Lewis Carroll's Paradox of Inference,2018
+CARBRY,Walter A. Carnielli,"Book Review: Yves Nievergelt, Foundations of Logic and Mathematics: Applications to Computer Science and Cryptography, Birk\""{a}user Verlag, Boston, 2002, ?90, Pp. 480, Isbn 0-8176-4249-8, Hardcover. Dimensions (in Inches): 1.00 $\times$ 9.96 $\times$ 7.36",2004
+MACSLS-2,C. A. Mace,"Stebbing, L. S. - a Modern Introduction to Logic",1931
+LATTEO-2,E. T. Mitchell,The Elements of Logic,1931
+BROFVE,Joachim Bromand,Fregesche Variationen. Essays Zu Ehren von Christian Thiel,2021
+MCLJPB,Stephen McLeod,"John P. Burgess , Philosophical Logic . Reviewed By",2011
+LEBREW-2,Hugues Leblanc,"Review: Edith Watson Schipper, Edward Schuh, a First Course in Modern Logic",1959
+CHORAJ,Noam Chomsky,"Review: A. J. J. De Witte, the Relations of Symbolic Logic and Comparative Linguistics",1955
+HAIRSC,Theodore Hailperin,"Rolf Schock. Contributions to Syntax, Semantics, and the Philosophy of Science. Notre Dame Journal of Formal Logic, Vol. 5 No. 4 , Pp. 241?289",1972
+DUNEWH,Caroline Dunmore,Review of W. Newton-Smith: \emph{Logic: An Introductory Course},1987
+VONRWW,Nicholas A. Vonneuman,"Review: Ward Waddell, Structure of Laws as Represented by Symbolic Methods",1965
+BAYRSK-2,Charles A. Baylis,"Review: Susanne K. Langer, an Introduction to Symbolic Logic",1938
+BOSLRC,B. Bosanquet,"Lodge, R. C. -An Introduction to Modern Logic",1920
+NAGRLS,Ernest Nagel,"Review: L. Susan Stebbing, a Modern Elementary Logic",1944
+Hillel1954-BARRSH,Y. Bar{-}Hillel,"Review: Shmuel Hugo Bergmann, Introduction to Logic",1954
+CHURLR,Alonzo Church,"Review: Lillian R. Lieber, Hugh Gray Lieber, Mits, Wits and Logic",1948
+DAVMJA,Martin Davis,"Mccarthy John. A Basis for a Mathematical Theory of Computation, Preliminary Report. Proceedings of the Western Joint Computer Conference, Papers Presented at the Joint Ire-Aiee-Acm Computer Conference, Los Angeles, Calif., May 9?11, 1961, Western Joint Computer Conference, 1961, Pp. 225?238.Mccarthy John. A Basis for a Mathematical Theory of Computation. Computer Programming and Formal Systems, Edited by Braffort P. And Hirschberg D., Studies in Logic and the Foundations of Mathematics, North-Holland Publishing Company, Amsterdam 1963, Pp. 33?70",1968
+SKORJJ,Th Skolem,"Review: Jorgen Jorgensen, Introduction to Logic and Methodology",1947
+BTSA-4,D. P. B.,The Scientific Art of Logic,1961
+GBKLAS,G. B. Keene,"Logic and Scientific Methods: An Introductory Course. By Herbert L. Searles. (2Nd Edition. New York, Ronald Press, 1956.)",1957
+SALEEA-6,Andrzej Salwicki,"Engeler E.. Algorithmic Logic. Foundations of Computer Science, Edited by de Bakker J. W., Mathematical Centre Tracts 63, Mathematisch Centrum, Amsterdam 1975, Pp. 55?85",1977
+MLLHGE,Gert H. Muller,"Review: Gisbert Hasenjaeger, E. C. M. Mays, Introduction to the Basic Concepts and Problems of Modern Logic",1975
+LAURSW,Henle Lauer,"Review: Sybil Wolfram, Philosophical Logic. An Introduction",1992
+ANDTPO-34,W. Anderson,The Principles of Logic: An Introductory Survey,1935
+STARWV,Robert L. Stanley,"Review: Willard van Orman Quine, Elementary Logic",1970
+COORHL,J. C. Cooley,"Review: Herbert L. Searles, Logic and Scientific Methods. An Introductory Course",1948
+Dahlquist1964-HENLWT-2,Ann{-}Mari Henschen{-}Dahlquist,"Ludwig Wittgenstein. Tractatus Logico-Philosophicus. Swedish Translation of 2812 by Anders Wedberg . Orion/Bonniers, Stockholm1962, 147 Pp. - Anders Wedberg. Inledning . Therein, Pp. 7?34",1964
+NFLA,E. N.,Formal Logic. A Modern Introduction,1939
+BOHAIT,Ivan Boh,An Introduction to Modern Logic,1961
+TURRWV-3,Atwell R. Turquette,"Review: Willard van Orman Quine, Methods of Logic",1950
+ENDRML,H. B. Enderton,"Review: Morton L. Schagrin, the Language of Logic. A Programed Text",1974
+BUTRND,Richard Butrick,"Review: Nancy D. Simco, Gene G. James, Elementary Logic",1979
+HYSTEO,J. E. Creighton,The Elements of Logic,1892
+SUGRAI,Takeo Sugihara,"Review: Arata Isimoto, a Survey of Modern Logic",1954
+WILJDM,W. Kent Wilson,"James D. Mccawley. Everything That Linguists Have Always Wanted to Know About Logic, but Were Ashamed to Ask. The University of Chicago Press, Chicago, and Basil Blackwell, Oxford, 1981, Xv + 508 Pp",1984
+CHURAW,Alonzo Church,"Review: A. Wolf, Textbook of Logic",1949
+MARREW,R. M. Martin,"Review: Evert W. Beth, the Origin and Growth of Symbolic Logic",1949
+PERNWI-4,Jaroslav Peregrin,"New Waves in Philosophical Logic, Edited by Greg Restall and Gillian Russell: New York: Palgrave Macmillan, 2012, Pp. Ix + 240, Us\$90/Us\$32 (Hardback/Paperback)",2013
+BENLAS-3,A. Cornelius Benjamin,Logic and Scientific Method. Herbert L. Searles,1948
+KEYPKR,J. N. Keynes,"P. K. R\'{a}y, a Text-Book of Deductive Logic",1884
+HAIRWH,Theodore Hailperin,"Review: William H. Halberstadt, an Introduction to Modern Logic. An Elementary Textbook of Symbolic Logic",1964
+TLFP,G. N. T.,Logic for Philosophers,1971
+LAMI-3,K. B. L.,A Modern Introduction to Logic,1957
+CAURHG,Leigh S. Cauman,"Review: H. G. Bohnert, Logic: Its Use and Basis",1980
+BAYRWV,Charles A. Baylis,"Review: Willard van Orman Quine, Elementary Logic",1941
+DONAIT-3,M. J. Donnelly,An Introduction to Logic,1939
+AEML,E. J. A.,Elementary Modern Logic,1965
+NAKMOL,George Nakhnikian,Methods of Logic. Willard van Orman Quine,1952
+SMURWV-2,Raymond M. Smullyan,"Review: Willard van Orman Quine, Methods of Logic",1959
+LINRLT,Godehard Link,"Review: L. T. F. Gamut, Logic, Language, and Meaning. Volume I. Introduction to Logic; Grammar., L. T. F. Gamut, Logic, Language, and Meaning. Volume Ii. Intensional Logic and Logical",1996
+Am1999-BARSGI,Nimrod Bar{-}Am,"Samuel Guttenplan,the Languages of Logic: An Introduction to Formal Logic",1999
+CHURSK-2,Alonzo Church,"Review: Susanne K. Langer, an Introduction to Symbolic Logic",1956
+MATRGB,Gordon Matthews,"Review: Gerald B. Standley, New Methods in Symbolic Logic",1974
+BLARAC-2,Max Black,"Review: Alonzo Church, Brief Bibliography of Formal Logic",1953
+HEMRJR,Carl G. Hempel,"Review: John R. Gregg, the Language of Taxonomy. An Application of Symbolic Logic to the Study of Classificatory Systems",1956
+MLLJSP,"Sandra M\""{u}ller","J. Steel, \emph{Pfa Implies} Ad \emph{{L}_($R$). } \emph{the Journal of Symbolic Logic} \emph{, Vol. 70 (2005), No. 4, Pp. 1255?1296. - G. Sargsyan, }Nontame Mouse From the Failure of Square at a Singular Strong Limit Cardinal\emph{. } \emph{Journal of Mathematical Logic} \emph{, Vol. 14 (2014), 1450003 (47 Pages). - G. Sargsyan, }Covering with Universally Baire Operators\emph{. } \emph{Advances in Mathematics} \emph{, Vol. 268 (2015), Pp. 603?665. - N. Trang, }Pfa and Guessing Models\emph{. } \emph{Israel Journal of Mathematics} \_, Vol. 215 (2016), Pp. 607?667",2020
+SKORKM,Th Skolem,"Review: Konrad Marc-Wogau, Modern Logic. An Elementary Text-Book",1952
+BULRZM,Everett L. Bull,"Review: Zohar Manna, Lectures on the Logic of Computer Programming",1983
+BACRMF,John Bacon,"Review: Milton Fisk, a Modern Formal Logic",1965
+WHELRA,E. M. Whetnall,"Latta, R., and Macbeath, A. -The Elements of Logic",1929
+KNERBM,G. T. Kneebone,"Review: Benson Mates, Elementary Logic",1966
+SIERHJ,David F. Siemens,"Review: Henry J. Ehlers, Logic: Modern and Traditional",1977
+HODBRL-2,Harold T. Hodes,Book Review. Logic and its Limits. P Shaw.,1984
+STASSB-2,J. F. Staal,"S. S. Barlinoay. A Modern Introduction to Indian Logic. National Publishing House. Delhi1965, Xv + 238 Pp",1969
+HAAGAC,Susan Haack,"Grayling A. C.. An Introduction to Philosophical Logic. The Harvester Press, Brighton, Sussex, and Barnes \& Noble Books, Totowa, N. J., 1982, 300 Pp",1985
+COOSHL,J. C. Cooley,"Searles Herbert L.. Logic and Scientific Methods. An Introductory Course. The Ronald Press Company, New York 1948, Xii + 326 Pp",1948
+DOYTSA,John J. Doyle,The Scientific Art of Logic,1963
+HENREW-3,Leon Henkin,"Review: Evert W. Beth, Formal Methods. An Introduction to Symbolic Logic and to the Study of Effective Operations in Arithmetic and Logic",1965
+ROBRJM,J. A. Robinson,"Review: John Mccarthy, Computer Programs for Checking Mathematical Proofs",1967
+BAYMJW,Charles A. Baylis,"Miller James Wilkinson. Exercises in Introductory Symbolic Logic. Lithoprinted From Typewritten Manuscript. Published by the Author, Mcgill University, Montreal; Wholesale From Edwards Brothers, Ann Arbor, Michigan; 1955, Ix + 59 Pp",1957
+MCCRJF,Timothy McCarthy,"Richard Jeffrey. Formal Logic: Its Scope and Limits. Second Edition of Xxxviii 646. Mcgraw-Hill Book Company, New York Etc. 1981, Xvi + 198 Pp",1984
+ENDRPS,H. B. Enderton,"Review: Patrick Suppes, Introduction to Logic",1999
+SUGRHT,Takeo Sugihara,"Review: Hiromiti Takeda, Keigo Abe, Introduction to Logic. Logic and Logistic",1954
+CHURBM-5,Alonzo Church,"Review: Benson Mates, Elementary Logic",1972
+MARREW-4,Norman M. Martin,"Review: E. W. Beth, Symbolic Logic",1952
+BETRCH,Evert Beth,"Review: C. H. Van Os, the Crisis of Logic",1939
+WEDRGJ,Anders Wedberg,"Review: G. J. Warnock, Metaphysics in Logic",1970
+KFMA,J. B. K.,Formal Methods: An Introduction to Symbolic Logic and to the Study of Effective Operations in Arithmetic and Logic,1962
+ORGRAR,Richard J. Orgass,"Review: Alan Rose, Computer Logic",1978
+CDAC,F. K. C.,"Derivation and Counterexample, an Introduction to Philosophical Logic",1973
+ROSFMA-3,Alan Rose,Formal Methods. An Introduction to Symbolic Logic and to the Study of Effective Operations in Arithmetic and Logic. Evert W. Beth,1966
+TFRBRL,T. Frank Saunders,Book Review:Conventional Logic and Modern Logic: A Prelude to Transition Joseph T. Clark,1954
+ZADRGM,L. A. Zadeh,"Review: Gholam-Hossein Mosaheb, Introduction to Formal Logic",1957
+DOPRIT-2,J. Dopp,"Review: Ivo Thomas, Introductory Remarks to Modern Logic",1956
+AEOL-4,A. R. A.,Elements of Logic,1957
+FARBJW,J. A. Faris,"Blyth, J. W. -A Modern Introduction to Logic",1959
+SNYRRC,Donald Paul Snyder,"Review: Romane Clark, Paul Welsh, Introduction to Logic",1968
+GOURNL,William E. Gould,"Review: Norman L. Thomas, Modern Logic. An Introduction",1971
+CHUSHL,Alonzo Church,"Searles Herbert L.. Logic and Scientific Methods. An Introductory Course. Second Edition. The Ronald Press Company, New York 1956, Viii + 378 Pp",1958
+MAYDKA-2,B. H. Mayoh,"Donald Kalish and Richard Montague. Logic. Techniques of Formal Reasoning. Harcourt, Brace \& World, Inc., New York and Burlingame 1964, X + 350 Pp",1970
+SCHCLA-7,R. W. Schmidt,Conventional Logic and Modern Logic,1953
+HEMRTA-2,Carl G. Hempel,"Review: Thomas A. Goudge, Science and Symbolic Logic",1943
+LEWOAI,C. I. Lewis,Odge's an Introduction to Modern Logic,1920
+WHIRAC-3,Morton G. White,"Review: Alonzo Church, Elementary Topics in Mathematical Logic",1942
+KNERPK,G. T. Kneebone,"Review: Patrick K. Bastable, Logic: Depth Grammar of Rationality. A Textbook on the Science and History of Logic",1976
+SIERUS,Dirk Siefkes,"Review: Uwe Schoning, Logic for Computer Scientists",1991
+BRERAT-2,Joseph Brent,Reasoning and the Logic of Things,1993
+LAUSWP,Henle Lauer,"Sybil Wolfram Philosophical Logic. An Introduction. Routledge, London and New York1989, Xiv + 290 Pp",1992
+WANRRG,Mitchell Wand,"Review: Robert Goldblatt, Axiomatising the Logic of Computer Programming",1985
+HAARAG,Susan Haack,"Review: Ac Grayling, an Introduction to Philosophical Logic",1985
+ROBRLP-2,Richard E. Robinson,"Richard L. Purtill. Logic for Philosophers. Harper \& Row, Publishers, New York, Evanston, and London, 1971, Xxii + 419 Pp",1974
+BAYRJW-3,Charles A. Baylis,"Review: James Wilkinson Miller, Exercises in Introductory Symbolic Logic",1957
+JOHAIT-16,Henry W. Johnstone,An Introduction to Modern Logic. William Halberstadt,1961
+CLYBRM,Clyde L. Hardin,Book Review:A Modern Introduction to Logic John W. Blyth; Principles of Right Reason Henry S. Leonard,1959
+SCHWAT-15,F. C. S. Schiller,"Wolf, A. -Text-Book of Logic",1930
+MULRPH,"Gert Heinz M\""{u}ller","Review: P. H. Nidditch, Introductory Formal Logic of Mathematics",1960
+LIFRAB,Vladimir Lifschitz,"Review: Alan Bundy, the Computer Modelling of Mathematical Reasoning",1987
+SUGRKN-2,Takeo Sugihara,"Review: Katsumi Nakamura, Logic and Scientific Method",1954
+WISGBP,William A. Wisdom,"Gustav Bergmann. Propositional Functions. Analysis , Vol. 17 No. 2 , Pp. 43?48. - Edwin B. Allaire. Types and Formation Rules: A Note on Tractatus 3.334. Analysis , Vol. 21 No. 1 , Pp. 14?16",1971
+CHURHL,Alonzo Church,"Review: Herbert L. Searles, Logic and Scientific Methods. An Introductory Course",1958
+MARRPB-2,V. Wiktor Marek,"Review: Philippe Besnard, an Introduction to Default Logic",1998
+BEREWB-2,H. L. Berghel,"Evert W. Beth. Preface. English Translation of Xl 256. Science a Road to Wisdom, by Evert W. Beth, D. Reidel Publishing Company, Dordrecht, Holland, 1968, Pp. Xi?Xiii. - Evert W. Beth. Science as a Cultural Factor. English Translation of Xl 256. Science a Road to Wisdom, by Evert W. Beth, D. Reidel Publishing Company, Dordrecht, Holland, 1968, Pp. 1?10. - Evert W. Beth. Natural Science, Philosophy, and Persuasion. English Translation of Xl 256. Science a Road to Wisdom, by Evert W. Beth, D. Reidel Publishing Company, Dordrecht, Holland, 1968, Pp. 11?20. - Evert W. Beth. Scientific Philosophy: Its Aims and Means. English Translation of Xl 256. Science a Road to Wisdom, by Evert W. Beth, D. Reidel Publishing Company, Dordrecht, Holland, 1968, Pp. 29?34. - Evert W. Beth. Symbolic Logic as a Continuation of Traditional Formal Logic. English Translation of Xl 256. Science a Road to Wisdom, by Evert W. Beth, D. Reidel Publishing Company, Dordrecht, Holland, 1968, Pp. 42?61. - Evert W. Beth.",1975
+HAIWHH,Theodore Hailperin,"William H. Halberstadt. An Introduction to Modern Logic. An Elementary Textbook of Symbolic Logic. Harper \& Brothers, New York1960, Xii + 221 Pp",1964
+ANDRIT-2,Alan Ross Anderson,"Review: Ilmar Tammelo, Sketch for a Symbolic Juristic Logic; Romane L. Clark, on Mr. Tammelo's Conception of Juristic Logic",1957
+STARJW,Gerald Standley,"Review: James Willard Oliver, Some Misconceptions of Modern Logic",1970
+ROSRSS,Alan Rose,"Review: S. Summersbee, A. Walters, Programming the Functions of Formal Logic, Ii",1970
+JTEO-10,A. E. J.,The Elements of Logic,1965
+COOAE-6,Gr\'{a}inne Cooney,Argument Evaluation,1986
+DOPRPS,J. Dopp,"Review: Patrick Suppes, Introduction to Logic",1957
+HENBEW-3,Leon Henkin,"Beth Evert W.. Formal Methods. An Introduction to Symbolic Logic and to the Study of Effective Operations in Arithmetic and Logic. Synthese Library. D. Reidel Publishing Company, Dordrecht, Holland, and Gordon and Breach, New York, 1962, Xiv + 170 Pp",1965
+NELBAA-3,Everett J. Nelson,"Bennett Albert A. And Baylis Charles A.. Formal Logic: A Modern Introduction. Prentice-Hall, Inc., New York 1939, Xvii + 407 Pp",1939
+CHUSML,Alonzo Church,"Sh\^{o}ji Maehara. Logic in Japan. Contemporary Philosophy, a Survey, I, Logic and Foundations of Mathematics , Edited by Raymond Klibansky, la Nuova Italia Editrice, Florence1968, Pp. 228?231",1975
+HUTAIT-3,Peter Hutcheson,An Introduction to Philosophical Logic. By A. C. Grayling,1984
+BAMI-3,L. K. B.,A Modern Introduction to Logic,1957
+Roe1964-STOHBV,Harry Stopes{-}Roe,"Henry B. Veatch. Formalism and /or Intentionality in Logic. A Reprint, with Some Omissions, of Xxiii 91. Essays in Logic From Aristotle to Russell, Selected and Edited by Ronald Jager, Prentice-Hall, Inc., Englewood Cliffs, N.J., 1963, Pp. 149?165",1964
+CHURAH,Alonzo Church,"Review: A. H. Basson, D. J. O'connor, Introduction to Symbolic Logic",1958
+MARLLA-3,Johann Christian Marek,Legal Logic. An Attempt to Apply Modern Logic to Juridical Thinking,1974
+KOETCC-5,Peter Koellner,"The Cambridge Companion to Bertrand Russell, Edited by Nicholas Griffin, Cambridge University Press, Cambridge, Uk and New York, Usa, 2003, Xvii + 550 Pp",2005
+HIBAIL,John Grier Hibben,Review of an Introductory Logic,1899
+VONRIT-2,Nicholas A. Vonneuman,"Review: Ilmar Tammelo, Modern Logic in the Service of Law",1980
+BAYRME,Charles A. Baylis,"Ralph Monroe Eaton. Symbolism and Truth. An Introduction to the Theory of Knowledge. An Unaltered Reprint of 2902. Dover Publications, Inc., New York1964, Xiv + 330 Pp",1966
+SEGNRR,Krister Segerberg,"Nicholas Rescher. Recent Developments and Trends in Logic. Logique Et Analyse, N.S. Vol. 9 , Pp. 269?279. - Yehoshua Bar-Hillel. A Neglected Recent Trend in Logic. Logique Et Analyse, N.S. Vol. 10 , Pp. 235?238",1969
+BORRIH,Alfons Borgers,"Review: Ian Hacking, a Concise Introduction to Logic",1973
+NAFB,E. N.,A First Book in Logic,1934
+SUGRMI-2,Takeo Sugihara,"Review: Makoto Ito, a Survey of Scientific Logic",1954
+CHURIT-6,Alonzo Church,"Review: I. Thomas, Logic, History Of",1975
+AUBRAN-2,Karl Egil Aubert,"Review: Arne Naess, Introduction to Logic and Methodology",1952
+PEZJPC,Ivo Pezlar,"Jaroslav Peregrin, Co Je Nov\'{e}ho V Logice",2019
+BRASWP-2,Raymond Bradley,"Sybil Wolfram, Philosophical Logic: An Introduction",1989
+STARSS,J. F. Staal,"Review: S. S. Barlingay, a Modern Introduction to Indian Logic",1968
+CELFOT,Carlo Cellucci,Frege on Thinking and its Epistemic Significance,2017
+VERTSO-3,Hans J. Verweyen,The Science of Logic and the Logic of Reflexion,1980
+NELRAA-2,Everett J. Nelson,"Review: Albert A. Bennett, Charles A. Baylis, Formal Logic: A Modern Introduction",1939
+EMAI,M. F. E.,Metalogic: An Introduction to the Metatheory of Standard First Order Logic,1971
+PLTO,J. M. P.,Logic: Techniques of Formal Reasoning,1966
+CHURAH-6,Alonzo Church,"Review: Andrew H. Bachhuber, Introduction to Logic",1959
+ADILFO,Sergei Adian,"Logical Foundations of Computer Science: 4Th International Symposium, Lfcs'97, Yaroslavl, Russia, July, 6 - 12, 1997, Proceedings",1997
+SMIJAM,Raymond Smith,"John A. Mourant, ""Formal Logic: An Introductory Textbook""",1964

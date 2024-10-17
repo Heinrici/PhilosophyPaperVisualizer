@@ -1,0 +1,47 @@
+ID,Author,Title,Year
+BERTGP,Francesco Berto,"The G\""{o}del Paradox and Wittgenstein's Reasons",2009
+SALTDP-2,Nathan Salm\'{o}n,The Decision Problem for Effective Procedures,2023
+ACKSCO,Wilhelm Ackermann,Solvable Cases of the Decision Problem,1954
+TSADOM,Hsing{-}Chien Tsai,Decidability of Mereological Theories,2009
+TSAACP,Hsing{-}Chien Tsai,A Comprehensive Picture of the Decidability of Mereological Theories,2013
+PARD-3,Matthew W. Parker,Three Concepts of Decidability for General Subsets of Uncountable Spaces,2003
+DETWDG,Michael Detlefsen,"What Does G\""{o}del's Second Theorem Say?",2001
+TSAMOT,Hsing{-}Chien Tsai,More on the Decidability of Mereological Theories,2011
+JAVEOA,Javid Jafari,Easy Ontology and Undecidable Sentences,2024
+LONROC,G. Longo,Reflections on Concrete Incompleteness,2011
+BEETUI,Michael Beeson,The Unprovability in Intuitionistic Formal Systems of the Continuity of Effective Operations on the Reals,1976
+Krouse2016-LEAPMA,Graham Leach{-}Krouse,"Provability, Mechanism, and the Diagonal Problem",2016
+HEAUOA,Adrian Heathcote,Unbounded Operators and the Incompleteness of Quantum Mechanics,1990
+WRIPAT-7,Cory Wright,Pluralism and the Liar,2017
+PARUIR,Matthew W. Parker,"Undecidability in Rn: Riddled Basins, the Kam Tori, and the Stability of the Solar System",2003
+TSAOTD,Hsing{-}Chien Tsai,On the Decidability of Axiomatized Mereotopological Theories,2015
+GRIUIT-2,Patrick Grim,Undecidability in the Spatialized Prisoner's Dilemma,1997
+GALEPO-2,Franklin Galindo and Ricardo Da Silva,El Programa Original de David Hilbert y El Problema de la Decibilidad,2017
+GALCUE-2,Franklin Galindo and Mar\'{i}a Alejandra Morgado,"?C\'{o}mo Utilizar El Teorema de Herbrand Para Decidir la Validez de Razonamientos En Lenguaje de Primer Orden, En Conformidad Con El Teorema de Indecidibilidad de Church?",2019
+ARTOFT,"Sergei Art\""{e}mov and Franco Montagna",On First-Order Theories with Provability Operator,1994
+GALCUT,Franklin Galindo and Ricardo Jos\'e Da Silva,Church's Undecidability Theorem (1936): Formulation and Presentation of the Main Ideas of its Demonstration,2017
+STEOCO-5,Tom F. Sterkenburg,On Characterizations of Learnability with Computable Learners,2022
+BELIIA,John L. Bell,"Incompleteness in a General Setting (Vol 13, Pg 21, 2007)",2008
+DASDAU,Ricardo Jos\'e Da Silva and Franklin Galindo,Decidable and Undecidable Fragments in First Order Logic,2017
+IACLLN,Andrea Iacona,"Logic: Lecture Notes for Philosophy, Mathematics, and Computer Science",2021
+PRUTED-3,Mihai Prunescu,The Exponential Diophantine Problem For,2020
+GOUDOA-2,Jeroen P. Goudsmit,Decidability of Admissibility: On a Problem by Friedman and its Solution by Rybakov,2021
+BADHMP-2,Guillermo Badia and Petr Cintula and Petr Hajek and Andrew Tedder,How Much Propositional Logic Suffices for Rosser's Essential Undecidability Theorem?,forthcoming
+JOHCTI,John L. Bell,Corrigendum to ?Incompleteness in a General Setting?,2008
+SANKIH,Paulo Guilherme Santos and Reinhard Kahle,K-Provability in \$\$\texttt{\char92}hbox \{Pa\}\$\$ Pa,2021
+PODWIM,Karlis Podnieks,"What is Mathematics: G\""{o}del's Theorem and Around (Edition 2015)",manuscript
+OLCROH,P. Olcott,Halting Problem Undecidability and Infinitely Nested Simulation,manuscript
+LAPALI,Yair Lapin,Arithmetic Logical Irreversibility and the Halting Problem (Revised and Fixed Version),manuscript
+OLCPTW,P. Olcott,"Proof That Wittgenstein is Correct About G\""{o}del",manuscript
+OLCEUA,P. Olcott,Philosophy of Logic ? Reexamining the Formalized Notion of Truth,manuscript
+STA-114,Michael Richard Starks,"???, ?? ???, ??, ?? ?? ? ???? ??? ?????? '??? ? : ?? ???? ????? ??'? ?? ?? (Godel's Way: Exploits Into an Undecidable World) by Gregory Chaitin, Francisco a Doria, Newton C.A. Da Costa 160P (2012)",2020
+STAROT-35,Michael Starks,Review of 'the Outer Limits of Reason' by Noson Yanofsky 403P (2013) (Review Revised 2019),2019
+STARDI-2,Michael Richard Starks,Rese\~{n}a de ?I Am a Strange Loop? (Soy Un Lazo Extra\~{n}o) de Douglas Hofstadter (2007) (Revisi\'{o}n Revisada 2019),2019
+STAWCE,Michael Richard Starks,"Wolpert, Chaitin e Wittgenstein Em Impossibilidade, Incompletude, o Paradoxo Do Mentiroso, o Te\'{i}smo, Os Limites da Computa\c{c}~{a}o, Um Princ\'{i}pio de Incerteza Mec\^{a}nica N\~{a}o Qu\^{a}ntica e o Universo Como Computador -- o Teorema Final Na Teoria da M\'{a}quina de Turing (Revisado 2019)",2019
+PODFAI,Karlis Podnieks,Fourteen Arguments in Favour of a Formalist Philosophy of Real Mathematics,2015
+STAWCA-4,Michael Starks,"Wolpert, Chaitin and Wittgenstein on Impossibility, Incompleteness, the Limits of Computation, Theism and the Universe as Computer-the Ultimate Turing Theorem",2017
+STA-62,Michael Richard Starks,??????????????????????????????????????????????????????????????-?????????,2019
+STARSL-6,Michael Richard Starks,"Remarques Sur l'Impossibilit\'e l'Incompl\'{e}tude, la Paracoh\'{e}rence l'Ind\'{e}cision, le Hasard, la Calculabilit\'e, le Paradoxe Et l'Incertitude - Dans Chaitin, Wittgenstein, Hofstadter, Wolpert, Doria da Costa, Godel, Searle, Rodych, Berto Floyd, Moyal-Sharrock Et Yanofsky",2019
+STA-63,Michael Richard Starks,??????? ?? ???? ??? ????? ? ?? ???? ???? ? ??????????? Undecidability ? ?????? ? Computability ? ???????? ? ? ??? ????? ?? Chaitin ? ?????????? ? Hofstadter ? Wolpert ? Doria ? ?? ????? ? ???? ? ??? ? ????? ? ???? ? ????? ? ?????-????? ? ???????,2019
+STAPTK,Michael Richard Starks,"Pernyataan Tentang Kemustahilan, Ketidaklengkapan, Paraconsistency,Undecidability, Randomness, Komputabilitas, Paradoks, Dan Ketidakpastian Dalam Chaitin, Wittgenstein, Hofstadter, Wolpert, Doria, da Costa, Godel, Searle, Rodych, Berto, Floyd, Moyal-Sharrock Dan Yanofsky",2019
+ORGHBC,Richard J. Orgass,"Haskell B. Curry. The Undecidability of \ensuremath{\Lambda}k-Conversion. Foundations of Mathematics, Symposium Papers Commemorating the Sixtieth Birthday of Kurt G\""{o}del, Edited by Jack J. Bulloff, Thomas C. Holyoke, and S. W. Hahn, Springer-Verlag, Berlin, Heidelberg, and New York, 1969, Pp. 10?14",1975

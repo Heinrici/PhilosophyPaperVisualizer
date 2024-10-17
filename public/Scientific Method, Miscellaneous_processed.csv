@@ -1,0 +1,833 @@
+ID,Author,Title,Year
+HUMEOC-2,Paul Humphreys,"Extending Ourselves: Computational Science, Empiricism, and Scientific Method",2004
+SALTFO-11,Wesley C. Salmon,The Foundations of Scientific Inference,1967
+BRUEAA-4,Georg Brun,Explication as a Method of Conceptual Re-Engineering,2016
+SCHTVI-5,Samuel Schindler,Theoretical Virtues in Science: Uncovering Reality Through Theory,2018
+ZIMRKA,John M. Ziman,Reliable Knowledge: An Exploration of the Grounds for Belief in Science,1978
+STRTRO-5,Michael Strevens,The Role of the Priority Rule in Science,2003
+POISAM-2,Henri Poincare?,Science and Method,1952
+HARTWA-2,Stephan Hartmann,The World as a Process: Simulations in the Natural and Social Sciences,1996
+LAUSAH-3,Larry Laudan and R. Laudan,Science and Hypothesis: Historical Essays on Scientific Methodology,1981
+EINOTM,Albert Einstein,On the Method of Theoretical Physics,1934
+CLIITT,Nevin Climenhaga,Inference to the Best Explanation Made Incoherent,2017
+SOLSE,Miriam Solomon,Social Empiricism,1994
+SHAPFO-2,Yafeng Shan,Philosophical Foundations of Mixed Methods Research,2022
+CLIHEG,Nevin Climenhaga,How Explanation Guides Confirmation,2017
+HARINS,William L. Harper,Isaac Newton's Scientific Method: Turning Data Into Evidence About Gravity and Cosmology,2011
+AYETPO-3,A. J. Ayer,The Problem of Knowledge,2006
+STERDA,Jacob Stegenga,"Robustness, Discordance, and Relevance",2009
+KELSP-3,Stephen H. Kellert and Helen E. Longino and C. Kenneth Waters,Scientific Pluralism,1956
+BUNSR,Mario Bunge,Scientific Research,1967
+VUOLTL,Quan{-}Hoang Vuong,Learning to Love the Reviewer,2017
+MEDIAI,P. B. Medawar,Induction and Intuition in Scientific Thought,1969
+SCHTAO-13,Israel Scheffler,The Anatomy of Inquiry,1963
+SCHBAS-9,Jonah N. Schupbach,Bayesianism and Scientific Reasoning,2022
+GRENAI-4,Sara Green and Maria \c{S}erban and Raphael Scholl and Nicholaos Jones and Ingo Brigandt and William Bechtel,Network Analyses in Systems Biology: New Strategies for Dealing with Biological Complexity,2018
+CASSAF,Ernst Cassirer,Substance and Function,1923
+MIZHTI,Moti Mizrahi,Hypothesis Testing in Scientific Practice: An Empirical Study,2020
+BROICI,Alex Broadbent,"Inferring Causation in Epidemiology: Mechanisms, Black Boxes, and Contrasts",2011
+KANSDL,Aharon Kantorovich,Scientific Discovery: Logic and Tinkering,1993
+ROWPCR-3,Darrell P. Rowbottom,Popper?s Critical Rationalism: A Philosophical Investigation,2010
+DASHOS,Lorraine Daston and Elizabeth Lunbeck,Histories of Scientific Observation,2011
+FEHTE,Yiftach J. H. Fehige and James R. Brown,Thought Experiments,2010
+STERAI-8,Jacob Stegenga and Tarun Menon,Robustness and Independent Evidence,2017
+ANDAAA-5,Kristin Andrews and Brian Huss,"Anthropomorphism, Anthropectomy, and the Null Hypothesis",2014
+HAASSO,Susan Haack,Six Signs of Scientism,2012
+STOPAA,David Charles Stove,Popper and After: Four Modern Irrationalists,1982
+REIAEV,Julian Reiss,Against External Validity,2019
+MEICTE,Lukas J. Meier,Can Thought Experiments Solve Problems of Personal Identity?,2022
+SURSFA,Mauricio Su\'{a}rez,Scientific Fictions as Rules of Inference,2008
+CARATO-3,Nancy Cartwright and Jacob Stegenga,A Theory of Evidence for Evidence-Based Policy,2011
+SHISI,Abner Shimony,Scientific Inference,1970
+BARPMA-10,Sam Baron and Finnur Dells\'{e}n and Tina Firing and James Norton,Philosophical Methodology: A Plea for Tolerance,forthcoming
+GERCAP-2,Robert Geroch and James B. Hartle,Computability and Physical Theories,1986
+KOCSAS-3,Jeff Kochan,Science as Social Existence: Heidegger and the Sociology of Scientific Knowledge,2017
+MAXUSP,Nicholas Maxwell,Understanding Scientific Progress: Aim-Oriented Empiricism,2017
+STUTSI-4,Michael T. Stuart,Telling Stories in Science: Feyerabend and Thought Experiments,2021
+STUTRC,Michael T. Stuart and Yiftach Fehige and James Robert Brown,The Routledge Companion to Thought Experiments,2017
+NOVPIN,Aaron Novick and Raphael Scholl,Presume It Not: True Causes in the Search for the Basis of Heredity,2017
+HEPSM,Brian Hepburn and Hanne Andersen,Scientific Method,2015
+SANERA-3,Howard Sankey,Epistemic Relativism and the Problem of the Criterion,2011
+STUNAT-6,Michael T. Stuart,Norton and the Logic of Thought Experiments,2016
+STRIPF,Michael Strevens,Inferring Probabilities From Symmetries,1998
+LEWTPA-5,Michael Lewin,Transcendental Philosophy as a Scientific Research Programme,2021
+IOAIDO,Stavros Ioannidis and Stathis Psillos,In Defense of Methodological Mechanism: The Case of Apoptosis,2017
+ROUTES-4,Sherrilyn Roush,The Epistemic Superiority of Experiment to Simulation,2018
+MAYEAI-2,Deborah G. Mayo and Aris Spanos,"Error and Inference: Recent Exchanges on Experimental Reasoning, Reliability, and the Objectivity and Rationality of Science",2009
+STUTRO-15,Michael Stuart,The Role of Imagination in Social Scientific Discovery: Why Machine Discoverers Will Need Imagination Algorithms,2019
+KORIIA-2,Hilary Kornblith and N. Vassallo,Inductive Inference and its Natural Ground-an Essay in Naturalistic Epistemology,1996
+MAXFKT-6,Nicholas Maxwell,From Knowledge to Wisdom,2009
+CAUTSO-2,Robert L. Causey,The Structure of Scientific Inference,1976
+CLICIF,Nevin Climenhaga and Lane DesAutels and Grant Ramsey,Causal Inference From Noise,2021
+JONDAL,Nicholaos Jones and Olaf Wolkenhauer,Diagrams as Locality Aids for Explanation and Model Construction in Cell Biology,2012
+HIEHNT,"Johan Hietanen and Petri Turunen and Ilmari Hirvonen and Janne Karisto and Ilkka P\""{a}ttiniemi and Henrik Saarinen",How Not to Criticise Scientism,2020
+HIRMII-3,"Ilmari Hirvonen and Rami Koskinen and Ilkka P\""{a}ttiniemi",Modal Inferences in Science: A Tale of Two Epistemologies,2021
+VANKIO,Hein van den Berg,Kant?s Ideal of Systematicity in Historical Context,2021
+MAXISN,Nicholas Maxwell,Is Science Neurotic?,2002
+NORBDA-4,Robert Northcott,Big Data and Prediction: Four Case Studies,2020
+GERJOF,Pierre{-}Luc Germain and Emanuele Ratti and Federico Boem,Junk or Functional Dna? Encode and the Function Controversy,2014
+LEVDAR-4,Isaac Levi,Decisions and Revisions: Philosophical Essays on Knowledge and Value,1984
+STATEF-2,Kent W. Staley,The Evidence for the Top Quark: Objectivity and Bias in Collaborative Experimentation,2004
+MCCEJA,C. D. McCoy,Epistemic Justification and Methodological Luck in Inflationary Cosmology,2019
+STRTRO-6,Michael Strevens,The Role of the Matthew Effect in Science,2006
+FILOTE,Nicolas Fillion and Robert M. Corless,On the Epistemological Analysis of Modeling and Computational Error in the Mathematical Sciences,2014
+STETCF-4,Jacob Stegenga,Three Criteria for Consensus Conferences,2016
+ELSSMA,Rawad El Skaf and Michael T. Stuart,Scientific Models and Thought Experiments: Same Same but Different,forthcoming
+Frechette2014-SHRTHP,Kristin Sharon Shrader{-}Frechette,Tainted: How Philosophy of Science Can Expose Bad Science,2014
+PEIIOT,Charles Sanders Peirce and Cornelis de Waal,Illustrations of the Logic of Science,2014
+MORIPT-4,Mary S. Morgan,"?If \_{P}_? Then What?? Thinking Within, with, and From Cases",2020
+HEIANI,Conrad Heilmann,A New Interpretation of the Representational Theory of Measurement,2015
+MAXIPO,Nicholas Maxwell,In Praise of Natural Philosophy: A Revolution for Thought and Life,2012
+LEWEDE,Jonathan Lewis,"Experimental Design: Ethics, Integrity and the Scientific Method",2020
+BOYIAB,Thomas Boyer,"Is a Bird in the Hand Worth Two in the Bush? Or, Whether Scientists Should Publish Intermediate Results",2014
+WEICFS,Alvin M. Weinberg,Criteria for Scientific Choice,1963
+NICSDL-2,Thomas Nickles,"Scientific Discovery, Logic and Rationality",1982
+GOWSMA-3,Barry Gower,Scientific Method: A Historical and Philosophical Introduction,1996
+MAXWKO,Nicholas Maxwell,What Kind of Inquiry Can Best Help Us Create a Good World?,1992
+MAXPKL-3,Nicholas Maxwell,"Popper, Kuhn, Lakatos, and Aim-Oriented Empiricism",2005
+MORCSO,Mary S. Morgan,Case Studies: One Observation or Many? Justification or Discovery?,2012
+GRIHSF,Patrick Grim and Robert Rosenberger and Adam Rosenfeld and Brian Anderson and Robb E. Eason,How Simulations Fail,2011
+MYEFOE,Jerome L. Myers,Fundamentals of Experimental Design,1972
+GRECRF,Sara Green and Nicholaos Jones,Constraint-Based Reasoning for Search and Explanation: Strategies for Understanding Variation and Patterns in Biology,2016
+HOFPWP,Michael Hoffmann,Problems with Peirce's Concept of Abduction,1999
+HANAEO-2,Joseph F. Hanna,An Explication of 'Explication',1968
+MAXANT,Nicholas Maxwell,A New Task for the Philosophy of Science,2019
+EELAAA,Dunja \v{S}e\v{s}elja and Christian Stra\s{s}er,Abstract Argumentation and Explanation Applied to Scientific Debates,2013
+RUDTSO-2,Martin J. S. Rudwick,The Strategy of Lyell?s Principles of Geology,1970
+STREPT,Brent Strickland and Aysu Suben,Experimenter Philosophy: The Problem of Experimenter Bias in Experimental Philosophy,2012
+BAUUDC-2,Michael Baumgartner,Uncovering Deterministic Causal Structures: A Boolean Approach,2009
+MCMTIT-3,Ernan McMullin,The Inference That Makes Science,1992
+RESPAT,Nicholas Rescher,Peirce and the Economy of Research,1976
+KOCGAN-2,Hylarie Kochiras,Gravity and Newton?s Substance Counting Problem,2009
+MCGAAT-9,J. E. McGuire,Atoms and the ?Analogy of Nature?: Newton's Third Rule of Philosophizing,1970
+LUDMTW,David Ludwig and Birgit Boogaard,Making Transdisciplinarity Work: An Epistemology of Inclusive Development and Innovation,2021
+PETTPD-7,Uwe Peters,The Philosophical Debate on Linguistic Bias: A Critical Perspective,2024
+BORTTD-2,AnneMarie Borg and Daniel Frey and Dunja \v{S}e\v{s}elja and Christian Stra\s{s}er,"Theory-Choice, Transient Diversity and the Efficiency of Scientific Inquiry",2019
+SUPMAM,Patrick Suppes,Models and Methods in the Philosophy of Science: Selected Essays,1993
+SCHMIT-12,G. Schlesinger,Method in the Physical Sciences,1963
+Petersen2015-PRAPTE,"Asbj\o{}rn Steglich{-}Petersen and Sara Kier Pra\""{e}m",Philosophical Thought Experiments as Heuristics for Theory Discovery,2015
+YOUTIM,Jacy L. Young,Thinking in Multitudes: Questionnaires and Composite Cases in Early American Psychology,2020
+Hui2019-TEECRW,Tee Sim{-}Hui,Constructing Reality with Models,2019
+FISWCO,Menachem Fisch,Whewell's Consilience of Inductions?an Evaluation,1985
+WHETOS,Robert E. Butts,William Whewell: Theory of Scientific Method,1989
+KLEDAH,Ansten Klev,Dedekind and Hilbert on the Foundations of the Deductive Sciences,2011
+GAUSMI,Hugh G. Gauch,Scientific Method in Brief,2012
+BLAHST,James Blachowicz,How Science Textbooks Treat Scientific Method: A Philosopher's Perspective,2009
+DESDDL-22,Ren\'e Descartes,Discours de la Methode Pour Bien Conduire Sa Raison \& Chercher la Verit\'e Dans les Sciences. Plus la Dioptrique. Les Meteores. Et la Geometrie. Qui Sont des Essais de Cete Methode,1637
+KOOAIA,W. John Koolage and Lauren M. Williams and Morgen L. Barroso,An Infrastructural Account of Scientific Objectivity for Legal Contexts and Bloodstain Pattern Analysis,2021
+MAXWWW-6,Nicholas Maxwell,"What?s Wrong with Science? Towards a People?s Rational Science of Delight and Compassion, Second Edition",2009
+MAXFKT-2,Nicholas Maxwell,From Knowledge to Wisdom: A Revolution for Science and the Humanities,2007
+FUMWIA,Roberto Fumagalli,Who is Afraid of Scientific Imperialism?,2018
+GIELTA,Ronald Giere,"Laws, Theories, and Generalizations",1988
+PIETST,Ahti{-}Veikko J. Pietarinen,The Science to Save Us From Philosophy of Science,2015
+MIYRPM,Teru Miyake and George E. Smith,"Realism, Physical Meaningfulness, and Molecular Spectroscopy",2021
+HAJPAA,Kim M. Hajek,Periodical Amnesia and \emph{{D}'{e}doublement} in Case-Reasoning: Writing Psychological Cases in Late 19Th-Century France,2020
+FULTNM,Jonathan Fuller,The New Medical Model: A Renewed Challenge for Biomedicine,2017
+DEMHEM,Tam\'{a}s Demeter,Hume's Experimental Method,2012
+MAXCSM,Nicholas Maxwell,Can Scientific Method Help Us Create a Wiser World?,2016
+BUTWWT-2,Robert E. Butts,William Whewell's Theory of Scientific Method,1969
+JEFSI-2,Harold Jeffreys,Scientific Inference,1931
+TONSP,Ladislav Tondl,Scientific Procedures,1973
+MAXRTC,Nicholas Maxwell,Reply to Comments on Science and the Pursuit of Wisdom,2010
+ARIPD,Roger Ariew,Pierre Duhem,2008
+MORARR,Thomas Mormann,A Representational Reconstruction of Carnap?s Quasianalysis,1994
+SCHUMM,Jutta Schickore and Klodian Coko,Using Multiple Means of Determination,2013
+BRSATT,"Peter Br\""{o}ssel",Assessing Theories: The Coherentist Approach,2014
+VEZVRA,Martin A. Vez\'{e}r,Variety-of-Evidence Reasoning About the Distant Past: A Case Study in Paleoclimate Reconstruction,2017
+CRIAAG-2,Claudia Cristalli and Ahti{-}Veikko Pietarinen,Abstraction and Generalization in the Logic of Science: Cases From Nineteenth-Century Scientific Practice,2021
+KEIKDN,Geert Keil,Kritik des Naturalismus,1993
+ROWIIS,Darrell Patrick Rowbottom,Intuitions in Science: Thought Experiments as Argument Pumps,2014
+PICEDA-2,Gualtiero Piccinini,Epistemic Divergence and the Publicity of Scientific Methods,2003
+BUCMAO-2,Gerd Buchdahl,Methodological Aspects of Kepler's Theory of Refraction,1972
+DEWSAS-3,John Dewey,Science as Subject-Matter and as Method,1995
+RAPITT,Steven Rappaport,Inference to the Best Explanation: Is It Really Different From Mill?s Methods?,1996
+SANASS-4,Howard Sankey and Robert Nola,A Selective Survey of Theories of Scientific Method,2000
+MAXDWN,Nicholas Maxwell,?Do We Need a Scientific Revolution,2008
+MAZHSE,Nicholas Mazwell,Has Science Established That the Universe is Comprehensible?,1999
+MAXANC,Nicholas Maxwell,A New Conception of Science,2000
+SHETAS-3,Gila Sher,Truth and Scientific Change,2017
+ZERHTM,John Zerilli and Umang Bhatt and Adrian Weller,How Transparency Modulates Trust in Artificial Intelligence,2022
+TOUTCO-2,Stephen Toulmin,The Complexity of Scientific Choice: A Stocktaking,1964
+HYMEOP,Ray Hyman,Evaluation of Program on Anomalous Mental Phenomena,
+VEISPI-2,Sophie Juliane Veigl,Scientific Pluralism in Practice: Responses to Anomaly in the Sciences,2022
+CORHIS,Richard Corry,How is Scientific Analysis Possible?,2009
+KELTPA-4,Stephen Kellert and Helen Longino and C. Kenneth Waters,Theoretical Pluralism and the Scientific Study of Behavior,2006
+TRETQF,Felix Tretter and Olaf Wolkenhauer and Michael Meyer{-}Hermann and Johannes W. Dietrich and Sara Green and James Marcum and Wolfram Weckwerth,The Quest for System-Theoretical Medicine in the Covid-19 Era,2021
+MAXWNT,Nicholas Maxwell,We Need to Recreate Natural Philosophy,2018
+FISMTM-2,Eugen Fischer,Mind the Metaphor! A Systematic Fallacy in Analogical Reasoning,2015
+TURHTD-3,"Petri Turunen and Ilkka P\""{a}ttiniemi and Ilmari Hirvonen and Johan Hietanen and Henrik Saarinen",How to Defend Scientism (1st edition),2022
+HORUAA-7,"S\""{a}de Hormio and Samuli Reijula",Universities as Anarchic Knowledge Institutions,2023
+STETNS-4,Beckett Sterner and Scott Lidgard,The Normative Structure of Mathematization in Systematic Biology,2014
+CARKAI-3,Carlos Alberto Cardona,Kepler: Analogies in the Search for the Law of Refraction,2016
+RATTEO-3,Emanuele Ratti,The End of 'Small Biology'? Some Thoughts About Biomedicine and Big Science,2016
+SARGRI-3,Husain Sarkar,Group Rationality in Scientific Research,2007
+CREASN,Sergio Volodia Marcello Cremaschi,"Adam Smith, Newtonianism and Political Economy",1981
+FORPAA-8,Malcolm R. Forster,Predictive Accuracy as an Achievable Goal of Science,2002
+BLATOS,Ralph M. Blake,Theories of Scientific Method: The Renaissance Through the Nineteenth Century,1960
+Wille2012-MLLLAR-2,"Staffan M\""{u}ller{-}Wille and Isabelle Charmantier",Lists as Research Technologies,2012
+GIG_A_-4,Guido Giglioni,Historia and Materia: The Philosophical Implications of Francis Bacon's Natural History,2012
+SANSM-4,Howard Sankey,Scientific Method,2005
+PESWWP,Peter Pesic,"Wrestling with Proteus: Francis Bacon and the ""Torture"" of Nature",1999
+WORTCF,John Worrall,Two Cheers for Naturalised Philosophy of Science Or: Why Naturalised Philosophy of Science is Not the Cat?s Whiskers,1999
+CLIAPF,Nevin Climenhaga,A Problem for the Alternative Difference Measure of Confirmation,2013
+STREAT-2,Michael Strevens,Economic Approaches to Understanding Scientific Norms,2011
+KOCCOS,Jeff Kochan,"Circles of Scientific Practice: Regressus, Math\={e}sis, Denkstil",2015
+SIKEFO,Micha\l Sikorski and Mattia Andreoletti,Epistemic Functions of Replicability in Experimental Sciences: Defending the Orthodox View,2023
+PETTCA-3,Peter Baumann,Theory Choice and the Intransitivity of 'is a Better Theory Than',2005
+LAZNOT-2,Paul Lazarsfeld,"Notes on the History of Quantification in Sociology--Trends, Sources and Problems",1961
+ZEMBCT-2,G\'{a}bor \'A Zempl\'{e}n and Tam\'{a}s Demeter,Being Charitable to Scientific Controversies,2010
+WEIBOR,Rachel Weitzenkorn,Boundaries of Reasoning in Cases: The Visual Psychoanalysis of Ren\'e Spitz,2020
+SHAMIT-2,Dudley Shapere,Method in the Philosophy of Science and Epistemology,1987
+HALWMN-2,Hans Halvorson,Why Methodological Naturalism?,2015
+TULACS,Dana Tulodziecki,A Case Study in Explanatory Power: John Snow?s Conclusions About the Pathology and Transmission of Cholera,2011
+SCHRAT-8,Warren Schmaus,Renouvier and the Method of Hypothesis,2007
+KELSPM,Stephen H. Kellert and Helen E. Longino and C. Kenneth Waters,"Scientific Pluralism, Minnesota Studies in the Philosophy of Science (Vol 19)",2006
+WRIITS-3,Angela Potochnik and Matteo Colombo and Cory Wright,Recipes for Science: An Introduction to Scientific Methods and Reasoning,2017
+BELCFB-2,Gordon Belot,Curve-Fitting for Bayesians?,2017
+KUKPER-2,Henrika Kuklick,"Personal Equations: Reflections on the History of Fieldwork, with Special Reference to Sociocultural Anthropology",2011
+MICTAP-5,Jan G. Michel,Toward a Philosophy of Scientific Discovery,2021
+NICSPT,Thomas Nickles,Scientific Problems: Three Empiricist Models,1980
+HANALA-3,Thomas Hankins,A ?Large and Graceful Sinuosity?,2006
+FISPGP,Saul Fisher,Pierre Gassendi's Philosophy and Science: Atomism for Empiricists,2005
+MCEEMA,Michael McEachrane,"Emotion, Meaning, and Appraisal Theory",2009
+HITTPO-8,Zoe Hitzig and Jacob Stegenga,The Problem of New Evidence: P-Hacking and Pre-Analysis Plans,2020
+KORIML,Kevin B. Korb,Introduction: Machine Learning as Philosophy of Science,2004
+MANAAF-5,Gideon Manning,Analogy and Falsification in Descartes? Physics,2012
+SKLPTM,Lawrence Sklar,Physical Theory: Method and Interpretation,2014
+SUPSCI,Patrick Suppes,Statistical Concepts in Philosophy of Science,2007
+BOYRUA-2,Alexandria Boyle,"Replication, Uncertainty and Progress in Comparative Cognition",2021
+RAYSFE,Dominique Raynaud,Sociologie Fondamentale. Etude D'\'{E}pist\'{e}mologie,2021
+GIEANF,Ronald N. Giere,A New Framework for Teaching Scientific Reasoning,2001
+MITMEO-2,"J\""{u}rgen Mittelstrass",Methodological Elements of Keplerian Astronomy,1972
+SCHAOI-2,Israel Scheffler,Anatomy of Inquiry,1966
+COHSCO,L. Jonathan Cohen,Some Comments on Third World Epistemology,1980
+LAUIAO-2,Rachel Laudan,Ideas and Organizations in British Geology: A Case Study in Institutional History,1977
+WINCTC-2,Rasmus Gr\o{}nfeldt Winther,Cutting the Cord: A Corrective for World Navels in Cartography and Science,2019
+MAXHCW-2,Nicholas Maxwell,How Can We Build a Better World?,1991
+BAKCU,Alan Baker,Complexity Unfavoured,2008
+STETCC-3,Jacob Stegenga,The Chemical Characterization of the Gene: Vicissitudes of Evidential Assessment,2011
+SHEHTM-3,Gila Sher,"Human Thought, Mathematics, and Physical Discovery",2023
+POLDTP,Luana Poliseli and Clarissa Machado Pinto Leite,Developing Transdisciplinary Practices: An Interplay Between Disagreement and Trust,2021
+ACHSEP,Peter Achinstein,Scientific Evidence: Philosophical Theories \& Applications,2005
+FINTST-3,Maurice A. Finocchiaro,To Save the Phenomena: Duhem on Galileo,1992
+FREWNL,Danny Frederick,Why Neil Levy is Wrong to Endorse No-Platforming,2020
+MAYCST,Deborah G. Mayo,Can Scientific Theories Be Warranted with Severity? Exchanges with Alan Chalmers,2009
+APPEOT,Wilbur Applebaum,Encyclopedia of the Scientific Revolution: From Copernicus to Newton,2008
+Bryson2020-BRIJOB,Devon Brickhouse{-}Bryson,Judgments of Beauty in Theory Evaluation,2020
+MUKWEM,Nikil S. Mukerji,Wie Erkennt Man Pseudowissenschaften?,2017
+SCHWDH-2,Jutta Schickore,What Does History Matter to Philosophy of Science? The Concept of Replication and the Methodology of Experiments,2011
+HOFDAT-3,Urs Hofmann and Michael Baumgartner,Determinism and the Method of Difference,2011
+HURSMC,Carolyn J. Hursch and Kenneth R. Hammond and Jack L. Hursch,Some Methodological Considerations in Multiple-Cue Probability Studies,1964
+NAYGMO-2,Ronald Naylor,Galileo's Method of Analysis and Synthesis,1990
+MARSDA-6,R. Niall D. Martin,Saving Duhem and Galileo: Duhemian Methodology and the Saving of the Phenomena,1987
+SOLARS,L\'{e}na Soler,Against Robustness? Strategies to Support the Reliability of Scientific Results,2014
+SIEMOS,Harvey Siegel,"Meiland on Scheffler, Kuhn, and Objectivity in Science",1976
+MADCAT-4,John Maddox,Choice and the Scientific Community,1964
+JACTEU-2,Michael Jacovides,The Epistemology Under Lockes Corpuscularianism,2002
+SULRFC-2,Frank Sulloway,Reassessing Freud's Case Histories: The Social Construction of Psychoanalysis,1991
+KUMMCA,Erich Kummerfeld and David Danks,Model Change and Reliability in Scientific Inference,2014
+MAXAPR,Nicholas Maxwell,Are Philosophers Responsible for Global Warming?,2008
+SCHBOB-2,Jutta Schickore,Trying Again and Again: Multiple Repetitions in Early Modern Reports of Experiments on Snake Bites,2010
+MIYSRA,Teru Miyake,Scientific Realism and the Earth Sciences,2017
+HETHTT-2,Guy Hetzroni and James Read,How to Teach General Relativity,forthcoming
+PESISA,Isabelle Peschard,Is Simulation a Substitute for Experimentation?,manuscript
+INGTNV,"R\""{o}gnvaldur Ingthorsson","The Natural Vs. The Human Sciences: Myth, Methodology and Ontology",2013
+JUSQSM,James Justus,Qualitative Scientific Modeling and Loop Analysis,2005
+HUTACT,Marcus Hutter,A Complete Theory of Everything (Will Be Subjective),2010
+PERIFF,Ulf Persson,Is Falsification Falsifiable?,2016
+ACHSRA,Peter Achinstein,Science Rules: A Historical Introduction to Scientific Methods,2004
+BARPAE,Eric Christian Barnes,Probabilities and Epistemic Pluralism,1998
+SAKDUO,Spyros Sakellariadis,Descartes's Use of Empirical Data to Test Hypotheses,1982
+MONIIT-2,Evelyn H. Monsay,Intuition in the Development of Scientific Theory and Practice,1997
+KIDRF,Ian James Kidd and Matthew Brown,Reappraising Feyerabend,2016
+DRUAMI-2,Donna J. Drucker,A Most Interesting Chapter in the History of Science,2012
+SIETPS,Harvey Siegel,"Truth, Problem Solving and the Rationality of Science",1983
+CANBRA-2,Geoffrey N. Cantor,Between Rationalism and Romanticism: Whewell's Historiography of the Inductive Sciences,1991
+MAXHUC,Nicholas Maxwell,Creating a Better World: Towards the University of Wisdom,2011
+HUSPOT-7,John E. Huss,Paleontology: Outrunning Time,2017
+PERCVF,Ray Scott Percival,Confirmation Versus Falsificationism,2015
+DUSDIS,R. Duschl and Richard E. Grandy,Demarcation in Science Education: Toward an Enhanced View of Scientific Method,2011
+COOGAA,Glen Cooper,Galen and Astrology: A M\'{e}salliance?,2011
+RIESOS,Hauke Riesch,Simple or Simplistic? Scientists' Views on Occam's Razor,2010
+REEAPT,Amanda Rees,A Place That Answers Questions: Primatological Field Sites and the Making of Authentic Observations,2006
+HARTE,Stephan Hartmann,"Transdisziplinarit\""{a}t ? Eine Herausforderung F\""{u}r Die Wissenschaftstheorie",2005
+ALAASD,Mario Alai,"A.I., Scientific Discovery and Realism",2004
+BOBSMI,Franklin Bobbitt,Scientific Method in Curriculum-Making,2004
+CHADSW-2,Ulrich Charpa,"Darwin, Schleiden, Whewell, and the ?London Doctors?: Evolutionism and Microscopical Research in the Nineteenth Century",2010
+FRATRM-3,Thiago F. A. Fran\c{c}a and Jos\'e M. Monserrat,"To Read More Papers, or to Read Papers Better? A Crucial Point for the Reproducibility Crisis",2019
+SHEGSA-3,William Shea,"Galileo, Scheiner, and the Interpretation of Sunspots",1970
+BEISVA,Claus Beisbart,Should Validation and Verification Be Separated Strictly?,2019
+LINHO,Shang{-}Jen Li,Natural History of Parasitic Disease,2002
+FORTDB,Malcolm Forster,The Debate Between Whewell and Mill on the Nature of Scientific Induction,2004
+BEIWIV,Claus Beisbart,What is Validation of Computer Simulations? Toward a Clarification of the Concept of Validation and of Related Notions,2019
+EELCPV,Dunja \v{S}e\v{s}elja and Christian Stra\s{s}er,Concerning Peter Vickers?s Recent Treatment of ?Paraconsistencitis?,2014
+SCHTPA-44,Alex C. Michalos,"The Politics and Rhetoric of Scientific Method. J. A. Schuster, R. R. Yeo",1987
+RAFCAA-2,Athanassios Raftopoulos,Cartesian Analysis and Synthesis,2003
+STEODO,Anguel Stefanov and Dimiter Ginev,One Dimension of the Scientific Type of Rationality (a Reflection Upon the Theory of Group Rationality),1985
+BOLOTM,Ludwig Boltzmann,On the Methods of Theoretical Physics,1915
+LAWTRT-2,Anton E. Lawson,"T. Rex, the Crater of Doom, and the Nature of Scientific Discovery",2004
+VARLSI,Franck Varenne,La Simulation Informatique Face \`A la ? M\'{e}thode des Mod\`{e}les ?. Le Cas de la Croissance des Plantes,2003
+WIETMO-7,Philip P. Wiener,The Methodology of Pierre Duhem,1942
+EBUWWT,Harold T. Walsh,William Whewell's Theory of Scientific Method,1970
+GREHAA,Andrew Gregory,"Harvey, Aristotle and the Weather Cycle",2001
+WISSTE,J. O. Wisdom,"Scientific Theory: Empirical Content, Embedded Ontology, and Weltanschauung",1972
+DUCFQA,Steffen Ducheyne,"Fundamental Questions and Some New Answers on Philosophical, Contextual and Scientific Whewell: Some Reflections on Recent Whewell Scholarship and the Progress Made Therein",2010
+MAXHUC-6,Nicholas Maxwell,How Universities Can Best Respond to the Climate Crisis and Other Global Problems,2021
+CHIWSA-3,William Child,"Wittgenstein, Scientism, and Anti-Scientism in the Philosophy of Mind",2014
+GUTEIP,Christopher Gutland and Wenjing Cai and Anthony Vincent Fernandez,Editorial: Integrating Philosophical and Scientific Approaches in Consciousness Research,2021
+MCDTDO-13,Maxson J. McDowell and E. Joenine Roberts and Alexandra Roth,Experimental Evidence for the Meaning of Saturn Who Devoured His Children,manuscript
+MONAAD-2,Monton Bradley,An Atheistic Defence of Christian Science,2013
+MAXHCW,Nicholas Maxwell,How Can We Build a Better World?,1991
+KRYIAT,Igor Kryvovyazyuk,Innovative Approach to Strategy Selection for Enterprise Crisis Management,2013
+GEBATQ,Alexander Gebharter,"Addendum to ""a Formal Framework for Representing Mechanisms?""",manuscript
+HATCPO-2,Gary Hatfield,Cartesian Psychology of Antoine le Grand,2013
+LACTPO-9,Michael Lacewing,The Problem of Suggestion in Psychoanalysis: An Analysis and Solution,2013
+MAXTEP-2,Nicholas Maxwell,The Enlightenment Programme and Karl Popper,2006
+MNENNI,"Nicola M\""{o}s{s}ner",Noch Nicht Ist Schon Zu Viel: Datentracking Und der Evaluierungswahn Wissenschaftlicher Leistung,2023
+GAUSMI-3,Hugh G. Gauch Jr and Hugh G. Gauch,Scientific Method in Practice,2003
+WESSM,F. W. Westaway,Scientific Method,1924
+WHIYDA,Charles Whitehead,You Do an Empirical Experiment and You Get an Empirical Result. What Can Any Anthropologist Tell Me That Could Change That?,2008
+VESMCT,Vincent Vesterby,Measuring Complexity: Things That Go Wrong and How to Get It Right--Version 2,manuscript
+LEWDMH,William Lewis,Dialectical Method: Henri Lefebvre's Philosophy of Science,2021
+KAKOTU,Spyridon Kakos,On the Untrustworthiness of Axiomatic-Founded Science,2020
+FAYASP-2,Cathy Faye,American Social Psychology: Examining the Contours of the 1970s Crisis,2012
+MAXIDO,Nicholas Maxwell,In Defense of Seeking Wisdom,2004
+PSIMTA,Stathis Psillos and Stavros Ioannidis,"Mechanisms, Then and Now: From Metaphysics to Practice",2019
+PLUWMT,S\'{e}bastien Plutniak,What Makes the Identity of a Scientific Method? A History of the ?Structural and Analytical Typology? in the Growth of Evolutionary and Digital Archaeology in Southwestern Europe (1950s?2000S),2022
+KAKRAT,Spyridon Kakos,Religion as the Single Foundation of Science,2020
+HOWPOE-2,Jeremy Howick and Ashley Graham Kennedy and Alexander Mebius,Philosophy of Evidence Based Medicine (Oxford Bibliography: Http://Www.Oxfordbibliographies.Com/View/Document/Obo-9780195396577/Obo-9780195396577-0253.Xml),2015
+LIPTML,Peter Lipton,The Medawar Lecture 2004: The Truth About Science,2005
+BETI-2,Arianna Betti and Willem R. de Jong,Introduction,2010
+PHAEIA,Denis Phan and Anne{-}Fran\c{c}oise Schmid and Franck Varenne,"Epistemology in a Nutshell: Theory, Model, Simulation and Experiment",2007
+VACLCO,Miroslav Vacura,Lacey's Concept of Value-Free Science,2018
+MAXSUA,Nicholas Maxwell,Science Under Attack,2005
+BLUTRO,Marion Blute and Paul Armstrong,The Reinvention of Grand Theories of the Scientific/Scholarly Process,2011
+HEIAID,Michael Heidelberger,"Alternative Interpretationen der Repr\""{a}sentationstheorie der Messung",1994
+MAXTGP,Nicholas Maxwell,Two Great Problems of Learning,2003
+CARMTI-4,Louis Caruana,Mechanistic Trends in Chemistry,2018
+CROCAS-6,Alistair C. Crombie,Commitments and Styles of European Scientific Thinking,1996
+LUKCCI,Stefan Lukits,Carnap?s Conventionalism in Geometry,2013
+HUNDCR,Luke William Hunt,Does Criminal Responsibility Rest Upon a False Supposition? No.,2020
+FEIDAS,James K. Feibleman,Darwin and Scientific Method,1959
+BRESRT,William F. Brewer and Clark A. Chinn,"Scientists' Responses to Anomalous Data: Evidence From Psychology, History, and Philosophy of Science",1994
+PERFMT,Marcello Pera,From Methodology to Dialectics: A Post-Cartesian Approach to Scientific Rationality,1986
+BORTBA-4,Edwin Boring,The Beginning and Growth of Measurement in Psychology,1961
+HEEBIN-2,Anke te Heesen,Boxes in Nature,1999
+GUEQIC-2,Henry Guerlac,Quantification in Chemistry,1961
+KUKEP,Andr\'e Kukla,Evolving Probability,1990
+ZUCDRL,Arthur Zucker,Davy Refuted Lavoisier Not Lakatos,1988
+CHECAA-9,Xiang Chen and Peter Barker,"Cognitive Appraisal and Power: David Brewster, Henry Brougham, and the Tactics of the Emission--Undulatory Controversy During the Early 1850S",1992
+GERQIB-2,R. Gerard,Quantification in Biology,1961
+HTTHHA,"Andreas H\""{u}ttemann",Heinrich Hertz and the Concept of a Symbol,2002
+MAXTUN,Nicholas Maxwell,The Urgent Need for an Academic Revolution: From Knowledge to Wisdom,2010
+SCHMOA-6,Alfred Schramm,Methodological Objectivism and Critical Rationalist ?Induction?,2006
+MAXRTC-2,Nicholas Maxwell,Replies to Criticisms and Comments,2012
+MAXTPO,Nicholas Maxwell,The Problem of Induction and Metaphysical Assumptions Concerning the Comprehensibility and Knowability of the Universe,2007
+IPPMAI,Emiliano Ippoliti and Thomas Nickles and Fabio Sterpetti,Modeling and Inferring in Science,1st ed. 2016
+WILADS-3,George Williams,Are Different Standards Warranted to Evaluate Psi?,2016
+BONTMF,Giovanni Boniolo and Mattia Andreoletti and Federico Boem and Emanuele Ratti,The Main Faces of Robustness,2017
+THOENA,Steinar Thorvaldsen,Early Numerical Analysis in Kepler's New Astronomy,2010
+KELSPM-2,Stephen H. Kellert and Helen E. Longino and C. Kenneth Waters,Scientific Pluralism. Minnesota Studies in the Philosophy of Science. Vol. 19,2008
+KOCCOD-2,Jeff Kochan,"Comment on David G. Anderson \& Dmitry V. Arzyutov, ?the Etnos Archipelago: Sergei M. Shirokogoroff and the Life History of a Controversial Anthropological Concept?",2019
+MAXDPL,Nicholas Maxwell,Wisdom-Inquiry,2010
+TRZSCA,Gabriel T\^{a}rziu,Social Constructivism and Methodology of Science,2017
+MAXHSE,Nicholas Maxwell,Has Science Established That the Cosmos is Physically Comprehensible?,2013
+ALVTMM-2,Marco Aur\'{e}lio Sousa Alves,The Minimal Method of Descartes,2012
+SILSAF,Ricardo Silvestre,Sobre a Formaliza\c{c}~{a}o L\'{o}gica de Mudan\c{c}a de Teorias e Anomalias Cient\'{i}ficas,2017
+MAXAED,Nicholas Maxwell,Aim-Oriented Empiricism: David Miller's Critique,2006
+BOUSMA,Elena Bougleux,Scientific Methods and Creative Practices. An Evaluation of Constraints and Possibilities in an Experimental Research Environment,2009
+RGKOZV,Jakub R\'{o}g,Krytyka Operacjonizmu Z Uwzgl\k{e}dnieniem Operacyjnej Definicji Czasu,2023
+KEINUB,Geert Keil,Naturalismus Und Biologie,2007
+MAXTUN-3,Nicholas Maxwell,The Urgent Need for an Academic Revolution: The Rational Pursuit of Wisdom,2010
+GALSRA,Dusan Galik,Scientific Rationality and Scientific Method,2009
+MAXHUC-2,Nicholas Maxwell,How Universities Can Help Humanity Learn How to Resolve the Crises of Our Times - From Knowledge to Wisdom: The University College London Experience,2012
+CHISAS-2,Chuanfei Chin,Subliming and Subverting: An Impasse on the Contingency of Scientific Rationality,2014
+Menahem2016-BENPIO-4,Yemima Ben{-}Menahem,Poincar\'e?s Impact on Twentieth-Century Philosophy of Science,2016
+AFIIAS,Oseni Taiwo Afisi,Is African Science True Science? Reflections on the Methods of African Science,2016
+VANOTE-3,Maarten Van Dyck,On the Epistemological Foundations of the Law of the Lever,2009
+FORLRA,Gabor Forrai,"Lakatos, Reason, and Rationality",2002
+HEIKMD-3,Boris Heithecker,"Kann Man Das ?Paradigma der der Farbenlehre? Auf Einen Anderen Bereich von Naturerscheinungen Anwenden? ? Ph\""{a}nomenologie der Natur Nach Goethe Am Beispiel der Krafterscheinungen",manuscript
+Monas2006-BEEESE,Erica Beecher{-}Monas,Evaluating Scientific Evidence: An Interdisciplinary Framework for Intellectual Due Process,2006
+BAMWIT,Greg Bamford,What is the Problem of Ad Hoc Hypotheses?,1999
+GANCAC,Jean{-}Gabriel Ganascia and Claude Debru,Cybernard: A Computational Reconstruction of Claude Bernard's Scientific Discoveries,2007
+MAXSAT,Nicholas Maxwell,Science and the Environment: A New Enlightenment,1997
+COHPTE-2,Daniel Cohnitz,Poor Thought Experiments? A Comment on Peijnenburg and Atkinson,2006
+SANDSA,John T. Sanders,Dynamical Systems and Scientific Method,manuscript
+MORIWR,Luca Moretti,String Theory and the Scientific Method: Interview with Richard Dawid,2014
+GOLSRO-3,Azam Golam,Some Reflections on Whewell's Scientific Methodology,2009
+KAWMPM,Pawe\l Kawalec,Moderately Pluralistic Methodology,2012
+BOUSRD,Vihren Bouzov,"Scientific Rationality, Decisions and Choice",2003
+TEIRZV,Amir Teicher,Racial Zigzags,2015
+SCHFMT-5,Bertold Schweitzer,From Malfunction to Mechanism,2015
+GOMTPO-2,Juan Gomez,The Progress of Scotland and the Experimental Method,2012
+STRWIE,Michael Strevens,What is Empirical Testing?,manuscript
+MAXTUN-2,Nicholas Maxwell,The Urgent Need for an Academic Revolution,2010
+BYRAAS-2,Christopher Byrne,Aristotle and Scientific Experiments,2020
+SANRIS,George Santayana,Reason in Science,1906
+FEUVOS,Lewis Samuel Feuer,Varieties of Scientific Experience: Emotive Aims in Scientific Hypotheses,1995
+DAHNAS,Daniel O. Dahlstrom,Nature and Scientific Method,1991
+MAXAIT,Nicholas Maxwell,An Idea to Save the World,2009
+FREKPC,Danny Frederick,Karl Popper: Conjectures and Refutations,manuscript
+DEBDAA,Josquin Debaz and Sophie Roux,D'une Affaire aux Autres,2007
+GEBEI-2,Alexander Gebharter and Gerhard Schurz,Editors' Introduction,2014
+STRTIB,John V. Strong,"The Infinite Ballot Box of Nature: De Morgan, Boole, and Jevons on Probability and the Logic of Induction",1976
+WILVAT,Frederick L. Will,Verifiability and the External World,1940
+COHRAN-5,Mortimer R. Kadish,"Reason and Nature. An Essay on the Meaning of Scientific Method. Revised Edition. Morris Raphael Cohen. Glencoe, Illinois, the Free Press, 1953, Pp. Xxiv, 470. \$6.00",1954
+CHIMMI,Clark A. Chinn and William F. Brewer,Mental Models in Data Interpretation,1996
+BELHOS,Darrin W. Belousek,Husserl on Scientific Method and Conceptual Change: A Realist Appraisal,1998
+BARSI-6,Stephen F. Barker,Scientific Inference,1958
+COONPA-3,Glen Cooper,"Numbers, Prognosis, and Healing: Galen on Medical Theory",2004
+OHUNS,Jun{-}Young Oh,Understanding Natural Science Based on Abductive Inference: Continental Drift,2014
+JACLTP,Struan Jacobs,Limits to Problem Solving in Science,2001
+ELZHTO,Aant Elzinga,Huygens' Theory of Research and Descartes' Theory of Knowledge I,1971
+HEMIMW,Carl G. Hempel,"In Memoriam Wolfgang Stegm\""{u}ller",1992
+CLAPAM-3,Desmond Clarke,"Physics and Metaphysics in Descartes' ""Principles""",1979
+HOLLAK-2,Frederic Holmes,Lavoisier and Krebs: The Individual Scientist in the Near and Deeper Past,1984
+KOEFKT-2,Noretta Koertge,From Knowledge to Wisdom: A Revolution in the Aims and Methods of Science. Nicholas Maxwell,1989
+FRELNA,Karyn Freedman,Laudan's Naturalistic Axiology,1999
+HEAWWP,A. W. Heathcote,William Whewell's Philosophy of Science,1953
+CURIIA-5,Ronald Curtis,Institutional Individualism and the Emergence of Scientific Rationality,1989
+KITRIG,David B. Kitts,Retrodiction in Geology,1978
+GOOTGO-2,June Goodfield and Leonard G. Wilson,The Growth of Scientific Physiology,1964
+HUTOLI,Marcus Hutter,Observer Localization in Multiverse Theories,2010
+HLTSTN,"Benedikt T. A. H\""{o}ltgen",Structure-Sensitive Testimonial Norms,2021
+CARITA-13,Cellucci Carlo,Is There a Scientific Method? The Analytic Model of Science,2016
+JALDEF,Dana Jalobeanu,Disciplining Experience: Francis Bacon?s Experimental Series and the Art of Experimenting,2016
+BAUDCC,Michael Baumgartner,Detecting Causal Chains in Small-N Data,2013
+VANTPI-9,Pieter J. Van Strien,"Transforming Psychology in the Netherlands Ii: Audiences, Alliances and the Dynamics of Change",1991
+HARSCO-2,Catherine Harris,Sullivan's Concept of Scientific Method as Applied to Psychiatry,1954
+ACHTFO,Peter Achinstein,The Foundations of Scientific Inference,1969
+GUIHAD-2,Niccol\`o Guicciardini,Harper and Ducheyne on Newton,2013
+Vincent2011-BENMOI,Bernadette Bensaude{-}Vincent and Sacha Loeve and Alfred Nordmann and Astrid Schwarz,Matters of Interest: The Objects of Research in Science and Technoscience,2011
+CEVASC,Gustavo Cevolani,"A Systematic Companion to ?Neoclassical? Philosophy of Science: Gerhard Schurz: Philosophy of Science: A Unified Approach. New York: Routledge, 2013, Xix+456Pp, \$39.99 Pb",2014
+KAKRTR,Spyridon Kakos,Refuting the Refutations of the Wigner-Neumann Interpretation in Quantum Mechanics,2024
+Huene1998-HOYCTC-2,Paul Hoyningen{-}Huene,Changing Tools: Case Studies in the History of Scientific Methodology. Marta Feher,1998
+FINGAT-7,Maurice A. Finocchiaro,Galileo and the Art of Reasoning: Rhetorical Foundations of Logic and Scientific Method,1980
+YOUAMA-3,Raymond Aaron Younis,"Against Method, Against Science? On Logic, Order and Analogy in the Sciences",2017
+FINVGM,Maurice A. Finocchiaro,Vincenzo Galilei?s Musicology and Galileo?s Science: Methodological Comparison and Contrast,2020
+WYLBIU,Alison Wylie,Bootstrapping in Un-Natural Sciences: Archaeological Theory Testing,1986
+DEHTPI,Trudy Dehue,Transforming Psychology in the Netherlands I: Why Methodology Changes,1991
+SREMBP,Sanja Sreckovic,Music Between Philosophy and Science: The Applicability of Scientific Results to the Philosophy of Music,2019
+AGATAA-2,Joseph Agassi,Testing as a Bootstrap Operation in Physics,1973
+DUNINS,Katherine Dunlop,Isaac Newton?s Scientific Method: Turning Data Into Evidence About Gravity and Cosmology by William L. Harper,2013
+STOAEI-2,Martin Stokhof and Michiel van Lambalgen,Abstracties En Idealisaties: De Constructie van de Moderne Taalkunde,2010
+Skardowska1969-WYBZBN,Urszula Wybraniec{-}Skardowska and Grzegorz Bryll,Z Badan? Nad Teoria? Zdan? Odrzuconych (1st edition),1969
+MARMPA-21,Franti\v{s}ek Gah\'{e}r and Vladimir Marko,"Met\'{o}da, Probl\'{e}m a \'{U}loha (Method, Problem and Task)",2017
+KEEAIT-2,Machiel Keestra and Anne Uilhoorn and Jelle Zandveld,An Introduction to Interdisciplinary Research. 2Nd Revised Edition,2022
+SMITMO-3,Mapheus Smith,The Method of Elimination in Scientific Study,1943
+HELSTA-2,Inge S. Helland,Steps Towards a Unified Basis for Scientific Models and Methods,2010
+BROTPA-17,John Brooke,The Politics and Rhetoric of Scientific Method: Historical Studiesjohn A. Schuster Richard R. Yeo,1987
+SCHHVH-7,Gregor Schiemann and Michael Heidelberger and Helmut Pulte,"Hermann von Helmholtz, Philosophische Und Popul\""{a}rwissenschaftliche Schriften. 3 B\""{a}nde.",2017
+DESRFT-2,Ren\'e Descartes,Rules for the Discovery of Scienti?c Truth,2009
+PUTLDD,Hilary Putnam,La Diversidad de Las Ciencias: Aproximaciones Metodol\'{o}gicas Globales' Versus' Locales,1986
+ZEMOAG,J. Zeman,Ontological and Gnoseological Aspects of Contradiction and Their Importance in Analysis of the Development of Scientific Knowledge,1984
+THRSJC-2,John Thrasher and Michael Moehler,"Strategic Justice, Conventions, and Game Theory: Themes in the Philosophy of Peter Vanderschraaf",2022
+MORPOS-4,Gregory J. Morgan,Philosophy of Science Matters: The Philosophy of Peter Achinstein,2011
+KOETEM,Billy Vaughn Koen,"The Engineering Method and its Implications for Scientific, Philosophical, and Universal Methods",2009
+PATEST,M. Paty,"Einstein's Style, the Nature of Scientific Work and the Problem of Discovery",1996
+LEBCSA,I. A. G. Le Bek,Contemporary Science and Rationalism,1971
+YILSIM,Cemal Yildirim,"Science, its Meaning and Method",1971
+TAVPOT,P. V. Tavanet?s?,Problems of the Logic of Scientific Knowledge,1970
+MNEKDW,"Nicola M\""{o}s{s}ner and Klaus Erlach",Kalibrierung der Wissenschaft ? Auswirkungen der Digitalisierung Auf Die Wissenschaftliche Erkenntnis,2022
+SHATRO-36,Seema K. Shah and Benjamin S. Wilfond,The Role of Community Engagement in Novel Hiv Research in Infants,2015
+LANTEI-2,Robert E. Lana,The Emperor is Naked Again: Comments on Schlinger's Assessment of Psychological Theory,2004
+LIVWDW,Pierre Livet and Denis Phan and Lena Sanders,Why Do We Need Ontology for Agent-Based Models?,2008
+WOGAEO,Iap Wogu,"An Evaluation of ""Inductivism"" as the Hall Mark of Science",2011
+GEOTSI-2,William Herbert George,The Scientist in Action: A Scientific Study of His Methods,1936
+HILPPM,W. H. Hill,"Peirce's ""Pragmatic"" Method",1940
+VANPOS-7,J. Vann and M. Stewart,Philosophy of Science: A Practical Tool for Applied Geologists in the Minerals Industry,2011
+SACSVI,William Sacksteder,Structural Variation in Science,1963
+HESPSA-2,Mary Hesse,"Philosophy, Science, and Method. Essays in Honor of Ernest Nagelsidney Morgenbesser Patrick Suppes Morton White",1974
+KATPAS-4,Louis Kattsoff,Ptolemy and Scientific Method: A Note on the History of an Idea,1947
+DINTSA-2,Herbert Dingle,The Scientific Adventure,1952
+RAVEZR,Diederich Raven and Jutta Schickore,Edgar Zilsel?s Research Programme: Unity of Science as an Empirical Problem,2003
+ARMOMM,A. MacC Armstrong,On Methodological Materialism,1973
+ZMYMPI,Iwo Zmyslony,Michael Polanyi's Idea of Tacit Premises of Science,2012
+TILSMM-2,Mary Tiles and Rom Harr\'e,Scientific Method: Method and the Authority of Science,1988
+GOROTM,D. P. Gorskii,On the Means of Generalizing Scientific Theory,1967
+CLAAGT-5,Joseph Clark,A Guide to Historical Methodgilbert J. Garraghan Jean Delanglez,1950
+BISMOR,Erwin Biser and Enos E. Witmer,Methodology of Research and Progress in Science,1947
+ROWMOS-2,John Rowland,Mysteries of Science,1957
+CYCNAL,David Cycleback,Nature and Limits of Human Knowledge,2021
+AGOTOA-2,F. D. Agostino,The Optimum Aim for Science in Freedom and Rationality. Essays in Honor of John Watkins,1989
+MANLFY-2,Miguel Manzanera Salavert,"L\'{o}gica Formal y M\'{e}todo Dial\'{e}ctico: La Investigaci\'{o}n de Sus Respectivos Objetos Te\'{o}ricos En la Deutsche Zeitschrifr F\""{u}r Philosaphie",1994
+ZABAIA-2,S. Zabell,Artificial Intelligence and Scientific Method. Donald Gillies,1998
+GINTMO-3,Benjamin Ginzburg,The Methodology of Pierre Duhemarmand Lowinger,1942
+CHAMNC,D. Chart,"Maxwell, N.-The Comprehensibility of the Universe",2000
+HAROEA-4,William L. Harper and Kent W. Staley and Henk W. de Regt and Peter Achinstein,"Objective Evidence and Rules of Strategy: Achinstein on Method: Peter Achinstein: Evidence and Method: Scientific Strategies of Isaac Newton and James Clerk Maxwell. Oxford and New York: Oxford University Press, 2013, 177Pp, \$24.95 Hb",2014
+WATDIG,Richard A. Watson,"Discussion: Is Geology Different?: A Critical Discussion of ""the Fabric of Geology""",1966
+MCAPAT,Dan McArthur,"Peter Achinstein, the Book of Evidence Reviewed By",2003
+DUNPAE-6,Katherine Dunlop,"Peter Achinstein. Evidence and Method. New York: Oxford University Press, 2013. Pp. Xv+177. \$24.95",2014
+GUTRAH,G. Gutting,Review. A House Built on Sand: Exposing Postmodernist Myths About Science. N Koertge [Ed],2000
+COLJCP,John Collier,"Joseph C. Pitt and Marcello Pera, Ed., Rational Changes in Science: Essays on Scientific Reasoning Reviewed By",1988
+KYBSR,Henry Ely Kyburg,Science \& Reason,1990
+STASSA-4,Matthew Stanley,So Simple a Thing as a Star: The Eddington?Jeans Debate Over Astrophysical Phenomenology,2007
+MICMSD-2,Jan G. Michel,Making Scientific Discoveries: Interdisciplinary Reflections,2021
+CALASE-2,H. G. Callaway,"Arthur S. Eddington, the Nature of the Physical World, an Annotated Edition",2014
+SEEPFO,Raymond John Seeger and R. S. Cohen,"Philosophical Foundations of Science: Proceedings of Section L, 1969, American Association for the Advancement of Science",1974
+DRAGAT-5,Stillman Drake,Galileo and the Art of Reasoning: Rhetorical Foundations of Logic and Scientific Method. Maurice A. Finocchiaro,1981
+TOOTTA-5,Elizabeth Toon,The Tool and the Job: Digital Humanities Methods and the Future of the History of the Human Sciences,2019
+FEISM,James Kern Feibleman,Scientific Method,1972
+TIBHTG,Gary G. Tibbetts,How the Great Scientists Reasoned: The Scientific Method in Action,2013
+CTAA-2,J. E. C. and T. Percy Nunn,The Aims and Achievements of Scientific Method,1908
+LEBTRO,S. A. Lebedev,The Role of Induction in the Functioning of Contemporary Science,1981
+WEICFS-3,Alvin M. Weinberg,"Criteria for Scientific Choice (Minerva, I (2), (1962), 158?171)",2000
+S2008-FSPLT-2,M. F.{-}S. and N. J.,Peter Lipton (9Th October 1954?25Th November 2007),2008
+POLSIF,Luana Poliseli,S\'{e}rie Investiga\c{c}~{o}es Filos\'{o}ficas: Textos Selecionados de Filosofia da Ci\^{e}ncia Ii [Philosophical Investigation Series: Selected Texts on Philosophy of Science Ii],2021
+YILTAU,Cemal Yildirim,Towards an Understanding of Science,1970
+KNITMO-4,Ken Knisely and Deborah Mayo and Robert Rynasiewicz and Drew Arrowood,The Methods of Science: No Dogs or Philosophers Allowed,forthcoming
+HOGTIC,Brendan Hogan,The Imaginative Character of Pragmatic Inquiry,2008
+COROSA,Alberto Cordero,On Science and Scientific Hypotheses,1996
+LARRKS,Harold Atkins Larrabee,Reliable Knowledge; Scientific Methods in the Social Studies,1964
+WALSKP,Monika Walczak,Stanis\l{}awa Kami\'{n}skiego Pogl\k{a}dy Na Cel Nauki,2011
+MAYSMA,Joseph Mayer,Scientific Method and Social Science,1934
+FORSIA-3,Paul Forster,Scientific Inquiry as a Self-Correcting Process,2002
+BOYTSM-2,Carl Boyer,The Scientific Methodology of Theodoric of Freibergwilliam A. Wallace,1960
+LJRTOS,L. J. Russell,Theories of Science,1929
+WOOTCO-26,Harry Woolf,The Conference on the History of Quantification in the Sciences,1961
+MITSI,E. T. Mitchell,Scientific Inference,1934
+GERAAT-6,D. E. Gershenson and D. A. Greenberg,Anaxagoras and the Birth of Scientific Method,1965
+CARITA-14,Cellucci Carlo,Is There a Scientific Method? The Analytic Model of Science,2016
+RICSMI,C. A. Richardson,Scientific Method in Philosophy and the Foundations of Pluralism,1918
+HINTCA-2,Jaakko Hintikka and C. David Gruender and Evandro Agazzi,"Theory Change, Ancient Axiomatics, and Galileo?s Methodology: Proceedings of the 1978 Pisa Conference on the History and Philosophy of Science",1980
+SADDOT,Wojciech Sady,Discovery of the Electron and the Question of the Nature of Scientific Research,2011
+HESTAE-5,Mary Hesse,Theory and Evidence. Clark Glymour,1981
+KAUTNO,Felix Kaufmann,The Nature of Scientific Method,1945
+SCHTPG-5,Jutta Schickore,"The ?Philosophical Grasp of the Appearances? and Experimental Microscopy: Johannes M\""{u}ller?s Microscopical Research, 1824?1832",2003
+MAXCAI,Nicholas Maxwell,"Can Academic Inquiry Help Humanity Become Civilized?,",1993
+GOUAMO,Yorgos Goudaroulis,A Matter of Order: A Controversy Between Heisenberg and London,2011
+FEHGDG,Yiftach J. H. Fehige,"Gedankenexperimente. Die Genese Einer Wissenschaftsphilosophischen Forschungstradition Nach Ulrich K\""{u}hne",2007
+MARKAI-4,Rhonda M. Martens,Kepler's Archetypes in Discovery and Justification,1997
+ZAMNAS,Jes\'{u}s P. Zamora Bonilla,Normativity and Self-Interest in Scientific Research,2008
+GIZMAS,Piotr Giza,Machines and Scientific Method,2013
+EMEDVM,A. Emery,Dialectics Versus Mechanics. A Communist Debate on Scientific Method,1935
+BELDAT,Mara Beller,Dialogism and the Scientific Method,2007
+HOWAAP,Jeremy Howick,Against a Priori Judgements of Bad Methodology: Questioning Double-Blinding as a Universal Methodological Virtue of Clinical Trials,
+WEASM,Miles Weatherall,Scientific Method,1968
+ACHTD,Peter Achinstein,Theoretical Derivations,1985
+MLIAIT,Charles Malik,"An Introduction to Logic and Scientific Method. Morris R. Cohen, Ernest Nagel",1935
+Lawless2004-CASKMO-2,Teresa Castel\~{a}o{-}Lawless,"Kuhn?s Missed Opportunity and the Multifaceted Lives of Bachelard: Mythical, Institutional, Historical, Philosophical, Literary, Scientific",2004
+KIERNA,"I. A. Kiesepp\""a","Rationalism, Naturalism, and Methodological Principles",2000
+NORRTH-2,Stephen P. Norris,Reaching the ?Hardwig Limit?: Nonscientists' Ability to Sniff Out Scientific Bias and to Judge Scientific Research Methods (Response to Grandy),1995
+COOBSI,Roger Cooke and Domenico Costantini,Boston Studies in the Philosophy of Science Vol. 122: Statistics in Science,1990
+VICBFO,Brian Vickers,Bacon for Our Time,2004
+STATEA-2,Roger Stanev,The Epistemology and Ethics of Early Stopping Decisions in Randomized Controlled Trials,2012
+CALTPA,Edward Caldin,The Power and Limits of Science,1949
+SENTLS,Pradip Kumar Sengupta,The Logical Structure of Science: An Enquiry Into Some Metascientific and Methodological Problems of Scientific Explanations,1970
+RESIIS,Nicholas Rescher,Importance in Scientific Discovery,2001
+NERPAW-2,Nancy Nersessian,Particles and Waves: Historical Essays in the Philosophy of Science. Peter Achinstein,1992
+KRADRI,Peter Krausser,Dilthey's Revolution in the Theory of the Structure of Scientific Inquiry and Rational Behavior,1968
+FESCSI,Roberto Festa and Atocha Aliseda and Jeanne Peijnenburg,Cognitive Structures in Scientific Inquiry: Essays in Debate with Theo Kuipers. Volume 2,2005
+HENROC,R. J. Henle,Reflections on Current Reductionism,1985
+DEAPOT-5,Peter Dear,"Portraits of Thought: Knowledge, Methods, and Styles in Pascal. Buford Norman",1992
+DIABWA-2,Solomon Diamond,"Buckle, Wundt, and Psychology's Use of History",1984
+ARGSTA,Chris Argyris,Seeking Truth and Actionable Knowledge: How the Scientific Method Inhibits Both,1987
+ZIGROU,M. Zigo,Remarks on Understanding Event of Science and Philosophy as Rationality Development,1976
+TIEMAT-4,Douwe Tiemersma,Methodological and Theoretical Aspects of Descartes' Treatise on the Rainbow,1988
+KOETSO-5,Noretta Koertge,The Structure of Scientific Inference. Mary Hesse,1978
+ESTBMO,W. K. Estes,Basic Methods of Psychological Science,2000
+BEREST-2,Russell Berg,Evaluating the Scientificness of Theories,2009
+HULVVA,Clark L. Hull,"Value, Valuation, and Natural-Science Methodology",1944
+ROTTAM,Martin Rotter,Techniques and Methods of Science From a Structuralist Point of View,2003
+LEESMA-2,Harold N. Lee,Scientific Method and Knowledge,1943
+FULEAS,Michael E. Gorman,Error and Scientific Reasoning: An Experimental Inquiry,1989
+BEISVF,Claus Beisbart,Simulation Validation From a Bayesian Perspective,2019
+LASTSA-2,Carlo L. Lastrucci,The Scientific Approach: Basic Principles of the Scientific Method,1963
+WALTCA-9,William Wallace,"Theory Change, Ancient Axiomatics, and Galileo's Methodology. Proceedings of the 1978 Pisa Conference on the History and Philosophy of Science, Volume I.Jaakko Hintikka David Gruender Evandro Agazzi",1982
+MAYSSP,Joseph Mayer,Social Science Principles in the Light of Scientific Method,1942
+JOHHOS-3,Sean F. Johnston,Beginner's Guide to the History of Science,2009
+CARITA-15,Cellucci Carlo,Is There a Scientific Method? The Analytic Model of Science,2016
+DUIAMF,P. Duijn,A Model for Theory Finding in Science,1961
+RICWSC,Reed Richter,What Science Can and Cannot Say: The Problems with Methodological Naturalism,2002
+HINTCA-4,Kaarlo Jaakko Juhani Hintikka and C. David Gruender and Evandro Agazzi,"Theory Change, Ancient Axiomatics, and Galileo?s Methodology: Proceedings of the 1978 Pisa Conference on the History and Philosophy of Science",1980
+TRITAO,R. A. R. Tricker,The Assessment of Scientific Speculation,1965
+JAKEIA,Marek Jakubiec,Extrapolative Inference and Per Analogiam Reasoning in Empirical Sciences,2014
+BURTCO-18,Charles Burnett,The Certitude of Astrology: The Scientific Methodology of Al-Qab\={i}s\=i and Abu Mashar1,2002
+ARTOAR,Mariano Artigas,"Objectivity and Reliability in Science,'",1988
+TOBRFC,Kenneth G. Tobin and Deborah J. Tippins and Karl Hook,Referents for Changing a Science Curriculum: A Case Study of One Teacher's Change in Beliefs,1994
+GOUHTS,Richard J. Gould,How to Solve Problems by the Scientific Method,1968
+CLEARO,Timothy Cleveland,A Refutation of Pure Conjecture,1997
+KOSTPO-10,Arnold Koslow,The Principles of Scientific Thinkingrom Harr\'e,1973
+BLATIM-5,Richard J. Blackwell,The Inductivist Model of Science,1974
+DAMAMF,Ubiratan D'Ambrosio,A Methodology for Ethnoscience: The Need for Alternative Epistemologies,1985
+DEREPO-2,H. W. De Regt,"Epsa Philosophy of Science: Amsterdam 2009, the European Philosophy of Science Association Proceedings Vol. 1, 375-386",2012
+GLYIEA,Clark Glymour and Kevin T. Kelly,"Inference, Explanation, and Other Frustrations: Essays in the Philosophy of Science",1992
+SHOACI,John R. Shook,"Abduction, Complex Inferences, and Emergent Heuristics of Scientific Inquiry",2016
+ENGSDI,Edward M. Engelmann,"Scientific Demonstration in Aristotle, Theoria, and Reductionism",2007
+WEBI-3,Erik Weber and Dietlinde Wouters and Joke Meheus,Introduction,2012
+SYMPMA-3,Iosifia Symeonidou,Pragmatist Metaethics: An Approach to Moral Truths and Moral Inquiry,2021
+KIIIRA,Mika Kiikeri,Interrogative Reasoning and Discovery: A New Perspective on Kepler's Inquiry,1999
+HMITDR,Jean Pierre \O{E}hmichen,E?Tude du Raisonnement Scientifique,1968
+NORTSO-2,F. S. C. Northrop,The Significance of Epistemic Correlations in Scientific Method,1939
+HAJNFK,Zygmunt Hajduk,Nferencyjna Funkcja Konstrukt\'{o}w Teoretycznych W Nauce,2004
+FLETTD,Louk Eduard Fleischhacker,The Three Degrees of Reflection and the Limits of Modern Science,1996
+WINTRB-5,G. Windred,The Relation Between Pure and Applied Electrical Theory: With Special Reference to Mathematical Methods,1932
+KELSP-2,Stephen H. Kellert and Helen E. Longino and C. Kenneth Waters,Scientific Pluralism Vol. 19,2006
+SERHHI,Dominique{-}Esther Seroussi,Heuristic Hypotheses in Problem Solving: An Example of Conceptual Issues About Scientific Procedures,1995
+TOSTMO-3,Claudemir Roque Tossato and Pablo Rub\'{e}n Mariconda,The Method of Astronomy Following Kepler,2010
+BOEFI,Endry Boeriswati and Fernandes Arung,Filsafat Ilmu - Edisi 2,2019
+ZIMCFS,John Ziman,Criteria for Scientific Choice ? Commentary,2000
+TILATU,Peter Tillers,Are There Universal Principles or Forms of Evidential Inference? : Of Inference Networks and Onto-Epistemology,2011
+CHRTIR,James A. Christenson,The If-Then Relation and Scientific Inference,1942
+MCKATO,Bill McKee,A Test of the Scientific Method,1993
+FULMEG,Steve Fuller,"Michael E. Gorman, Simulating Science: Heuristics, Mental Models, and Technoscientific Thinking Reviewed By",1992
+PORTSF-3,Theodore Porter,"The Search for a Methodology of Social Science: Durkheim, Weber, and the Nineteenth-Century Problem of Cause, Probability, and Action. Stephen P. Turner",1988
+MAHCEA,Gurpreet Mahajan,Causal Explanation and Scientific Method,1992
+EISSI,Robert Eisler,Scientific Inference,1948
+BEIWIA,Claus Beisbart,What is a Computer Simulation and What Does This Mean for Simulation Validation?,2019
+OGDSIM,C. K. Ogden,"""Science: Its Method and Philosophy."" by G. Burniston Brown",1951
+HAREIS,Errol E. Harris,Empiricism in Science and Philosophy,1975
+WALTSY-2,Helen Walker,The Second Yearbook of Research and Statistical Methodology. Oscar Krisen Buros,1943
+MAYWTF-2,Tim May,"When Theory Fails? The History of American Sociological Research Methods (Essay Review of Jennifer Platt, a History of Sociological Research Methods in America 1920-1960)",1997
+LOSRSM,John Losee,Review. Scientific Method: An Historical and Philosophical Introduction. Barry Gower,1998
+WRIIMW,Dorothy Wrinch,Iii.--Scientific Methodology with Special Reference to Electron Theory,1927
+CARITA-16,Cellucci Carlo,Is There a Scientific Method? The Analytic Model of Science,2016
+HIRDRB,R. J. Hirst,Discussion: R. B. Braithwaite on Science and Ethics,1954
+NIEAES-2,Edmund Nierlich,An ?Empirical Science? of Literature,2005
+GUMTCK,L. Gumanski,"Tadeusz Czezowski-Our Knowledge, Though Uncertain, is Probable",2001
+STAECJ,Roger Stanev,Epidemiologic Causation: Jerome Cornfield?s Argument for a Causal Connection Between Smoking and Lung Cancer,2009
+Robinson1983-GATTRO,Eugenie Gatens{-}Robinson,The Relationship of Scientific Explanation to Models of Rationality,1983
+KAYTCO,Carl Kaysen,The Complexity of Scientific Choice,1966
+REHAIT,William Rehg and Kent Staley,?Agreement? in the Ipcc Confidence Measure,2017
+AUNTTO-2,Bruce Aune,Two Theories of Scientific Knowledge,1971
+NARUAA,Victor Patricio D\'{i}az Narv\'{a}ez and Aracelis Calzadilla Nu\~{n}ez and Hector L\'{o}pez Salinas,Una Aproximaci\'{o}n Al Concepto de Hecho Cient\'{i}fico,2005
+HUTCOT,Keith Hutchison,Comments on Thomason,1996
+BROLFT-3,James Robert Brown,Learning From the Past,1989
+MAROTS-11,Herm\'{i}nio Martins,On the Status and Role of Instrumental Images in Contemporary Science: Some Epistemological Issues,2014
+THOKH,Keith Hutchison,Comments on Thomason,1996
+SHRTET,Iu A. Shreide,The Effort Toward a New Synthesis,1977
+HOWRMI,G. S. Howard and W. H. Youngs and A. M. Siatczynski,Reforming Methodology in Psychological Research,1988
+ACHWAS,Peter Achinstein,Waves and Scientific Method,1992
+SHAPFO-4,Yafeng Shan,Philosophical Foundations of Mixed Methods Research: Dialogues Between Researchers and Philosophers,2023
+VALTSM-3,Daniel A. Vallero and Paul J. Lioy,The Scientific Method in an Era of Advocacy,2010
+VUICSE,Jules Vuillemin,Connaissance Sensible Et Approximation,1991
+LITSAO,Sebastian B. Littauer,Social Aspects of Scientific Method in Industrial Production,1954
+SUAEEA,M. Su\`{a}rez and M. Dorato and M. R\`{e}dei,Epsa Epistemology and Methodology of Science: Launch of the European Philosophy of Science Association,2009
+GEOTSI,William Herbert George,The Scientist in Action: A Scientific Study of His Methods,1975
+DUCDAT,Howard Duncan,Descartes and the Method of Analysis and Synthesis,1989
+TOUHII-3,Stephen Toulmin,Historical Inference in Science,1962
+NEWEBD,Fred D. Newman,Explanation by Description,1968
+COHLLA,Robert S. Cohen and Marx W. Wartofsky,"Language, Logic and Method",2012
+SPEIOU-2,Herbert Spencer,Illustrations of Universal Progress a Series of Discussions,1864
+Orallo1998-HERACD,Jos\'e Hernandez{-}Orallo,A Computational Definition of 'Consilience',1998
+BUCIAS,G. Buchdahl,Induction and Scientific Method,1951
+KASSAO,I. T. Kasavin,Science and Other Forms of Thinking : An Emerging Interdisciplinary Paradigm,2009
+DIFANE,Victor Di Fate,Achinstein's Newtonian Empiricism,2011
+TILFRA,Mary Tiles,"Form, Reason, and Method",2011
+CIZTTA-2,F. Cizek,The Theoretical and Historical Aspects of the Relation of Theoretical and Empirical Level of Scientific Knowledge,1982
+BETWEP,Gregor Betz,"Warum Erfolgreiche Prognosen Neuartiger Ph\""{a}nomene Methodologisch Wertvoll Sind",2010
+CYCLOS,David Cycleback,Limits of Science,2019
+LEIPFA,Gottfried Wilhelm Leibniz,Project for a New Encyclopedia to Be Written Following the Method of Discovery,2007
+DELEMI-2,Percy Lee DeLargy,Empirical Method in Science and Philosophy,1928
+AGATUA,Evandro Agazzi,The Universe as a Scientific and Philosophical Problem,1991
+CHAHTD-2,Alan Chalmers,How to Defend Science Against Scepticism: A Reply to Barry Gower,1989
+SHIBOS,Abner Shimony,Braithwaite on Scientific Method,1954
+HOORAN,Sidney Hook,Reason and Nature: The Metaphysics of Scientific Method,1932
+WARPS-2,Leo R. Ward,Problem : Scientific Method and the Nature of Man,1951
+FRATVO-5,Philipp Frank,The Validation of Scientific Theories. Edited with an Introduction by Philipp Frank,1961
+BRISIT-5,E. Brian Davies,Science in the Looking Glass: What Do Scientists Really Know?,2003
+KEYAAA-5,Vadim Keyser,Artifacts and Artefacts: A Methodological Classification of Context-Specific Regularities,2019
+RITSM,Arthur David Ritchie,Scientific Method,1960
+NIEMON,H. A. Nielsen,Methods of Natural Science,1967
+COLAIO,David Colaco,An Investigation of Scientific Phenomena,2019
+KYBPAC,Henry E. Kyburg,"Peter Achinstein, ""Concepts of Science: A Philosophical Analysis""",1971
+STAROT-4,Roger Stanev,"Review of the Oxford Textbook of Clinical Research Ethics, by D. Wendler, C. Grady, R. Crouch, R. Lie, F. Miller, and E. Emanuel",2012
+JAMALA,James H. Fetzer,Achinstein's Law and Explanation: An Essay in the Philosophy of Science Peter Achinstein,1975
+SAMDSM,Hadi Samadi,Darwin's Scientific Method in Practice,forthcoming
+FRBTDO,Paul Lawrence Farber,The Development of Taxidermy and the History of Ornithology,1977
+DECGMA-2,Soraya de Chadarevian,Graphical Method and Discipline: Self-Recording Instruments in Nineteenth-Century Physiology,1993
+GOENUA,James Goetz,Natural Unity and Paradoxes of Legal Persons,2014
+PAUAMN,Mayer Paul,Against Methodological Naturalism,manuscript
+DUNHSB,Kevin Dunbar,How Scientists Build Models: In Vivo Science as a Window on the Scientific Mind,1999
+CROBDT,Marco Crosa,Beyond Dilthey: The Parallelization of Natural and Social Scientific Methods and the Emergence of Complex Thinking (1st edition),2023
+STETSO-61,Russell L. Ackoff,"The Study of Behavior: Q-Technique and its Methodology. William Stephenson. Chicago: University of Chicago Press, 1953. Pp. Ix, 376 Pp. \$7.50",1955
+GOOJHO-2,Gregory Good,John Herschel's Optical Researches and the Development of His Ideas on Method and Causality,1987
+KEMAPL-3,Nicholas Rescher,A Philosopher Looks at Science,1959
+SIMMOD,K. Sundaram,Models of Discovery and Other Topics in the Methods of Science,1979
+TORUHS,Mario Edmundo Ch\'{a}vez Tortolero,Una Hip\'{o}tesis Sobre la Hip\'{o}tesis En Hume: El Papel de la Intuici\'{o}n,2022
+KUHTHA-2,Thomas S. Kuhn,"The Halt and the Blind: Philosophy and History of Science: ""Method and Appraisal in the Physical Sciences""",1980
+MAHACP,Bimal Prasad Mahapatra,"A Current Perspective on Science, Scientists and ""Scientific Temper"": Busting Myths and Misconceptions",
+COHAIT-6,Henry Bradford Smith,An Introduction to Logic and Scientific Method,1934
+SFEHOT-3,Nicolae Sfetcu,Heuristics of the General Relativity,manuscript
+MILMIN-3,Clifford Miller,"Medicine is Not Science: Guessing the Future, Predicting the Past",2014
+GRATBP,Attila Grandpierre,The Biological Principle of Natural Sciences and the Logos of Life of Natural Philosophy: A Comparison and the Perspectives of Unifying the Science and Philosophy of Life,2011
+MAXTJD,Nicholas Maxwell,"Trout, J. D. , Wondrous Truths: The Improbable Triumph of Modern Science, New York: Oxford University Press, 264Pp, Isbn 978-0199385072",2017
+KASDOI,Juozas Kasputis,"Democracy of Incomplete Victories: State, Civil Society, and the Scientific Method",2020
+SFEADI,Nicolae Sfetcu,Activitatea de Informa?ii - Ciclul Informa?ional,manuscript
+LEAPWT,Vikky Leaney,Playing with the Metaphysical Foundations of a Self-Related Ethnographic Study,
+LICCIF,Ignazio Licata,Complessit\`a in Fisica: Che Cos?\`E Il Cambiamento?,2012
+SFEAAD,Nicolae Sfetcu,"Analogia Activit\ua?ii de Informa?ii Cu ?tiin?a, Arheologia, Afacerile ?i Medicina",manuscript
+SFEADR,Nicolae Sfetcu,Analyse du Renseignement,manuscript
+SFEMNA,Nicolae Sfetcu,Metodologii \^{I}n Activitatea de Informa?ii,manuscript
+RESNAU-3,Michael F. Goodman,Nature and Understanding: The Metaphysics and Method of Science,2002
+SFEEMP,Nicolae Sfetcu,Extinderea Metodologiei Programelor de Cercetare a Lui Imre Lakatos,manuscript
+BOLJHN,Marvin Paul Bolt,John Herschel's Natural Philosophy: On the Knowing of Nature and the Nature of Knowing in Early-Nineteenth-Century Britain,1998
+RAHLEA,S. Rahman,"Logic, Epistemology, and the Unity of Science",2004
+MAXRCO,J. J. C. Smart,"Nicholas Maxwell, the Comprehensibility of the Universe: A New Conception of Science. Oxford: Clarendon Press, 1998, Cloth \pounds35. Isbn: 0 19 823776 6",2000
+PATHGT,Louise Diehl Patterson,Hooke's Gravitation Theory and its Influence on Newton. I: Hooke's Gravitation Theory,1949
+FRIPVI-2,Mathias Frisch,Peter Vickers: Understanding Inconsistent Science,2016
+DUHEIT-2,Ernan McMullin,Review of Pierre Maurice Marie Duhem: \emph{Essays in the History and Philosophy of Science},1997
+MNESEA-2,"Nicola M\""{o}s{s}ner",Science Evaluation and Future-Proof Science,2024
+SUCMOS,Jan Such,Multiformity of Science,2004
+NEWTRO-11,Simon Newcomb,"The Relation of Scientific Method to Social Progress an Address Delivered Before the Philosophical Society of Washington, December 4Th, 1880",1983
+MCKPAE,William James Mckinney,Plausibility and Experiment: Investigations in the Context of Pursuit,1993
+OSMPOS,Salah Osman,"Philosophy of Science a to Z, Arabic Translation ????? ????? ?? ????? ??? ?????",2018
+REMMIP,Marie{-}Helene Remy,Mind in Perspective: Psychology or Neuroscience?,1990
+SUCPPA-2,Jan Such,Plato's Philosophy and the Essence of the Scientific Method,2003
+PHISMB,Edward Parkinson Philip,"Scientific Method, Behavioral Science, and Rationality",1975
+SHITLO-2,Linda Shields,The Logic of Science,2007
+OSMSMB,Salah Osman,Scientific Model Between Imagination and Reality (in Arabic),2000
+CREDRA,Sergio Cremaschi,David Ricardo: An Intellectual Biography,2021
+LUCOTR-3,Ruth Harriet Lucow,On the Rational Acceptance of Scientific Theories: An Attempt to Extend Isaac Levi's Cognitive Decision Theory to the Acceptance of Scientific Theories,1978
+UKRSPA,B. S. Ukraintsev,Scientific Philosophy and Methods of Science,1983
+KZKSK,Oktay K\i{}zkapan,"S\""{o}zde-Bi?li?msel Konular",2021
+BAKPPO-2,V. Bako\vs,Philosophical Production of the Association for Scientific Synthesis: Towards the 70Th Anniversary of its Foundation,2007
+CURCDA-2,Ronald Clarence Curtis,Charles Darwin and the Refutation of Whewellian Metascience: How the Philosophy of Science Learned From the History of Science,1983
+ODOTWO,William O'Donohue and Jeffrey A. Buchanan,The Weaknesses of Strong Inference,2001
+HARSMA-9,Allen James Harder,Scientific Methodology and the Growth of Knowledge,1971
+BALECA-5,Arunasalam Balasubramaniam,Epistemic Complementarity and Scientific Rationality,1983
+RUIPAQ,Roberto Ruiz,"Pope Admits: ""God Ain't Said Shit to Me""",2010
+WESSMI-4,F. W. Westaway,Scientific Method its Philosophy and its Practice,1919
+DELARI-3,Finnur Dellse?n,Abductive Reasoning in Science,2024
+GILMMA-4,Ruth Anne Gilbert,"Morals, Models, and Methodology",1980
+COZSMA,Jose Cozar,Scientific Methodology and General Theory of Language,1995
+XAVEAM,Donato{-}Rodr\'{i}guez Xavieder and Zamora{-}Bonilla Jes\'{u}s,Explanation and Modelization in a Comprehensive Inferential Account,2011
+LANTDO-12,Marc Barrett Lange,The Design of Scientific Practice: A Study of Physical Laws and Inductive Reasoning,1990
+RUSAMO,Craig Francis Rusbult,"A Model of ""Integrated Scientific Method"" and its Application for the Analysis of Instruction",1997
+SAYSUY,"Eyl\""{u}l Ba\c{s}kurt Sayhan","S\""{o}zde-Bi?li?m Uygulamalari Yoluyla \""{U}st\""{u}n Zekali Ve Yetenekli? 4. Sinif \""{O}u{g}renci?leri?ni?n Bi?li?msel S\""{u}re\cc Beceri? D\""{u}zeyleri?ni?n Beli?rlenmesi?",2019
+POTSRA-2,John S. Pot,Scientific Relevance and the Rehabilitation of the Goal Concept,1980
+THAEAS-2,Paul Richard Thagard,Explanation and Scientific Inference,1977
+BATEIT-3,John T. Battalio,"Essays in the Study of Scientific Discourse: Methods, Practice, and Pedagogy",1998
+THAROP-4,Mariam Thalos,"Review of Paul Hoyningen-Huene, \emph{Systematicity: The Nature of Science}",2015
+MIYERN,Teru Miyake,Isaac Newton?s Scientific Method,2013
+GHDAAC,"Ulrich G\""{a}hde",Anomalies and Coherence: A Case Study From Astronomy,2012
+ARISOS,Roger Ariew,Styles of Scientific Thinking in the European Tradition: The History of Argument and Explanation Especially in the Mathematical and Biomedical Sciences and Arts by A. C. Crombie,1995
+CREDNM,Sergio Volodia Marcello Cremaschi,"Donald N. Mccloskey, Knowledge and Persuasion in Economics",1995
+BOKHMC,Alisa Bokulich and Federica Bocchi,"Henry M. Cowles. The Scientific Method: An Evolution of Thinking From Darwin to Dewey. 384 Pp., Notes, Index. Cambridge, Mass./London: Harvard University Press, 2020. \$35 (Cloth); Isbn 9780674976191",2022
+JIMRDJ,Marc Jim\'{e}nez Rolland,"Rese\~{n}a de Jos\'e de Lira Bautista, Karl Popper: Controversias En Filosof\'{i}a de la Ciencia, Aguascalientes: Uaa-Unam 2008, 273 Pp.",2008
+HATATO,Gary Hatfield,A Theory of Method by Husain Sarkar,1986
+STEANH-2,Jacob Stegenga,"Angela N. H. Creager, Elizabeth Lunbeck and M. Norton Wise , Science Without Laws: Model Systems, Cases, Exemplary Narratives. Durham, Nc and London: Duke University Press, 2007. Isbn 978-0-8223-4068-3. \pounds12.99",2009
+LUGPAB,Andrew Lugg,Popper and Beyond. David Stove,1983
+MAXOMA-2,Nicholas Maxwell,"Observation, Meaning and Theory: Review of for and Against Method by Imre Lakatos and Paul Feyerabend",2000
+STEFBW-2,Jacob Stegenga,"Francesca Bordogna, William James at the Boundaries: Philosophy, Science, and the Geography of Knowledge. Chicago and London: University of Chicago Press. 2008. Pp. X+382. Isbn 978-0-226-06652-3. \pounds23.00",2010
+MCCMST,John P. McCaskey,"Marco Sgarbi, \emph{the Aristotelian Tradition and the Rise of British Empiricism: Logic and Epistemology in the British Isles, 1570?1689}",2015
+PIGAYA,Massimo Pigliucci,Are You an Expert?,2008
+JOHSAT-28,Sean F. Johnston,"John Gillott and Manjit Kumar, Science and the Retreat From Reason",1996
+PERSE,Ray Scott Percival,Science Evolving,1995
+GILDPR-3,Donald Gillies,Darrell P. Rowbottom Popper's Critical Rationalism: A Philosophical Investigation,2013
+PMAA,J. M. P.,Models and Analogies in Science,1966
+GIEGWT,Ronald N. Giere,Gambling with Truth: An Essay on Induction and the Aims of Science,1969
+KOERFA,Noretta Koertge,Review: For and Against Method,1972
+JARLDA,Nick Jardine,Lorraine Daston and Peter Galison * Objectivity,2012
+BELINS,Ori Belkind,Isaac Newton's Scientific Method: Turning Data Into Evidence About Gravity and Cosmology,2013
+WTHNBA,"Christian W\""{u}thrich",Nick Bostrom: Anthropic Bias: Observation Selection Effects in Science and Philosophy,2004
+COKRSA,Klodian Coko and Jutta Schickore,"Robustness, Solidity, and Multiple Determinations: L\'{e}na Soler, Emiliano Trizio, Thomas Nickles and William Wimsatt (Eds): Characterizing the Robustness of Science: After the Practice Turn in Philosophy of Science. Boston Studies in the Philosophy and History of Science, Vol. 292. Dordrecht: Springer, 2012, 372Pp, ?149.75 Hb",2013
+JONEAI-3,N. Jones,"Error and Inference: Recent Exchanges on Experimental Reasoning, Reliability, and the Objectivity and Rationality of Science * Edited by Deborah G. Mayo and Aris Spanos",2011
+CATERS-3,Jordi Cat,Essay Review: Scientific Pluralism,2012
+TAALMA,Mieszko Ta\l{}asiewicz,"Logic, Methodology and Philosophy of Science at Warsaw University: Studies and Contributions to the 11Th International Congress of Logic, Methodology and Philosophy of Science, Krak\'{o}w (Cracow) August 20-26, 1999",2002
+MICIAI-2,Alex C. Michalos,"Information and Inference. J. Hintikka, P. Suppes",1972
+DOWSSH-2,Stephen Downes,"Simulating Science: Heuristics, Mental Models, and Technoscientific Thinking. Michael E. Gorman",1994
+TOOFAM,Michael Tooley,Fact and Method,1991
+GRANAS-2,Edward Grant,Nature and Scientific Method,1992
+KRAAW,W\l{}adys\l{}aw Krajewski,"Afos 1994 Workshop: Foundations of Science, Madralin (Warsaw), August 1994. Iuhps 1994 Conference: Theories and Models in Scientific Processes, Warsaw, August 1994",1995
+BLOTSO-15,David Bloor,The Structure of Scientific Inference,1975
+RTFO-4,H. K. R.,The Foundations of Scientific Inference,1968
+WILCIM-2,Fred Wilson,Challengeability in Modern Science. J. O. Wisdom,1990
+GOLSIM,Cornelius L. Golightly,\emph{Science: Its Method and its Philosophy} by G. Burniston Brown,1953
+CHIRPS,Dennis Chitty,Review: Population Studies and Scientific Methodology,1957
+ERIBGS,Eric Oberheim,"Barry Gower, Scientific Method. An Historical and Philosophical Introduction Marta Feher, Changing Tools. Case Studies in the History of Scientific Methodology",1998
+ROGDOT,G. Rogers,"David Oldroyd. The Arch of Knowledge. An Introductory Study of the History of the Philosophy and Methodology of Science. New York and London: Methuen, 1986. Pp. 413. Isbn 0-416-01341-4. \pounds9.95",1988
+ACKMSI-2,Robert Ackermann and Michael Radner and Stephen Winokur and Roger Stuewer,Minnesota Studies in the Philosophy of Science. Volume Iv: Analyses of Theories and Methods of Physics and Psychology.Volume V: Historical and Philosophical Perspectives of Science,1974
+BEIROM-2,Claus Beisbart,"Review of Margaret Morrison, Reconstructing Reality: Models, Mathematics, and Simulations",2015
+VALWSP,Louis Valcke,"""Wolgang Stegm\""{u}ller"", Personnelle Und Statistische Wahrscheinlichkeit",1974
+NTSI,E. N. and William H. George,The Scientist in Action. A Scientific Study of His Methods,1939
+BARMAO-4,Diana Barkan,"Methodological Aspects of the Development of Low Temperature Physics, 1881-1956: Concepts Out of Context. Kostas Gavroglu, Yorgos Goudaroulis",1991
+SPPO-4,B. R. S.,Peirce?s Philosophy of Science: Critical Studies in His Theory of Induction and Scientific Method,1979
+MUNPPA-3,Brent Mundy,"Physics, Philosophy, and Psychoanalysis. R. S. Cohen, L. Laudan",1985
+LENDMD,V. Lenzen,Die Methode der Physik by Hugo Dingler,1940
+DELRNA,Robert J. Deltete,"Review of Robert Nola and Howard Sankey, Theories of Scientific Method: An Introduction",2009
+THAROP,Paul Thagard,"Review of Paul Humphreys, \emph{Extending Ourselves: Computational Science, Empiricism, and Scientific Method}",2005
+BROARB,Matthew J. Brown,"A Rickety Bridge Between the Two Cultures: Leon N. Cooper: Science and Human Experience: Values, Culture, and the Mind. Cambridge, Uk: Cambridge University Press, 2014, 256Pp, \$28.99 Hb",2016
+LOWTMO-10,H. T. Costello,The Methodology of Pierre Duhem,1942
+SHAGSO,Alan Shapiro,"Great Scientists of Old as Heretics in ""the Scientific Method"" by C. Truesdell",1989
+BOUHOS-5,Bradford Bouley,Histories of Scientific Observation,2013
+NERJCP,Nancy Nersessian,"Joseph C. Pitt \& Marcello Pera . Rational Changes in Science: Essays on Scientific Reasoning. Dordrecht: D. Reidel, 1987. Pp. Xiii + 224. Isbn 9-02772-417-2. \pounds49.50; \$64.00",1989
+KRAAW-3,W\l{}adys\l{}aw Krajewski,"Afos 1994 Workshop: Foundations of Science, Madralin , August 1994. Iuhps 1994 Conference: Theories and Models in Scientific Processes, Warsaw, August 1994",1995
+DAVTSO-15,Wayne A. Davis,The Science of Philosophy,1983
+ARAAGD,Ba\c{s}ak Aray,"Review of Ang\'{e}lique Gro\ss: \emph{Die Bildp\""{a}dagogik Otto Neuraths: Methodische Prinzipien der Darstellung von Wissen}",2019
+MOSROS,Jes\'{u}s Moster\'{i}n,Representations of Scientific Rationality: Contemporary Formal Philosophy of Science in Spain,2000
+KOETMO-4,Noretta Koertge,"The Myth of the Framework: In Defence of Science and Rationality. Karl R. Popper, M. A. Notturno",1997
+ESSMEA,"Wilhelm Karl Essler and Carl Gustav Hempel and Hilary Putnam and Wolfgang Stegm\""{u}ller","Methodology, Epistemology, and Philosophy of Science Essays in Honour of Wolfgang Stegm\""{u}ller on the Occasion of His 60Th Birthday, June 3Rd, 1983",1983
+ROGRAR,Roger Trigg,"Revolutions and Reconstructions in the Philosophy of Science by Mary Hesse Brighton: Harvester Press, 1980, Xxvi + 271 Pp., \pounds20",1981
+MCEIPP,John Mcevoy,Investigative Pathways: Patterns and Stages in the Careers of Experimental Scientists,2005
+ADLJTT,Jonathan E. Adler,"Jennifer Trusted, ""the Logic of Scientific Inference""",1982
+GILAMD-4,Jos\'e L. Gil de Pareja,Aspectos Metodol\'{o}gicos de la Investigaci\'{o}n Cientifica,1990
+VANARO-6,Nicolas Van Vosselen,"A Review Of'on Comparing and Evaluating Scientific Theories' Byjonkisz, A. \& Koj, L.(Eds.)",2004
+OAAT,H. O.,Anaxagoras and the Birth of Scientific Method,1967
+JMMA-4,H. M. J.,"Methods, Model and Matter",1974
+DOLPFO,R. G. A. Dolby,"Philosophy Foundations of Scientific Method: The Nineteenth Century. Ed. By Ronald N. Giere and Richard S. Westfall. Bloomington: Indiana University Press, 1973. Pp. X + 306. \$10",1974
+AROSR,Jerrold L. Aronson,Scientific Reasoning: The Bayesian Approach,1991
+MURTOS,John E. Murdoch,Theories of Scientific Method,1963
+KOSFAM-2,Peter Kosso,Fact and Method,1991
+WIESMA-2,Franz Wiedmann,Scientific Method and Historical Significance,1989
+JTOS,E. M. J.,Theories of Scientific Method. The Renaissance Through the Nineteenth Century,1960
+PRURNN,Alexander R. Pruss,"Rescher, Nicholas. Nature and Understanding: The Metaphysics and Method of Science",2002
+RUEWSA-2,Alexander Rueger,"Wesley Salmon and Gereon Wolters, Eds., Logic, Language, and the Structure of Scientific Theories. Proceedings of the Carnap-Reichenbach Centennial, University of Konstanz, 21-24 May 1991",1995
+MSMT,B. M.,Scientific Method: The Hypothetico-Experimental Laboratory Procedure of the Physical Sciences,1973
+PATICO,R. B. Patel and B. P. Singh,"International Conference on Methods and Models in Science and Technology: Icm2St-10, 25-26 December 2010, Chandrigarh, India",2010
+SARSIT-4,George Sarton,Studies in the History and Method of Science by Charles Singer,1921
+POPTEI-3,Tiberiu Popa,Thought Experiments in Methodological and Historical Contexts,2013
+TEIRPA,Max Teichmann,Review: Psychoanalysis and Scientific Method,1962
+EISPPO,Carolyn Eisele,Peirce's Philosophy of Science: Critical Studies in His Theory of Induction and Scientific Method by Nicholas Rescher,1980
+COWSG,Henry M. Cowles,"Steven Gimbel, Ed. Exploring the Scientific Method: Cases and Questions. Chicago: University of Chicago Press, 2011. Pp. Xvii+406, Index. \$25.00",2012
+LLNE,K. B. L.,La Nature Et la Port\'{e}e de la M\'{e}thode Scientifique,1957
+SULFRS,Charles Sullivan,From Reliable Sources: An Introduction to Historical Methods,2003
+STAAFS-2,Kent Staley and Heraclio Tavares,"Allan Franklin. Shifting Standards: Experiments in Particle Physics in the Twentieth Century. Pittsburgh: University of Pittsburgh Press, 2013. Pp. 360. \$50.00",2016
+DOUTIT-2,Jude P. Dougherty,The Inference That Makes Science,1992
+SLEROM,Peter Slezak,Review of Maurice A. Finocchiaro: Defending Copernicus and Galileo: Critical Reasoning in the Two Affairs,2011
+FEHQPA-3,Yiftach J. H. Fehige,Quantum Physics and Theology,2010
+RSIT-3,H. K. R.,Studies in the Methodology and Foundations of Science,1970
+HEIFOS-4,P. M. Heimann,Foundations of Scientific Method: The Nineteenth Century,1975
+BROKAS,Harold I. Brown,"Kantorovich, Aharon., Scientific Discovery: Logic and Tinkering",1996
+PSIMSS,Stathis Psillos,Miriam Solomon: Social Empiricism,2002
+ZARTOS,Waldemar Zar\k{e}ba,Theories of Scientific Method. An Introduction,2008
+PALESI,Palmieri Palmieri,Effreys' Scientific Inference,1957
+CASMAQ,Eva Cassirer,Methodology and Quantum Physics,1958
+BAUWCS,William H. Baumer,"W. C. Salmon's ""the Foundations of Scientific Inference""",1969
+JGAT,M. Q. J.,Galileo and the Art of Reasoning: Rhetorical Foundations of Logic and Scientific Method,1981
+MILAPO-10,Erik Millstone,"Achinstein, Peter-""Concepts of Science""",1974
+DTVO,R. D.,The Validation of Scientific Theories,1957
+NEWEAM,Mark Newman,"Evidence and Method, by Peter Achinstein",2015
+KRASAR-3,Helge Kragh,Shifting and Rearranging: Physical Methods and the Transformation of Modern Chemistry,2007
+FETTNO-2,James H. Fetzer,The Nature of Explanation. Peter Achinstein,1984
+BSM,M. B.,Scientific Method,1973
+DICROR,Paul Dicken,"Review of Robert Nola, Howard Sankey, \emph{Theories of Scientific Method}",2008
+MTPO-27,A. F. M.,The Philosophy of Karl Popper,1977
+FAHBR,Ludwig Fahrbach,"Book Review, Earman ""Bayes or Bust"" 1993",1997
+LEHSAH,Hugh Lehman,"Science and Hypothesis, Historical Essays on Scientific Methodology Larry Laudan Dordrecht: D. Reidel Publishing Company, 1981. Pp. X, 258",1982
+SARSMB,George Sarton,"Scientific Method by Westaway, F. W",1921
+YOUOPP,Raymond Aaron Younis,Of Problematology: Philosophy Science and Language,1995
+HOOCTB,C. A. Hooker,Can Theories Be Refuted?,1978
+LAUBRP-2,Michael Ruse,"Beyond Positivism and Relativism: Theory, Method, and Evidence",1998
+HETKNA,Eric D. Hetherington,"Koertge, Noretta. A House Built on Sand: Exposing Postmodernist Myths About Science",2000
+DOUTSB,Jude P. Dougherty,The Science Before Science,2004
+KPSA,R. H. K.,"Philosophy, Science and Method: Essays in Honor of Ernest Nagel",1970
+SMAWPO,H. R. Smart,Whewell's Philosophy of Induction,1931
+RSP-6,P. M. R.,Scientific Procedures,1974
+DANBGS,J. Dance,"Barry Gower, Scientific Method: An Historical and Philosophical Introduction",1998
+CHIPSA,Dennis Chitty,Population Studies and Scientific Methodology,1957
+PARMIT-2,M. Partridge,Method in the Physical Sciences by G. Schlesinger,1963
+MLMA,P. J. M.,"Logic, Methodology, and Philosophy of Science",1966
+JHAP-2,J. K. J.,"Historical and Philosophical Dimensions of Logic, Methodology and Philosophy of Science",1978
+FARMIT,J. A. Faris,Method in the Physical Sciences,1963
+STRPPO-2,John V. Strong,Peirce's Philosophy of Science. Critical Studies in His Theory of Induction and Scientific Method. Nicholas Rescher,1979
+MCKMVE,William Mckinney,Methodological Variance: Essays in Epistemological Ontology and the Methodology of Science by G. L. Pandit,1993
+GILRMM,Donald Gillies,Review. Matteo Motterlini (Ed). Imre Lakatos. Paul K Feyerabend. Sull'orlo Della Scienza: Pro e Contro Il Metodo. (On the Threshold of Science: For and Against Method),1996
+LOVSUS,A. C. Love,Scientism Under Scrutiny,2015
+PERATT-2,Ray Scott Percival,Appeal to the Court of Experience,1999
+TOBHBN,Ronald Tobey,History by Numbers: An Introduction to Quantitative Approaches,2003
+KNOFRS,Lezlie Knox,From Reliable Sources: An Introduction to Historical Methods,2002
+Reymond1954-VIRAMB,Antoinette Virieux{-}Reymond,Amir Mehdi Badi: L'id\'{e}e de la M\'{e}thode Dans les Sciences,1954
+SOUAUN,Rudolf Soukup,"Alchemie Und Naturwissenschaft: \""{U}ber Die Entstehung Neuer Ideen an der Reibungsfl\""{a}che Zweier Weltbilder: Gezeigt an Paracelsus, Robert Boyle Und Isaac Newton",2014
+ENGTRO-5,"A. \c{S}eng\""{o}r",The Rejection of Continental Drift: Theory and Method in American Earth Science,2003
+PIEWWT,Stuart Pierson,William Whewell's Theory of Scientific Method by Robert E. Butts,1973
