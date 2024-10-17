@@ -31,6 +31,14 @@ const App = () => {
     <ThemeProvider theme={darkTheme}>
       <CssBaseline />
       <Router>
+        <nav>
+          <Button href="/categories" variant="contained" color="primary" style={{ marginRight: '10px' }}>
+            Categories
+          </Button>
+          <Button href="/publications" variant="contained" color="primary">
+            Publications
+          </Button>
+        </nav>
         <Routes>
           <Route path="/categories" element={<CategoriesPage />} />
           <Route path="/publications" element={<PublicationsPage />}/>
