@@ -58,6 +58,8 @@ const CategoriesPage = () => {
 
           const response = await fetch('/converted_categories.csv'); // Fetch the CSV file
           const data = await response.text();
+          console.log('Response received:', response);
+          console.log('Data received, first 100 characters:', data.substring(0, 100));
           const table = d3.csvParse(data); // Parse the CSV data and create the root object
           const width = 3000;
           const height = width;
